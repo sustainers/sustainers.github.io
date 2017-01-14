@@ -13,20 +13,30 @@
 
 body {
   text-align: center;
+  font: normal 14px/18px 'Open Sans', sans-serif;
 }
 
 a {
   color: #30b39f;
+  text-decoration: none;
 }
 
 #details {
   background: #263238;
   color: #ffffff;
+  font: normal 14px/18px 'Share Tech Mono', monospace;
+  padding: 2vw;
 }
 
 #banner {
   background: #263238;
   color: #ffffff;
+  font: normal 14px/18px 'Share Tech Mono', monospace;
+  padding: 2vw 2vw;
+}
+#banner img {
+  width: 80%;
+  padding: 8vw 0;
 }
 
 #quick-pitch {
