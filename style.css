@@ -1,0 +1,55 @@
+/*
+ * white:         #ffffff
+ * blue-grey-50:  #eceff1
+ * teal:          #30b39f
+ * blue-grey-900: #263238
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+a {
+  color: #30b39f;
+}
+
+#details {
+  background: #263238;
+  color: #ffffff;
+}
+
+#banner {
+  background: #263238;
+  color: #ffffff;
+}
+
+#quick-pitch {
+  background: #30b39f;
+  color: #ffffff;
+}
+
+#pitch {
+  background: #ffffff;
+  color: #263238;
+}
+
+#more-info {
+  background: #ffffff;
+  color: #263238;
+}
+
+#sponsors {
+  background: #eceff1;
+  color: #263238;
+}
+
+#footer {
+  background: #263238;
+  color: #ffffff;
+}
