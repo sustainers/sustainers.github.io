@@ -142,12 +142,11 @@ li a {
   padding: 4vw 0 0;
 }
 #sponsors ul {
-  height: 16vw;
-  padding: 4vw;
+  height: 13vw;
+  margin: 4vw 0 0 4.5vw;
 }
 #sponsors li {
-  width: 8vw;
-  margin: 0 0 0 4.5vw;
+  width: 13vw;
 }
 #sponsors li img {
   width: 8vw;
