@@ -12,13 +12,12 @@
 }
 
 html {
-  font-size: 2.5vw; /* now 1 rem = 8 px at 320 px width     */
-                    /*           = 25.6 px at 1024 px width */
+  font-size: 6.25%; /* now 1 rem = 1 px */
 }
 
 body {
   text-align: center;
-  font: normal 1rem/150% 'Open Sans', sans-serif;
+  font: normal 16rem/150% 'Open Sans', sans-serif;
   background: #263238;
 }
 
@@ -60,6 +59,7 @@ li a {
 }
 #banner img {
   width: 60%;
+  max-width: 320px;
   padding: 12vw 0;
 }
 
@@ -70,7 +70,7 @@ li a {
   padding: 4vw;
 }
 #quick-pitch b, #sponsors b {
-  font: normal 1.333rem/150% 'Share Tech Mono', monospace;
+  font: normal 20rem/150% 'Share Tech Mono', monospace;
   text-transform: uppercase;
   display: block;
 }
@@ -83,7 +83,7 @@ li a {
 #pitch p:nth-child(1),
 #pitch p:nth-child(5),
 #cta button {
-  font: normal 1.6rem/150% 'Share Tech Mono', monospace;
+  font: normal 20rem/150% 'Share Tech Mono', monospace;
   color: #30b39f;
 }
 #pitch p:nth-child(2) {
@@ -111,8 +111,6 @@ li a {
   padding: 4vw 8vw;
   background: #263238;
   text-transform: uppercase;
-}
-#cta b {
 }
 
 #more-info {
@@ -157,4 +155,22 @@ li a {
   color: #ffffff;
   padding: 2vw 0;
   clear: left;
+}
+
+
+/* responsiveness */
+
+@media (min-width: 640px) {
+  #details {
+    padding: 25.6px 0 0;
+  }
+  #banner img {
+    padding: 76.8px 0;
+  }
+  #quick-pitch {
+    padding: 25.6px;
+  }
+  #pitch {
+    padding: 51.2px 0;
+  }
 }
