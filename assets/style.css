@@ -41,6 +41,15 @@ li:nth-child(1) {
 li a {
   color: #263238;
 }
+#pitch li img,
+#more-info img {
+  border-radius: 6vw;
+  transition: all 300ms ease;
+}
+#pitch li a:hover img,
+#more-info li a:hover img {
+  background: #30b39f;
+}
 
 
 /* sections */
