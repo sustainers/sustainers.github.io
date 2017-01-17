@@ -17,7 +17,7 @@ html {
 
 body {
   text-align: center;
-  font: normal 16rem/150% 'Open Sans', sans-serif;
+  font: normal 14rem/150% 'Open Sans', sans-serif;
   background: #263238;
 }
 
@@ -70,7 +70,7 @@ li a {
   padding: 4vw;
 }
 #quick-pitch b, #sponsors b {
-  font: normal 20rem/150% 'Share Tech Mono', monospace;
+  font: normal 14rem/150% 'Share Tech Mono', monospace;
   text-transform: uppercase;
   display: block;
 }
@@ -83,7 +83,7 @@ li a {
 #pitch p:nth-child(1),
 #pitch p:nth-child(5),
 #cta button {
-  font: normal 20rem/150% 'Share Tech Mono', monospace;
+  font: normal 18rem/150% 'Share Tech Mono', monospace;
   color: #30b39f;
 }
 #pitch p:nth-child(2) {
@@ -161,16 +161,38 @@ li a {
 /* responsiveness */
 
 @media (min-width: 640px) {
+
+  body, #quick-pitch b, #sponsors b {
+    font-size: 16rem;
+    line-height: 150%;
+  }
+  #pitch p:nth-child(1),
+  #pitch p:nth-child(5),
+  #cta button {
+    font-size: 20rem;
+    line-height: 150%;
+  }
+
   #details {
     padding: 25.6px 0 0;
   }
+
   #banner img {
     padding: 76.8px 0;
   }
+
   #quick-pitch {
     padding: 25.6px;
   }
+
   #pitch {
     padding: 51.2px 0;
+  }
+  #pitch p:nth-child(2) {
+    padding: 6.4px 22vw;
+  }
+
+  #footer {
+    padding: 12.8px 0;
   }
 }
