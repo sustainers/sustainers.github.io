@@ -12,8 +12,8 @@
 }
 
 html {
-  font-size: 2.5vw; // now 1 rem = 8 px at 320 px width
-                    //           = 25.6 px at 1024 px width
+  font-size: 2.5vw; /* now 1 rem = 8 px at 320 px width     */
+                    /*           = 25.6 px at 1024 px width */
 }
 
 body {
@@ -27,11 +27,30 @@ a {
   text-decoration: none;
 }
 
+
+/* shared nav styles */
+
+li {
+  float: left;
+  list-style: none;
+  text-transform: uppercase;
+  text-align: center;
+}
+li:nth-child(1) {
+  margin: 0 ! important;
+}
+li a {
+  color: #263238;
+}
+
+
+/* sections */
+
 #details {
   background: #263238;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
-  padding: 4vw 0 10vw;
+  padding: 4vw 0 0;
 }
 
 #banner {
@@ -40,15 +59,15 @@ a {
   font-family: 'Share Tech Mono', monospace;
 }
 #banner img {
-  width: 67%;
-  padding: 0 0 10vw;
+  width: 60%;
+  padding: 12vw 0;
 }
 
 #quick-pitch {
   background: #30b39f;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
-  padding: 5vw;
+  padding: 4vw;
 }
 #quick-pitch b, #sponsors b {
   font: normal 1.333rem/150% 'Share Tech Mono', monospace;
@@ -59,15 +78,62 @@ a {
 #pitch {
   background: #ffffff;
   color: #263238;
-  padding: 10vw;
+  padding: 8vw 0;
+}
+#pitch p:nth-child(1),
+#pitch p:nth-child(5),
+#cta button {
+  font: normal 1.6rem/150% 'Share Tech Mono', monospace;
+  color: #30b39f;
+}
+#pitch p:nth-child(2) {
+  padding: 1vw 22vw;
+}
+#pitch ul {
+  height: 12vw;
+  margin: 8vw 0 0 34vw;
+}
+#pitch li {
+  width: 12vw;
+  margin: 0 0 0 8vw;
+}
+#pitch li img {
+  width: 12vw;
+}
+
+#cta {
+  clear: left;
+  padding: 12vw 0;
+}
+#cta button {
+  border-radius: 2vw;
+  border-style: none;
+  padding: 4vw 8vw;
+  background: #263238;
+  text-transform: uppercase;
+}
+#cta b {
 }
 
 #more-info {
   background: #ffffff;
   color: #263238;
+  border: 1px solid #d8d9db;
+  border-style: solid none;
+}
+#more-info ul {
+  height: 26vw;
+  margin: 8vw 0 0 8vw;
+}
+#more-info li {
+  width: 28vw;
+}
+#more-info li img {
+  width: 12vw;
 }
 
 #sponsors {
+  clear: left;
   background: #eceff1;
   color: #263238;
 }
@@ -76,16 +142,15 @@ a {
   padding: 4vw 0 0;
 }
 #sponsors ul {
-  height: 18vw;
+  height: 16vw;
   padding: 4vw;
 }
 #sponsors li {
-  float: left;
-  list-style: none;
+  width: 8vw;
+  margin: 0 0 0 4.5vw;
 }
 #sponsors li img {
-  width: 12.5vw;
-  padding: 0 0 0 4.5vw;
+  width: 8vw;
 }
 
 #footer {
