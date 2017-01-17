@@ -11,9 +11,15 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 2.5vw; // now 1 rem = 8 px at 320 px width
+                    //           = 25.6 px at 1024 px width
+}
+
 body {
   text-align: center;
-  font: normal 14px/18px 'Open Sans', sans-serif;
+  font: normal 1rem/150% 'Open Sans', sans-serif;
+  background: #263238;
 }
 
 a {
@@ -24,29 +30,36 @@ a {
 #details {
   background: #263238;
   color: #ffffff;
-  font: normal 14px/18px 'Share Tech Mono', monospace;
-  padding: 2vw;
+  font-family: 'Share Tech Mono', monospace;
+  padding: 4vw 0 10vw;
 }
 
 #banner {
   background: #263238;
   color: #ffffff;
-  font: normal 14px/18px 'Share Tech Mono', monospace;
-  padding: 2vw 2vw;
+  font-family: 'Share Tech Mono', monospace;
 }
 #banner img {
-  width: 80%;
-  padding: 8vw 0;
+  width: 67%;
+  padding: 0 0 10vw;
 }
 
 #quick-pitch {
   background: #30b39f;
   color: #ffffff;
+  font-family: 'Share Tech Mono', monospace;
+  padding: 5vw;
+}
+#quick-pitch b, #sponsors b {
+  font: normal 1.333rem/150% 'Share Tech Mono', monospace;
+  text-transform: uppercase;
+  display: block;
 }
 
 #pitch {
   background: #ffffff;
   color: #263238;
+  padding: 10vw;
 }
 
 #more-info {
@@ -58,8 +71,26 @@ a {
   background: #eceff1;
   color: #263238;
 }
+#sponsors b {
+  color: #30b39f;
+  padding: 4vw 0 0;
+}
+#sponsors ul {
+  height: 18vw;
+  padding: 4vw;
+}
+#sponsors li {
+  float: left;
+  list-style: none;
+}
+#sponsors li img {
+  width: 12.5vw;
+  padding: 0 0 0 4.5vw;
+}
 
 #footer {
   background: #263238;
   color: #ffffff;
+  padding: 2vw 0;
+  clear: left;
 }
