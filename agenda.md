@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Agenda
 
 “$ustain” will be a one day unconference for open source software sustainers. There will be no no keynotes, expo halls or talks. Only discussions and ideas about getting and distributing money or in-kind services to the Open Source community. Here is what we will be doing:

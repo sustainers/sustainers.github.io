@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Code of Conduct
 
 (Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/) and [WONTFIX Cabal](https://maintainerati.org/code-of-conduct/))

@@ -17,8 +17,6 @@
  */
 
 * {
-  margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -27,6 +25,8 @@ html {
 }
 
 body {
+  margin: 0;
+  padding: 0;
   text-align: center;
   font: normal 12rem/150% 'Open Sans', sans-serif;
   background: #263238;
@@ -44,14 +44,6 @@ a {
 
 /* nav */
 
-li {
-  /* shared with sponsor links */
-  float: left;
-  list-style: none;
-  text-transform: uppercase;
-  text-align: center;
-}
-
 .nav {
   margin: 0 auto;
   padding: 0;
@@ -59,6 +51,10 @@ li {
 .nav li {
   width: 24vw;
   max-width: 153.6px;
+  float: left;
+  list-style: none;
+  text-transform: uppercase;
+  text-align: center;
 }
 .nav li a {
   color: #263238;
@@ -88,42 +84,57 @@ li {
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
 }
+#banner h1 {
+  margin: 0;
+  padding: 0;
+}
 #banner img {
   width: 60%;
   max-width: 320px;
   padding: 12vw 0;
 }
 
-#quick-pitch {
+#pitch {
   background: #30b39f;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
   padding: 4vw;
 }
-#quick-pitch b, #sponsors b {
+#pitch.empty {
+  padding: 1vw;
+}
+#pitch b, #sponsors b {
   font: normal 14rem/150% 'Share Tech Mono', monospace;
   text-transform: uppercase;
   display: block;
 }
 
-#pitch {
+.content {
   background: #ffffff;
   color: #263238;
   padding: 8vw 0 0;
 }
-#pitch p:nth-child(1),
-#hashtag,
-#cta button {
+
+#homepage div:nth-child(1),
+#homepage #hashtag,
+#homepage #cta button {
   font: normal 18rem/100% 'Share Tech Mono', monospace;
   color: #30b39f;
 }
-#pitch p:nth-child(2) {
+#homepage div:nth-child(2) {
   padding: 1vw 16vw;
 }
-#pitch .nav {
+#homepage .nav {
   width: 48vw; /* two icons */
   max-width: 307.2px;
   margin: 8vw auto 0;
+}
+
+#inside-page-content {
+  text-align: left;
+  width: 55rem;
+  margin: 0 auto;
+  padding: 0
 }
 
 #cta {
@@ -163,10 +174,13 @@ li {
   width: 84vw; /* seven sponsors */
   max-width: 537.6px;
   margin: 4vw auto 0;
+  padding: 0;
 }
 #sponsors li {
   width: 12vw;
   max-width: 76.8px;
+  float: left;
+  list-style: none;
 }
 #sponsors li img {
   width: 8vw;
@@ -184,12 +198,12 @@ li {
 
 @media (min-width: 640px) {
 
-  body, #quick-pitch b, #sponsors b {
+  body, #pitch b, #sponsors b {
     font-size: 16rem;
     line-height: 150%;
   }
-  #pitch p:nth-child(1),
-  #pitch p:nth-child(5),
+  #homepage div:nth-child(1),
+  #homepage div:nth-child(5),
   #cta button {
     font-size: 20rem;
     line-height: 150%;
@@ -203,17 +217,24 @@ li {
     padding: 76.8px 0;
   }
 
-  #quick-pitch {
+  #pitch {
     padding: 25.6px;
   }
+  #pitch.empty {
+    padding: 6.4px;
+  }
 
-  #pitch {
+  .content {
     padding: 51.2px 0 0;
   }
-  #pitch p:nth-child(2) {
+
+  #homepage {
+    padding: 51.2px 0 0;
+  }
+  #homepage div:nth-child(2) {
     padding: 6.4px 22vw;
   }
-  #pitch .nav {
+  #homepage .nav {
     margin: 51.2px auto 0;
   }
 
@@ -227,8 +248,8 @@ li {
   }
 
   #more-info {
-    margin: 51.2px 0 0;
     padding: 0 0 51.2px;
+    margin: 51.2px 0 0;
   }
 
   #sponsors {

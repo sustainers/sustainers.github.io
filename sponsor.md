@@ -1,3 +1,6 @@
+---
+layout: base
+---
 # Become a Sponsor
 
 Interested in getting involved? Fill out the form below and one of our organizers will get back to you asap. Currently we are looking for following:

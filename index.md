@@ -1,23 +1,24 @@
 ---
 layout: base 
-quick-pitch: <b>A one day unconference</b> for Open Source Software sustainers
+pitch: <b>A one day unconference</b> for Open Source Software sustainers
+homepage: true
 ---
-<p>No keynotes, expo halls or talks.</p>
+<div>No keynotes, expo halls or talks.</div>
 
-<p>Only discussions about getting more&nbsp;resources to
- support digital&nbsp;infrastructure.</p>
+<div>Only discussions about getting more&nbsp;resources to
+ support digital&nbsp;infrastructure.</div>
 
 <ul class="nav">
-<li><a href="agenda.html"><img src="assets/icons/agenda.svg"
-  alt="Agenda"><br>Agenda</a></li>
-<li><a href="about.html"><img src="assets/icons/about.svg"
-  alt="About"><br>About</a></li>
+  <li><a href="agenda.html"><img src="assets/icons/agenda.svg"
+    alt="Agenda"><br>Agenda</a></li>
+  <li><a href="about.html"><img src="assets/icons/about.svg"
+    alt="About"><br>About</a></li>
 </ul>
 <div class="clear"></div>
 
 <div id="cta">
-<button>Buy Tickets</button>
-<p>(<b>19</b> remaining)</p>
+  <button>Buy Tickets</button>
+  <p>(<b>19</b> remaining)</p>
 </div>
 
 <a id="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>
