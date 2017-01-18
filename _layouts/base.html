@@ -26,15 +26,20 @@
     <section id="pitch" class="empty"></section>
     <section id="inside-page" class="content">
       <ul class="nav">
-        <li><a href="agenda.html"><img src="assets/icons/agenda.svg"
+        <li{% if page.url == '/agenda.html' %} class="selected"{% endif %}><a
+          href="agenda.html"><img src="assets/icons/agenda.svg"
           alt="Agenda"><br>Agenda</a></li>
-        <li><a href="about.html"><img src="assets/icons/about.svg"
+        <li{% if page.url == '/about.html' %} class="selected"{% endif %}><a
+          href="about.html"><img src="assets/icons/about.svg"
           alt="About"><br>About</a></li>
-        <li><a href="sponsor.html"><img src="assets/icons/sponsor.svg"
+        <li{% if page.url == '/sponsor.html' %} class="selected"{% endif %}><a
+          href="sponsor.html"><img src="assets/icons/sponsor.svg"
           alt="Sponsor"><br>Sponsor</a></li>
-        <li><a href="code-of-conduct.html"><img src="assets/icons/code-of-conduct.svg"
+        <li{% if page.url == '/code-of-conduct.html' %} class="selected"{% endif %}><a
+          href="code-of-conduct.html"><img src="assets/icons/code-of-conduct.svg"
           alt="Code of Conduct"><br>Code of Conduct</a></li>
-        <li><a href="diversity.html"><img src="assets/icons/diversity.svg"
+        <li{% if page.url == '/diversity.html' %} class="selected"{% endif %}><a
+          href="diversity.html"><img src="assets/icons/diversity.svg"
           alt="Diversity"><br>Diversity</a></li>
       </ul>
       <div class="clear"></div>

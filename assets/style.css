@@ -141,9 +141,12 @@ a {
   max-width: 115.2px;
 }
 #inside-page .nav li a img {
-  border-radius: 6vw;
+  border-radius: 5vw;
   width: 10vw;
   max-width: 64px;
+}
+#inside-page .nav li.selected a img {
+  background: #eceff1;
 }
 
 #inside-page-content {
