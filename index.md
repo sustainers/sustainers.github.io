@@ -18,7 +18,7 @@ homepage: true
 
 <div id="cta">
   <button>Buy Tickets</button>
-  <p>(<b>19</b> remaining)</p>
+  <div>(<b>19</b> remaining)</div>
 </div>
 
 <a id="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>

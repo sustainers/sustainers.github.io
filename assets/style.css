@@ -130,11 +130,27 @@ a {
   margin: 8vw auto 0;
 }
 
+#inside-page .nav {
+  width: 90vw; /* five icons */
+  max-width: 576px;
+  margin: 0 auto 8vw;
+  padding: 0;
+}
+#inside-page .nav li {
+  width: 18vw;
+  max-width: 115.2px;
+}
+#inside-page .nav li a img {
+  border-radius: 6vw;
+  width: 10vw;
+  max-width: 64px;
+}
+
 #inside-page-content {
   text-align: left;
-  width: 55rem;
+  max-width: 55rem;
   margin: 0 auto;
-  padding: 0
+  padding: 8vw;
 }
 
 #cta {
@@ -203,7 +219,7 @@ a {
     line-height: 150%;
   }
   #homepage div:nth-child(1),
-  #homepage div:nth-child(5),
+  #homepage #hashtag,
   #cta button {
     font-size: 20rem;
     line-height: 150%;
@@ -257,6 +273,13 @@ a {
   }
   #sponsors ul {
     margin: 25.6px auto 0;
+  }
+
+  #inside-page .nav {
+    margin: 0 auto 102.4px;
+  }
+  #inside-page-content {
+    padding: 51.2px 0;
   }
 
   #footer {
