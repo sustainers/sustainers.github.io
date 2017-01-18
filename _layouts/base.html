@@ -25,20 +25,21 @@
     {% else %}
     <section id="pitch" class="empty"></section>
     <section id="inside-page" class="content">
+      {% assign parts = page.url | split: "/" %}
       <ul class="nav">
-        <li{% if page.url == '/agenda.html' %} class="selected"{% endif %}><a
+        <li{% if parts.last == 'agenda.html' %} class="selected"{% endif %}><a
           href="agenda.html"><img src="assets/icons/agenda.svg"
           alt="Agenda"><br>Agenda</a></li>
-        <li{% if page.url == '/about.html' %} class="selected"{% endif %}><a
+        <li{% if parts.last == 'about.html' %} class="selected"{% endif %}><a
           href="about.html"><img src="assets/icons/about.svg"
           alt="About"><br>About</a></li>
-        <li{% if page.url == '/sponsor.html' %} class="selected"{% endif %}><a
+        <li{% if parts.last == 'sponsor.html' %} class="selected"{% endif %}><a
           href="sponsor.html"><img src="assets/icons/sponsor.svg"
           alt="Sponsor"><br>Sponsor</a></li>
-        <li{% if page.url == '/code-of-conduct.html' %} class="selected"{% endif %}><a
+        <li{% if parts.last == 'code-of-conduct.html' %} class="selected"{% endif %}><a
           href="code-of-conduct.html"><img src="assets/icons/code-of-conduct.svg"
           alt="Code of Conduct"><br>Code of Conduct</a></li>
-        <li{% if page.url == '/diversity.html' %} class="selected"{% endif %}><a
+        <li{% if parts.last == 'diversity.html' %} class="selected"{% endif %}><a
           href="diversity.html"><img src="assets/icons/diversity.svg"
           alt="Diversity"><br>Diversity</a></li>
       </ul>
