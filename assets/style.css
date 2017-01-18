@@ -109,7 +109,7 @@ li {
 #pitch {
   background: #ffffff;
   color: #263238;
-  padding: 8vw 0;
+  padding: 8vw 0 0;
 }
 #pitch p:nth-child(1),
 #hashtag,
@@ -143,7 +143,8 @@ li {
   color: #263238;
   border: 1px solid #d8d9db;
   border-style: solid none;
-  padding: 8vw 0;
+  padding: 0 0 8vw;
+  margin: 8vw 0 0;
 }
 #more-info .nav {
   width: 72vw; /* three icons */
@@ -207,7 +208,7 @@ li {
   }
 
   #pitch {
-    padding: 51.2px 0;
+    padding: 51.2px 0 0;
   }
   #pitch p:nth-child(2) {
     padding: 6.4px 22vw;
@@ -225,15 +226,16 @@ li {
     margin: 0 0 12.8px;
   }
 
+  #more-info {
+    margin: 51.2px 0 0;
+    padding: 0 0 51.2px;
+  }
+
   #sponsors {
     padding: 25.6px 0;
   }
   #sponsors ul {
     margin: 25.6px auto 0;
-  }
-
-  #more-info {
-    padding: 51.2px 0;
   }
 
   #footer {
