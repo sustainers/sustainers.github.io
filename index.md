@@ -16,9 +16,9 @@ pitch: <b>A one day unconference</b> for Open Source Software sustainers
 <div class="clear"></div>
 
 <div id="cta">
-  <button><a href="https://opencollective.com/sustainunconf#join-us">
+  <a href="https://opencollective.com/sustainunconf#join-us">
     Buy Tickets
-  </a></button>
+  </a>
 </div>
 
 <a id="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>

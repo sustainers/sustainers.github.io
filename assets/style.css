@@ -117,7 +117,7 @@ a {
 
 #homepage div:nth-child(1),
 #homepage #hashtag,
-#homepage #cta button {
+#homepage #cta a {
   font: normal 18rem/100% 'Share Tech Mono', monospace;
   color: #30b39f;
 }
@@ -159,7 +159,8 @@ a {
 #cta {
   padding: 12vw 0 8vw;
 }
-#cta button {
+#cta a {
+  display: inline-block;
   border-radius: 2vw;
   border-style: none;
   padding: 4vw 6vw;
@@ -223,7 +224,7 @@ a {
   }
   #homepage div:nth-child(1),
   #homepage #hashtag,
-  #cta button {
+  #cta a {
     font-size: 20rem;
     line-height: 150%;
   }
@@ -260,7 +261,7 @@ a {
   #cta {
     padding: 76.8px 0 51.2px;
   }
-  #cta button {
+  #cta a {
     border-radius: 12.8px;
     padding: 25.6px 51.2px;
     margin: 0 0 12.8px;
