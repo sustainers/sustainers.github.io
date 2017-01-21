@@ -6,9 +6,9 @@ layout: base
 (Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/) and [WONTFIX Cabal](https://maintainerati.org/code-of-conduct/))
 
 ### Short Version
-The $ustain un-conference is dedicated to a safe, inclusive, welcoming, and harassment-free un-conference experience for everyone.
+The $ustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
 
-All attendees, speakers, sponsors and volunteers at $ustain un-conference are required to abide by the code of conduct.
+All attendees, speakers, sponsors and volunteers at $ustain  are required to abide by the code of conduct.
 
 ### Need Help?
 Contact the organizers directly:
@@ -17,11 +17,11 @@ Contact the organizers directly:
 
 ### Long Version
 
-A primary goal of $ustain un-conference is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+A primary goal of $ustain  is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in $ustain un-conference to help us create safe and positive experiences for everyone.
+We invite all those who participate in $ustain  to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
 A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
@@ -31,9 +31,9 @@ Communities mirror the societies in which they exist and positive action is esse
 If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know. Tell an organizer or email them.
 
 ### Code of Conduct
-All attendees, organizers, speakers, sponsors, and volunteers at $ustain un-conference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+All attendees, organizers, speakers, sponsors, and volunteers at $ustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-The $ustain un-conference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+The $ustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 ### Expected Behavior
 
@@ -76,7 +76,7 @@ harassing photography or recording
 sustained disruption of talks or other events
 inappropriate physical contact
 unwelcome sexual attention
-No weapons of any kind, drugs, or alcohol are allowed at $ustain un-conference venues.
+No weapons of any kind, drugs, or alcohol are allowed at $ustain unconference venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
