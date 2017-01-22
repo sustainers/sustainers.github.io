@@ -9,7 +9,7 @@ Time  |  Activity
 --|--
 09:00am - 09:30am  |  Name badges
 09:30am - 09:50am  |  Caffeine & Snacks
-10:00am - 11:00am  |  Standup (would you like to accomplish today)
+10:00am - 11:00am  |  Standup (what would you like to accomplish today)
 11:00am -  11:10am |  Break
 11:10am - 12:30pm  |  Group breakouts (facilitated)
 12:30pm - 01:30pm  |  Lunch
