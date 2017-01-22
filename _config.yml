@@ -1,0 +1,16 @@
+name:               $ustain
+description:        a one day unconference for open source software sustainers
+
+markdown:           kramdown
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# permalinks
+permalink:          pretty
+
+# server
+port:               8000
+url:                https://www.sustainunconf.org
+encoding:           UTF-8

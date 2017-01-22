@@ -1,22 +1,25 @@
 ---
 layout: base
 ---
+
 # Code of Conduct
 
 (Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/) and [WONTFIX Cabal](https://maintainerati.org/code-of-conduct/))
 
 ### Short Version
+
 The $ustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
 
 All attendees, speakers, sponsors and volunteers at $ustain  are required to abide by the code of conduct.
 
 ### Need Help?
+
 Contact the organizers directly:
 
-- Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
-- Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at zetaweb.com
-- Pia Mancini: [@piamancini](https://twitter.com/piamancini)
-- Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
+* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
+* Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at zetaweb.com
+* Pia Mancini: [@piamancini](https://twitter.com/piamancini)
+* Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
 
 ### Long Version
 
@@ -27,6 +30,7 @@ This code of conduct outlines our expectations for all those who participate in 
 We invite all those who participate in $ustain  to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
+
 A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
@@ -34,6 +38,7 @@ Communities mirror the societies in which they exist and positive action is esse
 If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know. Tell an organizer or email them.
 
 ### Code of Conduct
+
 All attendees, organizers, speakers, sponsors, and volunteers at $ustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
 The $ustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
