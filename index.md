@@ -1,6 +1,7 @@
 ---
 layout: base
 pitch: <b>A one day unconference</b> for Open Source Software sustainers
+slug: home
 ---
 
 <div>No keynotes, expo halls or talks.</div>
