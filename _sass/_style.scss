@@ -28,7 +28,7 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font: normal 16rem/150% 'Open Sans', sans-serif;
+  font: normal 14rem/150% 'Open Sans', sans-serif;
   background-color: #263238;
 }
 
@@ -63,9 +63,10 @@ a {
 
     a {
       color: #263238;
+      display: inline-block;
 
       img {
-        border-radius: 6vw;
+        border-radius: 10vw;
         transition: all 300ms ease;
       }
     }
@@ -150,9 +151,10 @@ a {
     max-width: 115.2px;
 
     a img {
-      border-radius: 5vw;
+      border-radius: 6vw;
       width: 10vw;
       max-width: 64px;
+      height: auto;
     }
   }
   li.selected a img {
@@ -217,6 +219,7 @@ a {
   li img {
     width: 10vw;
     max-width: 51.2px;
+    height: auto;
   }
 }
 
