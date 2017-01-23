@@ -29,7 +29,7 @@ body {
   padding: 0;
   text-align: center;
   font: normal 12rem/150% 'Open Sans', sans-serif;
-  background: #263238;
+  background-color: #263238;
 }
 
 a {
@@ -66,21 +66,20 @@ a {
   transition: all 300ms ease;
 }
 .nav li a:hover img {
-  background: #30b39f;
+  background-color: #30b39f;
 }
 
 
 /* sections */
-
 #details {
-  background: #263238;
+  background-color: #263238;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
   padding: 4vw 0 0;
 }
 
 #banner {
-  background: #263238;
+  background-color: #263238;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
 }
@@ -95,7 +94,7 @@ a {
 }
 
 #pitch {
-  background: #30b39f;
+  background-color: #30b39f;
   color: #ffffff;
   font-family: 'Share Tech Mono', monospace;
   padding: 4vw;
@@ -103,14 +102,15 @@ a {
 #pitch.empty {
   padding: 1vw;
 }
-#pitch b, #sponsors b {
+#pitch b,
+#sponsors b {
+  display: block;
   font: normal 14rem/150% 'Share Tech Mono', monospace;
   text-transform: uppercase;
-  display: block;
 }
 
 .content {
-  background: #ffffff;
+  background-color: #ffffff;
   color: #263238;
   padding: 8vw 0 0;
 }
@@ -118,8 +118,8 @@ a {
 #homepage div:nth-child(1),
 #homepage #hashtag,
 #homepage #cta a {
-  font: normal 18rem/100% 'Share Tech Mono', monospace;
   color: #30b39f;
+  font: normal 18rem/100% 'Share Tech Mono', monospace;
 }
 #homepage div:nth-child(2) {
   padding: 1vw 16vw;
@@ -146,7 +146,7 @@ a {
   max-width: 64px;
 }
 #inside-page .nav li.selected a img {
-  background: #30b39f;
+  background-color: #30b39f;
 }
 
 #inside-page-content {
@@ -164,13 +164,13 @@ a {
   border-radius: 2vw;
   border-style: none;
   padding: 4vw 6vw;
-  background: #263238;
+  background-color: #263238;
   text-transform: uppercase;
   margin: 0 0 2vw;
 }
 
 #more-info {
-  background: #ffffff;
+  background-color: #ffffff;
   color: #263238;
   border: 1px solid #d8d9db;
   border-style: solid none;
@@ -183,7 +183,7 @@ a {
 }
 
 #sponsors {
-  background: #eceff1;
+  background-color: #eceff1;
   color: #263238;
   padding: 4vw 0;
 }
@@ -208,7 +208,7 @@ a {
 }
 
 #footer {
-  background: #263238;
+  background-color: #263238;
   color: #ffffff;
   padding: 2vw 0;
 }
