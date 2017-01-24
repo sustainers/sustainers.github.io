@@ -1,8 +1,10 @@
 ---
-layout: base
+layout: default
+title: Diversity
+slug: diversity
 ---
-(Adapted from the [Open Source Feels Diversity Statement](http://www.osfeels.com/diversity/) and [WONTFIX Cabal](https://maintainerati.org/diversity-statement/))
 
+(Adapted from the [Open Source Feels Diversity Statement](http://www.osfeels.com/diversity/) and [WONTFIX Cabal](https://maintainerati.org/diversity-statement/))
 
 Platitudes are cheap. We’ve all heard conferences and communities say they’re committed to “diversity” and “tolerance” without ever getting specific, so here’s our stance on it:
 

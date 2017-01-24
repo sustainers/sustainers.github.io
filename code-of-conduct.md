@@ -1,22 +1,27 @@
 ---
-layout: base
+layout: default
+title: Code of Conduct
+slug: code-of-conduct
 ---
-# Code of Conduct
+
+## Code of Conduct
 
 (Adapted from the [Open Source Feels Code of Conduct](http://www.osfeels.com/conduct/) and [WONTFIX Cabal](https://maintainerati.org/code-of-conduct/))
 
 ### Short Version
+
 The $ustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
 
 All attendees, speakers, sponsors and volunteers at $ustain  are required to abide by the code of conduct.
 
 ### Need Help?
+
 Contact the organizers directly:
 
-- Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
-- Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at zetaweb.com
-- Pia Mancini: [@piamancini](https://twitter.com/piamancini)
-- Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
+* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
+* Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at zetaweb.com
+* Pia Mancini: [@piamancini](https://twitter.com/piamancini)
+* Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
 
 ### Long Version
 
@@ -27,6 +32,7 @@ This code of conduct outlines our expectations for all those who participate in 
 We invite all those who participate in $ustain  to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
+
 A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
@@ -34,6 +40,7 @@ Communities mirror the societies in which they exist and positive action is esse
 If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know. Tell an organizer or email them.
 
 ### Code of Conduct
+
 All attendees, organizers, speakers, sponsors, and volunteers at $ustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
 The $ustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
@@ -42,28 +49,28 @@ The $ustain unconference is dedicated to providing a safe, inclusive, welcoming,
 
 The following behaviors are expected and requested of all community members:
 
-Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-Exercise consideration and respect in your speech and actions.
-Attempt collaboration before conflict.
-Refrain from demeaning, discriminatory, or harassing behavior and speech.
-Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-Unacceptable Behavior
+* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+* Exercise consideration and respect in your speech and actions.
+* Attempt collaboration before conflict.
+* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+* Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
-Violence, threats of violence or violent language directed against another person
-Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
-Posting or displaying sexually explicit or violent material
-Posting or threatening to post other people’s personally identifying information (“doxing”)
-Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
-Inappropriate photography or recording
-Inappropriate physical contact. You should have someone’s consent before touching them in any way
-Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
-Intimidation, stalking, or following (online or in person)
-Advocating for, or encouraging, any of the above behavior
-Sustained disruption of community events, including talks and presentations
-Harassment
+* Violence, threats of violence or violent language directed against another person
+* Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
+* Posting or displaying sexually explicit or violent material
+* Posting or threatening to post other people’s personally identifying information (“doxing”)
+* Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
+* Inappropriate photography or recording
+* Inappropriate physical contact. You should have someone’s consent before touching them in any way
+* Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
+* Intimidation, stalking, or following (online or in person)
+* Advocating for, or encouraging, any of the above behavior
+* Sustained disruption of community events, including talks and presentations
+* Harassment
 
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
@@ -71,14 +78,15 @@ Sponsors are subject to the Code of Conduct. In particular, sponsors should not 
 
 Harassment includes:
 
-verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion (or lack thereof)
-sexual images in public spaces
-deliberate intimidation
-stalking and following
-harassing photography or recording
-sustained disruption of talks or other events
-inappropriate physical contact
-unwelcome sexual attention
+* verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion (or lack thereof)
+* sexual images in public spaces
+* deliberate intimidation
+* stalking and following
+* harassing photography or recording
+* sustained disruption of talks or other events
+* inappropriate physical contact
+* unwelcome sexual attention
+
 No weapons of any kind, drugs, or alcohol are allowed at $ustain unconference venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
