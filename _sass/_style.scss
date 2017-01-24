@@ -235,6 +235,20 @@ a {
 }
 
 
+.page-sponsor {
+  .sponsor-form-wrapper {
+    width: 100%;
+    height: 500px;
+  }
+
+  .sponsor-form {
+    width: inherit;
+    height: inherit;
+    margin: 0;
+    border: 0;
+  }
+}
+
 /* responsiveness */
 
 @media (min-width: 640px) {
@@ -314,5 +328,11 @@ a {
 
   .footer {
     padding: 12.8px 0;
+  }
+
+  .page-sponsor {
+    .sponsor-form-wrapper {
+      height: 900px;
+    }
   }
 }
