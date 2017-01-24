@@ -40,8 +40,8 @@ a {
 a:hover,
 a:focus {
   color: #207769;
-    text-decoration: none;
-  }
+  text-decoration: none;
+}
 
 .clear {
   clear: both;
@@ -55,25 +55,23 @@ a:focus {
   padding: 0;
 }
 .nav li {
-    width: 24vw;
-    max-width: 153.6px;
-    float: left;
-    list-style-type: none;
-    text-transform: uppercase;
-    text-align: center;
+  width: 24vw;
+  max-width: 153.6px;
+  float: left;
+  list-style-type: none;
+  text-transform: uppercase;
+  text-align: center;
 }
 .nav li a {
-      color: #263238;
+  color: #263238;
 }
 .nav li a img {
-        border-radius: 6vw;
-  width: 12vw;
-  max-width: 76.8px;
-        transition: all 300ms ease;
-      }
+  border-radius: 6vw;
+  transition: all 300ms ease;
+}
 .nav li a:hover img {
-      background-color: #30b39f;
-    }
+  background-color: #30b39f;
+}
 
 
 /* sections */
@@ -91,9 +89,9 @@ a:focus {
   padding: 12vw 0;
 }
 .banner h1 {
-    margin: 0;
-    padding: 0;
-  }
+  margin: 0;
+  padding: 0;
+}
 
 .pitch {
   background-color: #30b39f;
@@ -102,8 +100,8 @@ a:focus {
   padding: 4vw;
 }
 .pitch.empty {
-    padding: 1vw;
-  }
+  padding: 1vw;
+}
 .pitch span,
 .sponsors span {
   display: block;
@@ -120,36 +118,36 @@ a:focus {
 .homepage [class*='col-'] div:nth-child(1),
 .homepage .hashtag,
 .homepage .cta a {
-    color: #30b39f;
-    font: normal 18rem/100% 'Share Tech Mono', monospace;
-  }
+  color: #30b39f;
+  font: normal 18rem/100% 'Share Tech Mono', monospace;
+}
 .homepage [class*='col-'] div:nth-child(2) {
-    padding: 1vw 16vw;
-  }
+  padding: 1vw 16vw;
+}
 .homepage .nav {
-    width: 48vw;    /* two icons */
-    max-width: 307.2px;
-    margin: 8vw auto 0;
-  }
+  width: 48vw; /* two icons */
+  max-width: 307.2px;
+  margin: 8vw auto 0;
+}
 
 .inside-page .nav {
-  width: 90vw;  /* five icons */
+  width: 90vw; /* five icons */
   max-width: 576px;
   margin: 0 auto 8vw;
   padding: 0;
 }
 .inside-page .nav li {
-    width: 18vw;
-    max-width: 115.2px;
+  width: 18vw;
+  max-width: 115.2px;
 }
 .inside-page .nav li a img {
-      border-radius: 5vw;
-      width: 10vw;
-      max-width: 64px;
-    }
+  border-radius: 5vw;
+  width: 10vw;
+  max-width: 64px;
+}
 .inside-page .nav li.selected a img {
-    background-color: #30b39f;
-  }
+  background-color: #30b39f;
+}
 
 .inside-page-content {
   text-align: left;
@@ -162,13 +160,13 @@ a:focus {
   padding: 12vw 0 8vw;
 }
 .cta a {
-    display: inline-block;
-    padding: 4vw 6vw;
-    background-color: #263238;
-    text-transform: uppercase;
-    margin: 0 0 2vw;
+  display: inline-block;
+  padding: 4vw 6vw;
+  background-color: #263238;
+  text-transform: uppercase;
+  margin: 0 0 2vw;
     border-radius: 12.8px;
-  }
+}
 
 .more-info {
   background-color: #ffffff;
@@ -179,9 +177,9 @@ a:focus {
   margin: 8vw 0 0;
 }
 .more-info .nav {
-    width: 72vw;    /* three icons */
-    max-width: 460.8px;
-  }
+  width: 72vw; /* three icons */
+  max-width: 460.8px;
+}
 
 .sponsors {
   background-color: #eceff1;
@@ -189,24 +187,24 @@ a:focus {
   padding: 4vw 0;
 }
 .sponsors span {
-    color: #30b39f;
-  }
+  color: #30b39f;
+}
 .sponsors ul {
-    width: 84vw;    /* seven sponsors */
-    max-width: 537.6px;
-    margin: 4vw auto 0;
-    padding: 0;
-  }
+  width: 84vw; /* seven sponsors */
+  max-width: 537.6px;
+  margin: 4vw auto 0;
+  padding: 0;
+}
 .sponsors li {
-    width: 12vw;
-    max-width: 76.8px;
-    float: left;
-    list-style-type: none;
-  }
+  width: 12vw;
+  max-width: 76.8px;
+  float: left;
+  list-style-type: none;
+}
 .sponsors li img {
     width: 10vw;
-    max-width: 51.2px;
-  }
+  max-width: 51.2px;
+}
 
 .footer {
   background-color: #263238;
@@ -216,6 +214,11 @@ a:focus {
 
 .copyright {
   font-size: small;
+}
+
+.no-gutter > [class*='col-'] {
+  padding-right: 0;
+  padding-left: 0;
 }
 
 
@@ -248,8 +251,8 @@ a:focus {
     padding: 25.6px;
   }
   .pitch.empty {
-      padding: 6.4px;
-    }
+    padding: 6.4px;
+  }
 
   .content {
     padding: 51.2px 0 0;
@@ -259,19 +262,19 @@ a:focus {
     padding: 51.2px 0 0;
   }
   .homepage [class*='col-'] div:nth-child(2) {
-      padding: 6.4px 22vw;
-    }
+    padding: 6.4px 22vw;
+  }
   .homepage .nav {
-      margin: 51.2px auto 0;
-    }
+    margin: 51.2px auto 0;
+  }
 
   .cta {
     padding: 76.8px 0 51.2px;
   }
   .cta a {
-      padding: 25.6px 51.2px;
-      margin: 0 0 12.8px;
-    }
+    padding: 25.6px 51.2px;
+    margin: 0 0 12.8px;
+  }
 
   .more-info {
     padding: 0 0 51.2px;
@@ -282,8 +285,8 @@ a:focus {
     padding: 25.6px 0;
   }
   .sponsors ul {
-      margin: 25.6px auto 0;
-    }
+    margin: 25.6px auto 0;
+  }
 
   .inside-page .nav {
     margin: 0 auto 102.4px;

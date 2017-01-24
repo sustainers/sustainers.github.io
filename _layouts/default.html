@@ -1,7 +1,7 @@
 {% include header.html %}
 
 {% if page.pitch %}
-<section class="pitch">
+<div class="pitch">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
@@ -9,19 +9,19 @@
       </div>
     </div>
   </div>
-</section>
-<section class="homepage content">
+</div>
+<div class="homepage content">
   <div class="container-fluid">
-    <div class="row">
+    <div class="row no-gutter">
       <div class="col-xs-12">
         {{ content }}
       </div>
     </div>
   </div>
-</section>
+</div>
 {% else %}
-<section class="pitch empty"></section>
-<section class="inside-page content">
+<div class="pitch empty"></div>
+<div class="inside-page content">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
@@ -70,11 +70,13 @@
       </div>
     </div>
   </div>
-</section>
+</div>
 {% endif %}
 
-<section class="sponsors">
-  <div><span>Brought to you</span> by the following organizations:</div>
+<div class="sponsors">
+  <div>
+    <span>Brought to you</span> by the following organizations:
+  </div>
   <ul>
     <li>
       <a href="https://changelog.com/" title="changelog.com">
@@ -113,6 +115,6 @@
     </li>
   </ul>
   <div class="clear"></div>
-</section>
+</div>
 
 {% include footer.html %}

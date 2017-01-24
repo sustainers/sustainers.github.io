@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Become a Sponsor
 slug: sponsor
 ---
