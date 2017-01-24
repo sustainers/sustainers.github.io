@@ -1,6 +1,5 @@
 ---
-layout: default
-pitch: <span>A one day unconference</span> for Open Source Software sustainers
+layout: home
 title: Home
 slug: home
 ---

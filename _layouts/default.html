@@ -1,68 +1,11 @@
 {% include header.html %}
 
-{% if page.pitch %}
-<div class="pitch">
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        {{ page.pitch }}
-      </div>
-    </div>
-  </div>
-</div>
-<div class="homepage content">
-  <div class="container-fluid">
-    <div class="row no-gutter">
-      <div class="col-xs-12">
-        {{ content }}
-      </div>
-    </div>
-  </div>
-</div>
-{% else %}
 <div class="pitch empty"></div>
 <div class="inside-page content">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        {% assign parts = page.url | split: "/" %}
-        <ul class="nav">
-          <li{% if parts.last == 'agenda' %} class="selected"{% endif %}>
-            <a href="/agenda/">
-              <img src="/assets/img/icons/agenda.svg" alt="Agenda logo" width="64" height="64">
-              <br>
-              Agenda
-            </a>
-          </li>
-          <li{% if parts.last == 'about' %} class="selected"{% endif %}>
-            <a href="/about/">
-              <img src="/assets/img/icons/about.svg" alt="About logo" width="64" height="64">
-              <br>
-              About
-            </a>
-          </li>
-          <li{% if parts.last == 'sponsor' %} class="selected"{% endif %}>
-            <a href="/sponsor/">
-              <img src="/assets/img/icons/sponsor.svg" alt="Sponsor logo" width="64" height="64">
-              <br>
-              Sponsor
-            </a>
-          </li>
-          <li{% if parts.last == 'code-of-conduct' %} class="selected"{% endif %}>
-            <a href="/code-of-conduct/">
-              <img src="/assets/img/icons/code-of-conduct.svg" alt="Code of Conduct logo" width="64" height="64">
-              <br>
-              C.O.C.
-            </a>
-          </li>
-          <li{% if parts.last == 'diversity' %} class="selected"{% endif %}>
-            <a href="/diversity/">
-              <img src="/assets/img/icons/diversity.svg" alt="Diversity logo" width="64" height="64">
-              <br>
-              Diversity
-            </a>
-          </li>
-        </ul>
+        {% include menu.html %}
         <div class="clear"></div>
         <div class="inside-page-content">
         {{ content }}
@@ -71,50 +14,7 @@
     </div>
   </div>
 </div>
-{% endif %}
 
-<div class="sponsors">
-  <div>
-    <span>Brought to you</span> by the following organizations:
-  </div>
-  <ul>
-    <li>
-      <a href="https://changelog.com/" title="changelog.com">
-        <img src="/assets/img/sponsors/changelog.svg" alt="Changelog logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://opencollective.com/" title="Open Collective">
-        <img src="/assets/img/sponsors/opencollective.svg" alt="Open Collective logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/" title="GitHub">
-        <img src="/assets/img/sponsors/github.svg" alt="GitHub logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://gratipay.com/" title="Gratipay">
-        <img src="/assets/img/sponsors/gratipay.svg" alt="Gratipay logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://libraries.io/" title="Libraries.io">
-        <img src="/assets/img/sponsors/libraries.io.svg" alt="Libraries.io logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.stickermule.com/" title="Sticker Mule">
-        <img src="/assets/img/sponsors/sticker-mule.svg" alt="Sticker Mule logo">
-      </a>
-    </li>
-    <li>
-      <a href="https://www.unixstickers.com/" title="Unixstickers">
-        <img src="/assets/img/sponsors/unixstickers.svg" alt="Unixstickers logo">
-      </a>
-    </li>
-  </ul>
-  <div class="clear"></div>
-</div>
+{% include sponsors.html %}
 
 {% include footer.html %}
