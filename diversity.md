@@ -1,5 +1,7 @@
 ---
 layout: base
+title: Diversity
+slug: diversity
 ---
 
 (Adapted from the [Open Source Feels Diversity Statement](http://www.osfeels.com/diversity/) and [WONTFIX Cabal](https://maintainerati.org/diversity-statement/))

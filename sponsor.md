@@ -1,5 +1,7 @@
 ---
 layout: base
+title: Become a Sponsor
+slug: sponsor
 ---
 
 # Become a Sponsor

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% capture title %}$ustain — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+    <title>{{ title }}</title>
+
+    {% capture meta_description %}{% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif %}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
+    <meta name="description" content="{{ meta_description }}">
+    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+    <meta name="referrer" content="origin">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <!-- favicon related tags -->
+    <link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/assets/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#263238">
+    <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
+    <meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#263238">
+
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:type" content="place">
+    <meta property="og:description" content="{{ meta_description }}">
+    {% if page.slug == "home" %}
+    <meta property="og:url" content="{{ site.url }}/">
+    {% else %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    {% endif %}
+    <meta property="og:image" content="{{ site.url | replace: 'https://', 'http://' }}/assets/img/og.png">
+    <meta property="og:image:secure_url" content="{{ site.url }}/assets/img/og.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="300">
+    <meta property="og:image:height" content="256">
+    <meta property="place:location:latitude" content="37.7820615">
+    <meta property="place:location:longitude" content="-122.3917656">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@sustainunconf">
+    <meta name="twitter:site" content="@sustainunconf">
+    <meta name="twitter:title" content="{{ title }}">
+  </head>
+
+  {% capture body_class %}layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% endif %}{% endcapture %}
+  <body class="{{ body_class }}">
+
+    <section class="details">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <a href="https://www.google.com/maps/place/GitHub/@37.7820615,-122.3917656,19z/">GitHub HQ
+              (SF)</a> | May 17, 2017
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h1>
+              <a href="/">
+                <img src="/assets/img/sustain.svg" alt="$ustain Logo" width="320" height="90">
+              </a>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </section>

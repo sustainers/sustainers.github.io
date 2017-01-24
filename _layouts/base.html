@@ -1,188 +1,118 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
+{% include header.html %}
 
-    {% capture title %}$ustain &middot; {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
-    <title>{{ title }}</title>
-    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
-
-    {% capture meta_description %}{% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif %}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
-    <meta name="description" content="{{ meta_description }}">
-    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-    <meta name="referrer" content="origin">
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
-    <link rel="stylesheet" href="/assets/style.css">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-    <!-- favicon related tags -->
-    <link rel="apple-touch-icon" href="/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-    <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/assets/img/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/assets/img/favicons/manifest.json">
-    <link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#263238">
-    <link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
-    <meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
-    <meta name="theme-color" content="#263238">
-
-    <meta property="og:title" content="{{ title }}">
-    <meta property="og:type" content="place">
-    <meta property="og:description" content="{{ meta_description }}">
-    {% if page.slug == "home" %}
-    <meta property="og:url" content="{{ site.url }}/">
-    {% else %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    {% endif %}
-    <meta property="og:image" content="{{ site.url | replace: 'https://', 'http://' }}/assets/img/og.png">
-    <meta property="og:image:secure_url" content="{{ site.url }}/assets/img/og.png">
-    <meta property="og:image:type" content="image/png">
-    <meta property="og:image:width" content="300">
-    <meta property="og:image:height" content="256">
-    <meta property="place:location:latitude" content="37.7820615">
-    <meta property="place:location:longitude" content="-122.3917656">
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:creator" content="@sustainunconf">
-    <meta name="twitter:site" content="@sustainunconf">
-    <meta name="twitter:title" content="{{ title }}">
-
-    <!-- Google+ -->
-    <!--<meta itemprop="name" content="$ustain">
-    <meta itemprop="description" content="{{ meta_description }}">
-    <meta itemprop="image" content="/assets/img/og.png">-->
-
-  </head>
-  <body>
-    <section id="details">
-      <a href="https://www.google.com/maps/place/GitHub/@37.7820615,-122.3917656,19z/">GitHub HQ
-        (SF)</a> | May 17, 2017
-    </section>
-
-    <section id="banner">
-      <h1>
-        <a href="/">
-          <img src="/assets/img/sustain.svg" alt="$ustain Logo">
-        </a>
-      </h1>
-    </section>
-
-    {% if page.pitch %}
-    <section id="pitch">{{ page.pitch }}</section>
-    <section id="homepage" class="content">
-    {{ page.content }}
-    </section>
-    {% else %}
-    <section id="pitch" class="empty"></section>
-    <section id="inside-page" class="content">
-      {% assign parts = page.url | split: "/" %}
-      <ul class="nav">
-        <li{% if parts.last == 'agenda' %} class="selected"{% endif %}>
-          <a href="/agenda/">
-            <img src="/assets/img/icons/agenda.svg" alt="Agenda logo" width="77" height="77">
-            <br>
-            Agenda
-          </a>
-        </li>
-        <li{% if parts.last == 'about' %} class="selected"{% endif %}>
-          <a href="/about/">
-            <img src="/assets/img/icons/about.svg" alt="About logo" width="77" height="77">
-            <br>
-            About
-          </a>
-        </li>
-        <li{% if parts.last == 'sponsor' %} class="selected"{% endif %}>
-          <a href="/sponsor/">
-            <img src="/assets/img/icons/sponsor.svg" alt="Sponsor logo" width="77" height="77">
-            <br>
-            Sponsor
-          </a>
-        </li>
-        <li{% if parts.last == 'code-of-conduct' %} class="selected"{% endif %}>
-          <a href="/code-of-conduct/">
-            <img src="/assets/img/icons/code-of-conduct.svg" alt="Code of Conduct logo" width="77" height="77">
-            <br>
-            C.O.C.
-          </a>
-        </li>
-        <li{% if parts.last == 'diversity' %} class="selected"{% endif %}>
-          <a href="/diversity/">
-            <img src="/assets/img/icons/diversity.svg" alt="Diversity logo" width="77" height="77">
-            <br>
-            Diversity
-          </a>
-        </li>
-      </ul>
-      <div class="clear"></div>
-      <div id="inside-page-content">
-      {{ content }}
+{% if page.pitch %}
+<section class="pitch">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        {{ page.pitch }}
       </div>
-    </section>
-    {% endif %}
+    </div>
+  </div>
+</section>
+<section class="homepage content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="pitch empty"></section>
+<section class="inside-page content">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        {% assign parts = page.url | split: "/" %}
+        <ul class="nav">
+          <li{% if parts.last == 'agenda' %} class="selected"{% endif %}>
+            <a href="/agenda/">
+              <img src="/assets/img/icons/agenda.svg" alt="Agenda logo" width="64" height="64">
+              <br>
+              Agenda
+            </a>
+          </li>
+          <li{% if parts.last == 'about' %} class="selected"{% endif %}>
+            <a href="/about/">
+              <img src="/assets/img/icons/about.svg" alt="About logo" width="64" height="64">
+              <br>
+              About
+            </a>
+          </li>
+          <li{% if parts.last == 'sponsor' %} class="selected"{% endif %}>
+            <a href="/sponsor/">
+              <img src="/assets/img/icons/sponsor.svg" alt="Sponsor logo" width="64" height="64">
+              <br>
+              Sponsor
+            </a>
+          </li>
+          <li{% if parts.last == 'code-of-conduct' %} class="selected"{% endif %}>
+            <a href="/code-of-conduct/">
+              <img src="/assets/img/icons/code-of-conduct.svg" alt="Code of Conduct logo" width="64" height="64">
+              <br>
+              C.O.C.
+            </a>
+          </li>
+          <li{% if parts.last == 'diversity' %} class="selected"{% endif %}>
+            <a href="/diversity/">
+              <img src="/assets/img/icons/diversity.svg" alt="Diversity logo" width="64" height="64">
+              <br>
+              Diversity
+            </a>
+          </li>
+        </ul>
+        <div class="clear"></div>
+        <div class="inside-page-content">
+        {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
 
-    <section id="sponsors">
-      <div><b>Brought to you</b> by the following organizations:</div>
-      <ul>
-        <li>
-          <a href="https://changelog.com/">
-            <img src="/assets/img/sponsors/changelog.svg" alt="Changelog logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://opencollective.com/">
-            <img src="/assets/img/sponsors/opencollective.svg" alt="Open Collective logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/">
-            <img src="/assets/img/sponsors/github.svg" alt="GitHub logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://gratipay.com/">
-            <img src="/assets/img/sponsors/gratipay.svg" alt="Gratipay logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://libraries.io/">
-            <img src="/assets/img/sponsors/libraries.io.svg" alt="Libraries.io logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://www.stickermule.com/">
-            <img src="/assets/img/sponsors/sticker-mule.svg" alt="Sticker Mule logo">
-          </a>
-        </li>
-        <li>
-          <a href="https://www.unixstickers.com/">
-            <img src="/assets/img/sponsors/unixstickers.svg" alt="Unixstickers logo">
-          </a>
-        </li>
-      </ul>
-      <div class="clear"></div>
-    </section>
-
-    <section id="footer">
-      totally inspired by <a href="https://maintainerati.org/">maintainerati.org</a>
-      <br>
-      <a href="https://github.com/sustainers" target="_blank" rel="noopener noreferrer">
-        <i class="fa fa-github-alt fa-2x" aria-hidden="true"></i>
+<section class="sponsors">
+  <div><span>Brought to you</span> by the following organizations:</div>
+  <ul>
+    <li>
+      <a href="https://changelog.com/">
+        <img src="/assets/img/sponsors/changelog.svg" alt="Changelog logo">
       </a>
-      &nbsp;
-      <a href="https://twitter.com/SustainUnconf" target="_blank" rel="noopener noreferrer">
-        <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+    </li>
+    <li>
+      <a href="https://opencollective.com/">
+        <img src="/assets/img/sponsors/opencollective.svg" alt="Open Collective logo">
       </a>
-      <br>
-      <span class="copyright">&copy; {{ site.time | date: '%Y' }}</span>
-    </section>
+    </li>
+    <li>
+      <a href="https://github.com/">
+        <img src="/assets/img/sponsors/github.svg" alt="GitHub logo">
+      </a>
+    </li>
+    <li>
+      <a href="https://gratipay.com/">
+        <img src="/assets/img/sponsors/gratipay.svg" alt="Gratipay logo">
+      </a>
+    </li>
+    <li>
+      <a href="https://libraries.io/">
+        <img src="/assets/img/sponsors/libraries.io.svg" alt="Libraries.io logo">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.stickermule.com/">
+        <img src="/assets/img/sponsors/sticker-mule.svg" alt="Sticker Mule logo">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.unixstickers.com/">
+        <img src="/assets/img/sponsors/unixstickers.svg" alt="Unixstickers logo">
+      </a>
+    </li>
+  </ul>
+  <div class="clear"></div>
+</section>
 
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-90698689-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-  </body>
-</html>
+{% include footer.html %}

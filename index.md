@@ -1,6 +1,6 @@
 ---
 layout: base
-pitch: <b>A one day unconference</b> for Open Source Software sustainers
+pitch: <span>A one day unconference</span> for Open Source Software sustainers
 slug: home
 ---
 
@@ -27,15 +27,15 @@ slug: home
 </ul>
 <div class="clear"></div>
 
-<div id="cta">
+<div class="cta">
   <a href="https://opencollective.com/sustainunconf#join-us">
     Buy Tickets
   </a>
 </div>
 
-<a id="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>
+<a class="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>
 
-<section id="more-info">
+<section class="more-info">
   <ul class="nav">
     <li>
       <a href="/sponsor/">
