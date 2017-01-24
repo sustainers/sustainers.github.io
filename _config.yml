@@ -10,6 +10,9 @@ gems:
 # permalinks
 permalink:          pretty
 
+sass:
+  style:            compressed
+
 # server
 port:               8000
 url:                https://www.sustainunconf.org
