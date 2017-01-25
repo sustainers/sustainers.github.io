@@ -12,6 +12,6 @@ Interested in getting involved? Fill out the form below and one of our organizer
 * Lunch Sponsor
 * Travel Sponsor (for those who need travel assistance)
 
-<div class="sponsor-form-wrapper">
-  <iframe class="sponsor-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdPxMevZcAV4ugem6D-XIkMg2zMUQfYZJ7SWmWBJ546SDtOBA/viewform?embedded=true"></iframe>
-</div>
+---
+
+<iframe class="sponsor-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdPxMevZcAV4ugem6D-XIkMg2zMUQfYZJ7SWmWBJ546SDtOBA/viewform?embedded=true"></iframe>

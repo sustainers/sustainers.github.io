@@ -240,16 +240,10 @@ a {
 
 
 .page-sponsor {
-  .sponsor-form-wrapper {
+  .sponsor-form {
     width: 100%;
     height: 500px;
-  }
-
-  .sponsor-form {
-    width: inherit;
-    height: inherit;
-    margin: 0;
-    border: 0;
+    border: none;
   }
 }
 
@@ -335,7 +329,7 @@ a {
   }
 
   .page-sponsor {
-    .sponsor-form-wrapper {
+    .sponsor-form {
       height: 900px;
     }
   }
