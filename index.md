@@ -35,8 +35,6 @@ slug: home
   </a>
 </div>
 
-<a class="hashtag" href="https://twitter.com/hashtag/dollarsignustain">#dollarsignustain</a>
-
 <div class="more-info">
   <ul class="nav">
     <li>

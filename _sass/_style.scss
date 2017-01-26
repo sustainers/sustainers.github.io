@@ -125,7 +125,6 @@ a {
 
 .homepage {
   [class*='col-'] div:nth-child(1),
-  .hashtag,
   .cta a {
     color: #30b39f;
     font: normal 18rem/100% 'Share Tech Mono', monospace;
@@ -258,7 +257,6 @@ a {
     line-height: 150%;
   }
   .homepage [class*='col-'] div:nth-child(1),
-  .homepage .hashtag,
   .cta a {
     font-size: 20rem;
     line-height: 150%;
