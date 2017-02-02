@@ -7,7 +7,7 @@ slug: home
 <div>No keynotes, expo halls or talks.</div>
 
 <div>
-  Only discussions about getting more&nbsp;resources to
+  Only discussions about how to get more&nbsp;resources to
   support digital&nbsp;infrastructure.
 </div>
 
