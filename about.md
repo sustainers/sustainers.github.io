@@ -29,7 +29,7 @@ As Nadia Eghbal has reported in “[Roads and Bridges](https://www.fordfoundatio
 
 ### Twitter
 
-* [@sustainunconf](https://twitter.com/SustainUnconf)
+* [@sustainoss](https://twitter.com/SustainOSS)
 
 ### GitHub
 
