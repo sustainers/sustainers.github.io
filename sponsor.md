@@ -11,6 +11,7 @@ Interested in getting involved? Fill out the form below and one of our organizer
 * Caffeine Sponsor
 * Lunch Sponsor
 * Travel Sponsor (for those who need travel assistance)
+* Facilitator fees Sponsor
 
 ---
 
