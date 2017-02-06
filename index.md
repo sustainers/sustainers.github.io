@@ -30,7 +30,7 @@ slug: home
 <div class="clear"></div>
 
 <div class="cta">
-  <a href="https://opencollective.com/sustainunconf#join-us">
+  <a href="https://opencollective.com/sustainoss#join-us">
     Buy Tickets
   </a>
 </div>
