@@ -19,7 +19,7 @@ All attendees, speakers, sponsors and volunteers at $ustain  are required to abi
 Contact the organizers directly:
 
 * Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
-* Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at zetaweb.com
+* Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at gratipay.com
 * Pia Mancini: [@piamancini](https://twitter.com/piamancini) or pia at opencollective.com
 * Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
 
