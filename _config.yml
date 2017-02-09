@@ -15,6 +15,6 @@ sass:
 
 # server
 port:               8000
-url:                https://www.sustainunconf.org
+url:                https://www.sustainoss.org
 encoding:           UTF-8
 exclude:            [Gemfile, Gemfile.lock, README.md]
