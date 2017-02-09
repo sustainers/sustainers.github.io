@@ -25,7 +25,7 @@ As Nadia Eghbal has reported in “[Roads and Bridges](https://www.fordfoundatio
 ### Slack
 
 * slack.opencollective.com
-* #sustianoss
+* #sustainoss
 
 ### Twitter
 
