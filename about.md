@@ -8,7 +8,7 @@ slug: about
 
 ### What
 
-“$ustain” will be a one day conversation for open source software sustainers. There will be keynotes, expo halls or talks. Only a guided discussion and concrete ideas about getting and distributing money or in-kind services to the Open Source community. The conversation will be facilitated by [Gunner](https://aspirationtech.org/about/people/gunner) from AspirationTech.
+“$ustain” will be a one day conversation for open source software sustainers. There will be no keynotes, expo halls or talks. Only a guided discussion and concrete ideas about getting and distributing money or in-kind services to the Open Source community. The conversation will be facilitated by [Gunner](https://aspirationtech.org/about/people/gunner) from AspirationTech.
 
 ### Sustainer?
 
