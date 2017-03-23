@@ -6,8 +6,8 @@ slug: sponsor
 
 # Sponsors
 
-Thank you to the following companies that believe in Open Source Sustainability. <br>
-
+<p>Thank you to the following companies that believe in Open Source Sustainability:</p>
+<br>
 <center>
 <a href="https://github.com/" title="GitHub">
   <img src="/assets/img/sponsors/github-big.svg" alt="GitHub logo" width="300px">
