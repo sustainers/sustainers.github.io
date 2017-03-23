@@ -6,12 +6,17 @@ slug: sponsor
 
 # Sponsors
 
-Thank you to the following companies that believe in Open Source Sustainability
+Thank you to the following companies that believe in Open Source Sustainability. <br>
 
 <center>
 <a href="https://github.com/" title="GitHub">
   <img src="/assets/img/sponsors/github-big.svg" alt="GitHub logo" width="300px">
 </a>
+<br><br>
+<a href="https://www.stackpath.com/" title="StackPath">
+  <img src="/assets/img/sponsors/stackpath-big.svg" alt="Stackpath logo" width="300px">
+</a>
+
 </center>
 
 # Become a Sponsor
