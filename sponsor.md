@@ -16,7 +16,10 @@ slug: sponsor
 <a href="https://www.stackpath.com/" title="StackPath">
   <img src="/assets/img/sponsors/stackpath-big.svg" alt="Stackpath logo" width="300px">
 </a>
-
+<br><br>
+<a href="https://8thlight.com/" title="8th Light">
+  <img src="/assets/img/sponsors/8th-light-big.svg" alt="8th Light logo" width="150px">
+</a>
 </center>
 
 # Become a Sponsor
