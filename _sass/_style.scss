@@ -334,6 +334,9 @@ a {
   }
 
   .page-sponsor {
+    .inside-page-content {
+      max-width: none; /* moar logos! */
+    }
     .sponsor-form {
       height: 900px;
     }
