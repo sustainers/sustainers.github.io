@@ -32,8 +32,8 @@ As Nadia Eghbal has reported in “[Roads and Bridges](https://www.fordfoundatio
 
 ### Slack
 
-* https://changelog.com/community
-* #sustain
+* [https://changelog.com/community](https://changelog.com/community)
+* channel: #sustain
 
 ### Twitter
 
