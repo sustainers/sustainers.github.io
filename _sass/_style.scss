@@ -32,6 +32,8 @@ body {
   background-color: #263238;
 }
 
+
+
 a {
   color: #30b39f;
   text-decoration: none;
@@ -125,9 +127,14 @@ a {
 
 .homepage {
   [class*='col-'] div:nth-child(1),
-  .cta a {
+  .cta a, input.btn-email {
     color: #30b39f;
     font: normal 18rem/100% 'Share Tech Mono', monospace;
+    &:hover,
+    &:focus {
+      // #207769
+      color: darken(#30b39f, 10%);
+    }
   }
   [class*='col-'] div:nth-child(2) {
     padding: 1vw 16vw;
@@ -193,11 +200,12 @@ form.email {
 
   input.btn-email {
     @extend a;
-    padding: 1vw 2vw;
+    // padding: 1vw 3vw;
     background-color: #263238;
     text-transform: uppercase;
     margin: 0 0 2vw;
     border-radius: 12.8px;
+    border: 0px;
   }
 }
 
@@ -326,6 +334,10 @@ form.email {
       padding: 25.6px 51.2px;
       margin: 0 0 12.8px;
     }
+  }
+
+  input.btn-email {
+    padding: 25.6px 51.2px;
   }
 
   .more-info {
