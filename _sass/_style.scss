@@ -180,6 +180,27 @@ a {
   }
 }
 
+form.email {
+  padding: 3vw 0 1vw;
+  text-align:center;
+
+  #tlemail {
+    padding: 1vw 2vw;
+    width: 20%;
+    margin: 1vw;
+    border-radius: 12.8px;
+  }
+
+  input.btn-email {
+    @extend a;
+    padding: 1vw 2vw;
+    background-color: #263238;
+    text-transform: uppercase;
+    margin: 0 0 2vw;
+    border-radius: 12.8px;
+  }
+}
+
 .more-info {
   background-color: #fff;
   color: #263238;
