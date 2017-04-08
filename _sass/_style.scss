@@ -174,38 +174,37 @@ a {
   padding: 8vw;
 }
 
+.outer-button-link {
+  display: inline-block;
+  padding: 4vw 6vw;
+  background-color: #263238;
+  text-transform: uppercase;
+  margin: 0 0 2vw;
+  border-radius: 12.8px;
+}
+
 .cta {
   padding: 12vw 0 8vw;
 
   a {
-    display: inline-block;
-    padding: 4vw 6vw;
-    background-color: #263238;
-    text-transform: uppercase;
-    margin: 0 0 2vw;
-    border-radius: 12.8px;
+    @extend .outer-button-link;
   }
 }
 
 form.email {
-  padding: 3vw 0 1vw;
-  text-align:center;
+  padding: 12vw 0 8vw;
 
   #tlemail {
-    padding: 1vw 2vw;
-    width: 20%;
+    padding: 4vw 6vw;
+    width: 80%;
     margin: 1vw;
     border-radius: 12.8px;
   }
 
   input.btn-email {
-    @extend a;
-    // padding: 1vw 3vw;
-    background-color: #263238;
-    text-transform: uppercase;
-    margin: 0 0 2vw;
-    border-radius: 12.8px;
-    border: 0px;
+    // @extend a;
+    @extend .outer-button-link;
+    border: 0;
   }
 }
 
@@ -291,7 +290,7 @@ form.email {
     line-height: 150%;
   }
   .homepage [class*='col-'] div:nth-child(1),
-  .cta a {
+  .cta a, input.btn-email {
     font-size: 20rem;
     line-height: 150%;
   }
@@ -327,18 +326,31 @@ form.email {
     }
   }
 
+  form.email {
+    #tlemail {
+      width: 40%;
+      padding: 1vw 3vh;
+    }
+  }
+
+  .button-link {
+    padding: 25.6px 51.2px;
+    margin: 0 0 12.8px;
+  }
+
   .cta {
     padding: 76.8px 0 51.2px;
 
     a {
-      padding: 25.6px 51.2px;
-      margin: 0 0 12.8px;
+      @extend .button-link;
     }
   }
 
   input.btn-email {
-    padding: 25.6px 51.2px;
+    @extend .button-link;
+    padding: 25.6px 51.2px !important; 
   }
+
 
   .more-info {
     padding: 0 0 51.2px;
