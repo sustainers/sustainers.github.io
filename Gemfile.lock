@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
+    addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
     ffi (1.9.18)
@@ -22,7 +22,7 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.1.0)
       jekyll (~> 3.3)
-    jekyll-sitemap (1.0.0)
+    jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
@@ -49,7 +49,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.4.0)
   jekyll-seo-tag (~> 2.1.0)
-  jekyll-sitemap (~> 1.0.0)
+  jekyll-sitemap (~> 1.1.1)
 
 BUNDLED WITH
    1.14.6
