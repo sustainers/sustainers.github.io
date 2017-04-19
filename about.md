@@ -8,7 +8,7 @@ slug: about
 
 ### What
 
-“$ustain” will be a one day conversation for open source software sustainers. There will be no keynotes, expo halls or talks. Only a guided discussion and concrete ideas about getting and distributing money or in-kind services to the Open Source community.
+“Sustain” will be a one day conversation for open source software sustainers. There will be no keynotes, expo halls or talks. Only a guided discussion and concrete ideas about getting and distributing money or in-kind services to the Open Source community.
 
 ### Who
 
