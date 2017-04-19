@@ -6,7 +6,7 @@ slug: agenda
 
 # Agenda
 
-“$ustain” will be a one day conversation for open source software sustainers.
+“Sustain” will be a one day conversation for open source software sustainers.
 There will be no no keynotes, expo halls or talks. Only discussions and ideas
 about getting and distributing money or in-kind services to the Open Source
 community. We will be building the outcomes and agenda of the day together
