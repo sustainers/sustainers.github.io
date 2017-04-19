@@ -4,13 +4,13 @@ title: Frequently Asked Questions
 slug: faq
 ---
 
-## What is $ustain?
+## What is Sustain?
 
 A one-day event, were we'll talk about how to sustain open source software. It's not a large conference with talks and keynotes, and it's **not** an unconference; it's a gather of open source contributors, maintainers, and sustainers; industry leaders and people interested in open source; and friends. The goal is to understand the long term viability of open source as a model for producing software.
 
 ## How is it written? (Sustain OSS, $ustainoss, $ustainOSS, $ustain OSS)
 
-$ustain is the name of the event. The organization is $ustainOSS but SustainOSS or `@SustainOSS` will do.
+Sustain is the name of the event. The organization is SustainOSS but `@SustainOSS` will do.
 
 ## How many people will be there?
 
@@ -52,6 +52,6 @@ Get in touch - these will be thought over on a case-by-case basis.
 
 You should receive a receipt immediately on donating. This can be used at the door.
 
-## What other events can you compare $ustain to?
+## What other events can you compare Sustain to?
 
 This event is very similar to the [Wontfix Cabal](https://maintainerati.org/) organized at GitHub in February 15. It's also similar to a few other recent events - [OSFeels](http://www.osfeels.com/), for instance.
