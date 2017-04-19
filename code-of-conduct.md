@@ -10,9 +10,9 @@ slug: code-of-conduct
 
 ### Short Version
 
-The $ustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
+The Sustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
 
-All attendees, speakers, sponsors and volunteers at $ustain  are required to abide by the code of conduct.
+All attendees, speakers, sponsors and volunteers at Sustain  are required to abide by the code of conduct.
 
 ### Need Help?
 
@@ -21,15 +21,14 @@ Contact the organizers directly:
 * Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
 * Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at gratipay.com
 * Pia Mancini: [@piamancini](https://twitter.com/piamancini) or pia at opencollective.com
-* Andrew Nesbitt: [@teabass](https://twitter.com/teabass)
 
 ### Long Version
 
-A primary goal of $ustain  is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+A primary goal of Sustain  is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in $ustain  to help us create safe and positive experiences for everyone.
+We invite all those who participate in Sustain  to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
 
@@ -41,9 +40,9 @@ If you see someone who is making an extra effort to ensure our community is safe
 
 ### Code of Conduct
 
-All attendees, organizers, speakers, sponsors, and volunteers at $ustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+All attendees, organizers, speakers, sponsors, and volunteers at Sustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-The $ustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+The Sustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 ### Expected Behavior
 
@@ -87,7 +86,7 @@ Harassment includes:
 * inappropriate physical contact
 * unwelcome sexual attention
 
-No weapons of any kind, drugs, or alcohol are allowed at $ustain unconference venues.
+No weapons of any kind, drugs, or alcohol are allowed at Sustain unconference venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
