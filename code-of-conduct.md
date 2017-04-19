@@ -40,9 +40,9 @@ If you see someone who is making an extra effort to ensure our community is safe
 
 ### Code of Conduct
 
-All attendees, organizers, speakers, sponsors, and volunteers at Sustain unconference are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+All attendees, organizers, speakers, sponsors, and volunteers at Sustain are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
 
-The Sustain unconference is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+The Sustain is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 ### Expected Behavior
 
@@ -86,7 +86,7 @@ Harassment includes:
 * inappropriate physical contact
 * unwelcome sexual attention
 
-No weapons of any kind, drugs, or alcohol are allowed at Sustain unconference venues.
+No weapons of any kind, drugs, or alcohol are allowed at Sustain venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
