@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% capture title %}$ustain — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+    {% capture title %}Sustain — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
     <title>{{ title }}</title>
 
     {% capture meta_description %}{% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif %}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}{% endcapture %}
@@ -68,8 +68,8 @@
           <div class="col-xs-12">
             <h1>
               <a href="/">
-                <img class="img-responsive center-block" src="/assets/logo/sustain_logo.svg" alt="$ustain Logo" width="320" height="90">
-                <span class="sr-only">$ustain</span>
+                <img class="img-responsive center-block" src="/assets/logo/sustain_logo.svg" alt="Sustain Logo" width="320" height="90">
+                <span class="sr-only">Sustain</span>
               </a>
             </h1>
           </div>
