@@ -20,8 +20,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-seo-tag (2.1.0)
-      jekyll (~> 3.3)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
@@ -48,7 +46,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.4.0)
-  jekyll-seo-tag (~> 2.1.0)
   jekyll-sitemap (~> 1.1.1)
 
 BUNDLED WITH

@@ -4,7 +4,6 @@ description:        a one day conversation for open source software sustainers
 markdown:           kramdown
 
 gems:
-  - jekyll-seo-tag
   - jekyll-sitemap
 
 # permalinks
