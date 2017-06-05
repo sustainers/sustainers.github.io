@@ -6,7 +6,7 @@ slug: faq
 
 ## What is Sustain?
 
-A one-day event, were we'll talk about how to sustain open source software. It's not a large conference with talks and keynotes, and it's **not** an unconference; it's a gather of open source contributors, maintainers, and sustainers; industry leaders and people interested in open source; and friends. The goal is to understand the long term viability of open source as a model for producing software.
+A one-day event, where we'll talk about how to sustain open source software. It's not a large conference with talks and keynotes, and it's **not** an unconference; it's a gather of open source contributors, maintainers, and sustainers; industry leaders and people interested in open source; and friends. The goal is to understand the long term viability of open source as a model for producing software.
 
 ## How is it written? (Sustain OSS, $ustainoss, $ustainOSS, $ustain OSS)
 
