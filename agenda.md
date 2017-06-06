@@ -23,32 +23,56 @@ look like this:
     </thead>
     <tbody>
       <tr>
-        <td>09:00am - 09:30am</td>
-        <td>Name badges</td>
+        <td>8:00am</td>
+        <td><strong>Registration and light breakfast</strong></td>
       </tr>
       <tr>
-        <td>09:30am - 09:50am</td>
-        <td>Caffeine &amp; Snacks</td>
+        <td>09:00am</td>
+        <td><strong>Opening Session</strong></td>
       </tr>
       <tr>
-        <td>10:00am - 11:00am</td>
-        <td>Standup (what would you like to accomplish today)</td>
+        <td>9:30am</td>
+        <td><strong>Interactive Plenary</strong></td>
       </tr>
       <tr>
-        <td>11:00am -  11:10am</td>
-        <td>Break</td>
+        <td>10:30am</td>
+        <td><strong>Break</strong></td>
       </tr>
       <tr>
-        <td>11:10am - 12:30pm</td>
-        <td>Group breakouts (facilitated)</td>
+        <td>10:45pm</td>
+        <td><strong>Agenda Hacking</strong></td>
       </tr>
       <tr>
-        <td>12:30pm - 01:30pm</td>
-        <td>Lunch</td>
+        <td>11:15am</td>
+        <td><strong>Collaborative Working Sessions</strong></td>
       </tr>
       <tr>
-        <td>01:40pm - 05:00pm</td>
-        <td>Continue breakout sessions</td>
+        <td>12:45pm</td>
+        <td><strong>Lunch</strong></td>
+      </tr>
+      <tr>
+        <td>1:45pm</td>
+        <td><strong>Collaborative Working Sessions</strong></td>
+      </tr>
+      <tr>
+        <td>3:15pm</td>
+        <td><strong>Break</strong></td>
+      </tr>
+      <tr>
+        <td>3:30pm</td>
+        <td><strong>Mapping Where From Here</strong></td>
+      </tr>
+      <tr>
+        <td>4:15pm</td>
+        <td><strong>Closing Plenary</strong></td>
+      </tr>
+      <tr>
+        <td>5:00pm</td>
+        <td><strong>Adjourn</strong></td>
+      </tr>
+      <tr>
+        <td>5:30pm</td>
+        <td><strong>🍻 Happy Hour🍻</strong></td>
       </tr>
     </tbody>
   </table>
