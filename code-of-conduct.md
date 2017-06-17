@@ -54,7 +54,8 @@ The following behaviors are expected and requested of all community members:
 * Refrain from demeaning, discriminatory, or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-* Unacceptable Behavior
+
+### Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
@@ -90,7 +91,7 @@ No weapons of any kind, drugs, or alcohol are allowed at Sustain venues.
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Consequences of Unacceptable Behavior
+### Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
