@@ -6,12 +6,18 @@ slug: agenda
 
 # Agenda
 
-“Sustain” will be a one day conversation for open source software sustainers.
-There will be no keynotes, expo halls, or talks. Only discussions and ideas
-about getting and distributing money or in-kind services to the Open Source
-community. We will be building the outcomes and agenda of the day together
-with the sustainers that will be participating. The agenda can (or not)
-look like this:
+“Sustain” will be a one day conversation for open source software
+sustainers.  There will be no keynotes, expo halls, or talks. Only
+discussions and ideas about getting and distributing money or in-kind
+services to the Open Source community. We will be building the outcomes
+and agenda of the day together with the sustainers that will be
+participating.
+
+Co-organizers [Justin Dorfman](https://twitter.com/jdorfman),
+[Chad Whitacre](https://twitter.com/whit537), and
+[Pia Mancini](https://twitter.com/piamancini) will lead the plenary
+sessions and facilitate lively discussions among participants.  The
+agenda can (or not) look like this:
 
 <div class="table-responsive">
   <table class="table table-hover table-striped table-bordered">
