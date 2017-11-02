@@ -1,11 +1,10 @@
-# The unconference event page
+# SustainOSS.org Website
 
 ## Getting started
 
 * Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`", and then run:
 
   ```shell
-  cd C:\RubyDevKit
   ruby dk.rb init
   ruby dk.rb install
   ```
