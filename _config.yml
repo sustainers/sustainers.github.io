@@ -3,7 +3,7 @@ description:        a one day conversation for open source software sustainers
 
 markdown:           kramdown
 
-gems:
+plugins:
   - jekyll-sitemap
 
 # permalinks
@@ -16,4 +16,7 @@ sass:
 port:               8000
 url:                https://sustainoss.org
 encoding:           UTF-8
-exclude:            [Gemfile, Gemfile.lock, README.md]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
