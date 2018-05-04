@@ -1,49 +1,13 @@
 body {
   font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  background-color: #263238;
 }
 
 a {
   color: #30b39f;
-  text-decoration: none;
 
   &:hover,
   &:focus {
-    // #207769
     color: darken(#30b39f, 10%);
-    text-decoration: none;
-  }
-}
-
-
-/* nav */
-.nav {
-  margin: 0 auto;
-  padding: 0;
-
-  li {
-    width: 24vw;
-    max-width: 153.6px;
-    float: left;
-    list-style-type: none;
-    text-transform: uppercase;
-    text-align: center;
-
-    a {
-      color: #263238;
-      display: inline-block;
-
-      img {
-        border-radius: 10vw;
-        transition: all 300ms ease;
-      }
-    }
-
-    &:hover img {
-      background-color: #30b39f;
-    }
-
   }
 }
 
@@ -106,12 +70,6 @@ a {
 
   [class*="col-"] div:nth-child(2) {
     padding: 1vw 16vw;
-  }
-
-  .nav {
-    width: 48vw;    /* two icons */
-    max-width: 307.2px;
-    margin: 8vw auto 0;
   }
 }
 
@@ -205,21 +163,6 @@ form.email {
   }
 }
 
-.footer {
-  background-color: #263238;
-  color: #fff;
-  padding: 2vw 0;
-}
-
-.copyright {
-  font-size: small;
-}
-
-.no-gutter > [class*="col-"] {
-  padding-right: 0;
-  padding-left: 0;
-}
-
 
 .page-sponsor {
   .sponsors-row {
@@ -256,18 +199,6 @@ form.email {
 
   .content {
     padding: 51.2px 0 0;
-  }
-
-  .homepage {
-    padding: 51.2px 0 0;
-
-    [class*="col-"] div:nth-child(2) {
-      padding: 6.4px 22vw;
-    }
-
-    .nav {
-      margin: 51.2px auto 0;
-    }
   }
 
   form.email {
@@ -316,10 +247,6 @@ form.email {
   .inside-page-content {
     max-width: 538px;
     padding: 51.2px 0;
-  }
-
-  .footer {
-    padding: 12.8px 0;
   }
 
   .page-sponsor {

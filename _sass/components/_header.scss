@@ -1,0 +1,16 @@
+header {
+  position: relative;
+  min-height: 100vh;
+
+  &::before {
+    display: block;
+    content: "";
+    background: url("/assets/img/landing-page-bkg.jpg") no-repeat center center / cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: inherit;
+    z-index: -1;
+  }
+}

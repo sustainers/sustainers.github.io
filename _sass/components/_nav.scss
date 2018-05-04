@@ -1,0 +1,35 @@
+.navbar-light {
+  .navbar-nav {
+    .nav-link {
+      color: $yellow;
+      font-size: 1.1rem;
+      font-weight: 700;
+
+      &:hover,
+      &:focus {
+        color: $white;
+      }
+    }
+
+    & .active > .nav-link,
+    &.nav-link.active,
+    &.nav-link.show,
+    & .show > .nav-link {
+        color: $white;
+    }
+  }
+
+  .navbar-brand {
+    color: $yellow;
+
+    @media (max-width: 767px) {
+        width: 120px;
+        height: auto;
+    }
+  }
+
+  .navbar-toggler {
+    border-color: $yellow;
+    color: $yellow;
+  }
+}
