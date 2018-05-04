@@ -19,4 +19,10 @@ encoding:           UTF-8
 exclude:
   - Gemfile
   - Gemfile.lock
+  - LICENSE
   - README.md
+  - archives/
+  - assets/ai/
+  - "*.ai"
+  - "*.eps"
+  - "*.ai"
