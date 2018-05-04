@@ -2,13 +2,7 @@
 
 ## Getting started
 
-* Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`", and then run:
-
-  ```shell
-  ruby dk.rb init
-  ruby dk.rb install
-  ```
-
+* Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
 * Run `gem install bundle` and then `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
@@ -22,6 +16,6 @@ If you need help with using GitHub in order to open an issue, sign up for an acc
 
 ## License
 
-[MIT](LICENSE) © 2017 Justin Dorfman and Contributors.
+[MIT](LICENSE) © 2018 Justin Dorfman and Contributors.
 
 If you contribute to this repository, you are agreeing to the License terms and agreeing that an MIT license is appropriate for your contributions.
