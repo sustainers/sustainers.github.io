@@ -1,52 +1,19 @@
-/* This is the stylesheet for the Sustain website. The site is mobile first,
- * laid out primarily with vw. Responsiveness is achieved by:
- *
- *  1. Setting max-width to whatever width would be at 640px, essentially
- *  freezing the growth of the elements at 640px wide.
- *
- *  2. Overriding fonts and paddings in a media query at the end, based on the
- *  same math.
- *
- *
- * The colors are:
- *
- *  - #fff (white)
- *  - #eceff1 (blue-grey-50)
- *  - #30b39f (teal)
- *  - #263238 (blue-grey-900)
- */
-
-* {
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 6.25%; /* now 1 rem = 1 px */
-}
-
 body {
-  margin: 0;
-  padding: 0;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   text-align: center;
-  font: normal 14rem/150% 'Open Sans', sans-serif;
   background-color: #263238;
 }
-
-
 
 a {
   color: #30b39f;
   text-decoration: none;
+
   &:hover,
   &:focus {
     // #207769
     color: darken(#30b39f, 10%);
     text-decoration: none;
   }
-}
-
-.clear {
-  clear: both;
 }
 
 
@@ -85,14 +52,14 @@ a {
 .details {
   background-color: #263238;
   color: #fff;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: "Share Tech Mono", monospace;
   padding: 4vw 0 0;
 }
 
 .banner {
   background-color: #263238;
   color: #fff;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: "Share Tech Mono", monospace;
   padding: 12vw 0;
 
   h1 {
@@ -104,7 +71,7 @@ a {
 .pitch {
   background-color: #30b39f;
   color: #fff;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: "Share Tech Mono", monospace;
   padding: 4vw;
 
   &.empty {
@@ -115,7 +82,7 @@ a {
 .pitch span,
 .sponsors span {
   display: block;
-  font: normal 16rem/150% 'Share Tech Mono', monospace;
+  font-family: "Share Tech Mono", monospace;
   text-transform: uppercase;
 }
 
@@ -126,19 +93,21 @@ a {
 }
 
 .homepage {
-  [class*='col-'] div:nth-child(1),
+  [class*="col-"] div:nth-child(1),
   .cta a, input.btn-email {
     color: #30b39f;
-    font: normal 18rem/100% 'Share Tech Mono', monospace;
+    font-family: "Share Tech Mono", monospace;
     &:hover,
     &:focus {
       // #207769
       color: darken(#30b39f, 10%);
     }
   }
-  [class*='col-'] div:nth-child(2) {
+
+  [class*="col-"] div:nth-child(2) {
     padding: 1vw 16vw;
   }
+
   .nav {
     width: 48vw;    /* two icons */
     max-width: 307.2px;
@@ -163,7 +132,8 @@ a {
       height: auto;
     }
   }
-  li.selected a img {
+
+  li.active a img {
     background-color: #30b39f;
   }
 }
@@ -193,8 +163,6 @@ a {
 }
 
 form.email {
-  // padding: 12vw 0 8vw;
-
   #tlemail {
     padding: 4vw 6vw;
     width: 80%;
@@ -203,7 +171,6 @@ form.email {
   }
 
   input.btn-email {
-    // @extend a;
     @extend .outer-button-link;
     border: 0;
   }
@@ -231,21 +198,9 @@ form.email {
   span {
     color: #30b39f;
   }
-  ul {
-    width: 84vw;    /* 7 sponsors */
-    max-width: 537.6px;
-    margin: 4vw auto 0;
-    padding: 0;
-  }
-  li {
-    width: 12vw;
-    max-width: 76.8px;
-    float: left;
-    list-style-type: none;
-  }
+
   li img {
-    width: 10vw;
-    max-width: 51.2px;
+    width: 50px;
     height: auto;
   }
 }
@@ -260,7 +215,7 @@ form.email {
   font-size: small;
 }
 
-.no-gutter > [class*='col-'] {
+.no-gutter > [class*="col-"] {
   padding-right: 0;
   padding-left: 0;
 }
@@ -283,19 +238,6 @@ form.email {
 /* responsiveness */
 
 @media (min-width: 640px) {
-
-  body,
-  .pitch span,
-  .sponsors span {
-    font-size: 16rem;
-    line-height: 150%;
-  }
-  .homepage [class*='col-'] div:nth-child(1),
-  .cta a, input.btn-email {
-    font-size: 20rem;
-    line-height: 150%;
-  }
-
   .details {
     padding: 25.6px 0 0;
   }
@@ -319,9 +261,10 @@ form.email {
   .homepage {
     padding: 51.2px 0 0;
 
-    [class*='col-'] div:nth-child(2) {
+    [class*="col-"] div:nth-child(2) {
       padding: 6.4px 22vw;
     }
+
     .nav {
       margin: 51.2px auto 0;
     }
@@ -369,6 +312,7 @@ form.email {
   .inside-page .nav {
     margin: 0 auto 102.4px;
   }
+
   .inside-page-content {
     max-width: 538px;
     padding: 51.2px 0;
@@ -382,6 +326,7 @@ form.email {
     .inside-page-content {
       max-width: none; /* moar logos! */
     }
+
     .sponsor-form {
       height: 900px;
     }

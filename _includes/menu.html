@@ -1,34 +1,34 @@
 {% assign parts = page.url | split: "/" %}
 <ul class="nav">
-  <li{% if parts.last == 'agenda' %} class="selected"{% endif %}>
+  <li class="nav-item{% if parts.last == 'agenda' %} active{% endif %}">
     <a href="/agenda/">
       <img src="/assets/img/icons/agenda.svg" alt="Agenda logo" width="64" height="64">
       <br>
       Agenda
     </a>
   </li>
-  <li{% if parts.last == 'about' %} class="selected"{% endif %}>
+  <li class="nav-item{% if parts.last == 'about' %} active{% endif %}">
     <a href="/about/">
       <img src="/assets/img/icons/about.svg" alt="About logo" width="64" height="64">
       <br>
       About
     </a>
   </li>
-  <li{% if parts.last == 'sponsor' %} class="selected"{% endif %}>
+  <li class="nav-item{% if parts.last == 'sponsor' %} active{% endif %}">
     <a href="/sponsor/">
       <img src="/assets/img/icons/sponsor.svg" alt="Sponsor logo" width="64" height="64">
       <br>
       Sponsor
     </a>
   </li>
-  <li{% if parts.last == 'code-of-conduct' %} class="selected"{% endif %}>
+  <li class="nav-item{% if parts.last == 'code-of-conduct' %} active{% endif %}">
     <a href="/code-of-conduct/">
       <img src="/assets/img/icons/code-of-conduct.svg" alt="Code of Conduct logo" width="64" height="64">
       <br>
       C.O.C.
     </a>
   </li>
-  <li{% if parts.last == 'diversity' %} class="selected"{% endif %}>
+  <li class="nav-item{% if parts.last == 'diversity' %} active{% endif %}">
     <a href="/diversity/">
       <img src="/assets/img/icons/diversity.svg" alt="Diversity logo" width="64" height="64">
       <br>
