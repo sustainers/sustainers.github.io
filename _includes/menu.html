@@ -1,48 +1,48 @@
 <div class="container">
-  <nav class="navbar navbar-expand-md navbar-light py-5">
-    <a class="navbar-brand d-md-none" href="/">
-      <img class="img-fluid d-block" src="/assets/logo/sustain_uk_vertical.svg" alt="Sustain Logo" width="100" height="89">
-      <span class="sr-only">{{ site.name }}</span>
-    </a>
+    <nav class="navbar navbar-expand-md navbar-light py-5">
+        <a class="navbar-brand d-md-none" href="/">
+            <img class="img-fluid d-block" src="/assets/logo/sustain_uk_vertical.svg" alt="Sustain Logo" width="100" height="89">
+            <span class="sr-only">{{ site.name }}</span>
+        </a>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-left navbar-right" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon">
-            {%- include icons/mobile-menu.svg -%}
-        </span>
-    </button>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-left navbar-right" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+                {%- include icons/mobile-menu.svg -%}
+            </span>
+        </button>
 
-    <div id="navbar-left" class="collapse navbar-collapse mt-3 mt-md-0">
-      <ul class="nav navbar-nav text-center text-md-left">
-        <li class="nav-item mr-lg-4{% if page.slug == 'home' %} active{% endif %}">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item mx-lg-4{% if page.slug == 'tickets' %} active{% endif %}">
-          <a class="nav-link" href="/tickets/">Tickets</a>
-        </li>
-        <li class="nav-item ml-lg-4{% if page.slug == 'venue' %} active{% endif %}">
-          <a class="nav-link" href="/venue/">Venue</a>
-        </li>
-      </ul>
-    </div>
+        <div id="navbar-left" class="collapse navbar-collapse mt-3 mt-md-0">
+            <ul class="nav navbar-nav text-center text-md-left">
+                <li class="nav-item mr-lg-4{% if page.slug == 'home' %} active{% endif %}">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item mx-lg-4{% if page.slug == 'tickets' %} active{% endif %}">
+                    <a class="nav-link" href="/tickets/">Tickets</a>
+                </li>
+                <li class="nav-item ml-lg-4{% if page.slug == 'venue' %} active{% endif %}">
+                    <a class="nav-link" href="/venue/">Venue</a>
+                </li>
+            </ul>
+        </div>
 
-    <a class="navbar-brand mx-auto d-none d-md-inline" href="/">
-      <img class="img-fluid d-block" src="/assets/logo/sustain_uk_vertical.svg" alt="Sustain Logo" width="100" height="89">
-      <span class="sr-only">{{ site.name }}</span>
-    </a>
+        <a class="navbar-brand mx-auto d-none d-md-inline" href="/">
+            <img class="img-fluid d-block" src="/assets/logo/sustain_uk_vertical.svg" alt="Sustain Logo" width="100" height="89">
+            <span class="sr-only">{{ site.name }}</span>
+        </a>
 
-    <div id="navbar-right" class="collapse navbar-collapse">
-      <ul class="nav navbar-nav text-center text-md-left ml-auto">
-        <li class="nav-item mr-lg-4{% if page.slug == 'schedule' %} active{% endif %}">
-          <a class="nav-link" href="/schedule/">Schedule</a>
-        </li>
-        <li class="nav-item mx-lg-4{% if page.slug == 'sponsors' %} active{% endif %}">
-          <a class="nav-link" href="/sponsors/">Sponsors</a>
-        </li>
-        <li class="nav-item ml-lg-4{% if page.slug == 'contact' %} active{% endif %}">
-          <a class="nav-link" href="/contact/">Contact</a>
-        </li>
-      </ul>
-    </div>
+        <div id="navbar-right" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav text-center text-md-left ml-auto">
+                <li class="nav-item mr-lg-4{% if page.slug == 'schedule' %} active{% endif %}">
+                    <a class="nav-link" href="/schedule/">Schedule</a>
+                </li>
+                <li class="nav-item mx-lg-4{% if page.slug == 'sponsors' %} active{% endif %}">
+                    <a class="nav-link" href="/sponsors/">Sponsors</a>
+                </li>
+                <li class="nav-item ml-lg-4{% if page.slug == 'contact' %} active{% endif %}">
+                    <a class="nav-link" href="/contact/">Contact</a>
+                </li>
+            </ul>
+        </div>
 
-  </nav>
+    </nav>
 </div>

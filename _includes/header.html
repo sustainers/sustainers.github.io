@@ -1,39 +1,39 @@
 <!doctype html>
 <html lang="en" class="no-js" prefix="og: http://ogp.me/ns#">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    {%- capture title -%}
-      Sustain — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}
+        {%- capture title -%}
+            Sustain — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}
+        {%- endcapture -%}
+        <title>{{ title }}</title>
+
+        {%- capture meta_description -%}
+            {% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif%}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '    ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}
+        {%- endcapture -%}
+        <meta name="description" content="{{ meta_description }}">
+        <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+        <meta name="referrer" content="strict-origin-when-cross-origin">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+        <link rel="stylesheet" href="/assets/css/style.css">
+
+        {%- include head/favicons.html -%}
+
+        {%- include head/social.html -%}
+    </head>
+
+    {%- capture body_class -%}
+        layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% endif %}
     {%- endcapture -%}
-    <title>{{ title }}</title>
+    <body class="{{ body_class }}">
 
-    {%- capture meta_description -%}
-      {% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif%}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}
-    {%- endcapture -%}
-    <meta name="description" content="{{ meta_description }}">
-    <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-    <meta name="referrer" content="strict-origin-when-cross-origin">
+        <header class="mast-header d-flex flex-column">
+            {%- include menu.html -%}
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-    <link rel="stylesheet" href="/assets/css/style.css">
-
-    {%- include head/favicons.html -%}
-
-    {%- include head/social.html -%}
-  </head>
-
-  {%- capture body_class -%}
-    layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% endif %}
-  {%- endcapture -%}
-  <body class="{{ body_class }}">
-
-    <header class="mast-header d-flex flex-column">
-      {%- include menu.html -%}
-
-      {%- if page.slug == 'home' -%}
-        {%- include home/hero.html -%}
-      {%- endif %}
-    </header>
+            {%- if page.slug == 'home' -%}
+                {%- include home/hero.html -%}
+            {%- endif %}
+        </header>
