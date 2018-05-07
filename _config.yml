@@ -4,6 +4,7 @@ description:        a one day conversation for open source software sustainers
 markdown:           kramdown
 
 plugins:
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 # permalinks
