@@ -12,16 +12,16 @@ sitemap: false
 
 <h2 id="pages">Pages (sorted by URL)</h2>
 
-{% assign sorted_pages = site.html_pages | sort: 'url' %}
+{%- assign sorted_pages = site.html_pages | sort: 'url' -%}
 
-{% for page in sorted_pages %}
-    {% if forloop.first %}
+{%- for page in sorted_pages -%}
+    {%- if forloop.first -%}
     <ul>
-    {% endif %}
-    {% unless page.sitemap == false %}
+    {%- endif -%}
+    {%- unless page.sitemap == false -%}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endunless %}
-    {% if forloop.last %}
+    {%- endunless -%}
+    {%- if forloop.last -%}
     </ul>
-    {% endif %}
-{% endfor %}
+    {%- endif -%}
+{%- endfor -%}
