@@ -1,5 +1,6 @@
 {
-    "name": "Sustain",
+    "name": "SustainOSS",
+    "short_name": "SustainOSS",
     "icons": [
         {
             "src": "/assets/img/favicons/android-chrome-192x192.png",
