@@ -1,0 +1,10 @@
+.top-horizontal-line {
+    &::before {
+        background-color: $white;
+        content: '';
+        display: block;
+        margin-bottom: 0.5rem;
+        width: 20%;
+        height: 2px;
+    }
+}
