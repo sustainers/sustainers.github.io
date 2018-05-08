@@ -1,9 +1,13 @@
 .header-hero {
-    background: url("/assets/img/landing-page-bkg.jpg") no-repeat center center / cover;
-    min-height: 100vh;
+    background: url("/assets/img/landing-page-bkg-small.jpg") no-repeat center center / cover;
+    min-height: 80vh;
 
     @media (max-width: 767px) and (orientation: landscape) {
-        min-height: 500px;
+        min-height: 350px;
+    }
+
+    @media (min-width: 768px) {
+        background-image: url("/assets/img/landing-page-bkg.jpg");
     }
 
     h1 {
