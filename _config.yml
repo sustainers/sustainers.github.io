@@ -24,6 +24,7 @@ exclude:
   - README.md
   - archives/
   - assets/ai/
+  - assets/logo/
   - "*.ai"
   - "*.eps"
 
