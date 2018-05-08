@@ -29,11 +29,10 @@
         layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% endif %}
     {%- endcapture -%}
     <body class="{{ body_class }}">
-
-        <header class="mast-header d-flex flex-column">
+        <header class="mast-header">
             {%- include menu.html -%}
-
-            {%- if page.slug == 'home' -%}
-                {%- include home/hero.html -%}
-            {%- endif %}
         </header>
+
+        {%- if page.slug == 'home' -%}
+            {%- include home/hero.html -%}
+        {%- endif %}

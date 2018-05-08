@@ -1,5 +1,18 @@
 .header-hero {
+    background: url("/assets/img/landing-page-bkg.jpg") no-repeat center center / cover;
+    min-height: 100vh;
+
+    @media (max-width: 767px) and (orientation: landscape) {
+        min-height: 500px;
+    }
+
     h1 {
         line-height: $header-hero-line-height;
+    }
+
+    .display-4 {
+        @media (max-width: 767px) {
+            font-size: 3rem;
+        }
     }
 }

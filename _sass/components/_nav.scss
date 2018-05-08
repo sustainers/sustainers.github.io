@@ -1,11 +1,7 @@
 .navbar-light {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-
     .navbar-nav {
         .nav-link {
             color: $yellow;
-            font-size: 1.1rem;
             font-weight: 700;
 
             &:hover,
@@ -24,11 +20,6 @@
 
     .navbar-brand {
         color: $yellow;
-
-        @media (max-width: 767px) {
-            width: 120px;
-            height: auto;
-        }
     }
 
     .navbar-toggler {
