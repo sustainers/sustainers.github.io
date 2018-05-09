@@ -8,79 +8,70 @@ redirect_from:
 
 # Schedule
 
-“Sustain” will be a one day conversation for open source software
-sustainers. There will be no keynotes, expo halls, or talks. Only
-discussions and ideas about getting and distributing money or in-kind
-services to the Open Source community. We will be building the outcomes
-and agenda of the day together with the sustainers that will be
-participating.
-
-Co-organizers [Justin Dorfman](https://twitter.com/jdorfman),
-[Chad Whitacre](https://twitter.com/whit537), and
-[Pia Mancini](https://twitter.com/piamancini) will lead the plenary
-sessions and facilitate lively discussions among participants. The
-agenda can (or not) look like this:
+The schedule is still being edited by [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner),
+our awesome facilitator. Subscribe to our newsletter or follow us on [Twitter](https://github.com/sustainers)
+for updates.
 
 <div class="table-responsive">
     <table class="table table-hover table-striped table-bordered">
-        <thead>
+        <thead class="thead-dark text-center">
             <tr>
-                <th>Time</th>
-                <th>Activity</th>
+                <th scope="col">Time</th>
+                <th scope="col">Activity</th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>8:00am</td>
-                <td><strong>Registration and light breakfast</strong></td>
+                <td>Registration and light breakfast</td>
             </tr>
             <tr>
-                <td>09:00am</td>
-                <td><strong>Opening Session</strong></td>
+                <td>9:00am</td>
+                <td>Opening Session</td>
             </tr>
             <tr>
                 <td>9:30am</td>
-                <td><strong>Interactive Plenary</strong></td>
+                <td>Interactive Plenary</td>
             </tr>
             <tr>
                 <td>10:30am</td>
-                <td><strong>Break</strong></td>
+                <td>Break</td>
             </tr>
             <tr>
                 <td>10:45pm</td>
-                <td><strong>Agenda Hacking</strong></td>
+                <td>Agenda Hacking</td>
             </tr>
             <tr>
                 <td>11:15am</td>
-                <td><strong>Collaborative Working Sessions</strong></td>
+                <td>Collaborative Working Sessions</td>
             </tr>
             <tr>
                 <td>12:45pm</td>
-                <td><strong>Lunch</strong></td>
+                <td>Lunch</td>
             </tr>
             <tr>
                 <td>1:45pm</td>
-                <td><strong>Collaborative Working Sessions</strong></td>
+                <td>Collaborative Working Sessions</td>
             </tr>
             <tr>
                 <td>3:15pm</td>
-                <td><strong>Break</strong></td>
+                <td>Break</td>
             </tr>
             <tr>
                 <td>3:30pm</td>
-                <td><strong>Mapping Where From Here</strong></td>
+                <td>Mapping Where From Here</td>
             </tr>
             <tr>
                 <td>4:15pm</td>
-                <td><strong>Closing Plenary</strong></td>
+                <td>Closing Plenary</td>
             </tr>
             <tr>
                 <td>5:00pm</td>
-                <td><strong>Adjourn</strong></td>
+                <td>Adjourn</td>
             </tr>
             <tr>
                 <td>5:30pm</td>
-                <td><strong>🍻 Happy Hour🍻</strong></td>
+                <td>🍻 Happy Hour🍻</td>
             </tr>
         </tbody>
     </table>
