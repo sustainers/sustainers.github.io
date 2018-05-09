@@ -10,9 +10,9 @@ slug: code-of-conduct
 
 ### Short Version
 
-The Sustain  is dedicated to a safe, inclusive, welcoming, and harassment-free  experience for everyone.
+The Sustain is dedicated to a safe, inclusive, welcoming, and harassment-free experience for everyone.
 
-All attendees, speakers, sponsors and volunteers at Sustain  are required to abide by the code of conduct.
+All attendees, speakers, sponsors and volunteers at Sustain are required to abide by the code of conduct.
 
 ### Need Help?
 
@@ -24,11 +24,11 @@ Contact the organizers directly:
 
 ### Long Version
 
-A primary goal of Sustain  is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+A primary goal of Sustain is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in Sustain  to help us create safe and positive experiences for everyone.
+We invite all those who participate in Sustain to help us create safe and positive experiences for everyone.
 
 ### Open Citizenship
 
