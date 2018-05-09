@@ -1,0 +1,10 @@
+a.bg-black-soss:focus,
+a.bg-black-soss:hover,
+button.bg-black-soss:focus,
+button.bg-black-soss:hover {
+    background-color: lighten($black, 20%);
+}
+
+.btn-round {
+    border-radius: 1.5rem; // 2x0.75, which is .btn's horizontal padding
+}

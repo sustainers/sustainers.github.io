@@ -6,13 +6,24 @@
         background-color: $footer-top-background;
     }
 
-    .social-list .feather {
-        width: 30px;
-        height: 30px;
+    .footer-bottom {
+        a {
+            text-decoration: underline;
+        }
+    }
+
+    .social-list {
+        .feather {
+            width: 30px;
+            height: 30px;
+        }
     }
 
     a {
         color: inherit;
-        font-weight: 700;
+
+        &:hover {
+            color: $green;
+        }
     }
 }
