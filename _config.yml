@@ -25,4 +25,10 @@ exclude:
   - assets/ai/
   - "*.ai"
   - "*.eps"
-  - "*.ai"
+
+defaults:
+  -
+    scope:
+      path:         "assets/**/*.pdf"
+    values:
+      sitemap:      false
