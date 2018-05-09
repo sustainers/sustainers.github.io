@@ -30,10 +30,6 @@ This event is for anyone who cares about sustainability in open source. This mig
 
 As Nadia Eghbal has reported in “[Roads and Bridges](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/): The Unseen Labor Behind Our Digital Infrastructure” sustaining our digital infrastructure is a new topic for many, and the challenges are not well understood. This conversation will bring together those who evangelize and passionately advocate for open source contributors needs.
 
-### I have more questions
-
-In that case, check out the [FAQ](/faq).
-
 ### Slack
 
 * [https://changelog.com/community](https://changelog.com/community)
