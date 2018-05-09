@@ -15,8 +15,8 @@
         {%- assign page_slug = page_url | split: '/' | last | default: page.slug -%}
 
         {%- for menu in site.data.menu -%}
-        {%- if menu.name == 'navbar-left' -%}
-        <div id="navbar-left" class="collapse navbar-collapse">
+        {%- if menu.name contains 'navbar' -%}
+        <div id="{{ menu.name }}" class="collapse navbar-collapse">
             <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
                 {%- for item in menu.pages -%}
                 {%- assign link_slug = item.title | slugify -%}
@@ -34,30 +34,13 @@
                 {%- endfor -%}
             </div>
         </div>
-        {%- endif -%}
-        {%- endfor -%}
 
+        {%- if forloop.first -%}
         <a class="navbar-brand m-0 d-none d-md-flex mx-md-5" href="/">
             <img src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="70" height="57">
             <span class="sr-only">{{ site.name }}</span>
         </a>
-
-        {%- for menu in site.data.menu -%}
-        {%- if menu.name == 'navbar-right' -%}
-        <div id="navbar-right" class="collapse navbar-collapse">
-            <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
-                {%- for item in menu.pages -%}
-                {%- assign link_slug = item.title | slugify -%}
-                {%- assign active = nil -%}
-
-                {%- if page_slug == link_slug -%}
-                  {%- assign active = 'active' -%}
-                {%- endif -%}
-
-                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{{ site.baseurl }}/{{ link_slug }}{% if link_slug %}/{% endif %}">{{ item.title }}</a>
-                {%- endfor -%}
-            </div>
-        </div>
+        {%- endif -%}
         {%- endif -%}
         {%- endfor -%}
 
