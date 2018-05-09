@@ -11,7 +11,7 @@
         }
 
         & .active > .nav-link,
-        &.nav-link.active,
+        & .nav-link.active,
         &.nav-link.show,
         & .show > .nav-link {
             color: $white;
