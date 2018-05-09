@@ -1,0 +1,13 @@
+# Holds the navbar menu items
+
+- name: navbar-left
+  pages:
+    - title: Home
+    - title: Tickets
+    - title: Venue
+
+- name: navbar-right
+  pages:
+    - title: Schedule
+    - title: Sponsors
+    - title: Contact

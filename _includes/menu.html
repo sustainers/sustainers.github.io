@@ -11,38 +11,59 @@
             </span>
         </button>
 
+        {%- assign page_url = page.url -%}
+        {%- assign page_slug = page_url | split: '/' | last | default: page.slug -%}
+
+        {%- for menu in site.data.menu -%}
+        {%- if menu.name == 'navbar-left' -%}
         <div id="navbar-left" class="collapse navbar-collapse">
             <ul class="nav navbar-nav text-center text-md-left">
-                <li class="nav-item mr-lg-4{% if page.slug == 'home' %} active{% endif %}">
-                    <a class="nav-link" href="/">Home</a>
+                {%- for item in menu.pages -%}
+                {%- assign link_slug = item.title | slugify -%}
+                {%- assign active = nil -%}
+
+                {%- if page_slug == link_slug -%}
+                    {%- assign active = 'active' -%}
+                {%- endif -%}
+
+                {%- if item.title == 'Home' -%}
+                    {%- assign link_slug = nil -%}
+                {%- endif -%}
+
+                <li class="nav-item mx-lg-4{% unless active == nil %} {{ active }}{% endunless %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}">{{ item.title }}</a>
                 </li>
-                <li class="nav-item mx-lg-4{% if page.slug == 'tickets' %} active{% endif %}">
-                    <a class="nav-link" href="/tickets/">Tickets</a>
-                </li>
-                <li class="nav-item ml-lg-4{% if page.slug == 'venue' %} active{% endif %}">
-                    <a class="nav-link" href="/venue/">Venue</a>
-                </li>
+                {%- endfor -%}
             </ul>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
 
         <a class="navbar-brand mx-auto d-none d-md-inline" href="/">
             <img class="img-fluid d-block" src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="80" height="65">
             <span class="sr-only">{{ site.name }}</span>
         </a>
 
+        {%- for menu in site.data.menu -%}
+        {%- if menu.name == 'navbar-right' -%}
         <div id="navbar-right" class="collapse navbar-collapse">
             <ul class="nav navbar-nav text-center text-md-left ml-auto">
-                <li class="nav-item mr-lg-4{% if page.slug == 'schedule' %} active{% endif %}">
-                    <a class="nav-link" href="/schedule/">Schedule</a>
+                {%- for item in menu.pages -%}
+                {%- assign link_slug = item.title | slugify -%}
+                {%- assign active = nil -%}
+
+                {%- if page_slug == link_slug -%}
+                  {%- assign active = 'active' -%}
+                {%- endif -%}
+
+                <li class="nav-item mx-lg-4{% unless active == nil %} {{ active }}{% endunless %}">
+                    <a class="nav-link" href="{{ site.baseurl }}/{{ link_slug }}{% if link_slug %}/{% endif %}">{{ item.title }}</a>
                 </li>
-                <li class="nav-item mx-lg-4{% if page.slug == 'sponsors' %} active{% endif %}">
-                    <a class="nav-link" href="/sponsors/">Sponsors</a>
-                </li>
-                <li class="nav-item ml-lg-4{% if page.slug == 'contact' %} active{% endif %}">
-                    <a class="nav-link" href="/contact/">Contact</a>
-                </li>
+                {%- endfor -%}
             </ul>
         </div>
+        {%- endif -%}
+        {%- endfor -%}
 
     </div>
 </nav>
