@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-light bg-pink-soss fixed-top text-uppercase">
-    <div class="container">
+    <div class="container justify-content-between">
         <a class="navbar-brand d-md-none" href="/">
             <img class="img-fluid d-block" src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="70" height="56">
             <span class="sr-only">{{ site.name }}</span>
@@ -17,7 +17,7 @@
         {%- for menu in site.data.menu -%}
         {%- if menu.name == 'navbar-left' -%}
         <div id="navbar-left" class="collapse navbar-collapse">
-            <ul class="nav navbar-nav text-center text-md-left">
+            <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
                 {%- for item in menu.pages -%}
                 {%- assign link_slug = item.title | slugify -%}
                 {%- assign active = nil -%}
@@ -30,16 +30,14 @@
                     {%- assign link_slug = nil -%}
                 {%- endif -%}
 
-                <li class="nav-item mx-lg-4{% unless active == nil %} {{ active }}{% endunless %}">
-                    <a class="nav-link" href="{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}">{{ item.title }}</a>
-                </li>
+                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}">{{ item.title }}</a>
                 {%- endfor -%}
-            </ul>
+            </div>
         </div>
         {%- endif -%}
         {%- endfor -%}
 
-        <a class="navbar-brand mx-auto d-none d-md-inline" href="/">
+        <a class="navbar-brand m-0 d-none d-md-flex mx-md-5" href="/">
             <img class="img-fluid d-block" src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="80" height="65">
             <span class="sr-only">{{ site.name }}</span>
         </a>
@@ -47,7 +45,7 @@
         {%- for menu in site.data.menu -%}
         {%- if menu.name == 'navbar-right' -%}
         <div id="navbar-right" class="collapse navbar-collapse">
-            <ul class="nav navbar-nav text-center text-md-left ml-auto">
+            <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
                 {%- for item in menu.pages -%}
                 {%- assign link_slug = item.title | slugify -%}
                 {%- assign active = nil -%}
@@ -56,11 +54,9 @@
                   {%- assign active = 'active' -%}
                 {%- endif -%}
 
-                <li class="nav-item mx-lg-4{% unless active == nil %} {{ active }}{% endunless %}">
-                    <a class="nav-link" href="{{ site.baseurl }}/{{ link_slug }}{% if link_slug %}/{% endif %}">{{ item.title }}</a>
-                </li>
+                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{{ site.baseurl }}/{{ link_slug }}{% if link_slug %}/{% endif %}">{{ item.title }}</a>
                 {%- endfor -%}
-            </ul>
+            </div>
         </div>
         {%- endif -%}
         {%- endfor -%}
