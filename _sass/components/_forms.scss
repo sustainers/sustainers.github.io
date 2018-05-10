@@ -1,0 +1,8 @@
+.google-form {
+    width: 100%;
+    min-height: 500px;
+
+    @media (min-width: 768px) {
+        min-height: 700px;
+    }
+}
