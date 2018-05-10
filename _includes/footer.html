@@ -70,6 +70,12 @@
             </div>
         </footer>
 
+        {%- if page.slug == "contact" -%}
+        <script>
+        {%- include assets/contactForm.js -%}
+        </script>
+        {%- endif -%}
+
         {%- include google-analytics.html -%}
     </body>
 </html>

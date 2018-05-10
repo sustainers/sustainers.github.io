@@ -1,0 +1,35 @@
+---
+layout: default
+title: Contact
+slug: contact
+---
+
+<iframe class="d-none" name="hiddenIframe" width="0" height="0"></iframe>
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-10 col-lg-8 col-xl-6">
+        <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeAcGTNySryzMXLPCq6TRjE0Dp8F4VqJ09ljNTwyBGjLcYJDg/formResponse" method="post" target="hiddenIframe">
+            <div class="form-group">
+                <label for="contactFormEmail">Email address</label>
+                <input type="email" class="form-control" id="contactFormEmail" aria-describedby="emailHelp" name="emailAddress" placeholder="Enter email" required>
+                <small id="emailHelp" class="form-text text-muted">We’ll never share your email with anyone else.</small>
+            </div>
+            <div class="form-group">
+                <label for="contactFormName">First & last name</label>
+                <input type="text" class="form-control" id="contactFormName" name="entry.1960205206" placeholder="John Doe" required>
+            </div>
+            <div class="form-group">
+                <label for="contactFormMessage">Message</label>
+                <textarea class="form-control" id="contactFormMessage" name="entry.1471483391" rows="5" required></textarea>
+            </div>
+            <div class="form-group">
+                <div class="form-group form-check">
+                    <input name="entry.425603635_sentinel" type="hidden">
+                    <input type="checkbox" class="form-check-input" id="contactFormNewsletter" name="entry.425603635">
+                    <label class="form-check-label" for="contactFormNewsletter">Join newsletter</label>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary" id="contactFormSubmit">Submit</button>
+        </form>
+    </div>
+</div>
