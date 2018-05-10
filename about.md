@@ -4,41 +4,34 @@ title: About
 slug: about
 ---
 
-## About
+## About Sustain
 
-### What
+It all started with a [tweet](https://twitter.com/jdorfman/status/801558965423222784) in November 2016.
+Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
+think about the sustainability of open source software.
 
-"Sustain" will be a one day conversation for open source software sustainers. There will be no keynotes, expo halls or talks. Only a guided discussion and concrete ideas about getting and distributing money or in-kind services to the Open Source community.
+<img class="d-block img-fluid mx-auto" src="/assets/img/about-img.jpg" alt="SustainSF 2017" title="SustainSF 2017" width="800" height="533">
 
-### Who
+After the event, a [report](/assets/pdf/SustainOSS-west-2017-report.pdf) was written and a definition
+was born, sustainer—the individual or organization who is concerned with the fragile state and future
+of highly-used and impactful open source projects. If that sounds like something you identify with,
+you should [join us](/tickets/).
 
-This event is for anyone who cares about sustainability in open source. This might be you if:
+Sustain events are led by a facilitator. There are no keynotes, talks, or sponsor demos.
+Your undivided attention is **required**. Phones and laptops should not be used throughout the day
+and you will be asked to put devices away if they are a distraction to you or anyone else.
 
-- You evangelize and passionately advocate for the needs of open source contributors.
+This years organizers are:
 
-- You educate the public through blog posts, talks & social media about the digital infrastructure that they use everyday and for the most part, take for granted.
+* [Pia Mancini](https://www.piamancini.com/) - pia at sustainoss.org
+* [Justin Dorfman](https://www.justindorfman.com/) - jd at sustainoss.org
 
-- You convince your employer to donate money, infrastructure, goods and/or services to the community at large.
+This years facilitator is:
 
-- You talk to companies that you don't work for about the benefits of sustaining open source for the future.
+* [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner)
 
-[Allen "Gunner" Gunn](https://aspirationtech.org/about/people/gunner) from AspirationTech will facilitate our conversation.
-
-> The common thread that connects all facets of Gunner's work is a focus on open approaches to capacity building and knowledge sharing in social change efforts. Aspiration prioritizes work that supports and contributes to open communities of practice who create technology and content that benefit nonprofit and foundation efforts. The organization has designed and facilitated almost [500 extremely open learning and knowledge sharing events](https://aspirationtech.org/events/history), in over 40 countries across the globe, predicated on [a philosophy of active participation](https://aspirationtech.org/papers/creating_participatory_events) that puts each participant "in control of their own destiny", in contrast to approaches that place audiences in passive listening roles.
-
-### Why
-
-As Nadia Eghbal has reported in "[Roads and Bridges](https://www.fordfoundation.org/library/reports-and-studies/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/): The Unseen Labor Behind Our Digital Infrastructure" sustaining our digital infrastructure is a new topic for many, and the challenges are not well understood. This conversation will bring together those who evangelize and passionately advocate for open source contributors needs.
-
-### Slack
-
-* [https://changelog.com/community](https://changelog.com/community)
-* channel: #sustain
-
-### Twitter
-
-* [@sustainoss](https://twitter.com/SustainOSS)
-
-### GitHub
-
-* [https://github.com/sustainers/](https://github.com/sustainers/)
+You may contact them if you have any questions or concerns.
+You can also join us on [Changelog's Community Slack](https://changelog.com/community) (#sustain)
+or [Twitter](https://twitter.com/SustainOSS).
+This year's hashtags are: [#sustainuk18](https://twitter.com/search?l=&q=%23sustainuk18) &
+[#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
