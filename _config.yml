@@ -28,6 +28,12 @@ exclude:
   - "*.ai"
   - "*.eps"
 
+assets:
+  jquery: "https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  jquery_integrity: "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+  bootstrapBundle: "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js"
+  bootstrapBundleIntegrity: "sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9"
+
 defaults:
   -
     scope:
