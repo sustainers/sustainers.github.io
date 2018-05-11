@@ -8,29 +8,32 @@
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-6 col-lg-3 my-3 my-lg-0">
+                    <div class="row justify-content-center">
+                        {%- comment -%}
+                            COLUMN_ITEMS is the number of items per footer column
+                            MAX_MODULO is just COLUMN_ITEMS - 1
+                        {%- endcomment -%}
+
+                        {%- assign COLUMN_ITEMS = 4 -%}
+                        {%- assign MAX_MODULO = COLUMN_ITEMS | minus: 1 -%}
+                        {%- for menu in site.data.menu -%}
+                            {%- if menu.name != 'footer' -%}
+                                {%- continue -%}
+                            {%- endif -%}
+
+                        {%- for item in menu.pages -%}
+                            {%- assign mod = forloop.index0 | modulo: COLUMN_ITEMS -%}
+                            {%- if forloop.first or mod == 0 -%}
+                        <div class="col-6 col-lg-{{ MAX_MODULO }} my-3 my-lg-0">
                             <ul class="list-unstyled top-horizontal-line">
-                                <li><a href="/tickets/">Tickets</a></li>
-                                <li><a href="/venue/">Venue</a></li>
-                                <li><a href="/schedule/">Schedule</a></li>
-                                <li><a href="/sponsors/">Sponsors</a></li>
+                            {%- endif -%}
+                                <li><a href="/{{ item.title | slugify }}/">{{ item.title }}</a></li>
+                            {%- if forloop.last or mod == MAX_MODULO -%}
                             </ul>
                         </div>
-                        <div class="col-6 col-lg-3 my-3 my-lg-0">
-                            <ul class="list-unstyled top-horizontal-line">
-                                <li><a href="/about/">About</a></li>
-                                <li><a href="/contact/">Contact</a></li>
-                                <li><a href="/code-of-conduct/">Code of Conduct</a></li>
-                                <li><a href="/diversity/">Diversity</a></li>
-                            </ul>
-                        </div>
-                        <div class="col-6 col-lg-3 my-3 my-lg-0">
-                            <ul class="list-unstyled top-horizontal-line">
-                                <li><a href="/terms/">Terms</a></li>
-                                <li><a href="/privacy/">Privacy</a></li>
-                            </ul>
-                        </div>
+                            {%- endif -%}
+                        {%- endfor -%}
+                        {%- endfor -%}
 
                         <div class="col-6 col-lg-3 my-3 my-lg-0">
                             <ul class="list-unstyled list-inline social-list mt-2">

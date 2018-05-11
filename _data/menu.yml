@@ -1,4 +1,4 @@
-# Holds the navbar menu items
+# Holds the menu items
 
 - name: navbar-left
   pages:
@@ -11,3 +11,16 @@
     - title: Schedule
     - title: Sponsors
     - title: Contact
+
+- name: footer
+  pages:
+    - title: Tickets
+    - title: Venue
+    - title: Schedule
+    - title: Sponsors
+    - title: About
+    - title: Contact
+    - title: Code of Conduct
+    - title: Diversity
+    - title: Terms
+    - title: Privacy
