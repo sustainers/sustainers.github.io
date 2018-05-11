@@ -2,7 +2,12 @@ a.bg-black-soss:focus,
 a.bg-black-soss:hover,
 button.bg-black-soss:focus,
 button.bg-black-soss:hover {
-    background-color: lighten($black, 20%);
+    background-color: lighten($black, 20%) !important;
+}
+
+a.bg-black-soss:focus,
+a.bg-black-soss:hover {
+    color: darken($yellow, 10%);
 }
 
 .btn-round {
