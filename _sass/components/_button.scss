@@ -1,15 +1,25 @@
-a.bg-black-soss:focus,
-a.bg-black-soss:hover,
-button.bg-black-soss:focus,
-button.bg-black-soss:hover {
+.btn.bg-black-soss:focus,
+.btn.bg-black-soss:hover {
     background-color: lighten($black, 20%) !important;
-}
-
-a.bg-black-soss:focus,
-a.bg-black-soss:hover {
     color: darken($yellow, 10%);
 }
 
 .btn-round {
     border-radius: 1.5rem; // 2x0.75, which is .btn's horizontal padding
+}
+
+.btn-outline-yellow {
+    background-color: transparent;
+    border-color: $yellow;
+    color: $yellow;
+
+    &:focus,
+    &:hover {
+        box-shadow: 0 0 0 0.2rem rgba(255, 252, 0, 0.25);
+    }
+
+    &:hover {
+        background-color: darken($yellow, 20%);
+        color: $black;
+    }
 }

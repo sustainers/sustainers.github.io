@@ -1,0 +1,59 @@
+$item_width: percentage(1 / 3);
+
+@media (min-width: 768px) {
+    .carousel-show-three {
+        img {
+            max-width: 400px;
+            height: auto;
+        }
+
+        .carousel-inner {
+            max-width: 90%;
+        }
+
+        .carousel-control-prev,
+        .carousel-control-next {
+            width: 5%;
+        }
+
+        .carousel-item-next,
+        .carousel-item-prev,
+        .carousel-item.active {
+             display: -ms-flexbox;
+             display: flex;
+        }
+
+        .carousel-item-next.carousel-item-left,
+        .carousel-item-prev.carousel-item-right {
+             -webkit-transform: translateX(0);
+             transform: translateX(0);
+        }
+
+        @supports ((-webkit-transform-style: preserve-3d) or (transform-style: preserve-3d)) {
+            -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+        }
+
+        .carousel-item-next,
+        .active.carousel-item-right {
+            -webkit-transform: translateX($item_width);
+            transform: translateX($item_width);
+
+            @supports ((-webkit-transform-style: preserve-3d) or (transform-style: preserve-3d)) {
+                -webkit-transform: translate3d($item_width, 0, 0);
+                transform: translate3d($item_width, 0, 0);
+            }
+        }
+
+        .carousel-item-prev,
+        .active.carousel-item-left {
+            -webkit-transform: translateX(-$item_width);
+            transform: translateX(-$item_width);
+
+            @supports ((-webkit-transform-style: preserve-3d) or (transform-style: preserve-3d)) {
+                -webkit-transform: translate3d(-$item_width, 0, 0);
+                transform: translate3d(-$item_width, 0, 0);
+            }
+        }
+    }
+}
