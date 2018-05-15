@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-light bg-purple-soss fixed-top text-uppercase">
-    <div class="container justify-content-between">
+    <div class="container">
         <a class="navbar-brand d-md-none" href="/">
             <img src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="70" height="57">
             <span class="sr-only">{{ site.name }}</span>
@@ -16,7 +16,7 @@
 
         {%- for menu in site.data.menu -%}
         {%- if menu.name contains 'navbar' -%}
-        <div id="{{ menu.name }}" class="collapse navbar-collapse">
+        <div id="{{ menu.name }}" class="collapse navbar-collapse {{ menu.name }}">
             <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
                 {%- for item in menu.pages -%}
                 {%- assign link_slug = item.title | slugify -%}
@@ -36,7 +36,7 @@
         </div>
 
         {%- if forloop.first -%}
-        <a class="navbar-brand m-0 d-none d-md-flex mx-md-5" href="/">
+        <a class="navbar-brand m-0 d-none d-md-flex justify-content-center" href="/">
             <img src="/assets/img/sustain_uk_vertical.svg" alt="Sustain Logo" width="70" height="57">
             <span class="sr-only">{{ site.name }}</span>
         </a>
