@@ -17,6 +17,26 @@
         }
     }
 
+    @media (min-width: 768px) {
+        .nav-link::after,
+        .active > .nav-link::after {
+            background-color: $white;
+            content: "";
+            display: block;
+            margin-top: 4px;
+            transition: width 0.2s ease;
+            width: 0;
+            height: 1px;
+        }
+
+        .nav-link:hover::after,
+        .nav-link:focus::after,
+        .active > .nav-link::after,
+        .active > .nav-link::after {
+            width: 100%;
+        }
+    }
+
     .navbar-brand {
         color: $yellow;
 
