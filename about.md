@@ -10,11 +10,11 @@ It all started with a [tweet](https://twitter.com/jdorfman/status/80155896542322
 Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
 think about the sustainability of open source software.
 
-<img class="d-block img-fluid mx-auto" src="/assets/img/about-img.jpg" alt="SustainSF 2017" title="SustainSF 2017" width="800" height="533">
+<img class="d-block img-fluid mx-auto" src="/assets/img/about-img.jpg" alt="SustainSF 2017" title="SustainSF 2017" width="600" height="333">
 
 After the event, a [report](/assets/pdf/SustainOSS-west-2017-report.pdf) was written and a definition
-was born, sustainer—the individual or organization who is concerned with the fragile state and future
-of highly-used and impactful open source projects. If that sounds like something you identify with,
+was born, "_sustainer—the individual or organization who is concerned with the fragile state and future
+of highly-used and impactful open source projects_". If that sounds like something you identify with,
 you should [join us](/tickets/).
 
 Sustain events are led by a facilitator. There are no keynotes, talks, or sponsor demos.

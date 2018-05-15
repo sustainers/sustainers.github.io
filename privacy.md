@@ -33,8 +33,23 @@ for the following purposes and using the following services:
     * Personal Data: Cookies and various types of Data as specified in the
       privacy policy of the service
 
+### Forms
+
+* TinyLetter/MailChimp _(Newsletter)_
+    * Personal Data: Cookies and various types of Data as specified in the
+      [privacy policy](https://mailchimp.com/legal/privacy/) of the service
+* Google Forms _(Contact Us, Child Care RSVP, & Sponsorship Application)_
+    * Personal Data: Cookies and various types of Data as specified in the
+      [privacy policy](https://policies.google.com/privacy) of the service
+
+### Maps
+
+* Google Maps _(Venue)_
+   * Personal Data: Cookies and various types of Data as specified in the
+     [privacy policy](https://policies.google.com/privacy) of the service
+
 <div class="small">
-    Latest update: April 13, 2018
+    Latest update: May 15, 2018
     <br>
     <span class="text-muted">Privacy Policy generated with <a href="https://www.iubenda.com/en/" target="_blank" rel="noopener">iubenda</a></span>
 </div>

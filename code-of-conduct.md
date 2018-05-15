@@ -18,9 +18,8 @@ All attendees, speakers, sponsors and volunteers at Sustain are required to abid
 
 Contact the organizers directly:
 
-* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or justindorfman at gmail.com
-* Chad Whitacre: [@whit537](https://twitter.com/whit537) or chad at gratipay.com
-* Pia Mancini: [@piamancini](https://twitter.com/piamancini) or pia at opencollective.com
+* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or jd at sustainoss.org
+* Pia Mancini: [@piamancini](https://twitter.com/piamancini) or pia at sustainoss.org
 
 ### Long Version
 
@@ -69,7 +68,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
 * Intimidation, stalking, or following (online or in person)
 * Advocating for, or encouraging, any of the above behavior
-* Sustained disruption of community events, including talks and presentations
+* Disruption of community events, including talks and presentations
 * Harassment
 
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
