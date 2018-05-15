@@ -19,14 +19,14 @@ $item_width: percentage(1 / 3);
         .carousel-item-next,
         .carousel-item-prev,
         .carousel-item.active {
-             display: -ms-flexbox;
-             display: flex;
+            display: -ms-flexbox;
+            display: flex;
         }
 
         .carousel-item-next.carousel-item-left,
         .carousel-item-prev.carousel-item-right {
-             -webkit-transform: translateX(0);
-             transform: translateX(0);
+            -webkit-transform: translateX(0);
+            transform: translateX(0);
         }
 
         @supports ((-webkit-transform-style: preserve-3d) or (transform-style: preserve-3d)) {
