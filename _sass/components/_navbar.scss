@@ -1,3 +1,9 @@
+.navbar {
+     &.bg-purple-soss {
+        border-bottom: 1px solid lighten($purple, 10%);
+     }
+}
+
 .navbar-light {
     .navbar-nav {
         .nav-link {

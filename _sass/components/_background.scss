@@ -8,4 +8,11 @@
 
 .bg-purple-soss {
     background-color: $purple;
+
+    a.text-yellow-soss {
+        &:focus,
+        &:hover {
+            color: darken($yellow, 20%);
+        }
+    }
 }
