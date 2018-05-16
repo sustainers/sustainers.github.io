@@ -10,7 +10,7 @@ It all started with a [tweet](https://twitter.com/jdorfman/status/80155896542322
 Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
 think about the sustainability of open source software.
 
-<img class="d-block img-fluid mx-auto" src="/assets/img/about-img.jpg" alt="SustainSF 2017" title="SustainSF 2017" width="600" height="333">
+<img class="d-block img-fluid mx-auto" src="/assets/img/about-img.jpg" srcset="/assets/img/about-img.jpg 1x, /assets/img/about-img@2x.jpg 2x" alt="SustainSF 2017" title="SustainSF 2017" width="600" height="400">
 
 After the event, a [report](/assets/pdf/SustainOSS-west-2017-report.pdf) was written and a definition
 was born, "_sustainer—the individual or organization who is concerned with the fragile state and future
