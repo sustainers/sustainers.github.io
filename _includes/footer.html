@@ -2,9 +2,9 @@
             <div class="footer-top py-5">
                 <div class="container">
 
-                    <div class="row mb-3 mb-md-4">
+                    <div class="row">
                         <div class="col-12">
-                            <img class="d-block mx-auto ml-lg-0" src="/assets/img/sustain-hor.svg" alt="Sustain Logo" width="180" height="40">
+                            <img class="img-fluid d-block mx-auto mb-3 mb-md-5" src="/assets/img/sustain-hor.svg" alt="Sustain Logo" width="200" height="27">
                         </div>
                     </div>
 
@@ -24,7 +24,7 @@
                         {%- for item in menu.pages -%}
                             {%- assign mod = forloop.index0 | modulo: COLUMN_ITEMS -%}
                             {%- if forloop.first or mod == 0 -%}
-                        <div class="col-6 col-lg-{{ MAX_MODULO }} my-3 my-lg-0">
+                        <div class="col-6 col-lg-{{ MAX_MODULO }} col-xl-2 my-3 my-lg-0">
                             <ul class="list-unstyled top-horizontal-line">
                             {%- endif -%}
                                 <li><a href="/{{ item.title | slugify }}/">{{ item.title }}</a></li>
@@ -64,13 +64,14 @@
 
             <div class="footer-bottom py-4 text-center bg-purple-soss">
                 <div class="container">
-                    <span class="copyright">
+                    <div class="copyright">
                         © {{ site.time | date: '%Y' }} <span>SustainOSS</span> - Unless otherwise noted,
                         content on this site is licensed under a
                         <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC-BY-SA 4.0 License</a>
-                        <br>
+                    </div>
+                    <div class="mt-3">
                         Design by <a href="https://ura.design/" target="_blank" rel="noopener">Ura</a> | Code by <a href="https://github.com/XhmikosR" target="_blank" rel="noopener">XhmikosR</a>
-                    </span>
+                    </div>
                 </div>
             </div>
         </footer>
