@@ -9,7 +9,7 @@ redirect_from:
 # Schedule
 
 The schedule is still being edited by [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner),
-our awesome facilitator. Subscribe to our newsletter or follow us on [Twitter](https://github.com/sustainers)
+our awesome facilitator. Subscribe to our newsletter or follow us on [Twitter]({{ site.params.twitter }})
 for updates.
 
 <div class="table-responsive">

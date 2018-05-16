@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
         {%- capture title -%}
-            SustainUK 2018 — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}
+            {{ site.name }} — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}
         {%- endcapture -%}
         <title>{{ title }}</title>
 

@@ -1,4 +1,4 @@
-name:               Sustain
+name:               SustainUK 2018
 description:        A one day event for Open Source sustainers
 
 markdown:           kramdown
@@ -33,6 +33,14 @@ assets:
   jquery_integrity: "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
   bootstrapBundle: "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js"
   bootstrapBundleIntegrity: "sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9"
+
+params:
+  twitter_handle: "@SustainOSS"
+  twitter: "https://twitter.com/SustainOSS"
+  github: "https://github.com/sustainers"
+  slack: "https://changelog.slack.com/"
+  latitude: 51.5160862
+  longitude: -0.127264
 
 defaults:
   -
