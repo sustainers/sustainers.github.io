@@ -1,5 +1,5 @@
-name:               SustainUK 2018
-description:        A one day event for Open Source sustainers
+name:               "SustainUK 2018"
+description:        "A one day event for Open Source sustainers"
 
 markdown:           kramdown
 
@@ -14,17 +14,21 @@ sass:
   style:            compressed
 
 # server
+source:             "."
+destination:        ./_site/
 port:               8000
-url:                https://sustainoss.org
+url:                "https://sustainoss.org"
 encoding:           UTF-8
+
 exclude:
+  - archives/
+  - assets/ai/
+  - assets/logo/
+  - vendor/
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - archives/
-  - assets/ai/
-  - assets/logo/
   - "*.ai"
   - "*.eps"
 

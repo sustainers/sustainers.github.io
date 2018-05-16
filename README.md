@@ -1,5 +1,7 @@
 # SustainOSS.org Website
 
+[![Linux Build Status](https://img.shields.io/travis/sustainers/website/master.svg?label=Linux%20build)](https://travis-ci.org/sustainers/website)
+
 ## Getting started
 
 * Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
