@@ -10,7 +10,7 @@ slug: contact
 
 <div class="row justify-content-center my-5">
     <div class="col-12 col-md-10 col-lg-8 col-xl-6">
-        <form id="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeAcGTNySryzMXLPCq6TRjE0Dp8F4VqJ09ljNTwyBGjLcYJDg/formResponse" method="post" target="hiddenIframe">
+        <form id="contact-form" class="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeAcGTNySryzMXLPCq6TRjE0Dp8F4VqJ09ljNTwyBGjLcYJDg/formResponse" method="post" target="hiddenIframe">
             <div class="form-group">
                 <label for="contactFormEmail">Email address</label>
                 <input type="email" class="form-control" id="contactFormEmail" aria-describedby="emailHelp" name="emailAddress" placeholder="Enter email" required>
@@ -30,5 +30,8 @@ slug: contact
                 <div class="alert alert-success" role="alert">Thank you, message submitted!</div>
             </div>
         </form>
+        <noscript>
+            <iframe class="google-form" src="https://docs.google.com/forms/d/e/1FAIpQLSeAcGTNySryzMXLPCq6TRjE0Dp8F4VqJ09ljNTwyBGjLcYJDg/viewform?embedded=true" width="700" height="520"></iframe>
+        </noscript>
     </div>
 </div>
