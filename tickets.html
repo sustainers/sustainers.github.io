@@ -92,7 +92,11 @@ slug: tickets
             <div class="carousel-inner mx-auto">
                 {%- for image in site.data.carousel -%}
                 <div class="carousel-item justify-content-around{% if forloop.first %} active{% endif %}">
-                    <img class="d-block img-fluid mx-auto" src="/assets/img/tickets/{{ image }}" alt="" width="400" height="267">
+                    {%- assign temp_str = image | split: "." -%}
+                    {%- assign img_fname = temp_str[0] -%}
+                    {%- assign img_ext = temp_str[1] -%}
+
+                    <img class="d-block img-fluid mx-auto" src="/assets/img/tickets/{{ img_fname }}.{{ img_ext }}" srcset="/assets/img/tickets/{{ img_fname }}.{{ img_ext }} 1x, /assets/img/tickets/{{ img_fname }}@2x.{{ img_ext }} 2x" alt="" width="400" height="267">
                 </div>
                 {%- endfor -%}
             </div>

@@ -1,5 +1,7 @@
 # Images should be placed in /assets/img/tickets/.
-# Make sure they have the same aspect ratio!
+# Add the 2x ones with `@2x` in the filename, like foo.ext and foo@2x.ext.
+# No need to list the 2x images here; they are added automatically.
+# Make sure all the images have the same aspect ratio!
 
 - sustain-sf-2017-IMG_8665.jpg
 - sustain-sf-2017-IMG_8511.jpg
