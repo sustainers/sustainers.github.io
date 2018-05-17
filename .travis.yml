@@ -31,3 +31,6 @@ matrix:
 cache:
   directories:
     - vendor/bundle
+
+notifications:
+  email: false
