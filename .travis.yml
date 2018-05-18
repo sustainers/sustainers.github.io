@@ -17,13 +17,14 @@ rvm:
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - gem install html-proofer
 
 install:
-  - bundle install --retry 3 --clean --path vendor/bundle && htmlproofer _site/
+  - bundle install --retry 3 --clean --path vendor/bundle
+  - gem install html-proofer
 
 script:
   - bundle exec jekyll build
+  - htmlproofer _site/ --empty-alt-ignore
 
 matrix:
   fast_finish: true
