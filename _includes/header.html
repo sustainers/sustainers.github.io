@@ -49,6 +49,8 @@
             {%- include assets/loadjs.min.js -%}
 
             var googleFont = 'https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono';
+            var cookieConsentCss = '{{ site.assets.cookieConsent.css }}';
+            var cookieConsentJs = '{{ site.assets.cookieConsent.js }}';
             var jquery = '{{ site.assets.jquery }}';
             var jqueryIntegrity = '{{ site.assets.jquery_integrity }}';
             var bootstrapBundle = '{{ site.assets.bootstrapBundle }}';
@@ -66,7 +68,7 @@
                 {%- assign bundleItems = baseBundleItems -%}
             {%- endif -%}
 
-            loadjs(['css!' + googleFont]);
+            loadjs(['css!' + googleFont, 'css!' + cookieConsentCss]);
             loadjs([{{ bundleItems }}], 'jsBundle', {
                 async: false,
                 before: function(path, scriptEl) {
@@ -76,6 +78,27 @@
                         scriptEl.integrity = bootstrapIntegrity;
                     }
                     scriptEl.crossOrigin = true;
+                }
+            });
+            loadjs(cookieConsentJs, 'cookieConsent', {
+                success: function() {
+                    window.addEventListener('load', function() {
+                      window.cookieconsent.initialise({
+                        'palette': {
+                          'popup': {
+                            'background': '#000'
+                          },
+                          'button': {
+                            'background': 'transparent',
+                            'text': '#f1d600',
+                            'border': '#f1d600'
+                          }
+                        },
+                        'content': {
+                          'href': '/privacy/'
+                        }
+                      })
+                    });
                 }
             });
         </script>

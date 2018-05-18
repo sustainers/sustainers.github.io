@@ -33,6 +33,9 @@ exclude:
   - "*.eps"
 
 assets:
+  cookieConsent:
+    css: "/assets/css/cookieconsent.min.css"
+    js: "/assets/js/cookieconsent.min.js"
   jquery: "https://code.jquery.com/jquery-3.3.1.slim.min.js"
   jquery_integrity: "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
   bootstrapBundle: "https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js"
