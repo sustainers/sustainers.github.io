@@ -27,11 +27,12 @@
         <link rel="preload" href="/assets/img/landing-page-bkg-small.jpg" as="image" media="(max-width: 767px)">
         {%- endif -%}
 
-        <noscript>
-            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
-        </noscript>
-
+        <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono" as="style">
+        <link rel="preload" href="{{ site.data.assets.cookieConsent.css }}" as="style">
         <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
+        <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
         <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
 
         <style>
@@ -49,8 +50,6 @@
             {%- include assets/nojs.js -%}
             {%- include assets/loadjs.min.js -%}
 
-            var googleFont = 'https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono';
-            var cookieConsentCss = '{{ site.data.assets.cookieConsent.css }}';
             var cookieConsentJs = '{{ site.data.assets.cookieConsent.js }}';
             var jquery = '{{ site.data.assets.jquery.url }}';
             var jqueryIntegrity = '{{ site.data.assets.jquery.integrity }}';
@@ -69,7 +68,6 @@
                 {%- assign bundleItems = baseBundleItems -%}
             {%- endif -%}
 
-            loadjs(['css!' + googleFont, 'css!' + cookieConsentCss]);
             loadjs([{{ bundleItems }}], 'jsBundle', {
                 async: false,
                 before: function(path, scriptEl) {
