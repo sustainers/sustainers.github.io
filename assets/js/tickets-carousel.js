@@ -12,9 +12,12 @@
             return;
         }
 
-        $carouselItems.each(function () {
+        $carouselItems.each(function (i, el) {
             // Remove .carousel-item's first child next elements
-            $(this).children(':first-child').nextAll().remove();
+            $(el)
+                .children(':first-child')
+                .nextAll()
+                .remove();
         });
 
         $hasRun = false;
@@ -27,26 +30,28 @@
             return;
         }
 
-        $carouselItems.each(function () {
-            var $next = $(this).next();
+        $carouselItems.each(function (i, el) {
+            var $next = $(el).next();
 
             if (!$next.length) {
-                $next = $(this).siblings(':first');
+                $next = $(el).siblings(':first');
             }
 
-            $next.children(':first-child').clone().appendTo($(this));
+            $next.children(':first-child')
+                .clone()
+                .appendTo($(el));
 
             if ($next.next().length > 0) {
                 $next.next()
                     .children(':first-child')
                     .clone()
-                    .appendTo($(this));
+                    .appendTo($(el));
             } else {
-                $(this)
+                $(el)
                     .siblings(':first')
                     .children(':first-child')
                     .clone()
-                    .appendTo($(this));
+                    .appendTo($(el));
             }
         });
 
