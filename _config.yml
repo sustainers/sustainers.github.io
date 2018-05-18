@@ -1,10 +1,12 @@
-name:               "SustainUK 2018"
+title:              "SustainUK 2018"
+short_title:        "SustainUK"
 description:        "A one day event for Open Source sustainers"
 
 markdown:           kramdown
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 # permalinks
@@ -33,16 +35,28 @@ exclude:
   - "*.eps"
 
 params:
-  twitter_handle:   "@SustainOSS"
   twitter:          "https://twitter.com/SustainOSS"
   github:           "https://github.com/sustainers"
   slack:            "https://changelog.slack.com/"
   latitude:         51.5160862
   longitude:        -0.127264
 
+author:
+  twitter:          "SustainOSS"
+twitter:
+  card:             "summary"
+  username:         "SustainOSS"
+logo:               "/assets/img/og.png"
+
 defaults:
-  -
-    scope:
+  - scope:
       path:         "assets/**/*.pdf"
     values:
       sitemap:      false
+  - scope:
+      path:         ""
+    values:
+      image:
+        path:       "/assets/img/og.png"
+        width:      256
+        height:     256

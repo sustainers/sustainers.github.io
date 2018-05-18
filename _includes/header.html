@@ -4,17 +4,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        {%- capture title -%}
-            {{ site.name }} — {% if page.slug == "home" %}{{ site.description }}{% else %}{{ page.title }}{% endif %}
-        {%- endcapture -%}
-        <title>{{ title }}</title>
+        {%- seo -%}
 
-        {%- capture meta_description -%}
-            {% if page.description %}{{ page.description }}{% if paginator.page and paginator.page != 1 %} - Page {{ paginator.page }}{% endif%}{% elsif page.excerpt %}{{ page.excerpt | newline_to_br | replace: '<br />', ' ' | strip_html | strip_newlines | replace: '    ', ' ' | rstrip | truncate: 155 }}{% else %}{{ site.description }}{% endif %}
-        {%- endcapture -%}
-        <meta name="description" content="{{ meta_description }}">
-        <meta name="generator" content="Jekyll v{{ jekyll.version }}">
+        {%- include head/social.html -%}
+
         <meta name="referrer" content="strict-origin-when-cross-origin">
+
+        {%- include head/favicons.html -%}
 
         <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
@@ -101,10 +97,6 @@
                 }
             });
         </script>
-
-        {%- include head/favicons.html -%}
-
-        {%- include head/social.html -%}
     </head>
 
     {%- capture body_class -%}
