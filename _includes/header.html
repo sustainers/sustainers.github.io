@@ -31,8 +31,8 @@
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
         </noscript>
 
-        <link rel="preload" href="{{ site.assets.bootstrapCss }}" as="style" crossorigin="anonymous">
-        <link rel="stylesheet" href="{{ site.assets.bootstrapCss }}" crossorigin="anonymous">
+        <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" crossorigin="anonymous">
+        <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
 
         <style>
         {%- capture include_to_scssify -%}
@@ -50,12 +50,12 @@
             {%- include assets/loadjs.min.js -%}
 
             var googleFont = 'https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono';
-            var cookieConsentCss = '{{ site.assets.cookieConsent.css }}';
-            var cookieConsentJs = '{{ site.assets.cookieConsent.js }}';
-            var jquery = '{{ site.assets.jquery }}';
-            var jqueryIntegrity = '{{ site.assets.jquery_integrity }}';
-            var bootstrapBundle = '{{ site.assets.bootstrapBundle }}';
-            var bootstrapIntegrity = '{{ site.assets.bootstrapBundleIntegrity }}';
+            var cookieConsentCss = '{{ site.data.assets.cookieConsent.css }}';
+            var cookieConsentJs = '{{ site.data.assets.cookieConsent.js }}';
+            var jquery = '{{ site.data.assets.jquery.url }}';
+            var jqueryIntegrity = '{{ site.data.assets.jquery.integrity }}';
+            var bootstrapBundle = '{{ site.data.assets.bootstrap.js.url }}';
+            var bootstrapIntegrity = '{{ site.data.assets.bootstrap.js.integrity }}';
 
             {%- if page.slug == 'tickets' -%}
                 var ticketsCarousel = '/assets/js/tickets-carousel.js';
