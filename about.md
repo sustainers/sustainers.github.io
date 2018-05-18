@@ -21,12 +21,12 @@ Sustain events are led by a facilitator. There are no keynotes, talks, or sponso
 Your undivided attention is **required**. Phones and laptops should not be used throughout the day
 and you will be asked to put devices away if they are a distraction to you or anyone else.
 
-This years organizers are:
+This year's organizers are:
 
 * [Pia Mancini](https://www.piamancini.com/) - pia at sustainoss.org
 * [Justin Dorfman](https://www.justindorfman.com/) - jd at sustainoss.org
 
-This years facilitator is:
+This year's facilitator is:
 
 * [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner)
 
