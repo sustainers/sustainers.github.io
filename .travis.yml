@@ -21,13 +21,12 @@ before_install:
 
 install:
   - bundle install --retry 3 --clean --path vendor/bundle
-  - gem install html-proofer
   - wget -Nc "https://github.com/validator/validator/releases/download/18.3.0/vnu.jar_18.3.0.zip" -P ~/vnu.jar/
   - unzip ~/vnu.jar/vnu.jar_18.3.0.zip -d ~/vnu.jar/
 
 script:
   - bundle exec jekyll build
-  - htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
+  - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
   - java -jar ~/vnu.jar/dist/vnu.jar --asciiquotes --skip-non-html ./_site/
 
 matrix:
