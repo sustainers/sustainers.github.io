@@ -4,23 +4,30 @@ description:        "A one day event for Open Source sustainers"
 
 markdown:           kramdown
 
+source:             "."
+destination:        ./_site/
+
+encoding:           "utf-8"
+strict_front_matter: true
+
+liquid:
+  error_mode:       warn
+  strict_filters:   false
+  strict_variables: false
+
 plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# permalinks
-permalink:          pretty
-
 sass:
   style:            compressed
 
 # server
-source:             "."
-destination:        ./_site/
+baseurl:            ""
 port:               8000
+host:               "127.0.0.1"
 url:                "https://sustainoss.org"
-encoding:           UTF-8
 
 exclude:
   - archives/
@@ -35,28 +42,35 @@ exclude:
   - "*.eps"
 
 params:
-  twitter:          "https://twitter.com/SustainOSS"
   github:           "https://github.com/sustainers"
   slack:            "https://changelog.slack.com/"
+  twitter:          "https://twitter.com/SustainOSS"
   latitude:         51.5160862
   longitude:        -0.127264
 
+# Social-related stuff
 author:
   twitter:          "SustainOSS"
+
 twitter:
   card:             "summary"
   username:         "SustainOSS"
+
 logo:               "/assets/img/og.png"
 
+# Output
+permalink:          pretty
 defaults:
-  - scope:
+  -
+    scope:
       path:         "assets/**/*.pdf"
     values:
       sitemap:      false
-  - scope:
+  -
+    scope:
       path:         ""
     values:
       image:
-        path:       "/assets/img/og.png"
+        path:       "/assets/img/og.png" # default image
         width:      256
         height:     256
