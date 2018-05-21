@@ -24,7 +24,7 @@ install:
 
 script:
   - bundle exec jekyll build
-  - htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --file-ignore /google.+/ --report-missing-names --report-script-embeds --internal-domains sustainoss.org
+  - htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
 
 matrix:
   fast_finish: true
