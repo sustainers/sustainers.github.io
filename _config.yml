@@ -31,15 +31,11 @@ url:                "https://sustainoss.org"
 
 exclude:
   - archives/
-  - assets/ai/
-  - assets/logo/
   - vendor/
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - "*.ai"
-  - "*.eps"
 
 params:
   github:           "https://github.com/sustainers"
