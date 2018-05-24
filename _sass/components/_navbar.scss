@@ -52,8 +52,16 @@
         }
 
         .navbar-logo {
+            transition: -webkit-transform 0.4s ease;
+            transition: transform 0.4s ease;
+            transition: transform 0.4s ease, -webkit-transform 0.4s ease;
             width: 70px;
             height: 57px;
+
+            &:hover {
+                -webkit-transform:scale(1.3);
+                transform:scale(1.3)
+            }
         }
     }
 
