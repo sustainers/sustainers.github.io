@@ -36,6 +36,12 @@ or [Twitter]({{ site.params.twitter }}).
 This year's hashtags are: [#sustainuk18](https://twitter.com/search?l=&q=%23sustainuk18) &
 [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
+## Logo assets
+
+<p>
+    You can find all of our logo variations on <a href="https://demo.identihub.co/project/sustainoss#/" data-proofer-ignore>Identihub</a>.
+</p>
+
 ## Website info
 
 The website's design was made by [Ura](https://ura.design/), turned into a website by [XhmikosR](https://github.com/XhmikosR).
@@ -49,9 +55,3 @@ Our tool stack includes:
 
 Also, we are <a href="https://validator.w3.org/check/referer" data-proofer-ignore>HTML5</a> valid and try to be
 <a class="text-decoration-none" href="https://www.w3.org/WAI/WCAG2AA-Conformance">WCAG2AA</a> compliant.
-
-## Logo assets
-
-<p>
-    You can find all of our logo variations on <a href="https://demo.identihub.co/project/sustainoss#/" data-proofer-ignore>Identihub</a>.
-</p>
