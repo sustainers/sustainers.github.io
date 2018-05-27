@@ -47,8 +47,7 @@
         color: $yellow;
 
         @media (min-width: 992px) {
-            -ms-flex:0 1 100%;
-            flex: 0 1 100%;
+            margin: 0 9rem;
         }
 
         .navbar-logo {
