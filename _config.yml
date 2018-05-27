@@ -30,6 +30,7 @@ host:               "127.0.0.1"
 url:                "https://sustainoss.org"
 
 exclude:
+  - .sass-cache/
   - archives/
   - vendor/
   - Gemfile
