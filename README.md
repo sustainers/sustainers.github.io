@@ -18,6 +18,6 @@ If you need help with using GitHub in order to open an issue, sign up for an acc
 
 ## License
 
-[MIT](LICENSE) © 2018 Justin Dorfman and Contributors.
+[MIT](LICENSE) © 2018 Justin Dorfman and [Contributors](https://github.com/sustainers/website/graphs/contributors).
 
 If you contribute to this repository, you are agreeing to the License terms and agreeing that an MIT license is appropriate for your contributions.
