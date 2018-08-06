@@ -33,7 +33,7 @@ This year's facilitator is:
 You may contact them if you have any questions or concerns.
 You can also join us on [Changelog's Community Slack](https://changelog.com/community) (#sustain)
 or [Twitter]({{ site.params.twitter }}).
-This year's hashtags are: [#sustainuk18](https://twitter.com/search?l=&q=%23sustainuk18) &
+This year's hashtags are: [#sustainsummit18](https://twitter.com/search?f=tweets&q=sustainsummit18) &
 [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
 ## Logo assets
