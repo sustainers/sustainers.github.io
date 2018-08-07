@@ -71,7 +71,7 @@ for updates.
             </tr>
             <tr>
                 <td>5:30pm</td>
-                <td>🍻 Happy Hour🍻</td>
+                <td>🍻 Happy Hour at Google London HQ (10 min walk)🍻</td>
             </tr>
         </tbody>
     </table>
