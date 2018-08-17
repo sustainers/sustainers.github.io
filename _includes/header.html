@@ -17,17 +17,18 @@
         <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
 
         {%- if page.slug == "home" -%}
-        <link rel="preload" href="/assets/img/landing-page-bkg.jpg" as="image" media="(min-width: 768px)">
-        <link rel="preload" href="/assets/img/landing-page-bkg-small.jpg" as="image" media="(max-width: 767px)">
+        <link rel="preload" href="/assets/img/landing-page-bkg-blue.jpg" as="image" media="(min-width: 768px)">
+        <link rel="preload" href="/assets/img/landing-page-bkg-blue-small.jpg" as="image" media="(max-width: 767px)">
         {%- endif -%}
 
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <link rel="preload" href="{{ site.data.assets.cookieConsent.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" crossorigin="anonymous">
+
         <noscript>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
-        <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
-        <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%7CShare+Tech+Mono">
+            <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
+            <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
         </noscript>
 
         <style>
