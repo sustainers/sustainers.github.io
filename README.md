@@ -7,6 +7,8 @@
 * Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
 * Run `gem install bundle` and then `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
+* Run `npm install -g svgo` to install SVG optimizer
+    * Run `svgo --config=_svgo.yml --input=assets/img/foo.svg` to optimize file(s)
 
 ## Contribute
 
