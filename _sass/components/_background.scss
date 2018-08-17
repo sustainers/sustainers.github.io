@@ -6,13 +6,13 @@
     background-color: $dark;
 }
 
-.bg-purple-soss {
-    background-color: $purple;
+.bg-darkblue-soss {
+    background-color: $darkblue;
 
-    a.text-yellow-soss {
+    a.text-teal-soss {
         &:focus,
         &:hover {
-            color: darken($yellow, 20%);
+            color: darken($teal, 20%);
         }
     }
 }
