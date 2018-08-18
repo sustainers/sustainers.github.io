@@ -10,9 +10,9 @@ full: true
 
 # https://github.com/svg/svgo/blob/master/lib/svgo/js2svg.js#L6 for more config options
 
-js2svg:
-  pretty: true
-  indent: 2
+#js2svg:
+#  pretty: true
+#  indent: 2
 
 plugins:
   - cleanupAttrs: true
@@ -48,5 +48,5 @@ plugins:
   - removeUselessStrokeAndFill: true
   - removeViewBox: false
   - removeXMLNS: false
-  - removeXMLProcInst: false
+  - removeXMLProcInst: true
   - sortAttrs: true
