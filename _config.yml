@@ -42,8 +42,8 @@ params:
   github:           "https://github.com/sustainers"
   slack:            "https://changelog.slack.com/"
   twitter:          "https://twitter.com/SustainOSS"
-  latitude:         51.5160862
-  longitude:        -0.127264
+  latitude:         51.5286903
+  longitude:        -0.1301617
 
 # Social-related stuff
 author:
