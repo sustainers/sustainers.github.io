@@ -57,6 +57,7 @@
         color: $teal;
 
         @media (min-width: 992px) {
+            -ms-flex: 0 1 100%;
             margin: 0 7rem;
         }
 
