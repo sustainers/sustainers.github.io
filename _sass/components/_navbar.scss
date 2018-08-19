@@ -47,15 +47,15 @@
         color: $teal;
 
         @media (min-width: 992px) {
-            margin: 0 9rem;
+            margin: 0 7rem;
         }
 
-        .navbar-logo {
+        > svg {
             transition: -webkit-transform 0.4s ease;
             transition: transform 0.4s ease;
             transition: transform 0.4s ease, -webkit-transform 0.4s ease;
-            width: 60px;
-            height: 57px;
+            width: 124px;
+            height: 55px;
 
             &:hover {
                 -webkit-transform:scale(1.3);
