@@ -50,10 +50,10 @@ author:
   twitter:          "SustainOSS"
 
 twitter:
-  card:             "summary"
+  card:             "summary_large_image"
   username:         "SustainOSS"
 
-logo:               "/assets/img/og.png"
+logo:               "/assets/img/og-large.png"
 
 # Output
 permalink:          pretty
@@ -68,6 +68,6 @@ defaults:
       path:         ""
     values:
       image:
-        path:       "/assets/img/og.png" # default image
-        width:      256
+        path:       "/assets/img/og-large.png" # default image
+        width:      512
         height:     256
