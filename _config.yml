@@ -58,12 +58,6 @@ logo:               "/assets/img/og-large.png"
 # Output
 permalink:          pretty
 defaults:
-  -
-    scope:
-      path:         "assets/**/*.pdf"
-    values:
-      sitemap:      false
-  -
     scope:
       path:         ""
     values:
