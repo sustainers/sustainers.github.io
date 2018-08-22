@@ -2,6 +2,8 @@
 layout: default
 title: Code of Conduct
 slug: code-of-conduct
+redirect_from:
+  - "/coc/"
 ---
 
 ## Code of Conduct
