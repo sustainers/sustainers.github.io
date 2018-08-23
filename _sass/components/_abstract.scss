@@ -5,3 +5,8 @@ iframe {
 .text-decoration-none {
     text-decoration: none !important;
 }
+
+@mixin form_placeholder {
+    color: $white;
+    text-align: center;
+}

@@ -1,6 +1,7 @@
 .btn.bg-black-soss:focus,
 .btn.bg-black-soss:hover {
     background-color: lighten($black, 20%) !important;
+    box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
     color: darken($teal, 10%);
 }
 

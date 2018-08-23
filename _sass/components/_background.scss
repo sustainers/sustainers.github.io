@@ -9,7 +9,7 @@
 .bg-darkblue-soss {
     background-color: $darkblue;
 
-    a.text-teal-soss {
+    .text-teal-soss {
         &:focus,
         &:hover {
             color: darken($teal, 20%);
