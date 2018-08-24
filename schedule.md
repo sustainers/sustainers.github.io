@@ -8,7 +8,7 @@ redirect_from:
 
 # Schedule
 
-The schedule is still being edited by [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner),
+The schedule is still being edited by [Allen "Gunner" Gunn](https://aspirationtech.org/about/people/gunner) of [Aspiration](https://aspirationtech.org/),
 our awesome facilitator. Subscribe to our newsletter or follow us on [Twitter]({{ site.params.twitter }})
 for updates.
 
