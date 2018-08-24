@@ -44,7 +44,7 @@ This year's hashtags are: [#sustainsummit18](https://twitter.com/search?f=tweets
 
 ## Website info
 
-The website's design was made by [Ura](https://ura.design/).
+The website's design was made by [Ura](https://ura.design/), turned into a website by [XhmikosR](https://github.com/XhmikosR).
 
 Our tool stack includes:
 
