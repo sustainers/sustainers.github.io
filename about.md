@@ -25,10 +25,7 @@ This year's organizers are:
 
 * [Pia Mancini](https://www.piamancini.com/) - pia at sustainoss.org
 * [Justin Dorfman](https://www.justindorfman.com/) - jd at sustainoss.org
-
-This year's facilitator is:
-
-* [Alan "Gunner" Gunn](https://aspirationtech.org/about/people/gunner)
+* [Allen "Gunner" Gunn](https://aspirationtech.org/about/people/gunner) of [Aspiration](https://aspirationtech.org/)
 
 You may contact them if you have any questions or concerns.
 You can also join us on [Changelog's Community Slack](https://changelog.com/community) (#sustain)
@@ -44,7 +41,7 @@ This year's hashtags are: [#sustainsummit18](https://twitter.com/search?f=tweets
 
 ## Website info
 
-The website's design was made by [Ura](https://ura.design/).
+The website's design was made by [Ura](https://ura.design/), turned into a website by [XhmikosR](https://github.com/XhmikosR).
 
 Our tool stack includes:
 
