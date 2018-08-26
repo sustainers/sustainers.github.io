@@ -60,18 +60,18 @@
             -ms-flex: 0 1 100%;
             margin: 0 7rem;
         }
+    }
 
-        > svg {
-            transition: -webkit-transform 0.4s ease;
-            transition: transform 0.4s ease;
-            transition: transform 0.4s ease, -webkit-transform 0.4s ease;
-            width: 124px;
-            height: 55px;
+    .navbar-logo {
+        transition: -webkit-transform 0.4s ease;
+        transition: transform 0.4s ease;
+        transition: transform 0.4s ease, -webkit-transform 0.4s ease;
+        width: 124px;
+        height: 55px;
 
-            &:hover {
-                -webkit-transform: scale(1.3);
-                transform: scale(1.3);
-            }
+        &:hover {
+            -webkit-transform: scale(1.3);
+            transform: scale(1.3);
         }
     }
 
