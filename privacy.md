@@ -51,5 +51,5 @@ for the following purposes and using the following services:
 <div class="small">
     Latest update: May 15, 2018
     <br>
-    <span class="text-muted">Privacy Policy generated with <a href="https://www.iubenda.com/en/" target="_blank" rel="noopener">iubenda</a></span>
+    <span class="text-muted">Privacy Policy generated with <a href="https://www.iubenda.com/en/" rel="noopener" target="_blank">iubenda</a></span>
 </div>
