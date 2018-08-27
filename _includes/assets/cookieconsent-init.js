@@ -9,12 +9,13 @@ function() {
                 },
                 button: {
                     background: 'transparent',
-                    border: '#f1d600',
-                    text: '#f1d600'
+                    border: '#13a791',
+                    text: '#13a791'
                 }
             },
             content: {
-                href: '/privacy/'
+                href: '/privacy/',
+                link: 'Read our Privacy Policy'
             }
         });
     });
