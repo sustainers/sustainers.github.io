@@ -31,7 +31,6 @@ url:                "https://sustainoss.org"
 
 exclude:
   - .sass-cache/
-  - archives/
   - vendor/
   - Gemfile
   - Gemfile.lock
