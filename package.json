@@ -5,6 +5,7 @@
   "description": "The sustainoss.org source code",
   "scripts": {
     "critical": "critical \"_site/index.html\" --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
+    "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
     "build": "bundle exec jekyll build",
     "serve": "bundle exec jekyll serve",
     "svgo": "svgo --config=_svgo.yml --input"
@@ -20,7 +21,10 @@
   },
   "homepage": "https://github.com/sustainers/website#readme",
   "devDependencies": {
+    "autoprefixer": "^9.1.3",
     "critical": "^1.3.4",
+    "postcss-cli": "^6.0.0",
+    "postcss-scss": "^2.0.0",
     "svgo": "^1.0.5"
   }
 }
