@@ -1,0 +1,22 @@
+{
+  "name": "sustainers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The sustainoss.org source code",
+  "scripts": {
+    "svgo": "svgo --config=_svgo.yml --input"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sustainers/website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sustainers/website/issues"
+  },
+  "homepage": "https://github.com/sustainers/website#readme",
+  "devDependencies": {
+    "svgo": "^1.0.5"
+  }
+}

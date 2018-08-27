@@ -31,10 +31,14 @@ url:                "https://sustainoss.org"
 
 exclude:
   - .sass-cache/
+  - node_modules/
   - vendor/
   - Gemfile
   - Gemfile.lock
   - LICENSE
+  - netlify.toml
+  - package.json
+  - package-lock.json
   - README.md
 
 params:
