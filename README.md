@@ -8,11 +8,12 @@
 * Run `gem install bundle` and then `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
-### Optional
+### npm tasks
 
 * Install Node.js
 * Run `npm i`
 * Run `npm run svgo assets/img/foo.svg` to optimize file(s)
+* Run `npm run build && npm run critical` to generate the critical CSS; usually after Bootstrap has been updated
 
 ## Contribute
 
