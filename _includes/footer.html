@@ -27,7 +27,7 @@
                         <div class="col-6 col-lg-{{ MAX_MODULO }} col-xl-2 my-3 my-lg-0">
                             <ul class="list-unstyled top-horizontal-line">
                             {%- endif -%}
-                                <li><a href="/{{ item.title | slugify }}/">{{ item.title }}</a></li>
+                                <li><a href="{% if item.url %}{{ item.url }}{% else %}/{{ item.title | slugify }}/{% endif %}">{{ item.title }}</a></li>
                             {%- if forloop.last or mod == MAX_MODULO -%}
                             </ul>
                         </div>
