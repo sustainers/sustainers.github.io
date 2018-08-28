@@ -26,6 +26,8 @@ This year's organizers are:
 * [Pia Mancini](https://www.piamancini.com/) - pia at sustainoss.org
 * [Justin Dorfman](https://www.justindorfman.com/) - jd at sustainoss.org
 * [Allen "Gunner" Gunn](https://aspirationtech.org/about/people/gunner) of [Aspiration](https://aspirationtech.org/)
+* [Ben Nickolls](https://twitter.com/BenJam)
+* [Eric Berry](https://twitter.com/coderberry) of [CodeFund](https://codefund.io/)
 
 You may contact them if you have any questions or concerns.
 You can also join us on [Changelog's Community Slack](https://changelog.com/community) (#sustain)
