@@ -9,11 +9,6 @@
         color: $white;
         padding: 0.375rem 0;
 
-        &:focus {
-            border-bottom: 2px solid transparent;
-            box-shadow: 0 0 0 0.2rem rgba($darkblue, 0.4);
-        }
-
         // no autoprefixer on GitHub pages thus this monstrosity...
         &::-webkit-input-placeholder {
             @include form_placeholder;
@@ -23,16 +18,21 @@
             @include form_placeholder;
         }
 
-        &:-ms-input-placeholder {
+        &::-ms-input-placeholder {
             @include form_placeholder;
         }
 
-        &::-ms-input-placeholder {
+        &:-ms-input-placeholder {
             @include form_placeholder;
         }
 
         &::placeholder {
             @include form_placeholder;
+        }
+
+        &:focus {
+            border-bottom: 2px solid transparent;
+            box-shadow: 0 0 0 0.2rem rgba($darkblue, 0.4);
         }
     }
 }
