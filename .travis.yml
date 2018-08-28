@@ -11,15 +11,21 @@ addons:
       - libcurl4-openssl-dev # required to avoid SSL errors
       - openjdk-8-jre
 
-language: ruby
+language: node_js
 
-rvm:
-  - 2.4
+node_js:
+  - "10"
+
+env:
+  matrix:
+    - RUBY_VERSION=2.4
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - rvm use $RUBY_VERSION --install --binary --fuzzy
 
 install:
+  - npm install
   - bundle install --retry 3 --clean --path vendor/bundle
   - wget -Nc "https://github.com/validator/validator/releases/download/18.3.0/vnu.jar_18.3.0.zip" -P ~/vnu.jar/
   - unzip ~/vnu.jar/vnu.jar_18.3.0.zip -d ~/vnu.jar/
@@ -28,12 +34,14 @@ script:
   - bundle exec jekyll build
   - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
   - java -jar ~/vnu.jar/dist/vnu.jar --asciiquotes --skip-non-html ./_site/
+  - npm test
 
 matrix:
   fast_finish: true
 
 cache:
   directories:
+    - node_modules
     - vendor/bundle
     #- ~/vnu.jar/
 
