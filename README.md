@@ -10,10 +10,11 @@
 
 ### npm tasks
 
-* Install Node.js
+* Install [Node.js](https://nodejs.org/en/)
 * Run `npm i`
-* Run `npm run svgo assets/img/foo.svg` to optimize file(s)
+* Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
 * Run `npm run build && npm run critical` to generate the critical CSS; usually after Bootstrap has been updated
+* Run `npm run svgo assets/img/foo.svg` to optimize file(s)
 
 ## Contribute
 
