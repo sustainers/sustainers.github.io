@@ -22,13 +22,14 @@ env:
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - export VNU_VERSION=18.8.29
   - rvm use $RUBY_VERSION --install --binary --fuzzy
 
 install:
   - npm install
   - bundle install --retry 3 --clean --path vendor/bundle
-  - wget -Nc "https://github.com/validator/validator/releases/download/18.3.0/vnu.jar_18.3.0.zip" -P ~/vnu.jar/
-  - unzip ~/vnu.jar/vnu.jar_18.3.0.zip -d ~/vnu.jar/
+  - wget -Nc "https://github.com/validator/validator/releases/download/$VNU_VERSION/vnu.jar_$VNU_VERSION.zip" -P ~/vnu.jar/
+  - unzip ~/vnu.jar/vnu.jar_$VNU_VERSION.zip -d ~/vnu.jar/
 
 script:
   - bundle exec jekyll build
