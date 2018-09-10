@@ -1,7 +1,5 @@
 .navbar {
-    &.bg-purple-soss {
-        border-bottom: 1px solid lighten($darkblue, 10%);
-    }
+    border-bottom: 1px solid lighten($darkblue, 10%);
 
     .container {
         @media (max-width: 992px) {

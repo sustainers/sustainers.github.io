@@ -1,15 +1,19 @@
-.bg-black-soss {
+.bg-black {
     background-color: $black;
 }
 
-.bg-dark-soss {
+.bg-dark {
     background-color: $dark;
 }
 
-.bg-darkblue-soss {
+.bg-teal {
+    background-color: $teal;
+}
+
+.bg-darkblue {
     background-color: $darkblue;
 
-    .text-teal-soss {
+    .text-teal {
         &:focus,
         &:hover {
             color: darken($teal, 20%);

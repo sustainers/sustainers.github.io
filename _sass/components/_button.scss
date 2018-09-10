@@ -1,22 +1,42 @@
-.btn.bg-black-soss:focus,
-.btn.bg-black-soss:hover {
-    background-color: lighten($black, 20%) !important;
-    box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
-    color: darken($teal, 10%);
-}
-
 .btn-round {
     border-radius: 1.5rem; // 2x0.75, which is .btn's horizontal padding
 }
 
+.btn {
+    &.bg-black.text-white:focus,
+    &.bg-black.text-white:hover {
+        background-color: lighten($black, 20%);
+        box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
+        color: darken($teal, 10%);
+    }
+
+    &.bg-teal:focus,
+    &.bg-teal:hover {
+        background-color: $teal-dark;
+        box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
+        color: $white;
+    }
+}
+
 .btn-outline-teal {
     background-color: transparent;
-    border-color: $teal;
+    border: 2px solid $teal;
     color: $teal;
 
     &:focus,
     &:hover {
         box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
+        color: $white;
+    }
+}
+
+.btn-outline-white {
+    border: 2px solid $white;
+    color: $white;
+
+    &:focus,
+    &:hover {
+        box-shadow: 0 0 0 0.2rem rgba($white, 0.4);
         color: $white;
     }
 }
