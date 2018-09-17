@@ -8,11 +8,11 @@ redirect_from:
 
 ## Code of Conduct
 
-(Adapted from the [Open Source Feels Code of Conduct](https://www.osfeels.com/conduct/) and [WONTFIX Cabal](https://maintainerati.org/code-of-conduct/))
+(Adapted from the [Open Source Feels Code of Conduct](https://www.osfeels.com/conduct/)
 
 ### Short Version
 
-The Sustain is dedicated to a safe, inclusive, welcoming, and harassment-free experience for everyone.
+The "Sustain Summit" (Sustain) is dedicated to a safe, inclusive, welcoming, and harassment-free experience for everyone.
 
 All attendees, speakers, sponsors and volunteers at Sustain are required to abide by the code of conduct.
 
@@ -20,8 +20,8 @@ All attendees, speakers, sponsors and volunteers at Sustain are required to abid
 
 Contact the organizers directly:
 
-* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or jd at sustainoss.org
-* Pia Mancini: [@piamancini](https://twitter.com/piamancini) or pia at sustainoss.org
+* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or [jd at sustainoss.org](&#109;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#106;&#x64;&#x40;&#115;&#x75;&#115;&#116;&#97;&#105;&#110;&#x6f;&#x73;&#115;&#46;&#111;&#x72;&#x67;)
+* Pia Mancini: [@piamancini](https://twitter.com/piamancini) or [pia at sustainoss.org](mailto:&#112;&#105;&#x61;&#64;&#115;&#x75;&#x73;&#x74;&#97;&#105;&#x6e;&#x6f;&#x73;&#115;&#46;&#x6f;&#114;&#103;)
 
 ### Long Version
 
