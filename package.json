@@ -7,7 +7,8 @@
     "critical": "critical \"_site/index.html\" --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
     "build": "bundle exec jekyll build",
-    "lint": "npm run stylelint",
+    "fusv": "fusv .",
+    "lint": "npm run stylelint && npm run fusv",
     "stylelint": "stylelint --syntax scss \"_sass/**/*.scss\"",
     "test": "npm run lint",
     "serve": "bundle exec jekyll serve",
@@ -26,6 +27,7 @@
   "devDependencies": {
     "autoprefixer": "^9.1.5",
     "critical": "^1.3.4",
+    "find-unused-sass-variables": "^0.2.1",
     "postcss-cli": "^6.0.0",
     "postcss-scss": "^2.0.0",
     "stylelint": "^9.5.0",
