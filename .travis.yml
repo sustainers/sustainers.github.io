@@ -22,19 +22,15 @@ env:
 
 before_install:
   - export NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - export VNU_VERSION=18.8.29
   - rvm use $RUBY_VERSION --install --binary --fuzzy
 
 install:
   - npm install
   - bundle install --retry 3 --clean --path vendor/bundle
-  - wget -Nc "https://github.com/validator/validator/releases/download/$VNU_VERSION/vnu.jar_$VNU_VERSION.zip" -P ~/vnu.jar/
-  - unzip ~/vnu.jar/vnu.jar_$VNU_VERSION.zip -d ~/vnu.jar/
 
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
-  - java -jar ~/vnu.jar/dist/vnu.jar --asciiquotes --skip-non-html ./_site/
   - npm test
 
 matrix:
@@ -44,7 +40,6 @@ cache:
   directories:
     - node_modules
     - vendor/bundle
-    #- ~/vnu.jar/
 
 notifications:
   email: false
