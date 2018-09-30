@@ -10,7 +10,7 @@
 
 ### npm tasks
 
-* Install [Node.js](https://nodejs.org/en/)
+* Install [Node.js](https://nodejs.org/en/) 10.x
 * Run `npm i`
 * Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
 * Run `npm run build && npm run critical` to generate the critical CSS; usually after Bootstrap has been updated
