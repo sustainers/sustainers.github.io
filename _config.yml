@@ -44,7 +44,7 @@ exclude:
 
 params:
   github:           "https://github.com/sustainers"
-  slack:            "https://changelog.slack.com/"
+  slack:            "https://changelog.com/community"
   twitter:          "https://twitter.com/SustainOSS"
   latitude:         51.5286903
   longitude:        -0.1301617
