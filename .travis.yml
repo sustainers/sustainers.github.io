@@ -1,9 +1,7 @@
-git:
-  depth: 5
-
 sudo: false
 
-dist: trusty
+git:
+  depth: 5
 
 addons:
   apt:
@@ -17,7 +15,7 @@ node_js:
   - "10"
 
 env:
-  matrix:
+  global:
     - RUBY_VERSION=2.4
 
 before_install:
@@ -25,8 +23,8 @@ before_install:
   - rvm use $RUBY_VERSION --install --binary --fuzzy
 
 install:
-  - npm install
-  - bundle install --retry 3 --clean --path vendor/bundle
+  - npm ci
+  - bundle install --deployment --jobs=3 --retry=3 --clean
 
 script:
   - bundle exec jekyll build
@@ -38,7 +36,7 @@ matrix:
 
 cache:
   directories:
-    - node_modules
+    - "$HOME/.npm"
     - vendor/bundle
 
 notifications:
