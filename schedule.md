@@ -10,9 +10,7 @@ redirect_from:
 
 <p class="text-muted">25th of October, Pullman St. Pancras Hotel London.</p>
 
-<h2 id="draft-agenda" class="my-3">Draft Agenda</h2>
-
-The following is a preliminary schedule for the Sustain Summit 2018.
+The following is the schedule for the Sustain Summit 2018.
 
 The event will be structured as a day of collaborative working sessions, along with optional evening activities. Participants are encouraged to organize additional evening fun.
 
@@ -33,10 +31,6 @@ The following are some general guidelines regarding how we'll run the event:
 Sessions are designed to be highly interactive. This isn't the place where you will see any panels and keynote speakers. Breakout sessions will be designed to spur discussion. Facilitators understand that their primary goal is to enable learning, address questions, and support peer sharing. Bring your questions, and your knowledge to share!
 
 <hr class="w-50 my-4">
-
-### Wednesday 24 October
-
-**Informal evening activities TBD**
 
 ### Thursday 25 October
 
@@ -98,4 +92,4 @@ The closing session will invite participants to weigh in on what has been most u
 
 **17:00 Adjourn**
 
-**17:30 Happy Hour**
+**17:30 Happy Hour @ Google London HQ**
