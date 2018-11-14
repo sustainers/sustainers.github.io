@@ -7,21 +7,39 @@
     "stylelint-scss"
   ],
   "rules": {
-    "at-rule-empty-line-before": null,
+    "at-rule-empty-line-before": [
+      "always",
+      {
+        "ignore": [
+          "after-comment",
+          "blockless-after-same-name-blockless",
+          "inside-block"
+        ]
+      }
+    ],
     "at-rule-name-space-after": "always",
     "at-rule-no-unknown": null,
     "at-rule-no-vendor-prefix": null,
     "at-rule-semicolon-space-before": "never",
-    "block-closing-brace-empty-line-before": null,
-    "block-closing-brace-newline-after": null,
+    "block-closing-brace-empty-line-before": "never",
+    "block-closing-brace-newline-after": "always",
     "block-opening-brace-space-before": "always",
     "color-hex-length": "short",
     "color-named": "never",
     "declaration-block-semicolon-newline-after": "always-multi-line",
     "declaration-block-semicolon-newline-before": "never-multi-line",
     "declaration-block-semicolon-space-after": "always-single-line",
-    "declaration-empty-line-before": null,
-    "declaration-no-important": null,
+    "declaration-empty-line-before": [
+      "always",
+      {
+        "except": [
+          "after-comment",
+          "after-declaration",
+          "first-nested"
+        ]
+      }
+    ],
+    "declaration-no-important": true,
     "font-family-name-quotes": "always-where-recommended",
     "font-weight-notation": [
       "numeric",
@@ -92,7 +110,7 @@
     ],
     "scss/operator-no-newline-after": true,
     "scss/operator-no-newline-before": true,
-    "scss/operator-no-unspaced": null,
+    "scss/operator-no-unspaced": true,
     "selector-attribute-quotes": "always",
     "selector-list-comma-newline-after": "always",
     "selector-list-comma-newline-before": "never-multi-line",
@@ -107,7 +125,7 @@
     "selector-max-specificity": null,
     "selector-max-type": 2,
     "selector-max-universal": 1,
-    "selector-no-qualifying-type": null,
+    "selector-no-qualifying-type": true,
     "selector-no-vendor-prefix": null,
     "shorthand-property-no-redundant-values": true,
     "string-quotes": "double",
