@@ -4,7 +4,7 @@
   "private": true,
   "description": "The sustainoss.org source code",
   "scripts": {
-    "critical": "critical \"_site/index.html\" --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
+    "critical": "shx cat \"_site/*.html\" | critical --folder _site --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
     "build": "bundle exec jekyll build",
     "fusv": "fusv .",
@@ -31,6 +31,7 @@
     "find-unused-sass-variables": "^0.3.0",
     "postcss-cli": "^6.0.1",
     "postcss-scss": "^2.0.0",
+    "shx": "^0.3.2",
     "stylelint": "^9.8.0",
     "stylelint-config-recommended-scss": "^3.2.0",
     "stylelint-config-standard": "^18.2.0",
