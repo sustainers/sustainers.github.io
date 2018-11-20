@@ -3,20 +3,16 @@
 - name: navbar-left
   pages:
     - title: Home
-    - title: Tickets
-    - title: Venue
+    - title: About
 
 - name: navbar-right
   pages:
-    - title: Schedule
     - title: Sponsors
-    - title: Contact
+    - title: Forum
 
 - name: footer
   pages:
-    - title: Tickets
-    - title: Venue
-    - title: Schedule
+    - title: Forum
     - title: Sponsors
     - title: About
     - title: Contact
