@@ -38,7 +38,7 @@ This year's hashtags are: [#sustainsummit18](https://twitter.com/search?f=tweets
 ## Logo assets
 
 <p>
-    You can find all of our logo variations on <a href="https://demo.identihub.co/project/sustainoss#/" data-proofer-ignore>Identihub</a>.
+    You can find all of our logo variations on <a href="https://demo.identihub.co/sustain#/" data-proofer-ignore>Identihub</a>.
 </p>
 
 ## Website info
