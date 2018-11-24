@@ -89,6 +89,7 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
     yell (2.0.7)
 
 PLATFORMS
@@ -101,6 +102,7 @@ DEPENDENCIES
   jekyll-redirect-from (~> 0.14.0)
   jekyll-seo-tag (~> 2.5.0)
   jekyll-sitemap (~> 1.2.0)
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    1.17.1
