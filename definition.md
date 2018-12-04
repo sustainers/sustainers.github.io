@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-slug: about
+title: Sustainer Definition
+slug: definition
 ---
 
 ## Sustainer Definition
