@@ -7,7 +7,7 @@
 
 - name: navbar-right
   pages:
-    - title: Sponsors
+    - title: Events
     - title: Forum
 
 - name: footer
