@@ -7,7 +7,7 @@
 
 - name: navbar-right
   pages:
-    - title: Sponsors
+    - title: Events
     - title: Forum
 
 - name: footer
@@ -21,8 +21,7 @@
     - title: Code of Conduct
     - title: Diversity
     - title: Privacy
-
-    - title: Summit 2017
-      url: /summit/2017/
-    - title: Contact
     - title: Sitemap
+
+    - title: Events
+    - title: Contact
