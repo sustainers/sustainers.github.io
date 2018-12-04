@@ -12,13 +12,13 @@
 
 - name: footer
   pages:
+    - title: About
+    - title: Definition
     - title: Forum
     - title: Sponsors
-    - title: About
     - title: Contact
     - title: Code of Conduct
     - title: Diversity
     - title: Privacy
-    - title: Summit 2017
-      url: /summit/2017/
+    - title: Events
     - title: Sitemap
