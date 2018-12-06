@@ -4,10 +4,20 @@ title: Media
 slug: media
 ---
 
-<h2>Media</h2>
+<h2 class="text-center mb-3">Media</h2>
 
-<p class="lead text-center mb-3">Photos</p>
+<div class="row">
+    <div class="text-center mx-auto">
+        <div class="tab">
+            <button class="tablinks" onclick="openTab(event, 'Photos')" id="defaultOpen"">Photos</button>
+            <button class="tablinks" onclick="openTab(event, 'Videos')">Videos</button>
+            <button class="tablinks" onclick="openTab(event, 'Reports')">Reports</button>
+            <button class="tablinks" onclick="openTab(event, 'Articles')">Articles</button>
+        </div>
+    </div>
+</div>
 
+<div id="Photos" class="tabcontent">
 <div class="row">
     <div class="col-12 col-md-6 my-3 text-center">
         <img class="d-block img-fluid mx-auto" src="/assets/img/media/tn-sustain-summit-2018.jpg" srcset="/assets/img/media/tn-sustain-summit-2018.jpg 1x, /assets/img/media/tn-sustain-summit-2018@2x.jpg 2x" alt="Sustain Summit 2018" title="Sustain Summit 2018" width="300" height="200">
@@ -18,17 +28,17 @@ slug: media
         <br> 2017 photos
     </div>
 </div>
+</div>
 
-<p class="lead text-center mb-3">Videos</p>
-
+<div id="Videos" class="tabcontent">
 <div class="row">
     <div class="col-12 col-md-6 my-3 text-center">
         embed
     </div>
 </div>
+</div>
 
-<p class="lead text-center mb-3">Reports</p>
-
+<div id="Reports" class="tabcontent">
 <div class="row">
     <div class="col-12 col-md-6 my-3 text-center">
         2018 report
@@ -37,9 +47,9 @@ slug: media
         2017 report
     </div>
 </div>
+</div>
 
-<p class="lead text-center mb-3">Articles</p>
-
+<div id="Articles" class="tabcontent">
 <div class="row">
     <div class="col-1 col-md-6 my-3 text-center">
         <ul>
@@ -48,3 +58,23 @@ slug: media
         </ul>
     </div>
 </div>
+</div>
+
+<script>
+    document.getElementById("defaultOpen").click();
+    function openTab(evt, TabName) {
+    var i, tabcontent, tablinks;
+
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(TabName).style.display = "block";
+    evt.currentTarget.className += " active";
+} 
+</script>

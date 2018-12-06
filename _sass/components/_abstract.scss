@@ -11,3 +11,34 @@ iframe {
     color: $white;
     text-align: center;
 }
+
+.tab {
+    overflow: hidden;
+    border: 1px solid $darkblue;
+    background-color: transparent;
+}
+
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    border: 1px solid $darkblue;
+    color: $darkblue;
+}
+.tab button:hover {
+    background-color: $darkblue;
+    color: $white;
+}
+.tab button.active {
+    background-color: $darkblue;
+    color: $white;
+}
+.tabcontent {
+    display: none;
+    padding: 20px 0px;
+    border-top: none;
+} 
