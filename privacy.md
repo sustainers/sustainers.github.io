@@ -25,7 +25,7 @@ for the following purposes and using the following services:
 
 * CloudFlare
     * Personal Data: Cookies and various types of Data as specified in the
-      [privacy policy](https://www.cloudflare.com/security-policy/) of the service
+      [privacy policy](https://www.cloudflare.com/privacypolicy/) of the service
 
 ### Tickets
 
