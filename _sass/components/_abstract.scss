@@ -7,6 +7,11 @@ iframe {
     text-decoration: none !important;
 }
 
+.text-prewrap {
+    // stylelint-disable-next-line declaration-no-important
+    white-space: pre-wrap !important;
+}
+
 @mixin form_placeholder {
     color: $white;
     text-align: center;

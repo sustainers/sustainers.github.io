@@ -12,13 +12,17 @@
 
 - name: footer
   pages:
+    # 4 items per column
     - title: Forum
     - title: Sponsors
     - title: About
-    - title: Contact
+    - title: Definition
+
     - title: Code of Conduct
     - title: Diversity
     - title: Privacy
+
     - title: Summit 2017
       url: /summit/2017/
+    - title: Contact
     - title: Sitemap
