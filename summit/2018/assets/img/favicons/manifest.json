@@ -1,0 +1,19 @@
+{
+    "name": "Sustain Summit 2018",
+    "short_name": "Sustain 2018",
+    "icons": [
+        {
+            "src": "https://sustainoss.org/summit/2018/assets/img/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://sustainoss.org/summit/2018/assets/img/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#263238",
+    "background_color": "#263238",
+    "display": "standalone"
+}
