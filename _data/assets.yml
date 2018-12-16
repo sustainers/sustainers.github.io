@@ -1,3 +1,6 @@
+baguetteBox:
+  css:          "/assets/css/baguetteBox.min.css"
+  js:           "/assets/js/baguetteBox.min.js"
 cookieConsent:
   css:          "/assets/css/cookieconsent.min.css"
   js:           "/assets/js/cookieconsent.min.js"

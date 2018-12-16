@@ -1,0 +1,29 @@
+{% include/media/breadcrumb.html %}
+
+<div class="row justify-content-center gallery">
+
+    {%- for year in site.data.media.photos -%}
+        {%- if year.year == include.year -%}
+            {%- for image in year.images -%}
+                {%- assign filename_with_ext = image | split: "." -%}
+                {%- assign filename = filename_with_ext | first -%}
+                {%- assign ext = filename_with_ext | last -%}
+                {%- assign thumb_2x = filename | uri_escape | append: "-thumb@2x." | append: ext -%}
+                {%- assign thumb = filename | uri_escape | append: "-thumb." | append: ext -%}
+                <div class="col-12 col-sm-6 col-lg-4 mb-3 mb-md-0">
+                    <div class="text-center pb-2">
+                        <a href="/assets/img/media/{{ year.year }}/{{ image | uri_escape }}">
+                            <img class="d-block img-fluid mx-auto" srcset="/assets/img/media/{{ year.year }}/thumbs/{{ thumb }},
+                                                                           /assets/img/media/{{ year.year }}/thumbs/{{ thumb_2x }} 2x"
+                                                                   src="/assets/img/media/{{ year.year }}/thumbs/{{ thumb }}"
+                                                                   alt="{{ filename }} thumbnail"
+                                                                   width="300"
+                                                                   height="200">
+                        </a>
+                    </div>
+                </div>
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+</div>

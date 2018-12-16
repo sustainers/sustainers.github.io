@@ -1,0 +1,16 @@
+.page-media {
+    .nav-pills .nav-link.active,
+    .nav-pills .show > .nav-link {
+        background-color: $darkblue;
+    }
+}
+
+.page-media-photos-2017,
+.page-media-photos-2018 {
+    .main-content {
+        img {
+            width: auto;
+            max-height: 200px;
+        }
+    }
+}
