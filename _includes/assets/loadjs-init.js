@@ -9,12 +9,10 @@
         var ticketsCarousel = '/assets/js/tickets-carousel.js';
     {%- endif -%}
 
-    {%- assign baseBundleItems = 'jquery, bootstrapBundle' -%}
+    {%- assign bundleItems = 'jquery, bootstrapBundle' -%}
 
     {%- if page.slug == 'tickets' -%}
-        {%- assign bundleItems = baseBundleItems | append: ', ticketsCarousel' -%}
-    {%- else -%}
-        {%- assign bundleItems = baseBundleItems -%}
+        {%- assign bundleItems = bundleItems | append: ', ticketsCarousel' -%}
     {%- endif -%}
 
     window.loadjs([{{ bundleItems }}], 'jsBundle', {
