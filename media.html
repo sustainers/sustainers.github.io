@@ -1,0 +1,37 @@
+---
+layout: default
+title: Media
+slug: media
+redirect_from:
+  - "/media/photos/"
+---
+
+<h2 class="mb-4 text-center">Media</h2>
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-6">
+        <ul class="nav nav-pills nav-pills-outline nav-justified flex-column flex-sm-row my-5 my-md-6" role="tablist">
+            <li class="nav-item">
+                <a id="photos-tab" href="#photos" class="nav-link active text-darkblue" role="tab" data-toggle="pill" aria-controls="photos" aria-selected="true">Photos</a>
+            </li>
+            <li class="nav-item">
+                <a id="videos-tab" href="#videos" class="nav-link text-darkblue" role="tab" data-toggle="pill" aria-controls="videos" aria-selected="false">Videos</a>
+            </li>
+            <li class="nav-item">
+                <a id="reports-tab" href="#reports" class="nav-link text-darkblue" role="tab" data-toggle="pill" aria-controls="reports" aria-selected="false">Reports</a>
+            </li>
+            <li class="nav-item">
+                <a id="articles-tab" href="#articles" class="nav-link text-darkblue" role="tab" data-toggle="pill" aria-controls="articles" aria-selected="false">Articles</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="tab-content mb-5">
+
+{% include media/photos-tab.html %}
+{% include media/videos-tab.html %}
+{% include media/reports-tab.html %}
+{% include media/articles-tab.html %}
+
+</div>

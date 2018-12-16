@@ -1,0 +1,13 @@
+<div id="articles" role="tabpanel" class="tab-pane fade articles" aria-labelledby="articles-tab">
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-8">
+            <ul>
+                {%- for article in site.data.media.articles -%}
+                <li>
+                    <a href="{{ article.url }}" rel="noopener" target="_blank">{{ article.name | default: article.url }}</a>{% if article.by %} - by {{ article.by }}{% endif %}
+                </li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+</div>

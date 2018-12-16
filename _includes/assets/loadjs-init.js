@@ -8,6 +8,9 @@
     {%- if page.slug == 'tickets' -%}
         var ticketsCarousel = '/assets/js/tickets-carousel.js';
     {%- endif -%}
+    {%- if page.include_baguetteBox == true -%}
+        var baguetteBox = '{{ site.data.assets.baguetteBox.js }}';
+    {%- endif -%}
 
     {%- assign bundleItems = 'jquery, bootstrapBundle' -%}
 
@@ -29,4 +32,9 @@
      window.loadjs(cookieConsentJs, 'cookieConsent', {
         success: {%- include assets/cookieconsent-init.js -%}
     });
+    {%- if page.include_baguetteBox == true -%}
+     window.loadjs(baguetteBox, 'baguetteBox', {
+        success: {%- include assets/baguetteBox-init.js -%}
+    });
+    {%- endif -%}
 })();

@@ -32,11 +32,17 @@
 
         <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <link rel="preload" href="{{ site.data.assets.cookieConsent.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        {%- if page.include_baguetteBox == true -%}
+        <link rel="preload" href="{{ site.data.assets.baguetteBox.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        {%- endif -%}
         <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" crossorigin="anonymous">
 
         <noscript>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
             <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
+            {%- if page.include_baguetteBox == true -%}
+            <link rel="preload" href="{{ site.data.assets.baguetteBox.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+            {%- endif -%}
             <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
         </noscript>
 
@@ -58,7 +64,7 @@
     </head>
 
     {%- capture body_class -%}
-        layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% endif %}
+        layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% elsif page.dir %} page-{{ page.dir | slugify }}{% endif %}
     {%- endcapture -%}
     <body class="{{ body_class }}">
         <header class="mast-header">
