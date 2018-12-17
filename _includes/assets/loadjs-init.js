@@ -8,6 +8,11 @@
     {%- if page.slug == 'tickets' -%}
         var ticketsCarousel = '/assets/js/tickets-carousel.js';
     {%- endif -%}
+
+    {%- if page.slug == 'media' -%}
+        var mediaJS = '/assets/js/media.js';
+    {%- endif -%}
+
     {%- if page.include_baguetteBox == true -%}
         var baguetteBox = '{{ site.data.assets.baguetteBox.js }}';
     {%- endif -%}
@@ -16,6 +21,10 @@
 
     {%- if page.slug == 'tickets' -%}
         {%- assign bundleItems = bundleItems | append: ', ticketsCarousel' -%}
+    {%- endif -%}
+
+    {%- if page.slug == 'media' -%}
+        {%- assign bundleItems = bundleItems | append: ', mediaJS' -%}
     {%- endif -%}
 
     window.loadjs([{{ bundleItems }}], 'jsBundle', {
