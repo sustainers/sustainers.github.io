@@ -9,6 +9,7 @@
   pages:
     - title: Events
     - title: Forum
+      url: https://discourse.sustainoss.org/
 
 - name: footer
   pages:
