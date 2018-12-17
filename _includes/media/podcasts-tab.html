@@ -1,13 +1,12 @@
 <div id="podcasts" role="tabpanel" class="tab-pane fade podcasts" aria-labelledby="podcasts-tab">
     <div class="row justify-content-center">
-        <div class="col-12 col-md-8">
-            <ul>
-                {%- for podcast in site.data.media.podcasts -%}
-                <li>
-                    <a href="{{ podcast.url }}" rel="noopener" target="_blank">{{ podcast.name | default: podcast.url }}</a>{% if podcast.by %} - {{ podcast.by }}{% endif %}
-                </li>
-                {%- endfor -%}
-            </ul>
+        <div class="col-12 col-lg-6">
+            <audio data-theme="night" data-src="https://changelog.com/podcast/bonus-sustainoss-2018/embed" src="https://cdn.changelog.com/uploads/podcast/bonus-sustainoss-2018/the-changelog-bonus-sustainoss-2018.mp3" preload="none" class="changelog-episode" controls></audio>
+            <p><a href="https://changelog.com/podcast/bonus-sustainoss-2018">The Changelog BONUS – Sustain Summit 2018</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p>
+        </div>
+        <div class="col-12 col-lg-6">
+            <audio data-theme="night" data-src="https://changelog.com/podcast/bonus-sustainoss/embed" src="https://cdn.changelog.com/uploads/podcast/bonus-sustainoss/the-changelog-bonus-sustainoss.mp3" preload="none" class="changelog-episode" controls></audio>
+            <p><a href="https://changelog.com/podcast/bonus-sustainoss">The Changelog BONUS - Sustain Open Source Software</a> – Listen on <a href="https://changelog.com/">Changelog.com</a></p>
         </div>
     </div>
 </div>
