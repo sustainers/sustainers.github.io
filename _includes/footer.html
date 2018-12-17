@@ -83,6 +83,10 @@
             {%- include assets/loadjs-init.js -%}
         </script>
 
+        {%- if page.slug == "media" -%}
+        <script async src="https://cdn.changelog.com/embed.js"></script>
+        {%- endif -%}
+
         {%- include google-analytics.html -%}
     </body>
 </html>
