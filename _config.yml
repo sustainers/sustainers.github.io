@@ -63,7 +63,7 @@ logo:               "/assets/img/og-large.png"
 # Output
 permalink:          pretty
 defaults:
-    scope:
+  - scope:
       path:         ""
     values:
       image:
