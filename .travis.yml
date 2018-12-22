@@ -26,7 +26,7 @@ install:
 
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-html --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --report-missing-names --report-script-embeds --internal-domains sustainoss.org
+  - bundle exec htmlproofer _site/ --check-external-hash --check-favicon --check-img-http --check-opengraph --empty-alt-ignore --enforce-https --internal-domains sustainoss.org
   - npm test
 
 matrix:
