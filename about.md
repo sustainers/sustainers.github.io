@@ -30,7 +30,7 @@ Last year's organizers were:
 * [Eric Berry](https://twitter.com/coderberry) of [CodeFund](https://codefund.io/)
 
 You may contact them if you have any questions or concerns.
-You can also join us on [our forum](https://discourse.sustainoss.org/) or [Twitter]({{ site.params.twitter }}).
+You can also join us on [our forum]({{ site.params.discourse }}/) or [Twitter]({{ site.params.twitter }}).
 Hashtag: [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
 ## Logo assets
