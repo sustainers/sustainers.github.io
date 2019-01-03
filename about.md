@@ -15,13 +15,13 @@ think about the sustainability of open source software.
 After the event, a [report](/assets/pdf/SustainOSS-west-2017-report.pdf) was written and a definition
 was born, "_sustainer—the individual or organization who is concerned with the fragile state and future
 of highly-used and impactful open source projects_". If that sounds like something you identify with,
-you should [join us](/tickets/).
+you should join us.
 
 Sustain events are led by a facilitator. There are no keynotes, talks, or sponsor demos.
 Your undivided attention is **required**. Phones and laptops should not be used throughout the day
 and you will be asked to put devices away if they are a distraction to you or anyone else.
 
-This year's organizers are:
+Last year's organizers were:
 
 * [Pia Mancini](https://www.piamancini.com/) - pia at sustainoss.org
 * [Justin Dorfman](https://www.justindorfman.com/) - jd at sustainoss.org
@@ -30,10 +30,8 @@ This year's organizers are:
 * [Eric Berry](https://twitter.com/coderberry) of [CodeFund](https://codefund.io/)
 
 You may contact them if you have any questions or concerns.
-You can also join us on [Changelog's Community Slack](https://changelog.com/community) (#sustain)
-or [Twitter]({{ site.params.twitter }}).
-This year's hashtags are: [#sustainsummit18](https://twitter.com/search?f=tweets&q=sustainsummit18) &
-[#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
+You can also join us on [our forum]({{ site.params.discourse }}/) or [Twitter]({{ site.params.twitter }}).
+Hashtag: [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
 ## Logo assets
 
