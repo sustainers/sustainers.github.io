@@ -15,6 +15,9 @@ multipass: true
 #  indent: 2
 
 plugins:
+#  - addAttributesToSVGElement:
+#      attributes:
+#        - focusable: false
   - cleanupAttrs: true
   - cleanupEnableBackground: true
   - cleanupIDs: true
@@ -41,8 +44,9 @@ plugins:
   - removeHiddenElems: true
   - removeMetadata: true
   - removeNonInheritableGroupAttrs: true
-  - removeTitle: true
-  - removeUnknownsAndDefaults: true
+  - removeTitle: false
+  - removeUnknownsAndDefaults:
+      keepRoleAttr: true
   - removeUnusedNS: true
   - removeUselessDefs: true
   - removeUselessStrokeAndFill: true
