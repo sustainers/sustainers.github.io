@@ -35,8 +35,7 @@ Hashtag: [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
 ## Media and Logos
 
-For links to all Sustain talks, videos, reports, podcasts and more, check out our [Media page](/media).
-<br />
+For links to all Sustain talks, videos, reports, podcasts and more, check out our [Media page](/media/).
 
 <p>
     You can find all of our logo variations on <a href="https://demo.identihub.co/sustain#/" data-proofer-ignore>Identihub</a>.
