@@ -1,15 +1,5 @@
 .navbar {
     border-bottom: 1px solid lighten($darkblue, 10%);
-
-    .container {
-        @media (max-width: 992px) {
-            width: 100%;
-            padding-right: 0;
-            padding-left: 0;
-            margin-right: auto;
-            margin-left: auto;
-        }
-    }
 }
 
 .navbar-light {
