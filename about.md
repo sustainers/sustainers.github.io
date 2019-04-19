@@ -33,7 +33,9 @@ You may contact them if you have any questions or concerns.
 You can also join us on [our forum]({{ site.params.discourse }}/) or [Twitter]({{ site.params.twitter }}).
 Hashtag: [#sustainoss](https://twitter.com/search?l=&q=%23sustainoss)
 
-## Logo assets
+## Media and Logos
+
+For links to all Sustain talks, videos, reports, podcasts and more, check out our [Media page](/media/).
 
 <p>
     You can find all of our logo variations on <a href="https://demo.identihub.co/sustain#/" data-proofer-ignore>Identihub</a>.
