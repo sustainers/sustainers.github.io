@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "description": "The sustainoss.org source code",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sustainers/website.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sustainers/website/issues"
+  },
+  "homepage": "https://sustainoss.org/",
   "scripts": {
     "critical": "shx cat \"_site/*.html\" | critical --folder _site --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
@@ -16,29 +26,19 @@
     "svgo:base": "svgo --config=_svgo.yml --recursive",
     "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sustainers/website.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sustainers/website/issues"
-  },
-  "homepage": "https://github.com/sustainers/website#readme",
   "devDependencies": {
-    "autoprefixer": "^9.5.0",
+    "autoprefixer": "^9.5.1",
     "critical": "^1.3.4",
-    "find-unused-sass-variables": "^0.3.2",
+    "find-unused-sass-variables": "^0.3.3",
     "npm-run-all": "^4.1.5",
     "postcss-cli": "^6.1.2",
     "postcss-scss": "^2.0.0",
     "shx": "^0.3.2",
-    "stylelint": "^9.10.1",
-    "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-config-standard": "^18.2.0",
-    "stylelint-scss": "^3.5.4",
-    "svgo": "^1.2.0",
+    "stylelint": "^10.0.1",
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-scss": "^3.6.0",
+    "svgo": "^1.2.2",
     "vnu-jar": "18.11.5"
   },
   "engines": {
