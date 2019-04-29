@@ -14,7 +14,7 @@ var vnu = require('vnu-jar');
 
 childProcess.exec('java -version', function(error, stdout, stderr) {
     if (error) {
-        console.error('Skipping vnu-jar test; Java is missing.');
+        console.warn('Skipping vnu-jar test; Java is missing.');
         return;
     }
 
@@ -26,7 +26,15 @@ childProcess.exec('java -version', function(error, stdout, stderr) {
         'This document appears to be written in.*'
     ].join('|');
 
-    var args = ['-jar', vnu, '--asciiquotes', '--skip-non-html', '--Werror', '--filterpattern "' + ignores + '"', '_site/'];
+    var args = [
+        '-jar',
+        vnu,
+        '--asciiquotes',
+        '--skip-non-html',
+        '--Werror',
+        '--filterpattern "' + ignores + '"',
+        '_site/'
+    ];
 
     // For the 32-bit Java we need to pass `-Xss512k`
     if (is32bitJava) {
