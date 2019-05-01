@@ -34,6 +34,9 @@ plugins:
   - minifyStyles: true
   - moveElemsAttrsToGroup: true
   - moveGroupAttrsToElems: true
+  - removeAttrs:
+      attrs:
+        - "data-name"
   - removeComments: true
   - removeDesc: true
   - removeDoctype: true
