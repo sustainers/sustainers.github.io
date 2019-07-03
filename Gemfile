@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'html-proofer', '~> 3.10.2'
-gem 'jekyll', '~> 3.8.5'
+gem 'html-proofer', '~> 3.11.0'
+gem 'jekyll', '~> 3.8.6'
 gem 'jekyll-redirect-from', '~> 0.15.0'
 gem 'jekyll-seo-tag', '~> 2.6.0'
 gem 'jekyll-sitemap', '~> 1.3.1'
