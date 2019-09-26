@@ -2,6 +2,10 @@
     color: $white;
     font-size: 0.9rem;
 
+    li + li {
+        margin: 0.5rem auto;
+    }
+
     a {
         color: inherit;
 
