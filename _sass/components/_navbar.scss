@@ -35,7 +35,6 @@
 
         .nav-link:hover::after,
         .nav-link:focus::after,
-        .active > .nav-link::after,
         .active > .nav-link::after {
             width: 100%;
         }
