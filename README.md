@@ -1,6 +1,6 @@
 # SustainOSS.org Website
 
-[![Linux Build Status](https://img.shields.io/travis/sustainers/website/master.svg?label=Linux%20build)](https://travis-ci.org/sustainers/website)
+[![Build Status](https://github.com/sustainers/website/workflows/Tests/badge.svg)](https://github.com/sustainers/website/actions?workflow=Tests)
 
 ## Getting started
 
