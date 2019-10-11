@@ -1,7 +1,7 @@
-function() {
-    'use strict';
+/* globals cookieConsentJs:false */
 
-    window.addEventListener('load', function() {
+window.loadjs(cookieConsentJs, 'cookieConsent', {
+    success: function() {
         window.cookieconsent.initialise({
             palette: {
                 popup: {
@@ -18,5 +18,5 @@ function() {
                 link: 'Read our Privacy Policy'
             }
         });
-    });
-}
+    }
+});

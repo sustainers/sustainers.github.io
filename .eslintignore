@@ -1,0 +1,5 @@
+**/*.min.js
+**/vendor/
+/_site/
+/summit/**
+loadjs-init.js

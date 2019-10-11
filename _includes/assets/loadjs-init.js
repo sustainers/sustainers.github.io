@@ -14,7 +14,7 @@
     {%- endif -%}
 
     {%- if page.include_baguetteBox == true -%}
-        var baguetteBox = '{{ site.data.assets.baguetteBox.js }}';
+        var baguetteBoxJs = '{{ site.data.assets.baguetteBox.js }}';
     {%- endif -%}
 
     {%- assign bundleItems = 'jquery, bootstrapBundle' -%}
@@ -38,12 +38,10 @@
             scriptEl.crossOrigin = true;
         }
     });
-     window.loadjs(cookieConsentJs, 'cookieConsent', {
-        success: {%- include assets/cookieconsent-init.js -%}
-    });
+
+    {%- include assets/cookieconsent-init.js -%}
+
     {%- if page.include_baguetteBox == true -%}
-     window.loadjs(baguetteBox, 'baguetteBox', {
-        success: {%- include assets/baguetteBox-init.js -%}
-    });
+        {%- include assets/baguetteBox-init.js -%}
     {%- endif -%}
 })();
