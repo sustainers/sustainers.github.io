@@ -18,7 +18,7 @@
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
     "build": "bundle exec jekyll build",
     "fusv": "fusv _includes _sass assets",
-    "stylelint": "stylelint --syntax scss \"_sass/**/*.scss\"",
+    "stylelint": "stylelint \"**/*.{css,scss}\"",
     "eslint": "eslint --report-unused-disable-directives .",
     "lint": "npm-run-all --parallel eslint stylelint fusv vnu",
     "vnu": "node ./scripts/vnu-jar.js",
