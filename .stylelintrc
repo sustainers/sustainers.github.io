@@ -7,7 +7,6 @@
     "number-leading-zero": "always",
     "order/properties-order": null,
     "property-no-vendor-prefix": null,
-    "scss/dollar-variable-default": null,
     "selector-no-vendor-prefix": null,
     "value-no-vendor-prefix": null
   }
