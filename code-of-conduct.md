@@ -8,7 +8,7 @@ redirect_from:
 
 ## Code of Conduct
 
-(Adapted from the [Open Source Feels Code of Conduct](https://www.osfeels.com/conduct/)
+(Adapted from the [Open Source Feels Code of Conduct](https://www.osfeels.com/conduct/).)
 
 ### Short Version
 
