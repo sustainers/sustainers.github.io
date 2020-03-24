@@ -1,0 +1,26 @@
+#events {
+  padding-top: 50px;
+  .event-container {
+    text-align: center;
+    height: 500px;
+    margin-bottom: 100px;
+    img {
+      max-width: 250px;
+      margin-bottom: 40px;
+    }
+  }
+  .details {
+    margin: 30px auto;
+    color: $teal-dark;
+  }
+  .learn-more {
+    padding: 10px 30px;
+    background-color: $teal;
+    color: $white;
+    border-radius: 3px;
+    &:hover {
+      text-decoration: none;
+      background-color: $teal-dark;
+    }
+  }
+}
