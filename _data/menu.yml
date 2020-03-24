@@ -13,17 +13,16 @@
 
 - name: footer
   pages:
-    # 4 items per column
+    # 3 items per column
     - title: About
+    - title: Events
     - title: Forum
     - title: Podcast
       url: https://sustain.codefund.fm/
-    - title: Media
 
-    - title: Sponsors
+    - title: Media
     - title: Code of Conduct
     - title: Diversity
     - title: Privacy
 
-    - title: Events
     - title: Contact

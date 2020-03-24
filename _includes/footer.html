@@ -20,7 +20,7 @@
                             MAX_MODULO is just COLUMN_ITEMS - 1
                         {%- endcomment -%}
 
-                        {%- assign COLUMN_ITEMS = 4 -%}
+                        {%- assign COLUMN_ITEMS = 3 -%}
                         {%- assign MAX_MODULO = COLUMN_ITEMS | minus: 1 -%}
                         {%- for menu in site.data.menu -%}
                             {%- if menu.name != 'footer' -%}
