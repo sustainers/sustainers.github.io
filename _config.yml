@@ -41,6 +41,7 @@ exclude:
   - package.json
   - package-lock.json
   - README.md
+  - summit
 
 params:
   github:           "https://github.com/sustainers"

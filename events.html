@@ -4,18 +4,46 @@ title: Events
 slug: events
 ---
 
+<h1 class="h2 text-center mb-4 ">Events</h1>
 
-<h1 class="h2 text-center mb-4">Past Events</h1>
+<div class="container events">
+  <div class="row">
+    <div class="col-md-8 offset-md-2">
+<p>Sustain started a single event: the San Francisco Summit in 2017. It then went on to London in 2018, and Brussels in 2020. As it has aged, it's become more and more clear that Sustain is more than just an event. Instead, it's a movement.</p>
 
-<div class="row mb-4">
-    <div class="col-12 col-md-6 my-3 text-center">
-        <a href="https://sustainoss.org/summit/2018/" title="Sustain Summit 2018" rel="noopener" target="_blank">
-            <img class="img-fluid" src="/assets/img/sustain-summit-2018-logo.svg" alt="Sustain Summit 2018 Logo" width="300" height="98">
+<p>In 2020, we saw the first satellite events using the Sustain brand: one in Lagos, and one in Colorado. Looking forward, we're hoping to find new ways to host Sustain events aroudn the world, virtually and in person, in order to keep conversations around sustainability going.</p>
+
+<p>All of our work and organizing is open source. If you're interested in how Sustain has hosted events, want to host your own event, or want to use the Sustain brand as part of your event, get in touch and let us know.</p>
+</div>
+</div>
+</div>
+
+<h1 class="h2 text-center mb-4 past-title">Past Events</h1>
+
+<div class="row mb-4 events">
+  {% assign events = site.data.events | sort: 'ranking' %}
+  {% for event in events %}
+    {% assign loopindex = forloop.index | modulo: 3 %}
+      <div class="col-xs-10 offset-xs-1 col-sm-4 col-md-4 event-container">
+        {% if event.url %}<a href="{{ event.url }}">{% endif %}
+          <img src="../assets/img/events/{{ event.logo }}" alt="{{ event.title }}" class="card-image"/>
+        {% if event.url %}</a>{% endif %}
+        <h4>
+          {{ event.title }}
+        </h4>
+        <p class="details"><b>Where:</b> {{ event.location}}<br />
+        <b>When:</b> {{ event.date }}</p>
+        {% if event.url %}<a class="learn-more" href="{{ event.url }}">
+          Learn More
         </a>
-    </div>
-    <div class="col-12 col-md-6 my-3 text-center">
-        <a href="https://sustainoss.org/summit/2017/" title="Sustain Summit 2017" rel="noopener" target="_blank">
-            <img class="img-fluid" src="/assets/img/sustain-summit-2017-logo.svg" alt="Sustain Summit 2017 Logo" width="300" height="73">
-        </a>
-    </div>
+        {% endif %}
+      </div>
+    {% if forloop.index == 3 %}
+      <div class="clearfix visible-sm-block"></div>
+    {% elsif forloop.index == 4 %}
+      <div class="clearfix visible-md-block visible-lg-block"></div>
+    {% elsif forloop.index == 12 %}
+      <div class="clearfix visible-md-block visible-lg-block"></div>
+    {% endif %}
+  {% endfor %}
 </div>

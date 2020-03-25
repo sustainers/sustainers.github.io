@@ -1,0 +1,147 @@
+- title: Leadership Development
+  bottomliner: Farbod Saraf
+  slug: leadership
+  status: Nascent
+  ranking: 1
+  description: "What does it take to be an open source leader? How do leaders emerge, and what can we learn about what makes leaders effective? What are the pressures and issues that leaders face, and how can we mitigate them through active development?"
+
+- title: Open Source Funders
+  bottomliner: Richard Littauer
+  slug: open-source-funders
+  status: On Hold
+  ranking: 0
+  description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
+
+- title: Sustainability Readiness
+  bottomliner: Erin McKean
+  slug: sustainability-readiness
+  status: Nascent
+  ranking: 1
+  description: "How can we ensure that a new open source project is born sustainable? What steps can be put into place to fight entropy in both code and governance structures in open source?"
+
+- title: Licensing
+  bottomliner: Benjamin Nickolls
+  slug: licensing
+  status: Nascent
+  ranking: 1
+  description: "What is licensing, anyway? What's the current state of the ecosystem, where are we going, and how can we talk about licenses without flipping over the proverbial dinner table?"
+
+- title: Personas on Sustainability
+  bottomliner: Jacob Redding
+  slug: personas
+  status: Nascent
+  ranking: 1
+  description: "Who are sustainers, anyway? What does it mean to sustain a project? How can we use persona development to learn more about the needs of all of the stakeholders in open source?"
+
+- title: 2020 Sustain Summit Report
+  bottomliner: Benjamin Nickolls
+  slug: 2020-summit-report
+  status: Nascent
+  ranking: 1
+  description: "It was great, everyone loved it, but - what happened at the 2020 Sustai Summit for those of us who weren't there, or who were busy thinking about a couple of hard problems in open source? How can we further Sustain's goals, going forward?"
+
+- title: Academic and Specialized Projects
+  bottomliner: Yo Yehudi
+  slug: academic-projects
+  status: Nascent
+  ranking: 1
+  description: "Open source doesn't just mean web development. How does sustainability relate to academic and specialized projects that have different needs and users?"
+
+- title: Design and UX
+  bottomliner: Georgia Bullen
+  slug: design-and-ux
+  status: Nascent
+  ranking: 1
+  description: "How can we make open source design and user experience sustainable, too? What does sustainability mean for code-adjacent territories?"
+
+- title: Docs
+  bottomliner: Chris Chinchilla, Pia Mancini
+  slug: docs
+  status: Nascent
+  ranking: 1
+  description: "Who writes, uses, and updates the docs? What do sustainable-first docs look like? How can we write better ones?"
+
+- title: Ethics
+  bottomliner: Chris Chinchilla
+  slug: ethics
+  status: Nascent
+  ranking: 1
+  description: "Is Open Source ethical? What are the ramifications of bad actors in open source, and how can we work together to move beyond ethical boulders on the path to sustainability?"
+
+- title: Business Models for Individual OS Devs
+  bottomliner: Agost Biro
+  slug: business-models
+  status: Nascent
+  ranking: 1
+  description: "For individual developers, what does sustainability look like? How can developers get money for their projects, taking them out of the abandon-ware and hobbyist stage?"
+
+- title: Membership models for OSS
+  bottomliner: Gabriela Rodríguez Berón
+  slug: membership-models
+  status: Nascent
+  ranking: 1
+  description: "What do models of membership look like, specifically for organisations developing FLOSS? How can we all be involved?"
+
+- title: Climate Emergency
+  bottomliner: Xavier Damman
+  slug: climate-emergency
+  status: Nascent
+  ranking: 1
+  description: "Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?"
+
+- title: Community Principles & Ostrom Redux
+  bottomliner: Greg Bloom
+  slug: ostrom
+  status: Active
+  ranking: 2
+  description: "Elinor Ostrom laid out principles of healthy communities for governing the commons. How can we apply her Nobel-prize winning research to the world of open source?"
+
+- title: Governance Readiness
+  bottomliner: Javier Izquierdo
+  slug: governance-readiness
+  status: On Hold
+  ranking: 0
+  description: "What does healhty governance look like? How can we improve our day-to-day work, identify barriers and needs, and intervene where new governance structures are needed?"
+
+- title: Marketing
+  bottomliner: Richard Littauer
+  slug: marketing
+  status: Nascent
+  ranking: 1
+  description: "What does an open source developer have to do to find new users, more sponsors, and better swag? What is sustainable marketing for open source?"
+
+- title: Principles of Authentic Participation
+  bottomliner: Justin Flory
+  slug: authentic-participation
+  status: Active
+  ranking: 2
+  description: "What are the core set of principles for what authentic participation means in multiple contexts (e.g. corporate, individual, humanitarian/NGOs, etc.), as it relates to OSS code?"
+
+- title: Corporate Do's and Dont's
+  bottomliner: Duane O'Brien
+  slug: corporate-dos-and-donts
+  status: On Hold
+  ranking: 0
+  description: "Good corp, bad corp: what does sustainability and ethical practices mean for corporations who run OSPOs or who use open source code?"
+
+- title: Motivating Contributors
+  bottomliner: Duane O'Brien
+  slug: motivating-contributors
+  status: On Hold
+  ranking: 0
+  description: "How can we best harness the power of contributors in open source? What turns a drive-by committer into a long-lasting maintainer?"
+
+- title: Back Your Stack
+  bottomliner: Alyssa Wright
+  slug: back-your-stack
+  status: Active
+  ranking: 2
+  description: "How can we give back to OSS projects that we already use at our work? What does our stack look like, and who among our dependencies is looking for funding?"
+
+- title: FOSS Responders
+  bottomliner: Duane O'Brien, Megan Byrd-Sanicki, and Richard Littauer
+  slug: foss-responders
+  status: Active
+  ranking: 2
+  description: "How can the Open Source ecosystem respond to Covid-19? How can we help developers who are losing money, jobs, and conferences?"
+

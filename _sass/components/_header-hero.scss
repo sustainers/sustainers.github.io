@@ -1,5 +1,5 @@
 .header-hero {
-    background: url("/assets/img/landing-page-bkg-blue@767.jpg") no-repeat center center / cover;
+    background: url("/assets/img/sustain-summit-2020-blue@767.jpg") no-repeat center center / cover;
     min-height: 70vh;
 
     @media (max-width: 767px) and (orientation: landscape) {
@@ -7,9 +7,9 @@
     }
 
     @media (min-width: 768px) {
-        background-image: url("/assets/img/landing-page-bkg-blue@1920.jpg");
-        height: 90vh;
-        min-height: 90vh;
+        background-image: url("/assets/img/sustain-summit-2020-blue@1923.jpg");
+        height: 70vh;
+        min-height: 70vh;
     }
 
     h1 {
@@ -17,9 +17,26 @@
         text-shadow: 2px 2px #070d13;
     }
 
+    .subtitle {
+        margin-bottom: 10vh;
+    }
+
     .display-4 {
         @media (max-width: 767px) {
             font-size: 3rem;
         }
     }
+
+    .card {
+        background: #fff;
+        color: $teal;
+        .btn {
+            background-color: $teal;
+            border-color: $teal;
+            &:hover {
+                background-color: $teal-dark;
+            }
+        }
+    }
+
 }

@@ -1,17 +1,9 @@
 {%- include header.html -%}
 
+{%- include home/hero.html -%}
+
 <div class="main-content">
-    {{ content }}
-
-    <div class="newsletter-cta text-center py-5">
-        <div class="container">
-
-            <h4 id="newsletter" class="mb-5">Newsletter</h4>
-
-            {%- include home/newsletter.html -%}
-        </div>
-    </div>
-
+{{ content }}
 </div>
 
 {%- include footer.html -%}

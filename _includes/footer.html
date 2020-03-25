@@ -8,13 +8,19 @@
                         </div>
                     </div>
 
+                    <div class="row definition">
+                      <div class="col-lg-6 offset-lg-3 col-md-12" style="text-align:center;">
+                        <p><b>sustainer</b> — <i>the individual or organization who is concerned with the current state and future of highly-used and impactful open source projects</i></p>
+                      </div>
+                    </div>
+
                     <div class="row justify-content-center">
                         {%- comment -%}
                             COLUMN_ITEMS is the number of items per footer column
                             MAX_MODULO is just COLUMN_ITEMS - 1
                         {%- endcomment -%}
 
-                        {%- assign COLUMN_ITEMS = 4 -%}
+                        {%- assign COLUMN_ITEMS = 3 -%}
                         {%- assign MAX_MODULO = COLUMN_ITEMS | minus: 1 -%}
                         {%- for menu in site.data.menu -%}
                             {%- if menu.name != 'footer' -%}
