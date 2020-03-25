@@ -8,8 +8,8 @@
 
     @media (min-width: 768px) {
         background-image: url("/assets/img/sustain-summit-2020-blue@1923.jpg");
-        height: 90vh;
-        min-height: 90vh;
+        height: 70vh;
+        min-height: 70vh;
     }
 
     h1 {
@@ -17,9 +17,26 @@
         text-shadow: 2px 2px #070d13;
     }
 
+    h4.subtitle {
+      margin-bottom: 10vh;
+    }
+
     .display-4 {
         @media (max-width: 767px) {
             font-size: 3rem;
         }
     }
+
+    .card {
+      background: white;
+      color: $teal;
+      .btn {
+        background-color: $teal;
+        border-color: $teal;
+        &:hover {
+          background-color: $teal-dark;
+        }
+      }
+    }
+
 }

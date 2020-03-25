@@ -4,10 +4,13 @@
   pages:
     - title: Home
     - title: About
+    - title: Events
 
 - name: navbar-right
   pages:
-    - title: Events
+    - title: Working Groups
+    - title: Podcast
+      url: https://sustain.codefund.fm/
     - title: Forum
       url: https://discourse.sustainoss.org/
 
