@@ -6,6 +6,12 @@
         min-height: 400px;
     }
 
+    @media (max-width: 767px){
+        .card {
+          margin-bottom: 5vh;
+        }
+    }
+
     @media (min-width: 768px) {
         background-image: url("/assets/img/sustain-summit-2020-blue@1923.jpg");
         height: 70vh;
