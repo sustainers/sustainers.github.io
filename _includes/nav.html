@@ -29,7 +29,7 @@
                     {%- assign link_slug = nil -%}
                 {%- endif -%}
 
-                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}">{{ item.title }}</a>
+                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{% if item.url %}{{ item.url }}{% else %}{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}{% endif %}">{{ item.title }}</a>
                 {%- endfor -%}
             </div>
         </div>
