@@ -17,8 +17,8 @@
         text-shadow: 2px 2px #070d13;
     }
 
-    h4.subtitle {
-      margin-bottom: 10vh;
+    .subtitle {
+        margin-bottom: 10vh;
     }
 
     .display-4 {
@@ -28,15 +28,15 @@
     }
 
     .card {
-      background: white;
-      color: $teal;
-      .btn {
-        background-color: $teal;
-        border-color: $teal;
-        &:hover {
-          background-color: $teal-dark;
+        background: #fff;
+        color: $teal;
+        .btn {
+            background-color: $teal;
+            border-color: $teal;
+            &:hover {
+                background-color: $teal-dark;
+            }
         }
-      }
     }
 
 }
