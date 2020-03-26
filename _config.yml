@@ -1,6 +1,6 @@
-title:              "Sustain Open Source"
+title:              "A space for Open Source Sustainers"
 short_title:        "SustainOSS"
-description:        "A space for Open Source Sustainers"
+description:        "A space for Open Source Sustainers" #todo fix DRY
 
 markdown:           kramdown
 
