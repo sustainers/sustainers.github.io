@@ -85,7 +85,7 @@ slug: Sustain Working Groups
   {% endfor %}
 </div>
 
-
+<!--
 <div class="row wg-title">
   <div class="col-md-8 offset-md-2">
     <h3 class="text-center mb-4">Inactive groups</h3>
@@ -124,3 +124,4 @@ slug: Sustain Working Groups
     {% endif %}
   {% endfor %}
 </div>
+-->
