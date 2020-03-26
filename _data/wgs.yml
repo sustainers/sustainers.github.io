@@ -8,8 +8,8 @@
 - title: Open Source Funders
   bottomliner: Richard Littauer
   slug: open-source-funders
-  status: On Hold
-  ranking: 0
+  status: Incubating
+  ranking: 1
   description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
 
 - title: Sustainability Readiness
@@ -125,10 +125,10 @@
   description: "Good corp, bad corp: what does sustainability and ethical practices mean for corporations who run OSPOs or who use open source code?"
 
 - title: Motivating Contributors
-  bottomliner: Duane O'Brien
+  bottomliner: Richard Littauer
   slug: motivating-contributors
-  status: On Hold
-  ranking: 0
+  status: Incubating
+  ranking: 1
   description: "How can we best harness the power of contributors in open source? What turns a drive-by committer into a long-lasting maintainer?"
 
 - title: Back Your Stack
