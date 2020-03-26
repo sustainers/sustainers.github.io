@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: 2020 Summit Report
+slug: 2020-summit-report
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Incubating
+**Bottom liner**: Ben Nickolls
 **How to get involved**:  
 
 ## Rationale

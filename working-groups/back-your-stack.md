@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Back Your Stack
+slug: back-your-stack
 ---
 
 **Status**: Active
-**Bottom liner**: Duane O'Brien
+**Bottom liner**: Alyssa Wright
 **How to get involved**:  
 
 ## Rationale

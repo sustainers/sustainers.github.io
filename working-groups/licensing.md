@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Licensing
+slug: licensing
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Incubating
+**Bottom liner**: Ben Nickolls
 **How to get involved**:  
 
 ## Rationale

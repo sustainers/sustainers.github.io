@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Academic & Specialized Projects
+slug: academic-projects
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Incubating
+**Bottom liner**: Yo Yehudi
 **How to get involved**:  
 
 ## Rationale

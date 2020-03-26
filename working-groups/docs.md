@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Docs
+slug: docs
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Incubating
+**Bottom liner**: Chris Chinchilla and Pia Mancini
 **How to get involved**:  
 
 ## Rationale

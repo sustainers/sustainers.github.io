@@ -56,7 +56,7 @@ slug: Sustain Working Groups
 <div class="row mb-4 wgs">
   {% assign wgs = site.data.wgs | sort: 'ranking' | reverse %}
   {% for wg in wgs %}
-    {% if wg.status == 'Nascent' %}
+    {% if wg.status == 'Incubating' %}
       {% assign loopindex = forloop.index | modulo: 3 %}
         <div class="col-xs-10 offset-xs-1 col-md-4">
           <div class="wg-container">

@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Authentic Participation
+slug: authentic-participation
 ---
 
 **Status**: Active
-**Bottom liner**: Duane O'Brien
+**Bottom liner**: Justin Flory
 **How to get involved**:  
 
 ## Rationale

@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Design & UX
+slug: design-and-ux
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Incubating
+**Bottom liner**: Georgia Bullen
 **How to get involved**:  
 
 ## Rationale

@@ -1,8 +1,14 @@
 ---
-layout: default
+layout: text-page
 title: Membership Models for Open Source
 slug: membership-models
 ---
+
+**Status**: Incubating  
+**Bottom liner**: Gabriela Rodríguez Berón  
+**How to get involved**:
+
+## Rationale
 
 ## Goals
 
@@ -14,3 +20,11 @@ for this) and maybe meet every month or so via voice.
 
 It would be great to get a document/page/something with different
 possible models with pros/cons and examples in the real world :)
+
+## Guiding questions
+
+## Reports and documents
+
+## Resources
+
+## How to get involved

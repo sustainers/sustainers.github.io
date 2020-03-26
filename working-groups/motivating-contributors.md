@@ -1,11 +1,11 @@
 ---
 layout: text-page
-title: Transparency Goals
-slug: transparency-goals
+title: Motivating Contributors
+slug: motivating-contributors
 ---
 
 **Status**: Active
-**Bottom liner**: Duane O'Brien
+**Bottom liner**: Richard Littauer
 **How to get involved**:  
 
 ## Rationale

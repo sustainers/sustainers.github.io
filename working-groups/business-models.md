@@ -1,8 +1,14 @@
 ---
-layout: default
+layout: text-page
 title: Business Models for Individual OS Developers
 slug: business-models
 ---
+
+**Status**: Incubating
+**Bottom liner**: Agost Biro
+**How to get involved**:  
+
+## Rationale
 
 ## Goals
 
@@ -16,3 +22,12 @@ The goal of the Business Models for Independent OSS Devs group would be to:
 - an analysis about the characteristics of successful projects using the provider.
 
 The challenge is keeping all of this objective, as some participants (myself included) are biased by working on a project in this space. I think this can be overcome by keeping the document in a Github repo where each edit is public and saved for posterity, and where editors' affiliations are listed. An other challenge is getting reliable revenue numbers from providers. We will discuss how to go about this in the working group.
+
+## Guiding questions
+
+## Reports and documents
+
+## Resources
+
+## How to get involved
+
