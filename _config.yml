@@ -1,6 +1,6 @@
-title:              "Sustain Open Source"
+title:              "A space for Open Source Sustainers"
 short_title:        "SustainOSS"
-description:        "A space for Open Source Sustainers"
+description:        "A space for Open Source Sustainers" #todo fix DRY
 
 markdown:           kramdown
 
@@ -48,8 +48,6 @@ params:
   slack:            "https://slack.opencollective.org"
   twitter:          "https://twitter.com/SustainOSS"
   discourse:        "https://discourse.sustainoss.org"
-  latitude:         51.5286903
-  longitude:        -0.1301617
 
 # Social-related stuff
 author:
