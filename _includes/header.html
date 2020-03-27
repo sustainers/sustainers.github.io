@@ -26,40 +26,18 @@
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=fallback">
 
-        <style>
-        {%- capture include_to_scssify -%}
-            {%- include assets/_critical.scss -%}
-        {%- endcapture -%}
-        {{- include_to_scssify | scssify -}}
-        </style>
-
-        <link rel="preload" href="{{ site.data.assets.bootstrap.css.url }}" as="style" onload="this.onload=null;this.rel='stylesheet'" crossorigin="anonymous">
-        <link rel="preload" href="{{ site.data.assets.cookieConsent.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
+        <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
         {%- if page.include_baguetteBox == true -%}
-        <link rel="preload" href="{{ site.data.assets.baguetteBox.css }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <link rel="stylesheet" href="{{ site.data.assets.baguetteBox.css }}">
         {%- endif -%}
 
-        <noscript>
-            <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
-            <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
-            {%- if page.include_baguetteBox == true -%}
-            <link rel="stylesheet" href="{{ site.data.assets.baguetteBox.css }}">
-            {%- endif -%}
-        </noscript>
-
-        <style>
-        {%- capture include_to_scssify -%}
-            {%- include assets/_main.scss -%}
-
-            {%- if page.slug == "tickets" -%}
-                {%- include assets/_tickets.scss -%}
-            {%- endif -%}
-        {%- endcapture -%}
-        {{- include_to_scssify | scssify -}}
-        </style>
+        <link rel="stylesheet" href="/assets/css/main.css">
+        {%- if page.slug == "tickets" -%}
+            <link rel="stylesheet" href="/assets/css/tickets.css">
+        {%- endif -%}
 
         <script>
-            {%- include assets/cssrelpreload.min.js -%}
             {%- include assets/nojs.js -%}
         </script>
     </head>
