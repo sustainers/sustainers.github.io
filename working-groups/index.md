@@ -58,17 +58,15 @@ slug: Sustain Working Groups
       {% assign loopindex = forloop.index | modulo: 3 %}
         <div class="col-xs-10 offset-xs-1 col-md-4">
           <div class="wg-container">
-            {% if wg.url %}<a href="{{ wg.url }}">{% endif %}
-              <h4>
-                {{ wg.title }}
-              </h4>
-            {% if wg.url %}</a>{% endif %}
+            <h4>
+              {{ wg.title }}
+            </h4>
             <p class="details">{{ wg.description }}</p>
             <p class="details"><b>Bottom liner:</b> {{ wg.bottomliner }}</p>
             {% if wg.url %}
-              <a class="learn-more" href="{{ wg.url }}">
+              <p class="text-center"><a class="btn learn-more" href="{{ wg.slug }}">
                 Learn More
-              </a>
+              </a></p>
             {% endif %}
           </div>
         </div>
