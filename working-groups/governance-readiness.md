@@ -4,11 +4,11 @@ title: Governance Readiness
 slug: governance-readiness
 ---
 
-**Status**: Incubating
-**Bottom liner**: Javier Izquierdo
+**Status**: Incubating<br />
+**Bottom liner**: Javier Izquierdo<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

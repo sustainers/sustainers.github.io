@@ -4,9 +4,9 @@ title: Authentic Participation
 slug: authentic-participation
 ---
 
-**Status**: Active
-**Bottom liner**: [Justin W. Flory](https://twitter.com/jflory7)
-**How to get involved**: Introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284)
+**Status**: Active<br />
+**Bottom liner**: [Justin W. Flory](https://twitter.com/jflory7)<br />
+**How to get involved**: Introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 
 
 ## Purpose

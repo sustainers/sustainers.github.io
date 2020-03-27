@@ -4,11 +4,11 @@ title: Open Source Funders
 slug: open-source-funders
 ---
 
-**Status**: On Hold  
-**Bottom liner**: Richard Littauer  
+**Status**: On Hold<br />
+**Bottom liner**: Richard Littauer<br />
 **How to get involved**: Email [Richard Littauer](richard@maintainer.io)
 
-## Rationale
+## Purpose
 
 ## Goals
 

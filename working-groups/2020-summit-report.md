@@ -4,11 +4,11 @@ title: 2020 Summit Report
 slug: 2020-summit-report
 ---
 
-**Status**: Incubating
-**Bottom liner**: Ben Nickolls
+**Status**: Incubating<br />
+**Bottom liner**: Ben Nickolls<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

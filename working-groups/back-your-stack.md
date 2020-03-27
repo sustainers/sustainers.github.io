@@ -4,11 +4,11 @@ title: Back Your Stack
 slug: back-your-stack
 ---
 
-**Status**: Active
-**Bottom liner**: Alyssa Wright
+**Status**: Active<br/>
+**Bottom liner**: Alyssa Wright<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

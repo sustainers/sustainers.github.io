@@ -4,11 +4,11 @@ title: Design & UX
 slug: design-and-ux
 ---
 
-**Status**: Incubating
-**Bottom liner**: Georgia Bullen
+**Status**: Incubating<br />
+**Bottom liner**: Georgia Bullen<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

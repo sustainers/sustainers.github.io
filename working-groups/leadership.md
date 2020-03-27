@@ -4,11 +4,11 @@ title: Leadership Development
 slug: leadership
 ---
 
-**Status**: Incubating
+**Status**: Incubating<br />
 **Bottom liner**: Farbod Saraf
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

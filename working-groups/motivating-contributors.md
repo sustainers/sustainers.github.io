@@ -4,11 +4,11 @@ title: Motivating Contributors
 slug: motivating-contributors
 ---
 
-**Status**: Active
-**Bottom liner**: Richard Littauer
+**Status**: Active<br />
+**Bottom liner**: Richard Littauer<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

@@ -4,11 +4,11 @@ title: Docs
 slug: docs
 ---
 
-**Status**: Incubating
-**Bottom liner**: Chris Chinchilla and Pia Mancini
+**Status**: Incubating<br />
+**Bottom liner**: Chris Chinchilla and Pia Mancini<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

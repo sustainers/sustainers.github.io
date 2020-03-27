@@ -4,11 +4,11 @@ title: Licensing
 slug: licensing
 ---
 
-**Status**: Incubating
-**Bottom liner**: Ben Nickolls
+**Status**: Incubating<br />
+**Bottom liner**: Ben Nickolls<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 

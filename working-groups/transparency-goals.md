@@ -4,11 +4,11 @@ title: Transparency Goals
 slug: transparency-goals
 ---
 
-**Status**: Active
-**Bottom liner**: Duane O'Brien
+**Status**: Active<br />
+**Bottom liner**: Duane O'Brien<br />
 **How to get involved**:  
 
-## Rationale
+## Purpose
 
 ## Goals
 
