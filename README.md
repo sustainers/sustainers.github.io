@@ -4,16 +4,15 @@
 
 ## Getting started
 
-* Install Ruby and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
+* Install Ruby (preferably version 2.6.x) and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
 * Run `gem install bundle` and then `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
 ### npm tasks
 
-* Install [Node.js](https://nodejs.org/en/) 10.x
+* Install [Node.js](https://nodejs.org/en/), preferably version 12.x
 * Run `npm i`
 * Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
-* Run `npm run build && npm run critical` to generate the critical CSS; usually after Bootstrap has been updated
 * Run `npm run svgo assets/img/foo.svg` to optimize file(s)
 
 ## Contribute

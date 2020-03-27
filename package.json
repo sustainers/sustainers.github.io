@@ -14,7 +14,6 @@
   },
   "homepage": "https://sustainoss.org/",
   "scripts": {
-    "critical": "shx cat \"_site/*.html\" | critical --folder _site --base _site --ignore \":root\" --ignore \"/url(/\" --ignore \"/Emoji/\">_includes/assets/_critical.scss",
     "autoprefixer": "postcss \"_sass/**/*.scss\" --use autoprefixer --syntax postcss-scss --no-map --replace",
     "build": "bundle exec jekyll build",
     "fusv": "fusv _includes _sass assets",
@@ -29,7 +28,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.5",
-    "critical": "^1.3.9",
     "eslint": "^6.8.0",
     "find-unused-sass-variables": "^1.0.5",
     "npm-run-all": "^4.1.5",
