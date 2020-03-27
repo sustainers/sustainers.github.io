@@ -3,4 +3,6 @@
 **/vendor/
 /_site/
 /summit/**
-**/_critical.scss
+# ignoring these since they include `---` and Stylelint's parser complains;
+# these files don't really have any SCSS code, just imports to the individual files
+/assets/css/*.scss
