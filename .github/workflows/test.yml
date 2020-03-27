@@ -2,6 +2,7 @@ name: Tests
 on: [push, pull_request]
 env:
   CI: true
+  RUBY: 2.6.x
 
 jobs:
   test:
@@ -16,10 +17,10 @@ jobs:
         with:
           node-version: "10"
 
-      - name: Set up Ruby 2.6
+      - name: Set up Ruby
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: ${{ env.RUBY }}
 
       - name: Disable gem docs
         run: 'echo "gem: --no-document" > ~/.gemrc'
@@ -28,21 +29,23 @@ jobs:
         uses: actions/cache@v1
         with:
           path: vendor/bundle
-          key: ${{ runner.os }}-gem-${{ hashFiles('Gemfile') }}-${{ hashFiles('Gemfile.lock') }}-${{ hashFiles('.github/workflows/test.yml') }}
+          key: ${{ runner.os }}-ruby-v${{ env.RUBY }}-${{ hashFiles('Gemfile') }}-${{ hashFiles('Gemfile.lock') }}-${{ hashFiles('.github/workflows/test.yml') }}
           restore-keys: |
-            ${{ runner.os }}-gem-
-            
+            ${{ runner.os }}-ruby-v${{ env.RUBY }}-${{ hashFiles('Gemfile') }}-${{ hashFiles('Gemfile.lock') }}-${{ hashFiles('.github/workflows/test.yml') }}
+
       - name: Set up npm cache
         uses: actions/cache@v1
         with:
           path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-node-v${{ matrix.node }}-${{ hashFiles('package.json') }}-${{ hashFiles('package-lock.json') }}-${{ hashFiles('.github/workflows/test.yml') }}
           restore-keys: |
-            ${{ runner.OS }}-node-
-            ${{ runner.OS }}-
+            ${{ runner.OS }}-node-v${{ matrix.node }}-${{ hashFiles('package.json') }}-${{ hashFiles('package-lock.json') }}-${{ hashFiles('.github/workflows/test.yml') }}
 
       - name: Set up Bundler
         run: gem install bundler -v "~> 1.17"
+
+      - name: Update rubygems
+        run: gem update --system
 
       - run: ruby --version
       - run: gem --version
@@ -55,7 +58,7 @@ jobs:
         run: npm ci
 
       - name: Install bundler dependencies
-        run: bundle install --deployment --jobs=3 --retry=3 --clean
+        run: bundle install --deployment --jobs=4 --retry=3 --clean
 #        env:
 #          NOKOGIRI_USE_SYSTEM_LIBRARIES: true
 
