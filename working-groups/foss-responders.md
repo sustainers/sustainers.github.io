@@ -6,7 +6,7 @@ slug: foss-responders
 
 **Status**: Active<br />
 **Bottom liner**: Duane O'Brien, Megan Byrd-Sanicki, and Richard Littauer<br />
-**How to get involved**: Email [Richard](richard@maintainer.io) to get connected
+**How to get involved**: Email [Richard](mailto:richard@maintainer.io) to get connected
 
 ## Purpose
 
