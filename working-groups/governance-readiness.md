@@ -4,9 +4,9 @@ title: Governance Readiness
 slug: governance-readiness
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: [Javier Cánovas](https://twitter.com/jlcanovas)<br />
-**How to get involved**: Feel free to contact [Javier Cánovas](http://jlcanovas.es) or introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/governance-readiness-working-group/298)
+**Status**: Incubating<br>
+**Bottom liner**: [Javier Cánovas](https://twitter.com/jlcanovas)<br>
+**How to get involved**: Feel free to contact [Javier Cánovas](http://jlcanovas.es/) or introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/governance-readiness-working-group/298)
 
 ## Purpose
 
@@ -16,11 +16,11 @@ To define a methodology to identify and deploy healthy governance models.
 
 The main goal of the working group has initially been described as:
 
-* Create a checklist to verify whether open source projects _are ready_ to deploy some kind of governance (or to change their current governance for a healthy one). 
+* Create a checklist to verify whether open source projects _are ready_ to deploy some kind of governance (or to change their current governance for a healthy one).
 
 Other complementary goals are:
 
-* Identification of analysis dimensions in open source projects. It may be needed for the assessment of the current status of the project. 
+* Identification of analysis dimensions in open source projects. It may be needed for the assessment of the current status of the project.
 * List of possible governance models (or most used / recommended)
 * Recommendations/fixes to make your project governance-ready
 
@@ -50,4 +50,4 @@ The working group has just been created. We are still in the process of identify
 
 We plan to have the first online meeting in mid-April, feel free to attend. The main content we plan to discuss is summarized in the [report](https://docs.google.com/document/d/1A2SsCeigKU-8JC2wJS8hXuxcB2tV5XnOj94JmxvPzfw). We will publish the doodle to set the final date soon.
 
-You can contact [Javier Cánovas](http://jlcanovas.es) to be included in the loop. 
+You can contact [Javier Cánovas](http://jlcanovas.es/) to be included in the loop.
