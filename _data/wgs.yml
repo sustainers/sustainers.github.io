@@ -138,14 +138,16 @@
 - title: Back Your Stack
   bottomliner: Alyssa Wright
   slug: back-your-stack
-  status: Active
-  ranking: 0
+  url: true
+  status: Incubating
+  ranking: 1
   description: "How can we give back to OSS projects that we already use at our work? What does our stack look like, and who among our dependencies is looking for funding?"
 
 - title: FOSS Responders
   bottomliner: Duane O'Brien, Megan Byrd-Sanicki, and Richard Littauer
   slug: foss-responders
-  status: Active
-  ranking: 0
+  status: Incubating
+  url: true
+  ranking: 1
   description: "How can the Open Source ecosystem respond to Covid-19? How can we help developers who are losing money, jobs, and conferences?"
 
