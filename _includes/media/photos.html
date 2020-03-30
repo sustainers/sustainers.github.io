@@ -10,7 +10,7 @@
                 {%- assign ext = filename_with_ext | last -%}
                 {%- assign thumb_2x = filename | uri_escape | append: "-thumb@2x." | append: ext -%}
                 {%- assign thumb = filename | uri_escape | append: "-thumb." | append: ext -%}
-                <div class="col-12 col-sm-6 col-lg-4 mb-3 mb-md-0">
+                <div class="col-sm-6 col-lg-4 mb-3 mb-md-0">
                     <div class="text-center pb-2">
                         <a href="/assets/img/media/{{ year.year }}/{{ image | uri_escape }}">
                             <img class="d-block img-fluid mx-auto" srcset="/assets/img/media/{{ year.year }}/thumbs/{{ thumb }},
