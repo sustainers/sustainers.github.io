@@ -4,9 +4,9 @@ title: Marketing
 slug: marketing
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Richard Littauer<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Richard Littauer<br>
+**How to get involved**:
 
 ## Purpose
 

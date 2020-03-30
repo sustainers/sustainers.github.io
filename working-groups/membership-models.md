@@ -4,8 +4,8 @@ title: Membership Models for Open Source
 slug: membership-models
 ---
 
-**Status**: Incubating<br />  
-**Bottom liner**: Gabriela Rodríguez Berón<br />
+**Status**: Incubating<br>
+**Bottom liner**: Gabriela Rodríguez Berón<br>
 **How to get involved**:
 
 ## Purpose

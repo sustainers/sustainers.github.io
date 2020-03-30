@@ -12,7 +12,7 @@ slug: Sustain Working Groups
       <p>At the 2020 Sustain Summit, dozens of small groups met and discussed all aspects of what sustainability means. At the end of the day, we decided to hold these conversations going forward, and to ensure that what we learned didn't stay in a single room. These working groups stemmed from those efforts, or from conversations had by Sustainers around the same time.</p>
 
       <p>All of our work and organizing is open source. If you're interested in a working group, want to get involved and help out, or want to found your own working group around sustainability and code, get in touch and let us know.</p>
-      <hr />
+      <hr>
       <p class="text-center tealdark">These groups are active! Give a shout if you want to be involved. We'll eventually link these groups to more detailed pages with resources and information.</p>
     </div>
   </div>

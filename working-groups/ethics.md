@@ -4,9 +4,9 @@ title: Ethics
 slug: ethics
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Chris Chinchilla<br />
-**How to get involved**: 
+**Status**: Incubating<br>
+**Bottom liner**: Chris Chinchilla<br>
+**How to get involved**:
 
 ## Purpose
 

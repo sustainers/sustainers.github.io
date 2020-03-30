@@ -4,9 +4,9 @@ title: Business Models for Individual OS Developers
 slug: business-models
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Agost Biro<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Agost Biro<br>
+**How to get involved**:
 
 ## Purpose
 

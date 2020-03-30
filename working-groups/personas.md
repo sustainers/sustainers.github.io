@@ -4,9 +4,9 @@ title: Personas on Sustainability
 slug: personas
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Jacob Redding<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Jacob Redding<br>
+**How to get involved**:
 
 ## Purpose
 
