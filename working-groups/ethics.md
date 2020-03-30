@@ -37,4 +37,4 @@ Forthcoming.
 
 ## How to get involved
 
-For now, this group is very low activity (largely due to other concerns during this time). To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla}(https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt).
+For now, this group is very low activity (largely due to other concerns during this time). To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla](https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt).
