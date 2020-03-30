@@ -26,12 +26,12 @@ slug: events
     {% assign loopindex = forloop.index | modulo: 3 %}
       <div class="col-xs-10 offset-xs-1 col-sm-4 col-md-4 event-container">
         {% if event.url %}<a href="{{ event.url }}">{% endif %}
-          <img src="../assets/img/events/{{ event.logo }}" alt="{{ event.title }}" class="card-image"/>
+          <img src="../assets/img/events/{{ event.logo }}" alt="{{ event.title }}" class="card-image">
         {% if event.url %}</a>{% endif %}
         <h4>
           {{ event.title }}
         </h4>
-        <p class="details"><b>Where:</b> {{ event.location}}<br />
+        <p class="details"><b>Where:</b> {{ event.location}}<br>
         <b>When:</b> {{ event.date }}</p>
         {% if event.url %}<a class="learn-more" href="{{ event.url }}">
           Learn More

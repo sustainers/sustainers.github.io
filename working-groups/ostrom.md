@@ -4,9 +4,9 @@ title: Community Principles & Ostrom Redux
 slug: ostrom
 ---
 
-**Status**: Currently, this group meets around once a month.<br />
-**Bottom liner**: Greg Bloom<br />
-**How to get involved**: Email Greg Bloom  
+**Status**: Currently, this group meets around once a month.<br>
+**Bottom liner**: Greg Bloom<br>
+**How to get involved**: Email Greg Bloom
 
 ## Purpose
 
