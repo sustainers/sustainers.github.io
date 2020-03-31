@@ -32,13 +32,13 @@ Secondary goals include growing the BYS team, encouraging collaborations, and st
 
 ## Reports and documents
 
-We do not publish or perish! Instead we are creating strategies and tooling for easy open source contribution. For now, this WG does not anticipate making specific reports as part of this effort: rather, the artifact we are producing is backyourstack.com. 
+We do not publish or perish! Instead we are creating strategies and tooling for easy open source contribution. For now, this WG does not anticipate making specific reports as part of this effort: rather, the artifact we are producing is backyourstack.com.
 
 ## Resources
 
-- Website: https://backyourstack.com/
-- Collective: https://opencollective.com/backyourstack
-- Code: https://github.com/backyourstack/
+- Website: <a href="https://backyourstack.com/">https://backyourstack.com/</a>
+- Collective: <a href="https://opencollective.com/backyourstack">https://opencollective.com/backyourstack</a>
+- Code: <a href="https://github.com/backyourstack/">https://github.com/backyourstack/</a>
 
 ## How to get involved
 
@@ -47,6 +47,6 @@ We invite you to join our group, to strategize and create tooling to lower the b
 There are multiple ways to get involved!
 
 - Join the biweekly calls. Email Alyssa or ask around on the Slack to get an invite.
-- Donate to the collective on https://opencollective.com/backyourstack
+- Donate to the collective on <a href="https://opencollective.com/backyourstack">https://opencollective.com/backyourstack</a>
 - Contribute your thoughts regarding code on <a href="https://github.com/backyourstack/">the GitHub organization</a>
 - <a href="https://slack.opencollective.com/#backyourstack">Join our discussion on Slack!</a>
