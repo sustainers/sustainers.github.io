@@ -8,7 +8,7 @@ slug: back-your-stack
 **Bottom liner**: <a href="mailto:alyssa@oscollective.org">Alyssa Wright</a><br />
 **How to get involved**: Join us on the biweekly calls or email Alyssa directly.
 
-## Purpose:
+## Purpose
 
 Right now, it's difficult to give resources back to developers who have contributed to code you use. Back Your Stack affords that.
 
@@ -16,7 +16,7 @@ Back Your Stack analyzes your open source software dependencies to find which pr
 
 Back Your Stack is also more than a working group, but a collaborative effort involving Open Source Collective, Open Collective, Open Source Initiative (OSI), CodeFund, and other organizations and teams.
 
-## Goals:
+## Goals
 
 Our main goal is to make backyourstack.com a functional part of the open source ecosystem! We want to encourage contributions, engagement, and reach for the website.
 
