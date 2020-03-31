@@ -136,6 +136,7 @@
   bottomliner: Alyssa Wright
   slug: back-your-stack
   status: Active
+  url: true
   ranking: 2
   description: "How can we give back to OSS projects that we already use at our work? What does our stack look like, and who among our dependencies is looking for funding?"
 

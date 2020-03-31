@@ -1,3 +1,9 @@
+---
+layout: text-page
+title: Back Your Stack
+slug: back-your-stack
+---
+
 **Status**: Active<br />
 **Bottom liner**: <a href="mailto:alyssa@oscollective.org">Alyssa Wright</a><br />
 **How to get involved**: Join us on the biweekly calls or email Alyssa directly.
