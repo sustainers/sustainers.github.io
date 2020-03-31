@@ -32,7 +32,7 @@ Secondary goals include growing the BYS team, encouraging collaborations, and st
 
 ## Reports and documents
 
-We do not publish or perish! Instead we are creating strategies and tooling for easy open source contribution. For now, this WG does not anticipate making specific reports as part of this effort: rather, the artefact we are producing is backyourstack.com. 
+We do not publish or perish! Instead we are creating strategies and tooling for easy open source contribution. For now, this WG does not anticipate making specific reports as part of this effort: rather, the artifact we are producing is backyourstack.com. 
 
 ## Resources
 
