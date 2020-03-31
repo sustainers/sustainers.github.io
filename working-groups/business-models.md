@@ -1,6 +1,6 @@
 ---
 layout: text-page
-title: Business Models for Individual OS Developers
+title: Business Models for Independent OSS Developers
 slug: business-models
 ---
 
@@ -30,4 +30,6 @@ The challenge is keeping all of this objective, as some participants (myself inc
 ## Resources
 
 ## How to get involved
+
+Please join the discussion on the [Sustain OSS forums.](https://discourse.sustainoss.org/t/business-models-for-independent-oss-devs-data-collection-effort-rfc/311)
 
