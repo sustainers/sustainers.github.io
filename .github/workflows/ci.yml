@@ -98,6 +98,6 @@ jobs:
         if: success()
         with:
           emptyCommits: false
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./_site/
