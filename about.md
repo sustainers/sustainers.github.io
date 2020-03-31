@@ -55,6 +55,9 @@ slug: about
     <ul>
       <li><a href="https://twitter.com/catallman">Cat Allman</a> of Google</li>
     </ul>
+    <ul>
+      <li><a href="https://github.com/chadwhitacre">Chad Whitacre</a></li>
+    </ul>
 
     <p>You may contact them if you have any questions or concerns.
     You can also join us on <a href="{{ site.params.discourse }}/">our forum</a> or <a href="{{ site.params.twitter }}">Twitter</a>.
