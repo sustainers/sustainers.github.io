@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Working Groups
+title: Sustain Working Groups
 slug: Sustain Working Groups
 ---
 
