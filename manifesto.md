@@ -86,7 +86,7 @@ Sustainers pledge to support this Manifesto in its activities. Specifically, we 
 
 2. Organize recurring events (i.e., Sustain Summit) and give talks at events for sustainers to exchange best practices, to advance the Sustainer Principles, and to share success stories.
 
-3. Maintain a discussion platform (i.e., <https://discourse.sustainoss.org/>) for maintainers to compile best practices, ask for help, learn from each other, share success stories, tell cautionary tales, and build a community of practice to further the Sustainer Principles.
+3. Maintain a discussion platform (i.e., [discourse.sustainoss.org]()<https://discourse.sustainoss.org/>) for maintainers to compile best practices, ask for help, learn from each other, share success stories, tell cautionary tales, and build a community of practice to further the Sustainer Principles.
 
 4. Establish and promote the 'sustainer' definition to spread awareness, create a shared identity for sustainers, and empower sustainers.
 
