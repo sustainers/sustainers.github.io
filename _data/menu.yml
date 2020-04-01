@@ -18,8 +18,7 @@
   pages:
     # 3 items per column
     - title: About
-    - title: Manifesto
-#    - title: Events
+    - title: Events
     - title: Forum
       url: https://discourse.sustainoss.org/
     - title: Podcast
