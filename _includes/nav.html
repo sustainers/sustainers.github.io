@@ -13,7 +13,7 @@
         {%- assign page_url = page.url -%}
         {%- assign page_slug = page_url | split: '/' | last | default: page.slug -%}
 
-        {%- for menu in site.data.menu -%} 
+        {%- for menu in site.data.menu -%}
         {%- if menu.name contains 'navbar' -%}
         <div id="{{ menu.name }}" class="collapse navbar-collapse order-{{ forloop.index }} {{ menu.name }}">
             <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
