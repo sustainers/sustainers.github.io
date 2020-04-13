@@ -5,16 +5,16 @@ slug: about
 ---
 
 <div class="container about">
-  <div class="row">
-    <div class="col-md-10 offset-md-1">
+  <div class="row justify-content-center">
+    <div class="col-md-10">
     <h2 class="text-center mb-4 tealdark">About Sustain</h2>
 
     <p>It all started with a <a href="https://twitter.com/jdorfman/status/801558965423222784" target="_blank">tweet</a> in November 2016. Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
     think about the sustainability of open source software.</p>
 
     <p>After the event, a <a href="/assets/pdf/SustainOSS-west-2017-report.pdf" target="_blank">report</a> was written and a definition
-    was born, <i>"sustainer—the individual or organization who is concerned with the fragile state and future
-    of highly-used and impactful open source projects"</i>. If that sounds like something you identify with,
+    was born, <em>"sustainer—the individual or organization who is concerned with the fragile state and future
+    of highly-used and impactful open source projects"</em>. If that sounds like something you identify with,
     you should join us.</p>
 
     <p>Sustain events are led by a facilitator. There are no keynotes, talks, or sponsor demos. Undivided attention is required. Phones and laptops are put away throughout the day.</p>
@@ -29,22 +29,22 @@ slug: about
     <p>Sustain is open source, and anyone can join. However, there tends to be a core group involved in organizing the events and work.</p>
 
     <div class="container">
-      <div class="row">
-        <div class="col-md-4 offset-md-2">
+      <div class="row justify-content-center">
+        <div class="col-md-4">
         <ul>
-    <li><a href="https://www.piamancini.com/">Pia Mancini</a> - pia at sustainoss.org</li>
-    <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
-    <li><a href="https://aspirationtech.org/about/people/gunner">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
-    <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of GitHub</li>
-    </ul>
+          <li><a href="https://www.piamancini.com/">Pia Mancini</a> - pia at sustainoss.org</li>
+          <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
+          <li><a href="https://aspirationtech.org/about/people/gunner">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
+          <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of GitHub</li>
+        </ul>
         </div>
         <div class="col-md-4">
         <ul>
-    <li><a href="https://twitter.com/coderberry">Eric Berry</a> of <a href="https://codefund.io/">CodeFund</a></li>
-    <li><a href="https://burntfen.com">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a></li>
-    <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
-    <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
-    </ul>
+          <li><a href="https://twitter.com/coderberry">Eric Berry</a> of <a href="https://codefund.io/">CodeFund</a></li>
+          <li><a href="https://burntfen.com">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a></li>
+          <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
+          <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
+        </ul>
       </div>
       </div>
     </div>
@@ -54,6 +54,9 @@ slug: about
 
     <ul>
       <li><a href="https://twitter.com/catallman">Cat Allman</a> of Google</li>
+    </ul>
+    <ul>
+      <li><a href="https://github.com/chadwhitacre">Chad Whitacre</a></li>
     </ul>
 
     <p>You may contact them if you have any questions or concerns.
@@ -86,4 +89,3 @@ slug: about
   </div>
 </div>
 </div>
-

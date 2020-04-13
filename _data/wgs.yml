@@ -99,8 +99,9 @@
 - title: Governance Readiness
   bottomliner: Javier Izquierdo
   slug: governance-readiness
-  status: Incubating
-  ranking: 0
+  status: Active
+  url: true
+  ranking: 2
   description: "What does healhty governance look like? How can we improve our day-to-day work, identify barriers and needs, and intervene where new governance structures are needed?"
 
 - title: Marketing
@@ -122,6 +123,7 @@
   bottomliner: Duane O'Brien
   slug: transparency-goals
   status: Active
+  url: true
   ranking: 2
   description: "Good corp, bad corp: what does sustainability and ethical practices mean for corporations who run OSPOs or who use open source code?"
 
@@ -136,11 +138,12 @@
   bottomliner: Alyssa Wright
   slug: back-your-stack
   status: Active
+  url: true
   ranking: 2
   description: "How can we give back to OSS projects that we already use at our work? What does our stack look like, and who among our dependencies is looking for funding?"
 
 - title: FOSS Responders
-  bottomliner: Duane O'Brien, Megan Byrd-Sanicki, and Richard Littauer
+  bottomliner: Duane O'Brien, Megan Byrd-Sanicki, Richard Littauer, and Alyssa Wright
   slug: foss-responders
   status: Active
   ranking: 2

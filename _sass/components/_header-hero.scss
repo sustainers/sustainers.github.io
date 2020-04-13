@@ -34,11 +34,13 @@
     }
 
     .card {
-        background: #fff;
+        background-color: $white;
         color: $teal;
+
         .btn {
             background-color: $teal;
             border-color: $teal;
+
             &:hover {
                 background-color: $teal-dark;
             }

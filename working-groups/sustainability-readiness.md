@@ -4,9 +4,9 @@ title: Sustainability Readiness
 slug: sustainability-readiness
 ---
 
-**Status**: Incubating<br />  
-**Bottom liner**: Erin McKean<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Erin McKean<br>
+**How to get involved**:
 
 ## Purpose
 

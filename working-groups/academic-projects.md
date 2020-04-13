@@ -4,9 +4,9 @@ title: Academic & Specialized Projects
 slug: academic-projects
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Yo Yehudi<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Yo Yehudi<br>
+**How to get involved**:
 
 ## Purpose
 

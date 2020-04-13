@@ -4,9 +4,9 @@ title: Climate Emergency
 slug: climate-emergency
 ---
 
-**Status**: Incubating<br />
-**Bottom liner**: Xavier Damman<br />
-**How to get involved**:  
+**Status**: Incubating<br>
+**Bottom liner**: Xavier Damman<br>
+**How to get involved**:
 
 ## Purpose
 
