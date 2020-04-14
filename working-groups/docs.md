@@ -29,3 +29,9 @@ To inform and assist with best practises for documentation in open source projec
 ## How to get involved
 
 Contact #documentation on the Slack channel, or speak with @piamancini or @ChrisChinchilla
+
+### Office hours
+
+If you would like to book a time to talk in more detail about your documentation needs, then you can also sign up for an office hours session. Note that to make these sessions useful for as many projects and people as possible, they are typically livestreamed and/or recorded.
+
+[Sign up for a session](https://calendly.com/chrischinchilla/docs-surgery).
