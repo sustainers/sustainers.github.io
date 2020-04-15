@@ -132,8 +132,9 @@
 - title: Motivating Contributors
   bottomliner: Richard Littauer
   slug: motivating-contributors
-  status: Incubating
-  ranking: 1
+  status: Active
+  url: true
+  ranking: 2
   description: "How can we best harness the power of contributors in open source? What turns a drive-by committer into a long-lasting maintainer?"
 
 - title: Back Your Stack
