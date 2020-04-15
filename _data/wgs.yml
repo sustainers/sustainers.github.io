@@ -54,6 +54,7 @@
   slug: design-and-ux
   status: Active
   ranking: 2
+  url: true
   description: "How can we make open source design and user experience sustainable, too? What does sustainability mean for code-adjacent territories?"
 
 - title: Docs
@@ -67,8 +68,9 @@
 - title: Ethics
   bottomliner: Chris Chinchilla
   slug: ethics
-  status: Incubating
+  status: Active
   ranking: 1
+  url: true
   description: "Is Open Source ethical? What are the ramifications of bad actors in open source, and how can we work together to move beyond ethical boulders on the path to sustainability?"
 
 - title: Business Models for Individual OS Devs
@@ -76,6 +78,7 @@
   slug: business-models
   status: Active
   ranking: 2
+  url: true
   description: "For individual developers, what does sustainability look like? How can developers get money for their projects, taking them out of the abandon-ware and hobbyist stage?"
 
 - title: Membership models for OSS
@@ -97,6 +100,7 @@
   slug: ostrom
   status: Active
   ranking: 2
+  url: true
   description: "Elinor Ostrom laid out principles of healthy communities for governing the commons. How can we apply her Nobel-prize winning research to the world of open source?"
 
 - title: Governance Readiness
@@ -151,5 +155,6 @@
   slug: foss-responders
   status: Active
   ranking: 2
+  url: true
   description: "How can the Open Source ecosystem respond to Covid-19? How can we help developers who are losing money, jobs, and conferences?"
 

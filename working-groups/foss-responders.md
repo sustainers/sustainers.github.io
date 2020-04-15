@@ -10,12 +10,18 @@ slug: foss-responders
 
 ## Purpose
 
+Help the open source ecosystem navigate and recover from COVID-19!
+
 ## Goals
 
-## Guiding questions
-
-## Reports and documents
+- Build a tool where open source projects and people working on open source can request money, get help, and generally work together to get through COVID-19.
 
 ## Resources
 
+This is a very active working group. Our main work takes place on the [Open Collective Slack](https://slack.opencollective.com/#fossresponders).
+
+Our main deliverable so far is a website: https://fossresponders.com/
+
 ## How to get involved
+
+Join us on the Slack channel! We also have weekly Thursday calls. Get in touch.
