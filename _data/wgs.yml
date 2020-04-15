@@ -59,8 +59,9 @@
 - title: Docs
   bottomliner: Chris Chinchilla, Pia Mancini
   slug: docs
-  status: Incubating
-  ranking: 1
+  status: Active
+  ranking: 2
+  url: true
   description: "Who writes, uses, and updates the docs? What do sustainable-first docs look like? How can we write better ones?"
 
 - title: Ethics

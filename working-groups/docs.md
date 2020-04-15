@@ -4,7 +4,7 @@ title: Docs
 slug: docs
 ---
 
-**Status**: Incubating<br>
+**Status**: Active<br>
 **Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/) and Pia Mancini<br>
 **How to get involved**: Get in touch with Chris
 
