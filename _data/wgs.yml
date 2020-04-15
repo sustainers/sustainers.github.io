@@ -74,8 +74,8 @@
 - title: Business Models for Individual OS Devs
   bottomliner: Agost Biro
   slug: business-models
-  status: Incubating
-  ranking: 1
+  status: Active
+  ranking: 2
   description: "For individual developers, what does sustainability look like? How can developers get money for their projects, taking them out of the abandon-ware and hobbyist stage?"
 
 - title: Membership models for OSS
