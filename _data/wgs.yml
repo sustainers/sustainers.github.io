@@ -10,6 +10,7 @@
   slug: open-source-funders
   status: Incubating
   ranking: 1
+  url: true
   description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
 
 - title: Sustainability Readiness
