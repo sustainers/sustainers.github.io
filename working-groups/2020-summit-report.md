@@ -6,7 +6,7 @@ slug: 2020-summit-report
 
 **Status**: Incubating<br>
 **Bottom liner**: Ben Nickolls<br>
-**How to get involved**:
+**How to get involved**: Email Ben.
 
 ## Purpose
 
