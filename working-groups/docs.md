@@ -5,12 +5,12 @@ slug: docs
 ---
 
 **Status**: Incubating<br>
-**Bottom liner**: Chris Chinchilla and Pia Mancini<br>
-**How to get involved**:
+**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/) and Pia Mancini<br>
+**How to get involved**: Get in touch with Chris
 
 ## Purpose
 
-To inform and assist with best practises for documentation in open source projects, and also help fund documentation related tooling projects.
+To inform and assist with best practices for documentation in open source projects, and also help fund documentation related tooling projects.
 
 ## Goals
 
@@ -24,11 +24,11 @@ To inform and assist with best practises for documentation in open source projec
 
 ## Reports and documents
 
-## Resources
+- Initially, there's the notes from the Sustain Meeting. These are shared on the Google Drive, and could be turned into a report.
 
 ## How to get involved
 
-Contact #documentation on the Slack channel, or speak with @piamancini or @ChrisChinchilla
+Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris Chinchilla](https://chrischinchilla.com/).
 
 ### Office hours
 
