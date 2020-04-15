@@ -10,6 +10,7 @@
   slug: open-source-funders
   status: Incubating
   ranking: 1
+  url: true
   description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
 
 - title: Sustainability Readiness
@@ -22,8 +23,9 @@
 - title: Licensing
   bottomliner: Benjamin Nickolls
   slug: licensing
-  status: Incubating
-  ranking: 1
+  status: Active
+  url: true
+  ranking: 2
   description: "What is licensing, anyway? What's the current state of the ecosystem, where are we going, and how can we talk about licenses without flipping over the proverbial dinner table?"
 
 - title: Personas on Sustainability
@@ -99,8 +101,9 @@
 - title: Governance Readiness
   bottomliner: Javier Izquierdo
   slug: governance-readiness
-  status: Incubating
-  ranking: 0
+  status: Active
+  url: true
+  ranking: 2
   description: "What does healhty governance look like? How can we improve our day-to-day work, identify barriers and needs, and intervene where new governance structures are needed?"
 
 - title: Marketing
@@ -122,14 +125,16 @@
   bottomliner: Duane O'Brien
   slug: transparency-goals
   status: Active
+  url: true
   ranking: 2
   description: "Good corp, bad corp: what does sustainability and ethical practices mean for corporations who run OSPOs or who use open source code?"
 
 - title: Motivating Contributors
   bottomliner: Richard Littauer
   slug: motivating-contributors
-  status: Incubating
-  ranking: 1
+  status: Active
+  url: true
+  ranking: 2
   description: "How can we best harness the power of contributors in open source? What turns a drive-by committer into a long-lasting maintainer?"
 
 - title: Back Your Stack
