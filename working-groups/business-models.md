@@ -4,11 +4,13 @@ title: Business Models for Independent OSS Developers
 slug: business-models
 ---
 
-**Status**: Incubating<br>
+**Status**: Active<br>
 **Bottom liner**: Agost Biro<br>
-**How to get involved**:
+**How to get involved**: Go to the [Sustain OSS forum](https://discourse.sustainoss.org/t/business-models-for-independent-oss-devs-data-collection-effort-rfc/311), and weigh in there.
 
 ## Purpose
+
+To learn and share how independent developers navigate open source and business.
 
 ## Goals
 
@@ -25,9 +27,18 @@ The challenge is keeping all of this objective, as some participants (myself inc
 
 ## Guiding questions
 
+- How are independent developers different from larger projects?
+- How much does open source help provide income for solo devs?
+- What does a sustainable business look like?
+- What income streams are there?
+
 ## Reports and documents
 
+None yet.
+
 ## Resources
+
+Check out [the Sustain OSS forums.](https://discourse.sustainoss.org/t/business-models-for-independent-oss-devs-data-collection-effort-rfc/311)
 
 ## How to get involved
 
