@@ -4,7 +4,7 @@ title: Governance Readiness
 slug: governance-readiness
 ---
 
-**Status**: Incubating<br>
+**Status**: Active<br>
 **Bottom liner**: [Javier Cánovas](https://twitter.com/jlcanovas)<br>
 **How to get involved**: Feel free to contact [Javier Cánovas](http://jlcanovas.es/) or introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/governance-readiness-working-group/298)
 

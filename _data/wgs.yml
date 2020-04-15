@@ -22,8 +22,9 @@
 - title: Licensing
   bottomliner: Benjamin Nickolls
   slug: licensing
-  status: Incubating
-  ranking: 1
+  status: Active
+  url: true
+  ranking: 2
   description: "What is licensing, anyway? What's the current state of the ecosystem, where are we going, and how can we talk about licenses without flipping over the proverbial dinner table?"
 
 - title: Personas on Sustainability
