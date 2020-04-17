@@ -6,9 +6,11 @@ slug: ostrom
 
 **Status**: Currently, this group meets around once a month.<br>
 **Bottom liner**: Greg Bloom<br>
-**How to get involved**: Email Greg Bloom
+**How to get involved**:  [Greg Bloom](mailto:bloom@gregbloom.org)
 
 ## Purpose
+
+Developing the Principles of Open Source Commons Governance
 
 ## Goals
 
@@ -21,10 +23,21 @@ slug: ostrom
 
 ## Guiding questions
 
+How should [this document](https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-eYkQPszigkYEkzcH-k/edit) to be useful?
+
+How might the Principles be clearer and more appropriate?
+
+How can we facilitate the application of those principles to various aspects of open source communities? i.e. through a matrix of 'Questions to Ask Frequently' for each 'layer' of an open source commons?
+
+How should the document be formatted for sharing as a useful artifact?
+
 ## Reports and documents
 
+[Right now it's all here in this document.](https://docs.google.com/document/d/19DCQKXf6iGojI5k_3KJHdWGI-NnEP7MhSewSddLqGyI/edit#)
+
 ## Resources
+[Some readings here.](https://drive.google.com/drive/u/0/folders/0B-5CZ4ZLjTHqSUIwSW1TeVQzRVk)
 
 ## How to get involved
 
-Get in touch with Greg!
+Get in touch with [Greg](mailto:bloom@gregbloom.org)!
