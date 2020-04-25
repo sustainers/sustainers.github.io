@@ -28,7 +28,7 @@ To inform and assist with best practices for documentation in open source projec
 
 ## How to get involved
 
-Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris Chinchilla](https://chrischinchilla.com/). You can also post questions in [our discorse thread](https://discourse.sustainoss.org/t/incubating-docs/302).
+Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris Chinchilla](https://chrischinchilla.com/). You can also post questions in [our discourse thread](https://discourse.sustainoss.org/t/incubating-docs/302).
 
 ### Office hours
 
