@@ -6,8 +6,8 @@ slug: design-and-ux
 
 **Status**: Active<br>
 **Bottom liner**: Georgia Bullen<br>
-**How to get involved**: Get in touch with [Richard](mailto:richard@maintainer.io) for now.
+**How to get involved**: Join the discussion on the [Sustain Disourse](https://discourse.sustainoss.org/t/design-ux-working-group/348).
 
 ## Next Steps
 
-A next meeting is currently being actively planned. If you're interested in the intersection of Design and UX and Sustainability, get in touch ASAP! Our first goal during the initial meeting is to fill out this page further.
+A next meeting is currently being actively planned. If you're interested in the intersection of Design and UX and Sustainability, get in touch!
