@@ -6,7 +6,7 @@ slug: governance-readiness
 
 **Status**: Active<br>
 **Bottom liner**: [Javier Cánovas](https://twitter.com/jlcanovas)<br>
-**How to get involved**: Feel free to contact [Javier Cánovas](http://jlcanovas.es/) or introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/governance-readiness-working-group/298)
+**How to get involved**: Feel free to contact [Javier Cánovas](https://jlcanovas.es/) or introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/governance-readiness-working-group/298)
 
 ## Purpose
 
@@ -50,4 +50,4 @@ The working group has just been created. We are still in the process of identify
 
 We plan to have the first online meeting in mid-April, feel free to attend. The main content we plan to discuss is summarized in the [report](https://docs.google.com/document/d/1A2SsCeigKU-8JC2wJS8hXuxcB2tV5XnOj94JmxvPzfw). We will publish the doodle to set the final date soon.
 
-You can contact [Javier Cánovas](http://jlcanovas.es/) to be included in the loop.
+You can contact [Javier Cánovas](https://jlcanovas.es/) to be included in the loop.
