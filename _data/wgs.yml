@@ -91,8 +91,9 @@
 - title: Climate Emergency
   bottomliner: Xavier Damman
   slug: climate-emergency
-  status: Incubating
-  ranking: 1
+  status: Active
+  ranking: 2
+  url: true
   description: "Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?"
 
 - title: Community Principles & Ostrom Redux
