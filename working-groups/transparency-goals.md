@@ -6,7 +6,7 @@ slug: transparency-goals
 
 **Status**: Active<br>
 **Bottom liner**: [Duane O'Brien](https://twitter.com/DuaneOBrien)<br>
-**How to get involved**: Introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
+**How to get involved**: This working group has concluded. You can view details about it [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
 
 ## Purpose
 
@@ -26,11 +26,13 @@ To define a goal that encapsulates the need for transparency when engaging with 
 
 ## Reports and documents
 
-None at this time
+The language for the transparency goal was finalized as follows:
+
+**Publish documentation of open source policies, processes, and project governance**
 
 ## Resources
 
 * [Original Session Notes And Photos](https://drive.google.com/drive/folders/1ubgdBZUciK_h5p_ZqY8BOdLiKp-_HBd_)
 ## How to get involved
 
-Introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
+**How to get involved**: This working group has concluded. You can view details about it [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
