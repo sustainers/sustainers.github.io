@@ -81,32 +81,28 @@ slug: Sustain Working Groups
   {% endfor %}
 </div>
 
-<!--
 <div class="row wg-title">
   <div class="col-md-8">
-    <h3 class="text-center mb-4">Inactive groups</h3>
-    <p class="text-center">These groups are on hold at the moment. Feel free to check in to see if that status can be changed.</p>
+    <h3 class="text-center mb-4">Concluded groups</h3>
   </div>
 </div>
 
 <div class="row mb-4 wgs">
   {% assign wgs = site.data.wgs | sort: 'ranking' | reverse %}
   {% for wg in wgs %}
-    {% if wg.status == 'On Hold' %}
+    {% if wg.status == 'Concluded' %}
       {% assign loopindex = forloop.index | modulo: 3 %}
         <div class="col-md-4">
           <div class="wg-container">
-            {% if wg.url %}<a href="{{ wg.url }}">{% endif %}
-              <h4>
-                {{ wg.title }}
-              </h4>
-            {% if wg.url %}</a>{% endif %}
+            <h4>
+              {{ wg.title }}
+            </h4>
             <p class="details">{{ wg.description }}</p>
             <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
             {% if wg.url %}
-              <a class="learn-more" href="{{ wg.url }}">
+              <p class="text-center"><a class="btn learn-more" href="{{ wg.slug }}">
                 Learn More
-              </a>
+              </a></p>
             {% endif %}
           </div>
         </div>
@@ -120,4 +116,3 @@ slug: Sustain Working Groups
     {% endif %}
   {% endfor %}
 </div>
--->

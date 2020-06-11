@@ -20,7 +20,7 @@ Help the open source ecosystem navigate and recover from COVID-19!
 
 This is a very active working group. Our main work takes place on the [Open Collective Slack](https://slack.opencollective.com/#fossresponders).
 
-Our main deliverable so far is a website: https://fossresponders.com/
+Our main deliverable so far is a website: https://fossresponders.com/. We've also managed to raise over $115k for various open source companies, so far.
 
 ## How to get involved
 

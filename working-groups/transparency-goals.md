@@ -4,9 +4,9 @@ title: Transparency Goals
 slug: transparency-goals
 ---
 
-**Status**: Active<br>
+**Status**: Concluded<br>
 **Bottom liner**: [Duane O'Brien](https://twitter.com/DuaneOBrien)<br>
-**How to get involved**: This working group has concluded. You can view details about it [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
+**Further details**: This working group has concluded. You can view details about it [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
 
 ## Purpose
 
@@ -33,6 +33,4 @@ The language for the transparency goal was finalized as follows:
 ## Resources
 
 * [Original Session Notes And Photos](https://drive.google.com/drive/folders/1ubgdBZUciK_h5p_ZqY8BOdLiKp-_HBd_)
-## How to get involved
-
-**How to get involved**: This working group has concluded. You can view details about it [in the Discourse discussion thread](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
+* [Final details](https://discourse.sustainoss.org/t/open-source-accountability-goals-defining-a-transparency-goal/)
