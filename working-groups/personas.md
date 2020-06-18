@@ -45,16 +45,17 @@ A few of the attributes we defined include:
 
 ## Reports and documents
 Who are the personas? 
-Developers - writing code
-No burnt out, succession plan for replacement
-When people talk about sustainability outside of OSS, it’s often called a business model. There are different levels of sustainability based on the scale of the ecosystem in question.
-Persona groupings: 
-Advisors: in-house legal, lawyers, 
-Enablers: CTOs, CFOs, VCs, funders, mid-mgmt
-OSS Community: contributors, FTE contributors, community managers, event planners, maintainers, mentors, reviewers, hobbyists, developers, reviewers, 
-Direction setters: BDFL, Product Lead, innovators, OEMs
-Community agnostic: end users, corporate users, career devs, governments.
 
+| Persona | Description | Sustainability attributes |
+| --- | ----------- | ----------- |
+| Developers | writing code | No burnt out, succession plan for replacement |
+| Advisors |  in-house legal, lawyers | |
+| Enablers |  CTOs, CFOs, VCs, funders, mid-mgmt  | |
+| OSS Community |  contributors, FTE contributors, community managers, event planners, maintainers, mentors, reviewers, hobbyists, developers, reviewers  | |
+| Direction setters |  BDFL, Product Lead, innovators, OEMs  | |
+|  Community agnostic|  end users, corporate users, career devs, governments  | |
+
+When people talk about sustainability outside of OSS, it’s often called a business model. There are different levels of sustainability based on the scale of the ecosystem in question.
 
 ## Resources
 
