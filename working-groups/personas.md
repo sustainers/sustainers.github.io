@@ -70,5 +70,12 @@ Who are the personas?
 When people talk about sustainability outside of OSS, it’s often called a business model. There are different levels of sustainability based on the scale of the ecosystem in question.
 
 ## Resources
+[Session notes](https://docs.google.com/document/d/1mRa20TPmULGVy6Ta8KITWQwQtPNdoGZrHLFTYM-0tWU/edit)
+[People Power by Jono Bacon](https://www.jonobacon.com/books/peoplepowered/) (particularly pages 110 & 111, which discusses personas) ]
+[Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
+[Opensource.guide](https://opensource.guide/leadership-and-governance)
 
 ## How to get involved
+Currently this group is not meeting regularly to update the personas, but we would all be delighted to collaborate further on this topic. If this is of interest to you, feel free to reach out to me (Jacob Redding) and I help to coordinate how to bring your thoughts and ideas to life in this area. 
+
+
