@@ -16,21 +16,25 @@ To identify the different personas within Open Source. Who are the consumers, pr
 2. Determine the personas
 
 ## Guiding questions
-A single definition of a persona is difficult. To help guide the conversation we asked ourselves a few foundation questions: 
+To help guide the conversation to our goal of identifying key personas within an open source project we asked ourselves the following questions: 
 
-1. What are the various attributes of a well maintained open source project?  
+1. What are the various attributes of a well maintained open source project? 
+
+This was one of the first questions we asked ourselves and worked to identify both attributes and anti-patterns (items that threatened the attribute of sustainability). The list below was just a small part of a short brainstorming session and is not comprehensive - it's the result of a handful of dedicated folks coming together for a few minutes. 
+
 A few of the attributes we defined include: 
-- Resilience
-- quantity/group (redundancy)
-- growth pathway
-- succession
-- training/mentoring
-- good docs
-- resources (time, talent, treasure)
-- good tooling
+| Attribute | anti-pattern | 
+| --------- | ------------ | 
+| Resilience |   | 
+| quantity/group (redundancy) | Burnout | 
+| growth pathway | Lack of counsel (legal or organization) |
+| Succession planning | lack of recruiting/marketing/onboarding | 
+| mentoring/training | economy | 
+| Good Docs | Regulation| 
+| resources (time/talent/treasure, fit into society, alignment with use cases, alignment with scale | lack of tooling |
+
 
 2. What does sustainability mean for a single project vs. and entire ecosystem?
-
 3. How do resources get into open source (time, talent, treasure)?
 4. Does it fit into society? 
 5. What stage is it in? 
@@ -41,7 +45,7 @@ A few of the attributes we defined include:
 - lack of users
 - lack of legal council/organizational support
 - world economics
-- regulation (export laws, rescriction)
+- regulation (export laws, legal restrictions)
 
 ## Reports and documents
 Who are the personas? 
@@ -54,6 +58,14 @@ Who are the personas?
 | OSS Community |  contributors, FTE contributors, community managers, event planners, maintainers, mentors, reviewers, hobbyists, developers, reviewers  | |
 | Direction setters |  BDFL, Product Lead, innovators, OEMs  | |
 |  Community agnostic|  end users, corporate users, career devs, governments  | |
+
+|     | End Users | Community Members | Enablers | Direction Setters |
+| --- | --------- | ----------------- | ---------| ----------------- |
+|Examples   | Corporate Users, Career Developers (non-OSS contributors), Governments, Academics | Contributors, reviewers, organizers, core devs, hobbyists, writers, documentarians, designers, and more | CTOS, VCs, Funders | Foundations, Product Owner, Project owner (BDFL), Innovators| 
+|Definition | Software users potentially unaware of OSS | Very aware of OSS & involved| Money, time, Time/talent/treasure | Risk taker, Thinkers/tinkerers | 
+|Sustainability attributes| Marketing, functionality, great products, SaaS, Product Sales, Service Sales | GSOC/Hacktober, Outreach, camps/confs, employment agreements (contracts), gitcoin, Open collective | Risk/Reward ($$$), results/metrics, cost savings (time/money) | Risk/Reward, freedom of time, creativity, challenge to solve| 
+
+
 
 When people talk about sustainability outside of OSS, it’s often called a business model. There are different levels of sustainability based on the scale of the ecosystem in question.
 
