@@ -6,7 +6,7 @@ slug: personas
 
 **Status**: Incubating<br>
 **Bottom liner**: Jacob Redding<br>
-**How to get involved**:
+**How to get involved**: See section below.
 
 ## Purpose
 To identify the different personas within Open Source. Who are the consumers, producers, providers, sponsors, or *fill in the blank* of Open Source? What the sustaining efforts for each of these members of the ecosystem? 
@@ -20,26 +20,27 @@ To help guide the conversation to our goal of identifying key personas within an
 
 1. What are the various attributes of a well maintained open source project? 
 
-This was one of the first questions we asked ourselves and worked to identify both attributes and anti-patterns (items that threatened the attribute of sustainability). The list below was just a small part of a short brainstorming session and is not comprehensive - it's the result of a handful of dedicated folks coming together for a few minutes. 
-
-A few of the attributes we defined include: 
-| Attribute | anti-pattern | 
-| --------- | ------------ | 
-| Resilience |   | 
-| quantity/group (redundancy) | Burnout | 
-| growth pathway | Lack of counsel (legal or organization) |
-| Succession planning | lack of recruiting/marketing/onboarding | 
-| mentoring/training | economy | 
-| Good Docs | Regulation| 
-| resources (time/talent/treasure, fit into society, alignment with use cases, alignment with scale | lack of tooling |
-
-
+    This was one of the first questions we asked ourselves and worked to identify     both attributes and anti-patterns (items that threatened the attribute of     sustainability). The list below was just a small part of a short     brainstorming session and is not comprehensive - it's the result of a handful     of dedicated folks coming together for a few minutes. 
+    
+    A few of the attributes we defined include:  
+    
+    | Attribute | anti-pattern |  
+    | --------- | ------------ |  
+    | Resilience |   |  
+    | quantity/group (redundancy) | Burnout |  
+    | growth pathway | Lack of counsel (legal or organization) |  
+    | Succession planning | lack of recruiting/marketing/onboarding |  
+    | mentoring/training | economy |  
+    | Good Docs | Regulation|  
+    | resources (time/talent/treasure, fit into society, alignment with use     cases, alignment with scale | lack of tooling |  
+    
+    <br />
+    
 2. What does sustainability mean for a single project vs. and entire ecosystem?
 3. How do resources get into open source (time, talent, treasure)?
 4. Does it fit into society? 
 5. What stage is it in? 
 6. How is it used?
-
 7. What are anti-attributes or things that impede sustainability?
 - Burnout
 - lack of users
@@ -76,6 +77,7 @@ When people talk about sustainability outside of OSS, it’s often called a busi
 - [Opensource.guide](https://opensource.guide/leadership-and-governance)
 
 ## How to get involved
-Currently this group is not meeting regularly to update the personas, but we would all be delighted to collaborate further on this topic. If this is of interest to you, feel free to reach out to me (Jacob Redding) and I help to coordinate how to bring your thoughts and ideas to life in this area. 
+
+Currently this group is not meeting regularly to update the personas, but we would all be delighted to collaborate further on this topic. If this is of interest to you, feel free to reach out to me (Jacob Redding) and I will help to coordinate how to bring your thoughts and ideas to life in this area.
 
 

@@ -32,6 +32,7 @@
   bottomliner: Jacob Redding
   slug: personas
   status: Incubating
+  url: true
   ranking: 1
   description: "Who are sustainers, anyway? What does it mean to sustain a project? How can we use persona development to learn more about the needs of all of the stakeholders in open source?"
 
