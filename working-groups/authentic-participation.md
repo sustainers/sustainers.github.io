@@ -4,9 +4,9 @@ title: Authentic Participation
 slug: authentic-participation
 ---
 
-**Status**: Active<br>
+**Status**: Concluded<dbr>
 **Bottom liner**: [Justin W. Flory](https://twitter.com/jflory7)<br>
-**How to get involved**: Introduce yourself [in the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
+**How to get involved**: This WG has wound down. However, if you'd like to participate more, go comment [in the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 
 
 ## Purpose
@@ -47,11 +47,6 @@ This discussion took place across two working sessions at Sustain 2020:
 
 
 ## How to get involved
-
-Drafting is still early, so how you can participate is mostly up to you.
-Currently, we are looking for diverse groups of people from different backgrounds to share their perspective on what they think works and what doesn't.
-We don't want to have any one group (e.g. corporations, nonprofits, humanitarian orgs, etc.) dominate the discussion.
-The success of these Principles depends on building a coalition of diverse people to draft and advocate these Principles.
 
 For now, the best way to get involved is to introduce yourself [on the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 Over time, there may be more opportunities to get involved.
