@@ -4,7 +4,7 @@ title: Authentic Participation
 slug: authentic-participation
 ---
 
-**Status**: Concluded<dbr>
+**Status**: Concluded<br>
 **Bottom liner**: [Justin W. Flory](https://twitter.com/jflory7)<br>
 **How to get involved**: This WG has wound down. However, if you'd like to participate more, go comment [in the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 
