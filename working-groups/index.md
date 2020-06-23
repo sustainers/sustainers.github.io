@@ -81,9 +81,10 @@ slug: Sustain Working Groups
   {% endfor %}
 </div>
 
-<div class="row wg-title">
+<div class="row justify-content-center wg-title">
   <div class="col-md-8">
     <h3 class="text-center mb-4">Concluded groups</h3>
+    <p class="text-center">These groups have run their course, for now. However, there's always the possibility of ramping them back up, if you've got the initiative for it.</p>
   </div>
 </div>
 
