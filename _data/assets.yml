@@ -5,8 +5,8 @@ cookieConsent:
   css:          "/assets/css/cookieconsent.min.css"
   js:           "/assets/js/cookieconsent.min.js"
 jquery:
-  url:          "https://code.jquery.com/jquery-3.4.1.slim.min.js"
-  integrity:    "sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+  url:          "https://code.jquery.com/jquery-3.5.1.slim.min.js"
+  integrity:    "sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
 bootstrap:
   css:
     url:        "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
