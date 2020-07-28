@@ -6,12 +6,22 @@ slug: design-and-ux
 
 **Status**: Active<br>
 **Bottom liner**: Georgia Bullen<br>
-**How to get involved**: Join the discussion on the [Sustain Disourse](https://discourse.sustainoss.org/t/design-ux-working-group/348).
 
-## Purpose and Goals
+## Purpose
 
-These are actively being developed as part of the work of the group. The last meeting had many thoughts on this; you can see the minutes on the Discourse.
+- Help contribute to a roadmap for how design contributes to open source sustainability
+- How design can help the sustain mindset
+- Defining / providing best practices and guidance on sustainable design
+- Storytelling about example practices
+
+## Goals
+
+- Create a community space for design conversations related to open source!
+- Support projects around usability, design and adoption
+- Share resources
+
 
 ## How to get involved
 
-The next meeting is on May 21st. If you're interested in the intersection of Design and UX and Sustainability, get in touch for an invite! Drop your name on the Sustain Discourse.
+This working group is meeting monthly around the 3rd or 4th week of the month. Reach out to Georgia (@georgiamoon) if you'd like to join the calls! Join the discussion on the [Sustain Disourse](https://discourse.sustainoss.org/t/design-ux-working-group/348).
+
