@@ -6,6 +6,7 @@ slug: design-and-ux
 
 **Status**: Active<br>
 **Bottom liner**: Georgia Bullen<br>
+**How to get involved**: See below.<br>
 
 ## Purpose
 
