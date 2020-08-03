@@ -18,6 +18,8 @@ The main goal of the working group has initially been described as:
 
 * Create a checklist to verify whether open source projects _are ready_ to deploy some kind of governance (or to change their current governance for a healthy one).
 
+You can visit the checklist website [here](https://sustainers.github.io/governance-readiness/).
+
 Other complementary goals are:
 
 * Identification of analysis dimensions in open source projects. It may be needed for the assessment of the current status of the project.
