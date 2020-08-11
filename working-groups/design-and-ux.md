@@ -6,6 +6,7 @@ slug: design-and-ux
 
 **Status**: Active<br>
 **Bottom liner**: Georgia Bullen<br>
+**Working Group members**: Memo Esparza, Perrie Ojemeh, Eriol Fox, Bernard Tyers, Justin W. Flory, Benjamin Nickolls, Richard Littauer <br>
 **How to get involved**: See below.<br>
 
 ## Purpose
