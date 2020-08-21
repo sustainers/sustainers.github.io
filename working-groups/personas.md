@@ -9,9 +9,10 @@ slug: personas
 **How to get involved**: See section below.
 
 ## Purpose
-To identify the different personas within Open Source. Who are the consumers, producers, providers, sponsors, or *fill in the blank* of Open Source? What the sustaining efforts for each of these members of the ecosystem? 
+To identify the different personas within Open Source. Who are the consumers, producers, providers, sponsors, or *fill in the blank* of Open Source? What are the sustaining efforts for each of these members of the ecosystem?
 
 ## Goals
+
 1. Identify attributes of what sustainability means to us
 2. Determine the personas
 
@@ -20,7 +21,7 @@ To help guide the conversation to our goal of identifying key personas within an
 
 1. What are the various attributes of a well maintained open source project? 
 
-    This was one of the first questions we asked ourselves and worked to identify     both attributes and anti-patterns (items that threatened the attribute of     sustainability). The list below was just a small part of a short     brainstorming session and is not comprehensive - it's the result of a handful     of dedicated folks coming together for a few minutes. 
+    This was one of the first questions we asked ourselves and worked to identify both attributes and anti-patterns (items that threatened the attribute of sustainability). The list below was just a small part of a short brainstorming session and is not comprehensive - it's the result of a handful of dedicated folks coming together for a few minutes.
     
     A few of the attributes we defined include:  
     
@@ -64,7 +65,7 @@ Who are the personas?
 | --- | --------- | ----------------- | ---------| ----------------- |
 |Examples   | Corporate Users, Career Developers (non-OSS contributors), Governments, Academics | Contributors, reviewers, organizers, core devs, hobbyists, writers, documentarians, designers, and more | CTOS, VCs, Funders | Foundations, Product Owner, Project owner (BDFL), Innovators| 
 |Definition | Software users potentially unaware of OSS | Very aware of OSS & involved| Money, time, Time/talent/treasure | Risk taker, Thinkers/tinkerers | 
-|Sustainability attributes| Marketing, functionality, great products, SaaS, Product Sales, Service Sales | GSOC/Hacktober, Outreach, camps/confs, employment agreements (contracts), gitcoin, Open collective | Risk/Reward ($$$), results/metrics, cost savings (time/money) | Risk/Reward, freedom of time, creativity, challenge to solve| 
+|Sustainability attributes| Marketing, functionality, great products, SaaS, Product Sales, Service Sales | GSOC/Hacktober, Outreach, camps/confs, employment agreements (contracts), Gitcoin, Open collective | Risk/Reward ($$$), results/metrics, cost savings (time/money) | Risk/Reward, freedom of time, creativity, challenge to solve| 
 
 
 
