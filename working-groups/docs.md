@@ -1,12 +1,12 @@
 ---
 layout: text-page
-title: Sustain Docs WG
+title: Docs
 slug: docs
 ---
 
-**Status**: Active
-**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/) and Pia Mancini
-**How to get involved**: Get in touch with Chris
+**Status**: Active  
+**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)  
+**How to get involved**: Get in touch with Chris  
 
 ## Purpose
 
