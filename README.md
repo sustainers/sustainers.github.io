@@ -1,4 +1,4 @@
-# SustainOSS.org Website
+# SustainOSS.org Website - An Amazing Project
 
 [![Build Status](https://github.com/sustainers/website/workflows/Tests/badge.svg)](https://github.com/sustainers/website/actions?workflow=Tests)
 
