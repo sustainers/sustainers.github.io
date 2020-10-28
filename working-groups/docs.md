@@ -53,17 +53,6 @@ We are aware that there are many other projects and individuals working on tools
 
 We run a quarterly check in and run regular office hours for projects who want to ask questions.
 
-### Quarterly check in
-
-Next dates for check in are:
-
--   October 5th 2020
--   February 1st 2021
--   June 7th 2021
-
-**Time**: 17:00 Berlin time
-**How to join**: [Google Meet](https://meet.google.com/yhg-kdvy-vvz)
-
 ### Office hours
 
 If you would like to book a time to talk in more detail about your documentation needs, then you can also sign up for an office hours session where we are happy to help.
