@@ -8,7 +8,7 @@
 - title: Open Source Funders
   bottomliner: Richard Littauer
   slug: open-source-funders
-  status: Incubating
+  status: Active
   ranking: 1
   url: true
   description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
@@ -46,7 +46,7 @@
 - title: Academic and Specialized Projects
   bottomliner: Yo Yehudi
   slug: academic-projects
-  status: Incubating
+  status: Active
   ranking: 1
   description: "Open source doesn't just mean web development. How does sustainability relate to academic and specialized projects that have different needs and users?"
 
@@ -77,7 +77,7 @@
 - title: Business Models for Individual OS Devs
   bottomliner: Agost Biro
   slug: business-models
-  status: Active
+  status: Incubating
   ranking: 2
   url: true
   description: "For individual developers, what does sustainability look like? How can developers get money for their projects, taking them out of the abandon-ware and hobbyist stage?"
@@ -92,7 +92,7 @@
 - title: Climate Emergency
   bottomliner: Richard Littauer
   slug: climate-emergency
-  status: Active
+  status: Incubating
   ranking: 2
   url: true
   description: "Sustainability doesn't just mean code. How can we make our work sustainable environmentally, too? How can we share our knowledge of open source with other groups in the world?"
@@ -116,7 +116,7 @@
 - title: Marketing
   bottomliner: Richard Littauer
   slug: marketing
-  status: Incubating
+  status: Active
   ranking: 1
   description: "What does an open source developer have to do to find new users, more sponsors, and better swag? What is sustainable marketing for open source?"
 
@@ -139,7 +139,7 @@
 - title: Motivating Contributors
   bottomliner: Richard Littauer
   slug: motivating-contributors
-  status: Active
+  status: Incubating
   url: true
   ranking: 2
   description: "How can we best harness the power of contributors in open source? What turns a drive-by committer into a long-lasting maintainer?"
@@ -155,7 +155,7 @@
 - title: FOSS Responders
   bottomliner: Duane O'Brien, Megan Byrd-Sanicki, Richard Littauer, and Alyssa Wright
   slug: foss-responders
-  status: Active
+  status: Concluded
   ranking: 2
   url: true
   description: "How can the Open Source ecosystem respond to Covid-19? How can we help developers who are losing money, jobs, and conferences?"

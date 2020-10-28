@@ -27,9 +27,9 @@ To bring an ethical perspective to FOSS projects, in the what we create, and the
 - What does ethical enforcement and regulation look like?
 - How can we do the most moral good while also making open source software?
 
-## Reports and documents
+## Deliverables
 
-None at the moment. The goal is to have guidelines for ethical work: see the Goals section above.
+We have a podcast, which we make together with the Ethical Source group.  [Listen here](https://anchor.fm/ethicsinopensource).
 
 ## Resources
 
@@ -37,4 +37,4 @@ Forthcoming.
 
 ## How to get involved
 
-For now, this group is very low activity (largely due to other concerns during this time). To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla](https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt).
+For now, this group is meeting around once a month. To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla](https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt).
