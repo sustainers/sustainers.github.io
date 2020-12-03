@@ -6,11 +6,11 @@ slug: governance-guidance
 
 **Status**: Active<br>
 **Bottom liner**: [Javier Cánovas](https://twitter.com/jlcanovas) and [Greg Bloom](mailto:bloom@gregbloom.org)<br>
-**How to get involved**: Get in touch with Javi or Greg 
+**How to get involved**: Get in touch with Javi or Greg
 
 ## Purpose
 
-To create resources to facilitate the elicitation of governance models in Open Source projects.
+To create resources to facilitate creating of governance models in Open Source projects.
 
 ## Goals
 
@@ -20,17 +20,17 @@ Our goals include the elaboration on principles on governance, the definition of
 
 * How can we guide developers to create efficient governance models?
 * Which principles drive the definition of governance models in your project?
-* Which dimensions should you consider when elicitating governance models?
+* Which dimensions should you consider when eliciting governance models?
 * How can you efficiently address governance in recently created projects?
 
 ## Reports and documents
 
-You will find the reports and documents in this section.
+You will find the reports and documents in this section. Right now, these are a work in progress. Join the group to help make them. 
 
 ## Resources
 
-Other resources will be included here.
+Take a look at the [Governance Readiness](https://sustainoss.org/working-groups/governance-readiness/) and [Ostrom](https://sustainoss.org/working-groups/ostrom/) working groups for resources being drawn specifically into this one.
 
 ## How to get involved
 
-Just drop an email to [Javier Cánovas](https://twitter.com/jlcanovas) and/or [Greg Bloom](mailto:bloom@gregbloom.org)
+Just drop an email to [Javier Cánovas](https://twitter.com/jlcanovas) and/or [Greg Bloom](mailto:bloom@gregbloom.org).
