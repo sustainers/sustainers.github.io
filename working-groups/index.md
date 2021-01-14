@@ -13,7 +13,7 @@ slug: Sustain Working Groups
 
       <p>All of our work and organizing is open source. If you're interested in a working group, want to get involved and help out, or want to found your own working group around sustainability and code, get in touch and let us know.</p>
       <hr>
-      <p class="text-center tealdark">These groups are active! Give a shout if you want to be involved. We'll eventually link these groups to more detailed pages with resources and information.</p>
+      <p class="text-center tealdark">These groups are active! Give a shout if you want to be involved. Learn more in their profiles below.</p>
     </div>
   </div>
 </div>
