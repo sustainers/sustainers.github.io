@@ -6,7 +6,7 @@ slug: ethics
 
 **Status**: Active<br />
 **Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br />
-**How to get involved**: Get in touch with Chris.
+**How to get involved**: Get in touch with Chris or post on the [Discourse](https://discourse.sustainoss.org/).
 
 ## Purpose
 
@@ -31,10 +31,7 @@ To bring an ethical perspective to FOSS projects, in the what we create, and the
 
 We have a podcast, which we make together with the Ethical Source group.  [Listen here](https://anchor.fm/ethicsinopensource).
 
-## Resources
-
-Forthcoming.
 
 ## How to get involved
 
-For now, this group is meeting around once a month. To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla](https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt).
+For now, this group is meeting irregularly. To get involved and to help bootstrap efforts, your best bet is to get in touch with either [Chris Chinchilla](https://chrischinchilla.com/) or [Richard Littauer](https://twitter.com/richlitt), or to post on [the Sustain Discourse](https://discourse.sustainoss.org/).
