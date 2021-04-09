@@ -1,9 +1,12 @@
 /* Embed asset tweaks */
-.main-content figure, iframe, img, picture, video {
+.main-content figure,
+iframe,
+img,
+picture,
+video {
     height: auto;
     max-width: 100%;
 }
-
 .page-title {
     margin-bottom: 10vh;
 }
