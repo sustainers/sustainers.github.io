@@ -12,12 +12,12 @@ slug: design-and-ux
 * **Working Group members** (alphabetically):
   Benjamin Nickolls,
   Bernard Tyers,
-  Eriol Fox,
+  [Eriol Fox](https://erioldoesdesign.com),
   Georgia Bullen
   [Justin W. Flory](https://jwf.io),
   Memo Esparza,
   Perrie Ojemeh,
-  Richard Littauer
+  [Richard Littauer](https://www.burntfen.com)
 * **How to get involved**:
   See below.
 
