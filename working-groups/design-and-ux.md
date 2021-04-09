@@ -2,28 +2,78 @@
 layout: text-page
 title: Design & UX
 slug: design-and-ux
+
 ---
 
-**Status**: Active<br>
-**Bottom liner**: Georgia Bullen<br>
-**Working Group members**: Memo Esparza, Perrie Ojemeh, Eriol Fox, Bernard Tyers, Justin W. Flory, Benjamin Nickolls, Richard Littauer <br>
-**How to get involved**: See below.<br>
+# About the squad
+
+* **Status**:
+  Active
+* **Bottom-liner**:
+  _rotates monthly!_
+* **Working Group members** (alphabetically):
+  Benjamin Nickolls,
+  Bernard Tyers,
+  Eriol Fox,
+  Georgia Bullen
+  [Justin W. Flory](https://jwf.io),
+  Memo Esparza,
+  Perrie Ojemeh,
+  Richard Littauer
+* **How to get involved**:
+  See below.
 
 ## Purpose
 
-- Help contribute to a roadmap for how design contributes to open source sustainability
-- How design can help the sustain mindset
-- Defining / providing best practices and guidance on sustainable design
-- Storytelling about example practices
+* Contribute to a roadmap for how design contributes to open source sustainability
+* Discuss how design intersects with the sustainability mindset
+* Explore and define best practices and guidance on sustainable design
+* Storytelling about example practices
 
 ## Goals
 
-- Create a community space for design conversations related to open source!
-- Support projects around usability, design and adoption
-- Share resources
-
+* Create a community space for design conversations related to open source!
+* Support projects around usability, design and adoption
+* Share resources
 
 ## How to get involved
 
-This working group is meeting monthly around the 3rd or 4th week of the month. Reach out to Georgia (@georgiamoon) if you'd like to join the calls! Join the discussion on the [Sustain Disourse](https://discourse.sustainoss.org/t/design-ux-working-group/348).
+### Explore our Taiga board
 
+If you are first getting started, take a look at our [Working Group kanban board](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban).
+The kanban board is a tool to guide our conversations and areas of focus each meeting.
+It is a good place to look for what we are currently discussing and working on.
+
+[![Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group](/assets/img/working-groups/design-ux-taiga-board.png)](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban "Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group")
+
+### Attend a meeting
+
+Anything on the Taiga board look interesting?
+Do you have a new idea not yet listed to share?
+Come attend one of our _monthly_ meetings and say hi!
+
+To attend a meeting, there is nothing you have to do first.
+You can show up and say hello.
+Just bring yourself!
+If you have some time, share a short introduction [in our Working Group intro thread](https://discourse.sustainoss.org/t/design-ux-working-group/348?u=jwf).
+
+### Facilitate a meeting
+
+After you attend a couple of meetings, you will better understand our flow and how we work on things.
+Try taking the reins in one meeting as a **bottom-liner**!
+Being bottom-liner means you take responsibility for that month's meeting.
+Responsibilities usually include the following:
+
+* Prepare an agenda for that month's meeting (from a template)
+* Follow-up on action items with individuals before the meeting
+* Facilitate conversation during that month's call (similar to a panel moderator)
+* Ask and encourage questions to other Working Group members
+* Maintain a friendly and inclusive atmosphere for the duration of the call (with support from the Working Group!)
+
+### Take notes for a meeting
+
+Are you a good note-taker?
+Do you have a talent for summarizing spoken ideas into text on-the-fly?
+We always need good note-takers!
+Not everyone can attend our meeting every month, so it is good to have thorough notes to the benefit of active members who are unable to join that month's call.
+If you want to help as a note-taker, attend one of our meetings and let the meeting bottom-liner know!
