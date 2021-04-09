@@ -33,6 +33,7 @@ slug: design-and-ux
 * Create a community space for design conversations related to open source!
 * Support projects around usability, design and adoption
 * Share resources
+* Host a [fun podcast](https://sosdesign.sustainoss.org/) to share our conversations more widely
 
 ## How to get involved
 
@@ -75,3 +76,9 @@ Do you have a talent for summarizing spoken ideas into text on-the-fly?
 We always need good note-takers!
 Not everyone can attend our meeting every month, so it is good to have thorough notes to the benefit of active members who are unable to join that month's call.
 If you want to help as a note-taker, attend one of our meetings and let the meeting bottom-liner know!
+
+### Guest star on the Sustaining Open Source Design (SOS Design) podcast
+
+Did you know you could guest-star on the [Sustaining Open Source Design podcast](https://sosdesign.sustainoss.org/)?
+Join the panelists for an episode and share what is on your mind in the Open Source design world!
+To reserve a spot on the show, [fill out the Calendly scheduler](https://calendly.com/burntfencreative/sustain-open-source-design) and a host will be in touch with next steps.
