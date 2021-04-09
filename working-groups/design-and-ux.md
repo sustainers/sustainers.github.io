@@ -77,6 +77,11 @@ We always need good note-takers!
 Not everyone can attend our meeting every month, so it is good to have thorough notes to the benefit of active members who are unable to join that month's call.
 If you want to help as a note-taker, attend one of our meetings and let the meeting bottom-liner know!
 
+### Help build resources
+
+We have a nascent [GitHub repository](https://github.com/sustainers/Sustain-DesignUX-resources) which we will use to store documents and resources for designers and open source projects interested in design.
+Check it out, and submit PRs, open issues, and propose other resources we could add.
+
 ### Guest star on the Sustaining Open Source Design (SOS Design) podcast
 
 Did you know you could guest-star on the [Sustaining Open Source Design podcast](https://sosdesign.sustainoss.org/)?
