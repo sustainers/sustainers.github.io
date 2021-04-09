@@ -5,8 +5,6 @@ slug: design-and-ux
 
 ---
 
-# About the squad
-
 * **Status**:
   Active
 * **Bottom-liner**:
