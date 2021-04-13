@@ -13,10 +13,10 @@
             }
         }
 
-        & .active > .nav-link,
-        & .nav-link.active,
+        .active > .nav-link,
+        .nav-link.active,
         &.nav-link.show,
-        & .show > .nav-link {
+        .show > .nav-link {
             color: $white;
         }
     }
