@@ -77,7 +77,7 @@ slug: about
     <p>Our tool stack includes:</p>
 
     <ul>
-    <li><a href="https://jekyllrb.com/">Jekyll</a> and <a href="{{ site.params.github }}/website/blob/master/Gemfile">gems</a></li>
+    <li><a href="https://jekyllrb.com/">Jekyll</a> and <a href="{{ site.params.github }}/website/blob/main/Gemfile">gems</a></li>
     <li><a href="https://getbootstrap.com/">Bootstrap v4</a> as our framework, which is served via <a href="https://www.bootstrapcdn.com/">BootstrapCDN</a>.</li>
     <li><a href="https://pages.github.com/">GitHub Pages</a> for building and hosting the website</li>
     <li><a href="https://www.cloudflare.com/">Cloudflare</a> for security and optimizations</li>
