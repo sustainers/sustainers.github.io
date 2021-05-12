@@ -4,6 +4,13 @@
 
 ## Getting started
 
+The easiest way to contribute to this project is via [GitPod](https://gitpod.io). GitPod
+will set up your developer environment in the browser with your Github credentials.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sustainers/website)
+
+Alternatively, you can run the application locally:
+
 * Install Ruby (preferably version 2.6.x) and Ruby DevKit; make sure you select "Add Ruby to `PATH`"
 * Run `gem install bundle` and then `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)

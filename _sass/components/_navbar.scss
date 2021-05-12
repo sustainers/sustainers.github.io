@@ -55,6 +55,7 @@
         transition: transform 0.4s ease, -webkit-transform 0.4s ease;
         width: 124px;
         height: 55px;
+        max-width: none;
 
         &:hover {
             -webkit-transform: scale(1.3);
