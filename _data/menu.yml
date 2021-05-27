@@ -2,13 +2,13 @@
 
 - name: navbar-left
   pages:
-    - title: Home
     - title: About
     - title: Events
+    - title: Working Groups
 
 - name: navbar-right
   pages:
-    - title: Working Groups
+    - title: Blog
     - title: Podcast
       url: https://podcast.sustainoss.org/
     - title: Forum
@@ -19,14 +19,14 @@
     # 3 items per column
     - title: About
     - title: Events
+    - title: Blog
+
     - title: Forum
       url: https://discourse.sustainoss.org/
     - title: Podcast
       url: https://podcast.sustainoss.org/
-
     - title: Media
+
     - title: Code of Conduct
     - title: Diversity
     - title: Privacy
-
-    - title: Contact

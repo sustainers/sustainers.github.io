@@ -1,51 +1,56 @@
 <!doctype html>
 <html lang="en" class="no-js" prefix="og: http://ogp.me/ns#">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        {%- seo -%}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        {%- include head/social.html -%}
+  {%- seo -%}
 
-        <meta name="referrer" content="strict-origin-when-cross-origin">
+  {%- include head/social.html -%}
 
-        {%- include head/favicons.html -%}
+  <meta name="referrer" content="strict-origin-when-cross-origin">
 
-        <link rel="dns-prefetch" href="https://stackpath.bootstrapcdn.com/">
-        <link rel="dns-prefetch" href="https://code.jquery.com/">
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-        <link rel="dns-prefetch" href="https://fonts.gstatic.com/">
+  {%- include head/favicons.html -%}
 
-        <link rel="preload" href="/assets/img/sustain-hor.svg" as="image">
+  <link rel="dns-prefetch" href="https://stackpath.bootstrapcdn.com/">
+  <link rel="dns-prefetch" href="https://code.jquery.com/">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+  <link rel="dns-prefetch" href="https://fonts.gstatic.com/">
 
-        {%- if page.slug == "home" -%}
-        <link rel="preload" href="/assets/img/sustain-summit-2020-blue@767.jpg" as="image" media="(max-width: 767px)">
-        <link rel="preload" href="/assets/img/sustain-summit-2020-blue@1923.jpg" as="image" media="(min-width: 768px)">
-        {%- endif -%}
+  <link rel="preload" href="/assets/img/sustain-hor.svg" as="image">
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=fallback">
+  {%- if page.slug == "home" -%}
+  <link rel="preload" href="/assets/img/sustain-summit-2020-blue@767.jpg" as="image"
+    media="(max-width: 767px)">
+  <link rel="preload" href="/assets/img/sustain-summit-2020-blue@1923.jpg" as="image"
+    media="(min-width: 768px)">
+  {%- endif -%}
 
-        <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
-        <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
-        {%- if page.include_baguetteBox == true -%}
-        <link rel="stylesheet" href="{{ site.data.assets.baguetteBox.css }}">
-        {%- endif -%}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&display=fallback">
 
-        <link rel="stylesheet" href="/assets/css/main.css">
-        {%- if page.slug == "tickets" -%}
-            <link rel="stylesheet" href="/assets/css/tickets.css">
-        {%- endif -%}
+  <link rel="stylesheet" href="{{ site.data.assets.bootstrap.css.url }}" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ site.data.assets.cookieConsent.css }}">
+  {%- if page.include_baguetteBox == true -%}
+  <link rel="stylesheet" href="{{ site.data.assets.baguetteBox.css }}">
+  {%- endif -%}
 
-        <script>
-            {%- include assets/nojs.js -%}
-        </script>
-    </head>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  {%- if page.slug == "tickets" -%}
+  <link rel="stylesheet" href="/assets/css/tickets.css">
+  {%- endif -%}
 
-    {%- capture body_class -%}
-        layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{ page.slug | slugify }}{% elsif page.dir %} page-{{ page.dir | slugify }}{% endif %}
-    {%- endcapture -%}
-    <body class="{{ body_class }}">
-        <header class="mast-header">
-            {%- include nav.html -%}
-        </header>
+  <script>
+    {%- include assets/nojs.js -%}
+  </script>
+</head>
+
+{%- capture body_class -%}
+layout-{{ page.layout }}{% if page.body_class %} page-{{ page.body_class }}{% elsif page.slug %} page-{{
+page.slug | slugify }}{% elsif page.dir %} page-{{ page.dir | slugify }}{% endif %}
+{%- endcapture -%}
+
+<body class="{{ body_class }}">
+  <header class="mast-header">
+    {%- include nav.html -%}
+  </header>

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source
+title: "Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source"
 ---
 
 **_It feels like an age since we all met up in person. But instead of a conference this year, we’ve put together a report gathering up some of the issues and opportunities that the open source community faces today. It’ll feature knowledge, experience and discussion, some of which grew out of conversations that happened at the 2020 Sustain event held in Brussels, Belgium._**
 
-**_The full report is coming soon. If you want to be among the first to know when it arrives, and keep up with other news from the sustain community, sign up at [https://sustainoss.org/](https://sustainoss.org/)**
+**The full report is coming soon. If you want to be among the first to know when it arrives, and keep up with other news from the sustain community, sign up at [https://sustainoss.org/](https://sustainoss.org/)**
 
-
-# Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source
 
 How can we ensure our projects work better, make more sense to our users, and break through the noise?
 
@@ -43,7 +41,7 @@ This pattern continues, and inevitably an idea becomes entrenched: that those wi
 
 Design is often at odds with other contributors in this situation. As a process, design seeks to understand users and to place their needs at the centre of the decision-making process.
 
-This can set the scene for conflict, but it needn’t be this way. Design can provide insights that can temper or complement views, bringing a diverse set of informed perspectives and frameworks that can accelerate development and empower other contributors. 
+This can set the scene for conflict, but it needn’t be this way. Design can provide insights that can temper or complement views, bringing a diverse set of informed perspectives and frameworks that can accelerate development and empower other contributors.
 
 ### Open source has a diffuse and illusive userbase
 
@@ -55,15 +53,15 @@ As a result, designing for their needs can be incredibly difficult. Open source 
 
 There is also a constant battle: working against platforms that are not _built_ for designers.
 
-Versioning systems are typically made for developers, and the platforms built around them understandably focus on that core group of users. As a result communication is almost always asynchronous and, dare we say, transactional — issues, comments and reviews drive collaboration. 
+Versioning systems are typically made for developers, and the platforms built around them understandably focus on that core group of users. As a result communication is almost always asynchronous and, dare we say, transactional — issues, comments and reviews drive collaboration.
 
-There are advantages to this approach of course, but a tendency to demote or defer synchronous communication considerably hinders and hampers aspects of the design process. Most designers will tell you they learn more from observing and prompting over surveying and interrogating. 
+There are advantages to this approach of course, but a tendency to demote or defer synchronous communication considerably hinders and hampers aspects of the design process. Most designers will tell you they learn more from observing and prompting over surveying and interrogating.
 
 ### Open source projects often aren't conducive to design contributions
 
 We’ve already established that developers and code are the de-facto deciding factor in the direction of open source projects. As a result when designers _are_ invited into a project their efforts are often tacked on to existing initiatives.
 
-This severely limits both the creativity and energy that designers could bring to a project. No one wants to be asked to _hold the crayon_ or _draw the rest of the owl_. 
+This severely limits both the creativity and energy that designers could bring to a project. No one wants to be asked to _hold the crayon_ or _draw the rest of the owl_.
 
 This often happens in projects with a core maintainer or group, where power and decision-making is centralised. This can lead to a downward spiral into burnout for those who place themselves in the eye of the storm.
 
@@ -72,7 +70,7 @@ Large projects, often with the support to actively complement their contributor 
 
 ## How can we improve things?
 
-As we can see, there is _plenty_ of room for improvement here. 
+As we can see, there is _plenty_ of room for improvement here.
 
 But how?
 
@@ -94,7 +92,7 @@ When possible, using local communities in order to bootstrap design decisions wo
 
 In particular, this works well with localisation and internationalisation efforts, where working together with a small group of dedicated users drives development.
 
-Finding passionate people who will invest themselves is the key to making design work sail faster. In general, localisation communities are more invested in their domain than larger ones. 
+Finding passionate people who will invest themselves is the key to making design work sail faster. In general, localisation communities are more invested in their domain than larger ones.
 
 ### Use appropriate communication channels to reach your audience
 
@@ -121,30 +119,30 @@ Large open source projects which have matured beyond the single maintainer stage
 A designer who has the ability to include all of these in their purview will find it easier to normalise a design philosophy, build engagement and respect from the team, and to build a process to support other designers to evolve an approach.
 
 Style-guides help both designers and developers share a common language around design, making it easier to communicate. But there’s another benefit that’s often overlooked: improved issue reporting. Style guides create consistency, and cConsistency breeds intuition and expectation. And when these expectations are not met, users will find it easier to communicate their disdain using the framework provided by good documentation, and guidance and a solid sense of the right way for a project to tackle a problem.
- 
+
 ### *Build and share context
 
-Personas, stakeholder maps, user stories, ‘jobs to be done’. 
+Personas, stakeholder maps, user stories, ‘jobs to be done’.
 
 These are but a few of the frameworks that largely achieve the same goal: building a basis of shared understanding about _who_ your users are, _what _pains they are experiencing, and _how_ they are easing them today.
 
 Stepping away from generalisation, individual inspiration and insight, and instead jumping two-feet into the shoes of your user is a huge step toward building an appreciation of the thought and craft of design, supporting developers who wish to dabble, and encouraging new designers to join you.
- 
+
 ### Find your tribe
 
 You are not alone. The design community is late to the party, but it is there.
 
-Organisations like Open Source Design and Simply Secure are taking on the work of creating spaces and publishing guidance for designers working in open source. Seek out designers working on similar projects, solving similar problems or voicing the same concerns. Attend or propose co-design sessions as part of developer events. Oh, and let’s talk about design in open source whenever the opportunity arises... 
+Organisations like Open Source Design and Simply Secure are taking on the work of creating spaces and publishing guidance for designers working in open source. Seek out designers working on similar projects, solving similar problems or voicing the same concerns. Attend or propose co-design sessions as part of developer events. Oh, and let’s talk about design in open source whenever the opportunity arises...
 
 ### Talk about design in open source
 
 Finding collaborators can be useful - but it's equally important to simply normalise the discussion about design as a valid and _valued_ component of open source production, especially in nascent design communities.
 
-Sharing difficulties and blogging about the process of solving them teaches others about pitfalls they can avoid, and helps educate designers who may eventually come to be collaborators. Many designers get contracts by building networks through this sort of self-marketing as well, so it isn't necessarily a loss leader strategically. 
+Sharing difficulties and blogging about the process of solving them teaches others about pitfalls they can avoid, and helps educate designers who may eventually come to be collaborators. Many designers get contracts by building networks through this sort of self-marketing as well, so it isn't necessarily a loss leader strategically.
 
 ## Where do we go from here?
 
-In the last decade we have seen software developers rise from something akin to Internet carpenter to corporate kingmaker. Open Source Software has gifted a generation power by giving participants a means to practice, perfect and publish their work in public. 
+In the last decade we have seen software developers rise from something akin to Internet carpenter to corporate kingmaker. Open Source Software has gifted a generation power by giving participants a means to practice, perfect and publish their work in public.
 
 By integrating the design community better, we have the opportunity not only to share those benefits, but also to take our work to the next level. Better design will enable us to build a new generation of publicly available tools and technologies; tools created with an understanding and empathy for users that will strengthen their reach, their impact, and their potential.
 
