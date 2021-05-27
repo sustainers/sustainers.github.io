@@ -3,10 +3,13 @@ layout: post
 title: "Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source"
 ---
 
-**_It feels like an age since we all met up in person. But instead of a conference this year, we’ve put together a report gathering up some of the issues and opportunities that the open source community faces today. It’ll feature knowledge, experience and discussion, some of which grew out of conversations that happened at the 2020 Sustain event held in Brussels, Belgium._**
+<p class="highlight">
+It feels like an age since we all met up in person. But instead of a conference this year, we’ve put together a report gathering up some of the issues and opportunities that the open source community faces today. It’ll feature knowledge, experience and discussion, some of which grew out of conversations that happened at the 2020 Sustain event held in Brussels, Belgium.
+</p>
 
 **The full report is coming soon. If you want to be among the first to know when it arrives, and keep up with other news from the sustain community, sign up at [https://sustainoss.org/](https://sustainoss.org/)**
 
+---
 
 How can we ensure our projects work better, make more sense to our users, and break through the noise?
 
@@ -19,7 +22,6 @@ And they’re interested in joining  us too. Open source software provides an id
 So what’s stopping both groups from leaping at that opportunity?
 
 At Sustain 2020, [Georgia Bullen](https://georgiabullen.com) led a conversation about the challenges that stop developers and designers from meshing effectively in open source. So what’s standing in our way, and are there any approaches that have worked so far?
-
 
 ## So what’s Stopping Us?
 
