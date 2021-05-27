@@ -1,22 +1,22 @@
 .layout-post {
-  article.row h2 {
-    font-size: 24px;
-    font-weight: 600;
-    display: block;
-  }
+    h2 {
+        font-size: 24px;
+        font-weight: 600;
+        display: block;
+    }
 
-  article.row h3 {
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    display: block;
-  }
+    h3 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        display: block;
+    }
 
-  article.row p.highlight {
-    background-color: #FDFBD8;
-    padding: 12px;
-    font-style: italic;
-    font-weight: bold;
-  }
+    .highlight {
+        background-color: $manilla;
+        padding: 12px;
+        font-style: italic;
+        font-weight: 600;
+    }
 }
