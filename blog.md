@@ -6,7 +6,7 @@ slug: blog
 
 <h1 class="h2 text-center mb-4">The Sustain Blog</h1>
 
-<section class="pb-5">
+<div class="pb-5">
   <div class="container">
     <article class="row">
       <div class="col-lg-8 mx-auto">

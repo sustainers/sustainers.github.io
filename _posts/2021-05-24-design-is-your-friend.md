@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source"
+permalink: /blog/:title/
 ---
 
 <p class="highlight">
