@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://sustainoss.org/blog/design-is-your-friend/</loc>
+<lastmod>2021-05-24T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://sustainoss.org/media/photos/2017/</loc>
 </url>
 <url>
@@ -20,6 +24,9 @@
 </url>
 <url>
 <loc>https://sustainoss.org/working-groups/back-your-stack/</loc>
+</url>
+<url>
+<loc>https://sustainoss.org/blog/</loc>
 </url>
 <url>
 <loc>https://sustainoss.org/working-groups/business-models/</loc>
@@ -110,6 +117,6 @@
 </url>
 <url>
 <loc>https://sustainoss.org/assets/pdf/SustainOSS-west-2017-report.pdf</loc>
-<lastmod>2021-05-12T14:06:12+00:00</lastmod>
+<lastmod>2021-06-01T22:59:23+00:00</lastmod>
 </url>
 </urlset>
