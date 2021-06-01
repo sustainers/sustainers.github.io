@@ -23,4 +23,4 @@ slug: blog
       </div>
     </article>
   </div>
-</section>
+</div>
