@@ -1,40 +1,43 @@
 <nav class="navbar navbar-expand-md navbar-light bg-darkblue fixed-top text-uppercase">
-    <div class="container">
-        <a class="navbar-brand d-flex justify-content-center order-first order-md-2" href="/">
-            <img class="navbar-logo" src="/assets/img/sustain-hor.svg" alt="Sustain Logo" width="124" height="55">
-        </a>
+  <div class="container">
+    <a class="navbar-brand d-flex justify-content-center order-first order-md-2" href="/">
+      <img class="navbar-logo" src="/assets/img/sustain-hor.svg" alt="Sustain Logo" width="124" height="55">
+    </a>
 
-        <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbar-left navbar-right" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon">
-                {%- include icons/mobile-menu.svg -%}
-            </span>
-        </button>
+    <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target=".navbar-collapse"
+      aria-controls="navbar-left navbar-right" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon">
+        {%- include icons/mobile-menu.svg -%}
+      </span>
+    </button>
 
-        {%- assign page_url = page.url -%}
-        {%- assign page_slug = page_url | split: '/' | last | default: page.slug -%}
+    {%- assign page_url = page.url -%}
+    {%- assign page_slug = page_url | split: '/' | last | default: page.slug -%}
 
-        {%- for menu in site.data.menu -%}
-        {%- if menu.name contains 'navbar' -%}
-        <div id="{{ menu.name }}" class="collapse navbar-collapse order-{{ forloop.index }} {{ menu.name }}">
-            <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
-                {%- for item in menu.pages -%}
-                {%- assign link_slug = item.title | slugify -%}
-                {%- assign active = nil -%}
+    {%- for menu in site.data.menu -%}
+    {%- if menu.name contains 'navbar' -%}
+    <div id="{{ menu.name }}" class="collapse navbar-collapse order-{{ forloop.index }} {{ menu.name }}">
+      <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
+        {%- for item in menu.pages -%}
+        {%- assign link_slug = item.title | slugify -%}
+        {%- assign active = nil -%}
 
-                {%- if page_slug == link_slug -%}
-                    {%- assign active = 'active' -%}
-                {%- endif -%}
-
-                {%- if item.title == 'Home' -%}
-                    {%- assign link_slug = nil -%}
-                {%- endif -%}
-
-                <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}" href="{% if item.url %}{{ item.url }}{% else %}{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}{% endif %}">{{ item.title }}</a>
-                {%- endfor -%}
-            </div>
-        </div>
+        {%- if page_slug == link_slug -%}
+        {%- assign active = 'active' -%}
         {%- endif -%}
-        {%- endfor -%}
 
+        {%- if item.title == 'Home' -%}
+        {%- assign link_slug = nil -%}
+        {%- endif -%}
+
+        <a class="nav-link{% unless active == nil %} {{ active }}{% endunless %}"
+          href="{% if item.url %}{{ item.url }}{% else %}{{ site.baseurl }}/{% if link_slug %}{{ link_slug }}/{% endif %}{% endif %}">{{
+          item.title }}</a>
+        {%- endfor -%}
+      </div>
     </div>
+    {%- endif -%}
+    {%- endfor -%}
+
+  </div>
 </nav>

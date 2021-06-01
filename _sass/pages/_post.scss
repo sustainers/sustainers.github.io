@@ -1,0 +1,22 @@
+.layout-post {
+    h2 {
+        font-size: 24px;
+        font-weight: 600;
+        display: block;
+    }
+
+    h3 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-top: 16px;
+        margin-bottom: 16px;
+        display: block;
+    }
+
+    .highlight {
+        background-color: $manilla;
+        padding: 12px;
+        font-style: italic;
+        font-weight: 600;
+    }
+}
