@@ -8,7 +8,7 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 
 <a href="https://podcast.sustainoss.org/" target="_blank">
-  <img src="/assets/img/podcast-logos/sustain.jpg" class="podcast-banner" />
+  <img src="/assets/img/podcast-logos/sustain.jpg" class="podcast-banner" alt="Sustain Banner"/>
 </a>
 
 
@@ -17,7 +17,7 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 
 <a href="https://sosdesign.sustainoss.org/" target="_blank">
-  <img src="/assets/img/podcast-logos/sosd.png" class="podcast-banner" />
+  <img src="/assets/img/podcast-logos/sosd.png" class="podcast-banner" alt="Sustain Open Source Design Banner"/>
 </a>
 
 
@@ -25,7 +25,7 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 
 <a href="https://podcast.chaoss.community/" target="_blank">
-  <img src="/assets/img/podcast-logos/chaoss.png" class="podcast-banner" />
+  <img src="/assets/img/podcast-logos/chaoss.png" class="podcast-banner" alt="CHAOSSCast banner"/>
 </a>
 
 
@@ -33,7 +33,7 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 
 <a href="https://anchor.fm/ethicsinopensource" target="_blank">
-  <img src="/assets/img/podcast-logos/ethics.png" class="podcast-banner" />
+  <img src="/assets/img/podcast-logos/ethics.png" class="podcast-banner" alt="Ethics in Open Source banner" />
 </a>
 
 
