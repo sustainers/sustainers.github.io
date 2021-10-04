@@ -7,8 +7,7 @@ slug: design-and-ux
 
 * **Status**:
   Active
-* **Bottom-liner**:
-  _rotates monthly!_
+* **Bottom-liner**:_rotates monthly!_
 * **Working Group members** (alphabetically):
   Benjamin Nickolls,
   Bernard Tyers,
