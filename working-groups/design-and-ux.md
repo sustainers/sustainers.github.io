@@ -19,7 +19,7 @@ slug: design-and-ux
   Perrie Ojemeh,
   [Richard Littauer](https://www.burntfen.com)
 * **How to get involved**:
-  Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 1500 GMT
+  Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 1500 GMT. Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com). We’re working on populating this [UNICEF maintained inventory of design resources](https://unicef.github.io/inventory/design/) that can be used widely by OSS groups.
 
 ## Purpose
 
