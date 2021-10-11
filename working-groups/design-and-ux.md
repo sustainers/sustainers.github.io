@@ -19,7 +19,7 @@ slug: design-and-ux
   Perrie Ojemeh,
   [Richard Littauer](https://www.burntfen.com)
 * **How to get involved**:
-  See below.
+  Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 1500 GMT
 
 ## Purpose
 
