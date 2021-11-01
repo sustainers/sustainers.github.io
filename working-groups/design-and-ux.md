@@ -10,40 +10,21 @@ slug: design-and-ux
 * **Bottom-liner**:
   _rotates monthly!_
 * **Working Group members** (alphabetically):
-  Benjamin Nickolls,
-  Bernard Tyers,
+  [Benjamin Nickolls](https://twitter.com/BenJam),
+  [Bernard Tyers](https://www.ei8fdb.org/thoughts/),
   [Eriol Fox](https://erioldoesdesign.com),
-  Georgia Bullen
+  [Georgia Bullen](https://georgiabullen.com/),
   [Justin W. Flory](https://jwf.io),
-  Memo Esparza,
-  Perrie Ojemeh,
+  [Memo Esparza](https://twitter.com/memo_es_),
+  [Perrie Ojemeh](https://twitter.com/Peace_Ojemeh),
   [Richard Littauer](https://www.burntfen.com)
-* **How to get involved**:
-  Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 1500 GMT. Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com). We’re working on populating this [UNICEF maintained inventory of design resources](https://unicef.github.io/inventory/design/) that can be used widely by OSS groups.
-
-## Purpose
-
-* Contribute to a roadmap for how design contributes to open source sustainability
-* Discuss how design intersects with the sustainability mindset
-* Explore and define best practices and guidance on sustainable design
-* Storytelling about example practices
-
-## Goals
-
-* Create a community space for design conversations related to open source!
-* Support projects around usability, design and adoption
-* Share resources
-* Host a [fun podcast](https://sosdesign.sustainoss.org/) to share our conversations more widely
-
+  
 ## How to get involved
+Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 16.00 UTC/GMT (Updated to reflect October 2021 Daylight savings). Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com). 
 
-### Explore our Taiga board
-
-If you are first getting started, take a look at our [Working Group kanban board](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban).
-The kanban board is a tool to guide our conversations and areas of focus each meeting.
-It is a good place to look for what we are currently discussing and working on.
-
-[![Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group](/assets/img/working-groups/design-ux-taiga-board.png)](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban "Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group")
+You can also access our [historical notes document on google docs here](https://docs.google.com/document/d/1_SLKyXFvz6yoeAAk_aDjWghS9e-yQCrt03-l4mojOTQ/edit#).
+ 
+We’re working on populating this [UNICEF maintained inventory of design resources](https://unicef.github.io/inventory/design/) that can be used widely by OSS groups.
 
 ### Attend a meeting
 
@@ -61,6 +42,7 @@ If you have some time, share a short introduction [in our Working Group intro th
 After you attend a couple of meetings, you will better understand our flow and how we work on things.
 Try taking the reins in one meeting as a **bottom-liner**!
 Being bottom-liner means you take responsibility for that month's meeting.
+
 Responsibilities usually include the following:
 
 * Prepare an agenda for that month's meeting (from a template)
@@ -76,6 +58,30 @@ Do you have a talent for summarizing spoken ideas into text on-the-fly?
 We always need good note-takers!
 Not everyone can attend our meeting every month, so it is good to have thorough notes to the benefit of active members who are unable to join that month's call.
 If you want to help as a note-taker, attend one of our meetings and let the meeting bottom-liner know!
+
+## Purpose
+
+* Contribute to a roadmap for how design contributes to open source sustainability
+* Discuss how design intersects with the sustainability mindset
+* Explore and define best practices and guidance on sustainable design
+* Storytelling about example practices
+
+## Goals
+
+* Create a community space for design conversations related to open source!
+* Support projects around usability, design and adoption
+* Share resources
+* Host a [fun podcast](https://sosdesign.sustainoss.org/) to share our conversations more widely
+
+
+### Explore our tasks on our Taiga board
+
+If you are first getting started, take a look at our [Working Group kanban board](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban).
+The kanban board is a tool to guide our conversations and areas of focus each meeting.
+It is a good place to look for what we are currently discussing and working on.
+
+[![Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group](/assets/img/working-groups/design-ux-taiga-board.png)](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban "Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group")
+
 
 ### Help build resources
 
