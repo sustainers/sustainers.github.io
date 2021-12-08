@@ -9,7 +9,7 @@ slug: about
     <div class="col-md-10">
     <h2 class="text-center mb-4 tealdark">About Sustain</h2>
 
-    <p>It all started with a <a href="https://twitter.com/jdorfman/status/801558965423222784" target="_blank">tweet</a> in November 2016. Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
+    <p>It all started with a <a href="https://twitter.com/jdorfman/status/801558965423222784" rel="noopener" target="_blank">tweet</a> in November 2016. Six months later, one hundred people gathered in San Francisco and created a cultural shift in how we
     think about the sustainability of open source software.</p>
 
     <p>After the event, a <a href="/assets/pdf/SustainOSS-west-2017-report.pdf" target="_blank">report</a> was written and a definition
@@ -61,7 +61,7 @@ slug: about
 
     <p>You may contact them if you have any questions or concerns.
     You can also join us on <a href="{{ site.params.discourse }}/">our forum</a> or <a href="{{ site.params.twitter }}">Twitter</a>.
-    Hashtag: <a href="https://twitter.com/search?l=&q=%23sustainoss" target="_blank">#sustainoss</a>.</p>
+    Hashtag: <a href="https://twitter.com/search?l=&q=%23sustainoss" rel="noopener" target="_blank">#sustainoss</a>.</p>
 
 
     <h2 class="text-center mb-4 tealdark">Media and Logos</h2>
