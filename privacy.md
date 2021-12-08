@@ -17,9 +17,6 @@ for the following purposes and using the following services:
 * Google Fonts
     * Personal Data: Usage Data and various types of Data as specified in the
       [privacy policy](https://policies.google.com/privacy) of the service
-* BootstrapCDN
-    * Personal Data: Usage Data and various types of Data as specified in the
-      [privacy policy](https://www.bootstrapcdn.com/privacy-policy/) of the service
 
 ### Traffic optimization and distribution
 
