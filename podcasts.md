@@ -28,4 +28,4 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
   <img src="/assets/img/podcast-logos/ethics.png" class="podcast-banner" alt="Ethics in Open Source banner">
 </a>
 
-[Ethics in Open Source](https://anchor.fm/ethicsinopensource) is podcast with a rotating cast of hosts that looks at the intersection of ethics and open source development.
+[Ethics in Open Source](https://anchor.fm/ethicsinopensource) is a podcast with a rotating cast of hosts that looks at the intersection of ethics and open source development.
