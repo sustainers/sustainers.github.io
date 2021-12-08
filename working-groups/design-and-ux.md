@@ -18,12 +18,13 @@ slug: design-and-ux
   [Memo Esparza](https://twitter.com/memo_es_),
   [Perrie Ojemeh](https://twitter.com/Peace_Ojemeh),
   [Richard Littauer](https://www.burntfen.com)
-  
+
 ## How to get involved
-Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 16.00 UTC/GMT (Updated to reflect October 2021 Daylight savings). Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com). 
+
+Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 16.00 UTC/GMT (Updated to reflect October 2021 Daylight savings). Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com).
 
 You can also access our [historical notes document on google docs here](https://docs.google.com/document/d/1_SLKyXFvz6yoeAAk_aDjWghS9e-yQCrt03-l4mojOTQ/edit#).
- 
+
 We’re working on populating this [UNICEF maintained inventory of design resources](https://unicef.github.io/inventory/design/) that can be used widely by OSS groups.
 
 ### Attend a meeting
@@ -73,7 +74,6 @@ If you want to help as a note-taker, attend one of our meetings and let the meet
 * Share resources
 * Host a [fun podcast](https://sosdesign.sustainoss.org/) to share our conversations more widely
 
-
 ### Explore our tasks on our Taiga board
 
 If you are first getting started, take a look at our [Working Group kanban board](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban).
@@ -81,7 +81,6 @@ The kanban board is a tool to guide our conversations and areas of focus each me
 It is a good place to look for what we are currently discussing and working on.
 
 [![Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group](/assets/img/working-groups/design-ux-taiga-board.png)](https://tree.taiga.io/project/jwf-sustainoss-ux-design-working-group/kanban "Taiga.io project board screenshot. Used in the Sustain OSS Design & UX Working Group")
-
 
 ### Help build resources
 
