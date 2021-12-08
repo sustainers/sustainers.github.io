@@ -27,7 +27,7 @@ Page 2 https://drive.google.com/file/u/1/d/1uIPV6SbBfN46jhkcVQM1nubX966zTWnt
 
 In the afternoon we picked up on one of the issues we’d discussed in the morning: whether organisations like the OSI should create a process for accepting annotations and even amendments to the open source definition, even if that process is never enacted. Again I photographed and annotated the clipboard notes I took while facilitating, Luis Villa also took notes in google docs:
 
-Flipchart notes https://drive.google.com/drive/u/1/folders/1Jz0qvP3sCgGmqh3tzDhG7dBd8yEu4oOt 
+Flipchart notes https://drive.google.com/drive/u/1/folders/1Jz0qvP3sCgGmqh3tzDhG7dBd8yEu4oOt
 Luis Villa’s notes https://docs.google.com/document/d/1DWYEZ0A9VIZ0j4BKeYcpW0Ye_ZB7o8A-Si8_Ot06Hgc/edit
 
 In my own opinion I think we got to a pretty good set of conditions that a process should support, and for me this is enough to start creating a process that supports these requirements.

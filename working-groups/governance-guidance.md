@@ -25,7 +25,7 @@ Our goals include the elaboration on principles on governance, the definition of
 
 ## Reports and documents
 
-You will find the reports and documents in this section. Right now, these are a work in progress. Join the group to help make them. 
+You will find the reports and documents in this section. Right now, these are a work in progress. Join the group to help make them.
 
 ## Resources
 
