@@ -23,7 +23,7 @@
     "vnu": "node ./scripts/vnu-jar.js",
     "test": "npm run lint",
     "serve": "bundle exec jekyll serve",
-    "svgo:base": "svgo --config=_svgo.yml --recursive",
+    "svgo:base": "svgo --config=_svgo.config.js --recursive",
     "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\""
   },
   "devDependencies": {
