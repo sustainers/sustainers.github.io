@@ -4,8 +4,8 @@ title: Ethics
 slug: ethics
 ---
 
-**Status**: Active<br />
-**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br />
+**Status**: Active<br>
+**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br>
 **How to get involved**: Get in touch with Chris or post on the [Discourse](https://discourse.sustainoss.org/).
 
 ## Purpose
