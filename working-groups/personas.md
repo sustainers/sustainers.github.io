@@ -76,8 +76,8 @@ When people talk about sustainability outside of OSS, it’s often called a busi
 
 - [Session notes](https://docs.google.com/document/d/1mRa20TPmULGVy6Ta8KITWQwQtPNdoGZrHLFTYM-0tWU/edit)
 - [People Power by Jono Bacon](https://www.jonobacon.com/books/peoplepowered/) (particularly pages 110 & 111, which discusses personas) ]
-- [Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community)
-- [Opensource.guide](https://opensource.guide/leadership-and-governance)
+- [Linux Foundation](https://www.linuxfoundation.org/tools/building-leadership-in-an-open-source-community/)
+- [Opensource.guide](https://opensource.guide/leadership-and-governance/)
 
 ## How to get involved
 

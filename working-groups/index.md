@@ -31,7 +31,7 @@ slug: Sustain Working Groups
               <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
               {% if wg.url %}
                 <p class="text-center">
-                  <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+                  <a class="btn learn-more" href="{{ wg.slug | append: '/' }}">Learn More</a>
                 </p>
               {% endif %}
             </div>
@@ -61,7 +61,7 @@ slug: Sustain Working Groups
             <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
             {% if wg.url %}
               <p class="text-center">
-                <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+                <a class="btn learn-more" href="{{ wg.slug | append: '/' }}">Learn More</a>
               </p>
             {% endif %}
           </div>
@@ -96,7 +96,7 @@ slug: Sustain Working Groups
             <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
             {% if wg.url %}
               <p class="text-center">
-                <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+                <a class="btn learn-more" href="{{ wg.slug | append: '/' }}">Learn More</a>
               </p>
             {% endif %}
           </div>

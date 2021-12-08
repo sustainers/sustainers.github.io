@@ -61,10 +61,10 @@ If you would like to book a time to talk in more detail about your documentation
 
 ### Get in touch
 
-Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris Chinchilla](https://chrischinchilla.com/). You can also post questions in [our discourse thread](https://discourse.sustainoss.org/t/incubating-docs/302).
+Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris Chinchilla](https://chrischinchilla.com/). You can also post questions in [our discourse thread](https://discourse.sustainoss.org/t/the-good-docs-wg/302).
 
 ## Resources
 
--   For general information about technical documentation and a very active and encouraging community, check out [Write the Docs](http://writethedocs.org).
+-   For general information about technical documentation and a very active and encouraging community, check out [Write the Docs](https://www.writethedocs.org/).
 -   Templates for open source documentation are being created by [The Good Docs Project](https://thegooddocsproject.dev/). (This is a new project, and not all types of documentation have templates. Contributions welcome!)
 -   For a huge (but somewhat uncurated) list of tools for open source documentation, check out <https://awesomeopensource.com/projects/documentation>.

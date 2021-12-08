@@ -17,7 +17,7 @@ slug: design-and-ux
   [Justin W. Flory](https://jwf.io),
   [Memo Esparza](https://twitter.com/memo_es_),
   [Perrie Ojemeh](https://twitter.com/Peace_Ojemeh),
-  [Richard Littauer](https://www.burntfen.com)
+  [Richard Littauer](https://www.burntfen.com/)
 
 ## How to get involved
 
