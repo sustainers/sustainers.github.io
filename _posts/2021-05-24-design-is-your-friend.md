@@ -102,7 +102,7 @@ Why channel everything into issues and pull requests?
 
 Casual conversations, watching a demo video, playing with a prototype, discussing pain points in threaded comments and dissecting an approach in a ranging diatribe on your blog are all valid contributions to the design process.
 
-Make sure the conversation is properly scoped and focused. But meet users where they _are - _whether that’s Reddit, HackerNews or Twitter.
+Make sure the conversation is properly scoped and focused. But meet users where they _are_ - whether that’s Reddit, HackerNews or Twitter.
 
 ### Present usability and design as a technical challenge
 
@@ -126,7 +126,7 @@ Style-guides help both designers and developers share a common language around d
 
 Personas, stakeholder maps, user stories, ‘jobs to be done’.
 
-These are but a few of the frameworks that largely achieve the same goal: building a basis of shared understanding about _who_ your users are, _what _pains they are experiencing, and _how_ they are easing them today.
+These are but a few of the frameworks that largely achieve the same goal: building a basis of shared understanding about _who_ your users are, _what_ pains they are experiencing, and _how_ they are easing them today.
 
 Stepping away from generalisation, individual inspiration and insight, and instead jumping two-feet into the shoes of your user is a huge step toward building an appreciation of the thought and craft of design, supporting developers who wish to dabble, and encouraging new designers to join you.
 

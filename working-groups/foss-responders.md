@@ -14,13 +14,13 @@ Help the open source ecosystem navigate and recover from COVID-19!
 
 ## Goals
 
-- Build a tool where open source projects and people working on open source can request money, get help, and generally work together to get through COVID-19.
+* Build a tool where open source projects and people working on open source can request money, get help, and generally work together to get through COVID-19.
 
 ## Resources
 
 This is a very active working group. Our main work takes place on the [Open Collective Slack](https://slack.opencollective.com/#fossresponders).
 
-Our main deliverable so far is a website: https://fossresponders.com/. We've also managed to raise over $115k for various open source companies, so far.
+Our main deliverable so far is a website: <https://fossresponders.com/>. We've also managed to raise over $115k for various open source companies, so far.
 
 ## How to get involved
 

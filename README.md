@@ -11,16 +11,16 @@ will set up your developer environment in the browser with your Github credentia
 
 Alternatively, you can run the application locally:
 
-- Install Ruby (preferably version 2.7.x) make sure you select "Add Ruby to `PATH`"
-- Run `bundle install`
-- Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
+* Install Ruby (preferably version 2.7.x) make sure you select "Add Ruby to `PATH`"
+* Run `bundle install`
+* Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
 ### npm tasks
 
-- Install [Node.js](https://nodejs.org/en/), preferably version 16.x
-- Run `npm i`
-- Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
-- Run `npm run svgo:base -- assets/img/foo.svg` to optimize file(s)
+* Install [Node.js](https://nodejs.org/en/), preferably version 16.x
+* Run `npm i`
+* Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
+* Run `npm run svgo:base -- assets/img/foo.svg` to optimize file(s)
 
 ## Contribute
 

@@ -45,7 +45,7 @@ for the following purposes and using the following services:
 ### Maps
 
 * Google Maps _(Venue)_
-   * Personal Data: Cookies and various types of Data as specified in the
+    * Personal Data: Cookies and various types of Data as specified in the
      [privacy policy](https://policies.google.com/privacy) of the service
 
 <div class="small">
