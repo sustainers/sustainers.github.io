@@ -70,7 +70,6 @@ This often happens in projects with a core maintainer or group, where power and 
 
 Large projects, often with the support to actively complement their contributor base with designers, also see the same problem, but for different reasons. These projects have etched their roadmap in stone, resisting the urge to be inspected, questioned and judged.
 
-
 ## How can we improve things?
 
 As we can see, there is _plenty_ of room for improvement here.

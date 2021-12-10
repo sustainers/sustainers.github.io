@@ -20,7 +20,6 @@ Developing the Principles of Open Source Commons Governance
 
 - Lastly, I'd like to see us align this with other work, both with other workgroups -- especially 'Governance readiness,' maybe also 'membership models' -- and other similar projects people shared with us like this - <https://inno3.frama.io/tutoriel-communs-numeriques/>
 
-
 ## Guiding questions
 
 How should [this document](https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-eYkQPszigkYEkzcH-k/edit) to be useful?

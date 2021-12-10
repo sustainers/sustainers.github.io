@@ -4,9 +4,9 @@ title: Docs
 slug: docs
 ---
 
-**Status**: Active  
-**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)  
-**How to get involved**: Get in touch with Chris  
+**Status**: Active<br>
+**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br>
+**How to get involved**: Get in touch with Chris
 
 ## Purpose
 
@@ -65,6 +65,6 @@ Go to #documentation on the Slack channel, or speak with Pia Mancini or [Chris C
 
 ## Resources
 
--   For general information about technical documentation and a very active and encouraging community, check out [Write the Docs](http://writethedocs.org). 
+-   For general information about technical documentation and a very active and encouraging community, check out [Write the Docs](http://writethedocs.org).
 -   Templates for open source documentation are being created by [The Good Docs Project](https://thegooddocsproject.dev/). (This is a new project, and not all types of documentation have templates. Contributions welcome!)
 -   For a huge (but somewhat uncurated) list of tools for open source documentation, check out <https://awesomeopensource.com/projects/documentation>.

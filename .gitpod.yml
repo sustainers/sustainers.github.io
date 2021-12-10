@@ -7,8 +7,8 @@ ports:
 tasks:
   - init: |
       bundle install
-      yarn install
-    command: yarn serve
+      npm ci
+    command: npm run serve
 
 github:
   prebuilds:
@@ -27,4 +27,4 @@ github:
     # add a "Review in Gitpod" button to the pull request's description (defaults to false)
     addBadge: true
     # add a label once the prebuild is ready to pull requests (defaults to false)
-    addLabel: true    
+    addLabel: true

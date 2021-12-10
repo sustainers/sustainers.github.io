@@ -26,15 +26,13 @@ slug: Sustain Working Groups
         {% assign loopindex = forloop.index | modulo: 3 %}
           <div class="col-md-4">
             <div class="wg-container">
-              <h4>
-                {{ wg.title }}
-              </h4>
+              <h4>{{ wg.title }}</h4>
               <p class="details">{{ wg.description }}</p>
               <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
               {% if wg.url %}
-                <p class="text-center"><a class="btn learn-more" href="{{ wg.slug }}">
-                  Learn More
-                </a></p>
+                <p class="text-center">
+                  <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+                </p>
               {% endif %}
             </div>
           </div>
@@ -58,15 +56,13 @@ slug: Sustain Working Groups
       {% assign loopindex = forloop.index | modulo: 3 %}
         <div class="col-md-4">
           <div class="wg-container">
-            <h4>
-              {{ wg.title }}
-            </h4>
+            <h4>{{ wg.title }}</h4>
             <p class="details">{{ wg.description }}</p>
             <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
             {% if wg.url %}
-              <p class="text-center"><a class="btn learn-more" href="{{ wg.slug }}">
-                Learn More
-              </a></p>
+              <p class="text-center">
+                <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+              </p>
             {% endif %}
           </div>
         </div>
@@ -95,15 +91,13 @@ slug: Sustain Working Groups
       {% assign loopindex = forloop.index | modulo: 3 %}
         <div class="col-md-4">
           <div class="wg-container">
-            <h4>
-              {{ wg.title }}
-            </h4>
+            <h4>{{ wg.title }}</h4>
             <p class="details">{{ wg.description }}</p>
             <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
             {% if wg.url %}
-              <p class="text-center"><a class="btn learn-more" href="{{ wg.slug }}">
-                Learn More
-              </a></p>
+              <p class="text-center">
+                <a class="btn learn-more" href="{{ wg.slug }}">Learn More</a>
+              </p>
             {% endif %}
           </div>
         </div>

@@ -4,8 +4,8 @@ title: Ethics
 slug: ethics
 ---
 
-**Status**: Active<br />
-**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br />
+**Status**: Active<br>
+**Bottom liner**: [Chris Chinchilla](https://chrischinchilla.com/)<br>
 **How to get involved**: Get in touch with Chris or post on the [Discourse](https://discourse.sustainoss.org/).
 
 ## Purpose
@@ -30,7 +30,6 @@ To bring an ethical perspective to FOSS projects, in the what we create, and the
 ## Deliverables
 
 We have a podcast, which we make together with the Ethical Source group.  [Listen here](https://anchor.fm/ethicsinopensource).
-
 
 ## How to get involved
 

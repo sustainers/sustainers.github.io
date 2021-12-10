@@ -98,7 +98,6 @@ The closing session will invite participants to weigh in on what has been most u
 **17:30 Happy Hour @ Google London HQ**
 
 
-
 <h1 class="text-center">Sponsors</h1>
 
 <p class="lead text-center mb-3">Without these companies, Sustain Summit 2018 wouldn’t have been possible.</p>
