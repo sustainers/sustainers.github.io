@@ -4,7 +4,7 @@
         {%- for video in site.data.media.videos -%}
         <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="embed-responsive embed-responsive-16by9">
-                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.id }}" width="560" height="315" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.id }}" width="560" height="315" loading="lazy" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             {%- if video.description -%}
                 <div class="video-description text-center mt-3">
