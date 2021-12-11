@@ -4,8 +4,7 @@
 
       <div class="row">
         <div class="col-12">
-          <img class="img-fluid d-block mx-auto mb-3 mb-md-5" src="/assets/img/sustain-white-icon-footer.svg"
-            alt="Sustain Icon" width="50" height="50">
+          <img class="img-fluid d-block mx-auto mb-3 mb-md-5" src="/assets/img/sustain-white-icon-footer.svg" alt="Sustain Icon" loading="lazy" width="50" height="50">
         </div>
       </div>
 
@@ -37,8 +36,9 @@
         <div class="col-6 col-lg-{{ MAX_MODULO }} col-xl-2 my-3 my-lg-0">
           <ul class="list-unstyled top-horizontal-line">
             {%- endif -%}
-            <li><a href="{% if item.url %}{{ item.url }}{% else %}/{{ item.title | slugify }}/{% endif %}">{{
-                item.title }}</a></li>
+            <li>
+              <a href="{% if item.url %}{{ item.url }}{% else %}/{{ item.title | slugify }}/{% endif %}">{{ item.title }}</a>
+            </li>
             {%- if forloop.last or mod == MAX_MODULO -%}
           </ul>
         </div>
@@ -79,27 +79,16 @@
     <div class="container">
       <div class="copyright">
         © <span title="{{ site.time | date_to_xmlschema }}">2016-{{ site.time | date: '%Y' }}</span>
-        SustainOSS.org - Unless otherwise noted,
-        content on this site is licensed under a
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC-BY-SA 4.0
-          License</a>
+        SustainOSS.org - Unless otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC-BY-SA 4.0 License</a>
       </div>
       <div class="mt-3">
-        Design by <a href="https://ura.design/" rel="noopener" target="_blank">Ura</a> | Code by <a
-          href="https://github.com/XhmikosR" rel="noopener" target="_blank">XhmikosR</a>
+        Design by <a href="https://ura.design/" rel="noopener" target="_blank">Ura</a> | Code by <a href="https://github.com/XhmikosR" rel="noopener" target="_blank">XhmikosR</a>
       </div>
     </div>
   </div>
 </footer>
 
-<script>
-  {%- include assets/loadjs.min.js -%}
-  {%- include assets/loadjs-init.js -%}
-</script>
-
-{%- if page.slug == "media" -%}
-<script async src="https://cdn.changelog.com/embed.js"></script>
-{%- endif -%}
+{%- include scripts.html -%}
 
 {%- include google-analytics.html -%}
 

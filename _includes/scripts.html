@@ -1,0 +1,22 @@
+<script src="{{ site.data.assets.jquery.url }}" integrity="{{ site.data.assets.jquery.integrity }}" crossorigin="anonymous"></script>
+<script src="{{ site.data.assets.bootstrap.js.url }}" integrity="{{ site.data.assets.bootstrap.js.integrity }}" crossorigin="anonymous"></script>
+<script src="{{ site.data.assets.cookieConsent.js }}"></script>
+
+<script>
+    {%- include assets/sustain-2021-report-promo.js -%}
+    {%- include assets/cookieconsent-init.js -%}
+</script>
+
+{%- if page.slug == 'tickets' -%}
+    <script src="/assets/js/tickets-carousel.js"></script>
+{%- endif -%}
+
+{%- if page.slug == 'media' -%}
+    <script src="/assets/js/media.js"></script>
+    <script async src="https://cdn.changelog.com/embed.js"></script>
+{%- endif -%}
+
+{%- if page.include_baguetteBox == true -%}
+    <script src="{{ site.data.assets.baguetteBox.js }}"></script>
+    <script>{%- include assets/baguetteBox-init.js -%}</script>
+{%- endif -%}
