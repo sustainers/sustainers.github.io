@@ -4,6 +4,7 @@
     var jqueryIntegrity = '{{ site.data.assets.jquery.integrity }}';
     var bootstrapBundle = '{{ site.data.assets.bootstrap.js.url }}';
     var bootstrapIntegrity = '{{ site.data.assets.bootstrap.js.integrity }}';
+    var bookPromo = '/assets/js/sustain-2021-report-promo.js';
 
     {%- if page.slug == 'tickets' -%}
         var ticketsCarousel = '/assets/js/tickets-carousel.js';
@@ -17,7 +18,7 @@
         var baguetteBoxJs = '{{ site.data.assets.baguetteBox.js }}';
     {%- endif -%}
 
-    {%- assign bundleItems = 'jquery, bootstrapBundle' -%}
+    {%- assign bundleItems = 'jquery, bootstrapBundle, bookPromo' -%}
 
     {%- if page.slug == 'tickets' -%}
         {%- assign bundleItems = bundleItems | append: ', ticketsCarousel' -%}
