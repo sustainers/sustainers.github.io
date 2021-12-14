@@ -46,7 +46,7 @@ for the following purposes and using the following services:
      [privacy policy](https://policies.google.com/privacy) of the service
 
 <div class="small">
-    Latest update: May 15, 2018
+    Latest update: Dec 14, 2021
     <br>
     <span class="text-muted">Privacy Policy generated with <a href="https://www.iubenda.com/en/" rel="noopener" target="_blank">iubenda</a></span>
 </div>
