@@ -4,23 +4,23 @@
 
 ## Getting started
 
-The easiest way to contribute to this project is via [GitPod](https://gitpod.io). GitPod
-will set up your developer environment in the browser with your Github credentials.
+The easiest way to contribute to this project is via [GitPod](https://gitpod.io). GitPod will set up your developer environment in the browser with your GitHub credentials.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sustainers/website)
 
 Alternatively, you can run the application locally:
 
-* Install Ruby (preferably version 2.7.x) make sure you select "Add Ruby to `PATH`"
+* Install Ruby (preferably version **2.7.x**) make sure you select "Add Ruby to `PATH`"
 * Run `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
 ### npm tasks
 
-* Install [Node.js](https://nodejs.org/en/), preferably version 16.x
+* Install [Node.js](https://nodejs.org/en/), preferably version **16 LTS**
 * Run `npm i`
 * Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
-* Run `npm run svgo:base -- assets/img/foo.svg` to optimize file(s)
+* Run `npm run svgo:base -- assets/img/foo.svg` to optimize specific file(s) or `npm run svgo`
+* Run `npm run` to see the available npm scripts
 
 ## Contribute
 
