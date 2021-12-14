@@ -22,13 +22,13 @@ Ben's intent is to create a working group (which can consist of members and non-
 
 Ben: In the morning, at Sustain, we spent some time doing a landscape review of issues in this domain, ranging from the OSI being more transparent about the norms the organisation is trying to maintain to platforms being more forward about the value of choosing _any_ licence and explicitly calling out to maintainers of projects with no licence to include one. I photographed and commented on the notes I took on the day here:
 
-Page 1 https://drive.google.com/file/d/1oG7HCO_C1mT3jFOOGJ7eWOfs34ih6_oN
-Page 2 https://drive.google.com/file/u/1/d/1uIPV6SbBfN46jhkcVQM1nubX966zTWnt
+Page 1 <https://drive.google.com/file/d/1oG7HCO_C1mT3jFOOGJ7eWOfs34ih6_oN>
+Page 2 <https://drive.google.com/file/u/1/d/1uIPV6SbBfN46jhkcVQM1nubX966zTWnt>
 
 In the afternoon we picked up on one of the issues we’d discussed in the morning: whether organisations like the OSI should create a process for accepting annotations and even amendments to the open source definition, even if that process is never enacted. Again I photographed and annotated the clipboard notes I took while facilitating, Luis Villa also took notes in google docs:
 
-Flipchart notes https://drive.google.com/drive/u/1/folders/1Jz0qvP3sCgGmqh3tzDhG7dBd8yEu4oOt
-Luis Villa’s notes https://docs.google.com/document/d/1DWYEZ0A9VIZ0j4BKeYcpW0Ye_ZB7o8A-Si8_Ot06Hgc/edit
+Flipchart notes <https://drive.google.com/drive/u/1/folders/1Jz0qvP3sCgGmqh3tzDhG7dBd8yEu4oOt>
+Luis Villa’s notes <https://docs.google.com/document/d/1DWYEZ0A9VIZ0j4BKeYcpW0Ye_ZB7o8A-Si8_Ot06Hgc/edit>
 
 In my own opinion I think we got to a pretty good set of conditions that a process should support, and for me this is enough to start creating a process that supports these requirements.
 

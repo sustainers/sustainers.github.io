@@ -14,17 +14,17 @@ To both hold a space for us to talk about the larger questions of open source an
 
 ## Goals
 
-- Develop a report on climate change and open source
-- Provide resources for pushing greener practices in open source projects
-- Provide resources for lobbying local governments to pursue better climate policies when it comes to technology
-- Educate our colleagues about this issue
+* Develop a report on climate change and open source
+* Provide resources for pushing greener practices in open source projects
+* Provide resources for lobbying local governments to pursue better climate policies when it comes to technology
+* Educate our colleagues about this issue
 
 ## Guiding questions
 
-- What does it mean to be sustainable environmentally in tech?
-- What resources are there to help make technical work more sustainable?
-- How can we effectively galvanize the open source community to adapt to the environment effectively?
-- How can we support open source offices and efforts for environment-related NGOs?
+* What does it mean to be sustainable environmentally in tech?
+* What resources are there to help make technical work more sustainable?
+* How can we effectively galvanize the open source community to adapt to the environment effectively?
+* How can we support open source offices and efforts for environment-related NGOs?
 
 ## Reports and documents
 

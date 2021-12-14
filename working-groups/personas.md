@@ -45,11 +45,12 @@ To help guide the conversation to our goal of identifying key personas within an
 5. What stage is it in?
 6. How is it used?
 7. What are anti-attributes or things that impede sustainability?
-- Burnout
-- lack of users
-- lack of legal council/organizational support
-- world economics
-- regulation (export laws, legal restrictions)
+
+    * Burnout
+    * lack of users
+    * lack of legal council/organizational support
+    * world economics
+    * regulation (export laws, legal restrictions)
 
 ## Reports and documents
 
@@ -74,10 +75,10 @@ When people talk about sustainability outside of OSS, it’s often called a busi
 
 ## Resources
 
-- [Session notes](https://docs.google.com/document/d/1mRa20TPmULGVy6Ta8KITWQwQtPNdoGZrHLFTYM-0tWU/edit)
-- [People Power by Jono Bacon](https://www.jonobacon.com/books/peoplepowered/) (particularly pages 110 & 111, which discusses personas) ]
-- [Linux Foundation](https://www.linuxfoundation.org/tools/building-leadership-in-an-open-source-community/)
-- [Opensource.guide](https://opensource.guide/leadership-and-governance/)
+* [Session notes](https://docs.google.com/document/d/1mRa20TPmULGVy6Ta8KITWQwQtPNdoGZrHLFTYM-0tWU/edit)
+* [People Power by Jono Bacon](https://www.jonobacon.com/books/peoplepowered/) (particularly pages 110 & 111, which discusses personas) ]
+* [Linux Foundation](https://www.linuxfoundation.org/tools/building-leadership-in-an-open-source-community/)
+* [Opensource.guide](https://opensource.guide/leadership-and-governance/)
 
 ## How to get involved
 

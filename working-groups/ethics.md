@@ -14,18 +14,18 @@ To bring an ethical perspective to FOSS projects, in the what we create, and the
 
 ## Goals
 
-- Create guidelines for creating Ethics boards
-- Help facilitate labor organizing
-- To normalize ethics as part of development
-- Lowering barriers for ethics in terms of legal and technology
-- Help create or facilitate tooling and education
+* Create guidelines for creating Ethics boards
+* Help facilitate labor organizing
+* To normalize ethics as part of development
+* Lowering barriers for ethics in terms of legal and technology
+* Help create or facilitate tooling and education
 
 ## Guiding questions
 
-- What does it mean to work ethically in open source?
-- How can ethics and a free and open source license coexist?
-- What does ethical enforcement and regulation look like?
-- How can we do the most moral good while also making open source software?
+* What does it mean to work ethically in open source?
+* How can ethics and a free and open source license coexist?
+* What does ethical enforcement and regulation look like?
+* How can we do the most moral good while also making open source software?
 
 ## Deliverables
 

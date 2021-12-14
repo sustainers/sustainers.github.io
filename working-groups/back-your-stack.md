@@ -24,11 +24,11 @@ Secondary goals include growing the BYS team, encouraging collaborations, and st
 
 ## Guiding questions
 
-- How do we prioritize people over metrics?
-- How can we most effectively support people who have contributed code which we use?
-- What is the best way to encourage adoption of payback-schemes to back your stack?
-- How can we ethically use open source code?
-- How do we give back to the communities whose code we use?
+* How do we prioritize people over metrics?
+* How can we most effectively support people who have contributed code which we use?
+* What is the best way to encourage adoption of payback-schemes to back your stack?
+* How can we ethically use open source code?
+* How do we give back to the communities whose code we use?
 
 ## Reports and documents
 
@@ -36,9 +36,9 @@ We do not publish or perish! Instead we are creating strategies and tooling for 
 
 ## Resources
 
-- Website: <a href="https://backyourstack.com/">https://backyourstack.com/</a>
-- Collective: <a href="https://opencollective.com/backyourstack">https://opencollective.com/backyourstack</a>
-- Code: <a href="https://github.com/backyourstack/">https://github.com/backyourstack/</a>
+* Website: <https://backyourstack.com/>
+* Collective: <https://opencollective.com/backyourstack>
+* Code: <https://github.com/backyourstack>
 
 ## How to get involved
 
@@ -46,7 +46,7 @@ We invite you to join our group, to strategize and create tooling to lower the b
 
 There are multiple ways to get involved!
 
-- Join the biweekly calls. Email Alyssa or ask around on the Slack to get an invite.
-- Donate to the collective on <a href="https://opencollective.com/backyourstack">https://opencollective.com/backyourstack</a>
-- Contribute your thoughts regarding code on <a href="https://github.com/backyourstack/">the GitHub organization</a>
-- <a href="https://slack.opencollective.com/#backyourstack">Join our discussion on Slack!</a>
+* Join the biweekly calls. Email Alyssa or ask around on the Slack to get an invite.
+* Donate to the collective on <https://opencollective.com/backyourstack>
+* Contribute your thoughts regarding code on [the GitHub organization](https://github.com/backyourstack)
+* [Join our discussion on Slack!](https://slack.opencollective.com/#backyourstack)

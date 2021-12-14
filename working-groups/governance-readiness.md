@@ -44,23 +44,29 @@ The first discussion took place at Sustain 2020:
 * [Organization of the group](https://discourse.sustainoss.org/t/governance-readiness-working-group/298?u=jlcanovas)
 
 April, 14th, 2020. Kick-off meeting:
+
 * [Agenda](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/8?u=jlcanovas)
 * [Notes of the session](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/9?u=jlcanovas)
 
 April, 27th, 2020. Milestone 1:
+
 * [Update](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/12?u=jlcanovas)
 
 May, 6th, 2020. Milestone 2:
+
 * [Update](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/14?u=jlcanovas)
 
 June 4th, 2020. Second meeting:
+
 * [Agenda](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/24?u=jlcanovas)
 * [Notes of the session](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/29?u=jlcanovas)
 
 July, 7th, 2020. Milestone 3:
+
 * [Update](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/41?u=jlcanovas)
 
 July, 28th, 2020. Last Update:
+
 * [Update](https://discourse.sustainoss.org/t/governance-readiness-working-group/298/50?u=jlcanovas)
 
 ## Resources

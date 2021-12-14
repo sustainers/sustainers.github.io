@@ -14,14 +14,14 @@ What motivates contributors? How can we work together to help them stay motivate
 
 ## Goals
 
-- An essay or report on how to help motivate contributors
-- A survey of tools or best practices
+* An essay or report on how to help motivate contributors
+* A survey of tools or best practices
 
 ## Guiding questions
 
-- How can we motivate contributors? Is this needed?
-- What are the best ways for projects to incentivize contributions?
-- How does a project turn a drive-by contributor into a maintainer?
+* How can we motivate contributors? Is this needed?
+* What are the best ways for projects to incentivize contributions?
+* How does a project turn a drive-by contributor into a maintainer?
 
 ## Reports and documents
 
