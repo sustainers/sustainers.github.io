@@ -1,6 +1,6 @@
-<nav class="navbar navbar-expand-md navbar-light bg-darkblue fixed-top text-uppercase">
+<nav class="navbar navbar-expand-lg navbar-light bg-darkblue fixed-top text-uppercase">
   <div class="container">
-    <a class="navbar-brand d-flex justify-content-center order-first order-md-2" href="/">
+    <a class="navbar-brand d-flex justify-content-center order-first order-lg-2" href="/">
       <img class="navbar-logo" src="/assets/img/sustain-hor.svg" alt="Sustain Logo" width="124" height="55">
     </a>
 
@@ -17,7 +17,7 @@
     {%- for menu in site.data.menu -%}
     {%- if menu.name contains 'navbar' -%}
     <div id="{{ menu.name }}" class="collapse navbar-collapse order-{{ forloop.index }} {{ menu.name }}">
-      <div class="nav navbar-nav text-center text-md-left w-100 justify-content-around">
+      <div class="nav navbar-nav text-center text-lg-left w-100 justify-content-around">
         {%- for item in menu.pages -%}
         {%- assign link_slug = item.title | slugify -%}
         {%- assign active = nil -%}
