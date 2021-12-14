@@ -2,7 +2,7 @@
     background: url("/assets/img/sustain-summit-2020-blue@767.jpg") no-repeat center center / cover;
     min-height: 70vh;
 
-    @media (max-width: 767px) and (orientation: landscape) {
+    @media (max-width: 992px) and (orientation: landscape) {
         min-height: 400px;
     }
 
@@ -12,7 +12,7 @@
         }
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 992px) {
         background-image: url("/assets/img/sustain-summit-2020-blue@1923.jpg");
         height: 70vh;
         min-height: 70vh;
@@ -46,5 +46,4 @@
             }
         }
     }
-
 }

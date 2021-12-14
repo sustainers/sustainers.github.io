@@ -21,7 +21,7 @@
         }
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 992px) {
         .nav-link::after,
         .active > .nav-link::after {
             background-color: $white;
@@ -45,7 +45,7 @@
 
         @media (min-width: 992px) {
             -ms-flex: 0 1 100%;
-            margin: 0 7rem;
+            margin: 0 5.5rem;
         }
     }
 
