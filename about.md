@@ -34,14 +34,14 @@ slug: about
         <ul>
           <li><a href="https://www.piamancini.com/">Pia Mancini</a> - pia at sustainoss.org</li>
           <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
-          <li><a href="https://aspirationtech.org/about/people/gunner">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
+          <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
           <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of GitHub</li>
         </ul>
         </div>
         <div class="col-md-4">
         <ul>
           <li><a href="https://twitter.com/coderberry">Eric Berry</a> of <a href="https://codefund.io/">CodeFund</a></li>
-          <li><a href="https://burntfen.com">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a></li>
+          <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a></li>
           <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
           <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
         </ul>

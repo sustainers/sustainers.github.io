@@ -44,4 +44,4 @@ This discussion took place across two working sessions at Sustain 2020:
 
 For now, the best way to get involved is to introduce yourself [on the Discourse discussion thread](https://discourse.sustainoss.org/t/principles-of-authentic-participation-continuing-the-sustain-conversation/284).
 Over time, there may be more opportunities to get involved.
-If you are interested and want to be included on email follow-up, reach out to [Justin W. Flory](https://justinwflory.com) to be included in the loop.
+If you are interested and want to be included on email follow-up, reach out to [Justin W. Flory](https://jwf.io/) to be included in the loop.
