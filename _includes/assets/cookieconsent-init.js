@@ -1,7 +1,7 @@
 window.cookieconsent && window.cookieconsent.initialise({
     palette: {
         popup: {
-            background: '#000'
+            background: '#263238'
         },
         button: {
             background: 'transparent',
