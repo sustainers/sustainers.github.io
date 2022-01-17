@@ -21,7 +21,7 @@ slug: design-and-ux
 
 ## How to get involved
 
-Attend a call on the second Tuesday of every month [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX) at 16.00 UTC/GMT (Updated to reflect October 2021 Daylight savings). Read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com).
+Attend our community call on the Second Monday of the month at 17.00 GMT / 18.00 CET + WAT / 12.00 EST as of January 2022 timeszone calculations [on this Jitsi link](https://meet.jit.si/SustainOSSDesignUX). As the year progresses please note that some timezones go through day light savings and therefore the time will change for some locations by one hour. The best way to stay on top of start time of meetings is to read through our past conversations on [the Sustain Discourse forum thread](https://discourse.sustainoss.org/t/design-ux-working-group/348) and join us on Slack where Open Collective are hosting us on their slack on the channel [#open-design-discussions](https://opencollective.slack.com).
 
 You can also access our [historical notes document on google docs here](https://docs.google.com/document/d/1_SLKyXFvz6yoeAAk_aDjWghS9e-yQCrt03-l4mojOTQ/edit#).
 
