@@ -26,7 +26,7 @@ slug: about
 
     <h2 class="text-center mb-4 tealdark">Organizers</h2>
 
-    <p>Sustain is open source, and anyone can join. However, there tends to be a core group involved in organizing the events and work.</p>
+    <p>Sustain is open source, and anyone can join. However, there tends to be a core group involved in organizing the events and work. We operate through rough consensus. We prioritize delegating decision making to working groups and small groups in our community.</p>
 
     <div class="container">
       <div class="row justify-content-center">
@@ -42,7 +42,7 @@ slug: about
         <ul>
           <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
           <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
-          <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a></li>
+          <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
           <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
         </ul>
       </div>
