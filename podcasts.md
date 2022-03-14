@@ -18,6 +18,12 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 [S.O.S. Design](https://sosdesign.sustainoss.org/) is a podcast dedicated to exploring the intersection of open source and design: how design is crucial in the open source ecosystem, how designers work with coders to make open source software better, and what sustainability means for the field of open source designers. This podcast grew out of the Sustain community and Open Source Design, and seeks to share great conversations with members from both communities and the open source and design space at large.
 
+<a href="https://ltd-podcast.sustainoss.org/" rel="noopener" target="_blank">
+  <img src="/assets/img/podcast-logos/ltd.png" class="podcast-banner" alt="Let's Talk Docs Banner">
+</a>
+
+[Let's Talk Docs](https://ltd-podcast.sustainoss.org/)! On this podcast, we’ll be sharing with you a new concept around documentation and sustainability. We’re going to talk about how you can leverage documentation, how you can leverage content to bring more people, more attention, and more funding to your products. We’ll talk to experts who know how to write content engagingly, interview people who speak about the importance of content having goals, and talk to people who have successfully built projects, used excellent documentation, and used the content as the pillar of their success.
+
 <a href="https://podcast.chaoss.community/" rel="noopener" target="_blank">
   <img src="/assets/img/podcast-logos/chaoss.png" class="podcast-banner" alt="CHAOSSCast banner">
 </a>
