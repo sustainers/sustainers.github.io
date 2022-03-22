@@ -27,7 +27,7 @@ We would love comments! We accept them on a rolling basis. Send a note to [coc@s
 
 #### Why did you make your own CoC? Why didn't you use X instead?
 
-We wanted to make a CoC that honoured our values, and we found many excellent examples of Codes of Conduct which we could have used. Ultimately, we decided to make our own CoC to work in both online and offline spaces. This decision was made by the lazy consensus of the SustainOSS organising committee. We didn't feel that any other CoC fit our needs perfectly.
+We wanted to make a CoC that honoured our values, and we found many excellent examples of Codes of Conduct which we could have used. Ultimately, we decided to make our own CoC to work in both online and offline spaces. This decision was made by the rough consensus of the SustainOSS organising committee. We didn't feel that any other CoC fit our needs perfectly.
 
 #### Why isn't there a "Do's and Don'ts" section?
 
@@ -73,7 +73,7 @@ The same people, at the moment. We'll take a look at this post-launch and see if
 
 #### Do I have recourse for decisions that negatively affect me?
 
-We don't have an explicit recourse process right now, but we expect that people will be able to talk to the committee members about their decisions. Ultimately, these decisions are final; but the ladder of consequence falls incrementally.
+We don't have an explicit recourse process right now, but we expect that people will be able to talk to the committee members about their decisions. Ultimately, these decisions are final.
 
 #### Do all SustainOSS working groups and satellite events need to use this Code of Conduct?
 
