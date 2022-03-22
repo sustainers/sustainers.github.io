@@ -13,6 +13,7 @@ Do you have questions about the CoC, or this document? Send them along to [coc@s
 
 ## The Questions
 
+<!-- markdownlint-disable-next-line MD001 -->
 #### When can I expect a response from the CoC committee?
 
 Within three to five days. Committee members can elect a stand-in if they know they will be AFK or unable to respond quickly to issues.
@@ -59,9 +60,9 @@ If you want to translate the document, please do so! We'll add it here. We assum
 
 Right now, the team is:
 
-- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
-- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
-- Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
+* Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+* Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
+* Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
