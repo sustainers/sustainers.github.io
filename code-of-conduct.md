@@ -6,114 +6,109 @@ redirect_from:
   - "/coc/"
 ---
 
-## Code of Conduct
+# Code of Conduct
 
-(Adapted from the [Open Source Feels Code of Conduct](https://www.osfeels.com/conduct/).)
+_Other languages: [Català](https://docs.google.com/document/d/1jVkogyLI2OdprYJUqucIV2u3EC-Y3wkqSXwSwYZbKgg/edit?usp=sharing) ::: [Español](https://docs.google.com/document/d/1yx9u_QEPK3-aA06gQF0cbbhPFsUfwE8AETuM5tkZlC4/edit?usp=sharing)_[^1]
 
-### Short Version
+## Short Version
 
-The "Sustain Summit" (Sustain) is dedicated to a safe, inclusive, welcoming, and harassment-free experience for everyone.
+SustainOSS is dedicated to creating and maintaining welcoming, inclusive, safe, and harassment-free spaces to talk about open source sustainability. Anyone participating in our spaces, digital or physical, will be subject to and agrees to sign on to our Code of Conduct described below.
 
-All attendees, speakers, sponsors and volunteers at Sustain are required to abide by the code of conduct.
 
-### Need Help?
+## Need Help?
 
-Contact the organizers directly:
+If ANY behaviour makes you uncomfortable or you believe it breaches the letter or intent of this code of conduct, please report to an event organiser or administrator by contacting:
 
-* Justin Dorfman: [@jdorfman](https://twitter.com/jdorfman) or [jd at sustainoss.org](&#109;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#106;&#x64;&#x40;&#115;&#x75;&#115;&#116;&#97;&#105;&#110;&#x6f;&#x73;&#115;&#46;&#111;&#x72;&#x67;)
-* Pia Mancini: [@piamancini](https://twitter.com/piamancini) or [pia at sustainoss.org](mailto:&#112;&#105;&#x61;&#64;&#115;&#x75;&#x73;&#x74;&#97;&#105;&#x6e;&#x6f;&#x73;&#115;&#46;&#x6f;&#114;&#103;)
+- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
+- Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
-### Long Version
+You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
-A primary goal of Sustain is to be safe, inclusive, and welcoming to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+Translations: If this Code of Conduct is in a language that you do not know, and you would prefer to read it in your native language, please get in touch. We want to be inclusive of all open source practitioners. (Likewise, if you are able to offer translations, particularly for this paragraph, please get in touch by emailing Richard Littauer). 
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This document has [an FAQ and comments document](/code-of-conduct-faq) where most expected questions have been documented. You can check that out, [here](/code-of-conduct-faq).
 
-We invite all those who participate in Sustain to help us create safe and positive experiences for everyone.
+---
 
-### Open Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+# Long version
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+The primary goal of SustainOSS is to create and maintain spaces that are safe, inclusive, and welcoming to the largest number of participants, with the most varied and diverse backgrounds possible, in order to talk about open source sustainability. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of employer, license of preference, perspectives on sustainability, political views, gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
-If you see someone who is making an extra effort to ensure our community is safe, welcoming, inclusive friendly, and encourages all participants to contribute to the fullest extent, we want to know. Tell an organizer or email them.
+This code of conduct outlines our expectations for all those who participate in our spaces, as well as the consequences for unacceptable behaviour.  
 
-### Code of Conduct
 
-All attendees, organizers, speakers, sponsors, and volunteers at Sustain are required to abide by the code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everyone.
+## Scope
 
-The Sustain is dedicated to providing a safe, inclusive, welcoming, harassment-free conference experience for everyone regardless of gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
+All attendees, organisers, speakers, sponsors, and volunteers participating in or around our physical events, along with users and administrators of our digital spaces, such as on GitHub, our working group video calls, or the Discourse forum, are required to abide by the code of conduct.
 
-### Expected Behavior
+The organisers and administrators will enforce this code at all times. We expect cooperation from all participants to ensure a safe environment for everyone.
 
-The following behaviors are expected and requested of all community members:
 
-* Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-* Exercise consideration and respect in your speech and actions.
-* Attempt collaboration before conflict.
-* Refrain from demeaning, discriminatory, or harassing behavior and speech.
-* Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-* Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+### Expected Behaviour
 
-### Unacceptable Behavior
+We expect participants to:
 
-The following behaviors are considered harassment and are unacceptable within our community:
+**Be welcoming, friendly and patient**
 
-* Violence, threats of violence or violent language directed against another person
-* Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language
-* Posting or displaying sexually explicit or violent material
-* Posting or threatening to post other people's personally identifying information ("doxing")
-* Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
-* Inappropriate photography or recording
-* Inappropriate physical contact. You should have someone's consent before touching them in any way
-* Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances
-* Intimidation, stalking, or following (online or in person)
-* Advocating for, or encouraging, any of the above behavior
-* Disruption of community events, including talks and presentations
-* Harassment
+Our community is increasingly diverse, we frequently welcome participants who are new to conversations that may have been discussed for some time, and we welcome those who are new to the idea of open source software or work in adjacent communities like design, documentation and research. 
 
-We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+**Be respectful and considerate**
 
-Sponsors are subject to the Code of Conduct. In particular, sponsors should not use sexualized images, activities, or other material. Booth staff, including volunteers, should not wear sexualized clothing, or otherwise create a sexualized environment.
+The subjects that we touch on can be polarising, but that is no excuse for poor behaviour or manners. We allow others the consideration that we would appreciate ourselves, and we do not allow our frustrations to turn into personal attacks. We appreciate that many members of our community are communicating in a second or third language. We agree that a community in which members feel uncomfortable impacts our ability to work together and have productive conversations.
 
-Harassment includes:
+**Be mindful of the words that you choose**
 
-* verbal comments that reinforce social structures of domination related to gender, gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, age, and religion (or lack thereof)
-* sexual images in public spaces
-* deliberate intimidation
-* stalking and following
-* harassing photography or recording
-* sustained disruption of talks or other events
-* inappropriate physical contact
-* unwelcome sexual attention
+Be kind to others, in whatever medium you communicate (words, images, videos, references, etc.), by paying particular attention to the degree to which intent can be misinterpreted when communicating in writing. We do not insult, put down, harass or exclude others. This includes, but is not limited to:
 
-No weapons of any kind, drugs, or alcohol are allowed at Sustain venues.
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
 
-### Consequences of Unacceptable Behavior
+* Violent threats or language directed against another person.
+* Sexist, racist, or otherwise discriminatory jokes and language.
+* Exhibiting sexually explicit or violent speak or material.
+* Publishing (or threatening to publish) other people's personally identifying information ("doxing").
+* Recording, photographing or filming other persons without their consent. Seek consent before recording. Also ask people who may be seen or heard in the background. Similarly, don't publish private communication without asking first, except if the communication was unwanted (harassment, threats etc). If in doubt, you can ask us before publishing something.
+* Personal insults.
+* Unwelcome sexual attention.
+* Unwelcome unsolicited advice.
+* _Ad hominem_ attacks.
+* Advocating for, or encouraging, any of the above behaviour.
+* Repeated harassment of others.
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+In general, if someone asks you to stop: stop. 
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+**Take an empathetic approach to resolving disagreement**
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning and without refund.
+We foster a philosophy of collaboration over conflict, but we appreciate that conflicts can and will happen. When they do we resolve differing views constructively, seeking to understand the other’s point of view before expressing our own. If another participant is unwilling to continue the discussion we allow them the time and space they need and gain permission before engaging again. Remember that we all share a common goal, to sustain open source software, and that our different perspectives and experiences make us stronger as a community. Equally, if we are unable to understand another’s point of view it doesn’t mean that they are wrong.
+
+**Look after one another**
+
+We are a growing community, and while organisers and administrators do their best to mediate, mitigate and otherwise maintain our spaces as safe, inclusive and welcoming places to participate, we are not everywhere at all times. If you see concerning behaviour, we expect you to report it. This is especially important for our in-person events: if you notice a dangerous situation, someone in distress, or witness a violation of this code of conduct report it immediately to an organiser (they will make themselves known at the beginning of events and will be clearly identifiable throughout) or administrator. 
+
 
 ### Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify an organiser or administrator as soon as possible. Organisers will make themselves known at the beginning of in-person events and can be identified by their badges. Our digital spaces are administered by:
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
+- Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
-Conference staff can be identified by their badges.
+You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
-Conference staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Organisers and administrators will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the physical events.
 
-### Scope
 
-We expect all community participants (guests, sponsors, and contributors, paid or otherwise) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all one-on-one communications pertaining to community business.
+### Consequences of Unacceptable Behaviour
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+Unacceptable behaviour from any participant, including sponsors, organisers and administrators, will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply _immediately_.
 
-We expect participants to follow these rules at all conference venues and conference-related social events.
+If a participant engages in harassing behaviour, organisers and administrators will take any action they deem appropriate, including warning the offender, limiting their access to spaces or excluding them entirely from events and spaces without warning and without refund.
+
+
+<!-- Footnotes themselves at the bottom. -->
+## Notes
+
+[^1]:
+     ¡Moltes gràcies Javier Luis Cánovas Izquierdo!
