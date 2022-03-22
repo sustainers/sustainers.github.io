@@ -14,7 +14,6 @@ _Other languages: [Català](https://docs.google.com/document/d/1jVkogyLI2OdprYJU
 
 SustainOSS is dedicated to creating and maintaining welcoming, inclusive, safe, and harassment-free spaces to talk about open source sustainability. Anyone participating in our spaces, digital or physical, will be subject to and agrees to sign on to our Code of Conduct described below.
 
-
 ## Need Help?
 
 If ANY behaviour makes you uncomfortable or you believe it breaches the letter or intent of this code of conduct, please report to an event organiser or administrator by contacting:
@@ -37,13 +36,11 @@ The primary goal of SustainOSS is to create and maintain spaces that are safe, i
 
 This code of conduct outlines our expectations for all those who participate in our spaces, as well as the consequences for unacceptable behaviour.
 
-
 ## Scope
 
 All attendees, organisers, speakers, sponsors, and volunteers participating in or around our physical events, along with users and administrators of our digital spaces, such as on GitHub, our working group video calls, or the Discourse forum, are required to abide by the code of conduct.
 
 The organisers and administrators will enforce this code at all times. We expect cooperation from all participants to ensure a safe environment for everyone.
-
 
 ### Expected Behaviour
 
@@ -83,7 +80,6 @@ We foster a philosophy of collaboration over conflict, but we appreciate that co
 
 We are a growing community, and while organisers and administrators do their best to mediate, mitigate and otherwise maintain our spaces as safe, inclusive and welcoming places to participate, we are not everywhere at all times. If you see concerning behaviour, we expect you to report it. This is especially important for our in-person events: if you notice a dangerous situation, someone in distress, or witness a violation of this code of conduct report it immediately to an organiser (they will make themselves known at the beginning of events and will be clearly identifiable throughout) or administrator.
 
-
 ### Reporting Guidelines
 
 If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify an organiser or administrator as soon as possible. Organisers will make themselves known at the beginning of in-person events and can be identified by their badges. Our digital spaces are administered by:
@@ -101,7 +97,6 @@ Organisers and administrators will be happy to help participants contact securit
 Unacceptable behaviour from any participant, including sponsors, organisers and administrators, will not be tolerated. Anyone asked to stop unacceptable behaviour is expected to comply _immediately_.
 
 If a participant engages in harassing behaviour, organisers and administrators will take any action they deem appropriate, including warning the offender, limiting their access to spaces or excluding them entirely from events and spaces without warning and without refund.
-
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
