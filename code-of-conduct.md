@@ -25,18 +25,17 @@ If ANY behaviour makes you uncomfortable or you believe it breaches the letter o
 
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
-Translations: If this Code of Conduct is in a language that you do not know, and you would prefer to read it in your native language, please get in touch. We want to be inclusive of all open source practitioners. (Likewise, if you are able to offer translations, particularly for this paragraph, please get in touch by emailing Richard Littauer). 
+Translations: If this Code of Conduct is in a language that you do not know, and you would prefer to read it in your native language, please get in touch. We want to be inclusive of all open source practitioners. (Likewise, if you are able to offer translations, particularly for this paragraph, please get in touch by emailing Richard Littauer).
 
 This document has [an FAQ and comments document](/code-of-conduct-faq) where most expected questions have been documented. You can check that out, [here](/code-of-conduct-faq).
 
 ---
 
-
-# Long version
+## Long version
 
 The primary goal of SustainOSS is to create and maintain spaces that are safe, inclusive, and welcoming to the largest number of participants, with the most varied and diverse backgrounds possible, in order to talk about open source sustainability. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of employer, license of preference, perspectives on sustainability, political views, gender, gender identity, gender expression, sexual orientation, ability, physical appearance, body size, socioeconomic status, race, age, or religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our spaces, as well as the consequences for unacceptable behaviour.  
+This code of conduct outlines our expectations for all those who participate in our spaces, as well as the consequences for unacceptable behaviour.
 
 
 ## Scope
@@ -52,7 +51,7 @@ We expect participants to:
 
 **Be welcoming, friendly and patient**
 
-Our community is increasingly diverse, we frequently welcome participants who are new to conversations that may have been discussed for some time, and we welcome those who are new to the idea of open source software or work in adjacent communities like design, documentation and research. 
+Our community is increasingly diverse, we frequently welcome participants who are new to conversations that may have been discussed for some time, and we welcome those who are new to the idea of open source software or work in adjacent communities like design, documentation and research.
 
 **Be respectful and considerate**
 
@@ -61,8 +60,6 @@ The subjects that we touch on can be polarising, but that is no excuse for poor 
 **Be mindful of the words that you choose**
 
 Be kind to others, in whatever medium you communicate (words, images, videos, references, etc.), by paying particular attention to the degree to which intent can be misinterpreted when communicating in writing. We do not insult, put down, harass or exclude others. This includes, but is not limited to:
-
-
 
 * Violent threats or language directed against another person.
 * Sexist, racist, or otherwise discriminatory jokes and language.
@@ -76,7 +73,7 @@ Be kind to others, in whatever medium you communicate (words, images, videos, re
 * Advocating for, or encouraging, any of the above behaviour.
 * Repeated harassment of others.
 
-In general, if someone asks you to stop: stop. 
+In general, if someone asks you to stop: stop.
 
 **Take an empathetic approach to resolving disagreement**
 
@@ -84,7 +81,7 @@ We foster a philosophy of collaboration over conflict, but we appreciate that co
 
 **Look after one another**
 
-We are a growing community, and while organisers and administrators do their best to mediate, mitigate and otherwise maintain our spaces as safe, inclusive and welcoming places to participate, we are not everywhere at all times. If you see concerning behaviour, we expect you to report it. This is especially important for our in-person events: if you notice a dangerous situation, someone in distress, or witness a violation of this code of conduct report it immediately to an organiser (they will make themselves known at the beginning of events and will be clearly identifiable throughout) or administrator. 
+We are a growing community, and while organisers and administrators do their best to mediate, mitigate and otherwise maintain our spaces as safe, inclusive and welcoming places to participate, we are not everywhere at all times. If you see concerning behaviour, we expect you to report it. This is especially important for our in-person events: if you notice a dangerous situation, someone in distress, or witness a violation of this code of conduct report it immediately to an organiser (they will make themselves known at the beginning of events and will be clearly identifiable throughout) or administrator.
 
 
 ### Reporting Guidelines
@@ -98,7 +95,6 @@ If you are subject to or witness unacceptable behaviour, or have any other conce
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
 Organisers and administrators will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the physical events.
-
 
 ### Consequences of Unacceptable Behaviour
 

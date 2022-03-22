@@ -4,24 +4,22 @@ title: Code of Conduct FAQ
 slug: code-of-conduct-faq
 ---
 
-# Code of Conduct Frequently Asked Questions
-
-
+# Code of Conduct FAQ
 
 This document is for explaining why and how some decisions were made regarding [the SustainOSS code of conduct (CoC)](/code-of-conduct). An extra FAQ page is easier for us to update, as it does not require going through the entire review process for the CoC, and it makes it easier for us to explain some decisions without having to wrangle the wording to fit them into the CoC appropriately. Here's [an example](https://docs.fedoraproject.org/en-US/project/coc-clarifying/) of a similar document from Fedora.
 
-Do you have questions about the CoC, or this document? Send them along to [coc@sustainoss.org](mailto:coc@sustainoss.org). If you could specify that you want questions to be added to this document, we would appreciate it. Let's build this together. 
+Do you have questions about the CoC, or this document? Send them along to [coc@sustainoss.org](mailto:coc@sustainoss.org). If you could specify that you want questions to be added to this document, we would appreciate it. Let's build this together.
 
 
 ## The Questions
 
 #### When can I expect a response from the CoC committee?
 
-Within three to five days. Committee members can elect a stand-in if they know they will be AFK or unable to respond quickly to issues. 
+Within three to five days. Committee members can elect a stand-in if they know they will be AFK or unable to respond quickly to issues.
 
 #### When will you update the Code of Conduct, or check-in on how it is working?
 
-Our goal is to do this initially every three months. There will be an opportunity for the community to weigh in on their experience. 
+Our goal is to do this initially every three months. There will be an opportunity for the community to weigh in on their experience.
 
 #### Do you want comments on your CoC? When?
 
@@ -47,31 +45,31 @@ We'll come back to this paragraph in our next Code of Conduct review (currently 
 
 #### Where is your ladder of consequence? How will I know what actions require what response?
 
-Our initial CoC does not have a Ladder of Consequence: here's [an example](https://www.contributor-covenant.org/version/2/1/code_of_conduct/#enforcement-guidelines) of one from the Contributor Covenant. For now, members of the committee will respond as they see fitting to incidents. One major drawback to not having a Ladder of Consequence is that this allows for unconscious bias on the part of the organisers, as they may respond differently to different members of the community. This is an exceptionally good reason for having a ladder. We will come back to this and debate adding one at our next CoC review. For now, trust on behalf of the organisers would be appreciated. 
+Our initial CoC does not have a Ladder of Consequence: here's [an example](https://www.contributor-covenant.org/version/2/1/code_of_conduct/#enforcement-guidelines) of one from the Contributor Covenant. For now, members of the committee will respond as they see fitting to incidents. One major drawback to not having a Ladder of Consequence is that this allows for unconscious bias on the part of the organisers, as they may respond differently to different members of the community. This is an exceptionally good reason for having a ladder. We will come back to this and debate adding one at our next CoC review. For now, trust on behalf of the organisers would be appreciated.
 
 #### The Code of Conduct is long, and this FAQ is wordy. It's hard for speakers of English as a second language! Can you make it shorter?
 
-We tried. If you need help, we're happy to try and find translators or to talk through any sections. If you believe you have a way to make it more concise, get in touch. 
+We tried. If you need help, we're happy to try and find translators or to talk through any sections. If you believe you have a way to make it more concise, get in touch.
 
 #### What is the translation process?
 
-If you want to translate the document, please do so! We'll add it here. We assume all translations are good until shown otherwise. If you would like to request a translation, send an email to [coc@sustainoss.org](mailto:coc@sustainoss.org) and we'll see if we can find a translator for your language. 
+If you want to translate the document, please do so! We'll add it here. We assume all translations are good until shown otherwise. If you would like to request a translation, send an email to [coc@sustainoss.org](mailto:coc@sustainoss.org) and we'll see if we can find a translator for your language.
 
 #### Who is on the moderation team? How is it rotated?
 
 Right now, the team is:
 
-- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org) 
-- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org) 
+- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
 - Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
-We're permanently on the CoC committee for the moment. We'll work on rotation at our next CoC overview. 
+We're permanently on the CoC committee for the moment. We'll work on rotation at our next CoC overview.
 
 #### Who is on the conflict resolution team? Do you have one?
 
-The same people, at the moment. We'll take a look at this post-launch and see if we can make this a more formal team. It may not make sense to have the same people on the same team. Any help on how to do this from community members would be appreciated! 
+The same people, at the moment. We'll take a look at this post-launch and see if we can make this a more formal team. It may not make sense to have the same people on the same team. Any help on how to do this from community members would be appreciated!
 
 #### Do I have recourse for decisions that negatively affect me?
 
@@ -83,4 +81,4 @@ To use the SustainOSS brand, you must opt-in to the CoC, OR explain suitably to 
 
 #### When is the next SustainOSS conference?
 
-This isn't a general FAQ. However, our forum is now open again for questions like this! 
+This isn't a general FAQ. However, our forum is now open again for questions like this!
