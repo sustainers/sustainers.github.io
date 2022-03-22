@@ -19,9 +19,9 @@ SustainOSS is dedicated to creating and maintaining welcoming, inclusive, safe, 
 
 If ANY behaviour makes you uncomfortable or you believe it breaches the letter or intent of this code of conduct, please report to an event organiser or administrator by contacting:
 
-- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
-- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
-- Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
+* Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+* Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
+* Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
@@ -88,9 +88,9 @@ We are a growing community, and while organisers and administrators do their bes
 
 If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify an organiser or administrator as soon as possible. Organisers will make themselves known at the beginning of in-person events and can be identified by their badges. Our digital spaces are administered by:
 
-- Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
-- Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
-- Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
+* Richard Littauer (he/him): [richard@sustainoss.org](mailto:richard@sustainoss.org)
+* Pia Mancini (she/her): [pia@sustainoss.org](mailto:pia@sustainoss.org)
+* Eriol Fox (they/their): [eriol@sustainoss.org](mailto:eriol@sustainoss.org)
 
 You can contact all of us by emailing: [coc@sustainoss.org](mailto:coc@sustainoss.org).
 
