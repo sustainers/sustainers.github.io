@@ -32,7 +32,12 @@ We wanted to make a CoC that honoured our values, and we found many excellent ex
 
 #### Why isn't there a "Do's and Don'ts" section?
 
-Our CoC was largely drafted by a single committee member, and this is largely an artefact of that original drafting. If you would like to make such a section, feel free to edit it appropriately. However, it's unclear if there would be any net benefit from this largely stylistic change.
+Our CoC was largely drafted by a single committee member, and this is largely an artefact of that original drafting. If you would like to make such a section, feel free to edit it appropriately and suggest a new version in a PR.
+However, it's unclear if there would be any net benefit from this largely stylistic change.
+
+#### How can I suggest changes to the Code of Conduct?
+
+You can suggest changes by editing [the original document](https://github.com/sustainers/website/blob/main/code-of-conduct.md) and opening a pull request on GitHub. If you need help doing this, contact the organizers. These PRs will be addressed at our next CoC review. Note that trivial PRs may be merged by the organising committee before the review.
 
 #### Why did it take so long to make this?
 
@@ -54,7 +59,7 @@ We tried. If you need help, we're happy to try and find translators or to talk t
 
 #### What is the translation process?
 
-If you want to translate the document, please do so! We'll add it here. We assume all translations are good until shown otherwise. If you would like to request a translation, send an email to [coc@sustainoss.org](mailto:coc@sustainoss.org) and we'll see if we can find a translator for your language.
+If you want to translate the document, please do so! We'll add it here. We assume all translations are good until shown otherwise. If you would like to request a translation, send an email to [coc@sustainoss.org](mailto:coc@sustainoss.org) and we'll see if we can find a translator for your language. If the amount of translations grows, we may end up using CrowdIn or some other tool to help manage translations.
 
 #### Who is on the moderation team? How is it rotated?
 
