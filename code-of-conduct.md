@@ -42,6 +42,8 @@ All attendees, organisers, speakers, sponsors, and volunteers participating in o
 
 The organisers and administrators will enforce this code at all times. We expect cooperation from all participants to ensure a safe environment for everyone.
 
+The Code of Conduct, and the organisers and administrators, can only address behaviour in the present, not past behaviour or fears of what someone might do based on past behaviour.
+
 ### Expected Behaviour
 
 We expect participants to:
