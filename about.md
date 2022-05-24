@@ -41,7 +41,6 @@ slug: about
         <div class="col-md-4">
         <ul>
           <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
-          <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
           <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
           <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
         </ul>
@@ -49,10 +48,10 @@ slug: about
       </div>
     </div>
 
-
     <p>Past organizers include:</p>
 
     <ul>
+      <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
       <li><a href="https://twitter.com/catallman">Cat Allman</a> of Google</li>
       <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
       <li><a href="https://github.com/chadwhitacre">Chad Whitacre</a></li>
