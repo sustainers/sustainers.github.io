@@ -51,10 +51,11 @@ slug: about
     <p>Past organizers include:</p>
 
     <ul>
-      <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
-      <li><a href="https://twitter.com/catallman">Cat Allman</a> of Google</li>
-      <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
+      <li><a href="https://twitter.com/catallman">Cat Allman</a></li>
       <li><a href="https://github.com/chadwhitacre">Chad Whitacre</a></li>
+      <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
+      <li><a href="https://jwf.io/">Justin W. Flory</a></li>
+      <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a></li>
     </ul>
 
     <p>You may contact them if you have any questions or concerns.
