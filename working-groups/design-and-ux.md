@@ -91,4 +91,4 @@ Check it out, and submit PRs, open issues, and propose other resources we could 
 
 Did you know you could guest-star on the [Sustaining Open Source Design podcast](https://sosdesign.sustainoss.org/)?
 Join the panelists for an episode and share what is on your mind in the Open Source design world!
-To reserve a spot on the show, [fill out the Calendly scheduler](https://calendly.com/burntfencreative/sustain-open-source-design-podcast) and a host will be in touch with next steps.
+To reserve a spot on the show, [fill out the Calendly scheduler]([https://calendly.com/burntfencreative/sustain-open-source-design-podcast](https://calendly.com/sustainoss-podcasts/sustain-open-source-design-podcast?month=2022-06)) and a host will be in touch with next steps.
