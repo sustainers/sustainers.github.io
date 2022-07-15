@@ -15,4 +15,3 @@ The Sustain Summit is normally a one-day event which is held at a single venue, 
 In order to propose that SustainOSS funds are used for your workshop, we encourage you to use the following [form](https://forms.gle/Q9LsQwwD7tuk1hz16), which goes to the Sustain organizing committee. We promise to have a one-month response time for all submissions.
 
 The funds available have neither a lower nor an upper limit. All submissions are considered anonymously. 
-
