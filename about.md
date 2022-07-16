@@ -31,22 +31,22 @@ slug: about
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-4">
-        <ul>
-          <li><a href="https://www.piamancini.com/">Pia Mancini</a> of Open Collective - pia at sustainoss.org</li>
-          <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
-          <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
-          <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
-        </ul>
+          <ul>
+            <li><a href="https://www.piamancini.com/">Pia Mancini</a> of Open Collective - pia at sustainoss.org</li>
+            <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
+            <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
+            <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
+            <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
+          </ul>
         </div>
         <div class="col-md-4">
-        <ul>
-          <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
-          <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
-          <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
-          <li><a href="https://twitter.com/abbycabs">Abigail Cabunoc Mayes</a></li>
-          <li><a href="https://twitter.com/VictoryBrown_">Victory Brown</a>/<li>
-        </ul>
-      </div>
+          <ul>
+            <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
+            <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
+            <li><a href="https://twitter.com/abbycabs">Abigail Cabunoc Mayes</a></li>
+            <li><a href="https://twitter.com/VictoryBrown_">Victory Brown</a></li>
+          </ul>
+        </div>
       </div>
     </div>
 
