@@ -43,6 +43,8 @@ slug: about
           <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
           <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
           <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
+          <li><a href="https://twitter.com/abbycabs">Abigail Cabunoc Mayes</a></li>
+          <li><a href="https://twitter.com/VictoryBrown_">Victory Brown</a>/<li>
         </ul>
       </div>
       </div>
