@@ -4,8 +4,6 @@ title: "SustainOSS Organizing Committee – Sustain Workshops and Funding Applic
 permalink: /blog/:title/
 ---
 
-# SustainOSS Organizing Committee – Sustain Workshops and Funding Applications
-
 ## Purpose:
 
 This document recognizes that current fund applications for workshops at Sustain are organized through exclusive, private networks connected to the Sustain organizer committee. By outlining, publicizing, and sharing this process, we hope to make a more inclusive community.
