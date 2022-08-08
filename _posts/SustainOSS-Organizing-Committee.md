@@ -1,3 +1,9 @@
+---
+layout: post
+title: "SustainOSS Organizing Committee – Sustain Workshops and Funding Applications"
+permalink: /blog/:title/
+---
+
 # SustainOSS Organizing Committee – Sustain Workshops and Funding Applications
 
 ## Purpose:
