@@ -31,31 +31,33 @@ slug: about
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-4">
-        <ul>
-          <li><a href="https://www.piamancini.com/">Pia Mancini</a> of Open Collective - pia at sustainoss.org</li>
-          <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
-          <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
-          <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
-        </ul>
+          <ul>
+            <li><a href="https://www.piamancini.com/">Pia Mancini</a> of Open Collective - pia at sustainoss.org</li>
+            <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
+            <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
+            <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
+            <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
+          </ul>
         </div>
         <div class="col-md-4">
-        <ul>
-          <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
-          <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
-          <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
-          <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
-        </ul>
-      </div>
+          <ul>
+            <li><a href="https://www.burntfen.com/">Richard Littauer</a> of <a href="https://maintainer.io">Maintainer.io</a> - richard at sustainoss.org</li>
+            <li><a href="https://twitter.com/alyssapwright">Alyssa Wright</a> of Bloomberg</li>
+            <li><a href="https://twitter.com/abbycabs">Abigail Cabunoc Mayes</a></li>
+            <li><a href="https://twitter.com/VictoryBrown_">Victory Brown</a></li>
+          </ul>
+        </div>
       </div>
     </div>
-
 
     <p>Past organizers include:</p>
 
     <ul>
-      <li><a href="https://twitter.com/catallman">Cat Allman</a> of Google</li>
-      <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a> of Google</li>
+      <li><a href="https://twitter.com/catallman">Cat Allman</a></li>
       <li><a href="https://github.com/chadwhitacre">Chad Whitacre</a></li>
+      <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
+      <li><a href="https://jwf.io/">Justin W. Flory</a></li>
+      <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a></li>
     </ul>
 
     <p>You may contact them if you have any questions or concerns.
@@ -84,6 +86,8 @@ slug: about
 
     <p>Also, we are <a href="https://validator.w3.org/check/referer" data-proofer-ignore>HTML5</a> valid and try to be
     <a class="text-decoration-none" href="https://www.w3.org/WAI/WCAG2AA-Conformance">WCAG2AA</a> compliant.</p>
+
+    <p>As well, we keep <a href="/about/best-practices">a list of best practices</a> for organisation. Take a look!</p>
 
   </div>
 </div>
