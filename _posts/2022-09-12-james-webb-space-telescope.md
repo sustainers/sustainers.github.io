@@ -20,6 +20,7 @@ Most space missions are now turning towards tools and technologies that are less
 ### Landing helicopter on Mars
 The launch of NASA's [Ingenuity Helicopter to Mars](https://mars.nasa.gov/technology/helicopter/#Overview) in 2020 was a success, thanks to open-source software and contributors that made it possible. Ingenuity became the most powerful aircraft to fly all the way to mars, using JPL's ([Jet Propulsion Lab](https://www.jpl.nasa.gov/)) open-source flight control framework [F Prime (F')](https://nasa.github.io/fprime/). Initially designed for small-scale spaceflight systems like CubeSats and SmallSats, F prime is now utilised for various projects. 
 A large portion of Ingenuity Helicopter’s software is built in C++ open source implementation. It also runs an embedded Linux distribution and uses Python as the programming language for managing data processing, flight modelling, and ground control. 
+![image](/assets/img/ingenuity-Helicopter.gif)
 
 ### JPL Open Source Rover
 In 2012,  [NASA's Curiosity rover](https://mars.nasa.gov/msl/mission/overview/) was a great success as it travelled the farthest distance on Mars of any craft. The Jet Propulsion Laboratory (JPL) soon after introduced the [Open Source Rover](https://github.com/nasa-jpl/open-source-rover), a scaled-down version of the six-wheel Curiosity rover JPL launched to examine Mars' surface. This project was specifically designed to prompt and encourage science and robotics in classrooms.  
@@ -38,6 +39,7 @@ Fascinating, right? In what ways can a developer's singular contributions to a p
 ## Space Images from the James Webb Telescope
 Recently, NASA released mind-blowing space images of our galaxy and beyond using its next-generation [James Webb Space Telescope](https://www.space.com/21925-james-webb-space-telescope-jwst.html) (nicknamed Webb or JWST). James Webb is an infrared space observatory launched on December 25, 2021. The JWST is the [Hubble Space Telescope’s](https://en.wikipedia.org/wiki/Hubble_Space_Telescope) successor. 
 
+![image](/assets/img/james-webb.png)
 
 It uses near-infrared light and will help to study and comprehend galaxy formation and evolution, star formation, and planet formation, as well as planetary systems and the origins of life. It is possible to use it to search for light emanating from the very first stars and galaxies that developed in the universe after the Big Bang. Using JWST, researchers are attempting to determine whether other exoplanet atmospheres contain methane for the possible significance of [biosignatures](https://go.nasa.gov/3RAfidu).
 
@@ -45,25 +47,33 @@ JWST has captured a series of space images from multiple galaxies thousands of l
 
 - **The "Carina Nebula"**
 
-The image, taken in infrared by NASA's new James Webb Space Telescope, reveals a region of star formation in the [Carina Nebul](https://www.nasa.gov/webbfirstimages) that was previously hidden. NGC 3324 is a young, star-forming region located approximately 7,500 light-years from Earth. 
+The image, taken in infrared by NASA's new James Webb Space Telescope, reveals a region of star formation in the [Carina Nebul](https://www.nasa.gov/webbfirstimages) that was previously hidden. NGC 3324 is a young, star-forming region located approximately 7,500 light-years from Earth.
+
+![image](/assets/img/carina-nebula.jpeg) 
 
 - **Stephan’s Quintet**
 
 The James Webb Space Telescope revealed a visual grouping of five galaxies called the [Stephan's Quintet](https://www.nasa.gov/webbfirstimages#tab1-2) with more astonishing details. It is roughly 290 million light-years away and can be found in the constellation Pegasus. JWST also captures a giant shockwave as one of the galaxies, NGC 7318B, ruptures through the cluster.
 
+![image](/assets/img/stephans-quintet.jpeg) 
+
 - **Southern Ring Nebula**
 
 NGC 3132 is a planetary nebula known as the “[Southern Ring Nebula](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail)”. It is a massive, expanding sphere of gas and dust illuminated in all directions for thousands of years by a dying star in the centre. It is about 2,500 light-years away.
+
+![image](/assets/img/southern-ring-nebula.jpeg) 
 
 - **SMACS 0723** 
 
 The galaxy cluster [SMACS 0723](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet) provides extensive details, including the faintest objects ever observed in the infrared. This cluster of thousands of galaxies was captured using the James Webb Space Telescope and contains the most profound and sharpest infrared image of the distant universe. 
 
+![image](/assets/img/deep-field-smacs0723.jpeg) 
+
 - **Cartwheel Galaxy**
 
 The [Cartwheel Galaxy](https://www.nasa.gov/feature/goddard/2022/webb-captures-stellar-gymnastics-in-the-cartwheel-galaxy/) is 500 million light-years away in the Sculptor constellation. The JWST revealed new information about the Cartwheel galaxy and two companion galaxies. A violent collision between a massive spiral galaxy and a smaller galaxy is likely to cause the galaxy's appearance. The image reveals more information about star formation and galaxy structures. 
 
-
+![image](/assets/img/cartwheel-galaxy.png) 
 ---
 
 ## Open Source Tools Used in James Webb Telescope
