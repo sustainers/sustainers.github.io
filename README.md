@@ -30,6 +30,22 @@ We use Slack to discuss our changes and to talk about community issues, as well 
 
 If you need help with using GitHub in order to open an issue, sign up for an account, come back to this page, and open an issue by [clicking here](https://github.com/sustainers/website/issues/new). Ping one of us on Slack if you need help.
 
+### Blog posts
+
+To create a new post:
+
+* Duplicate the latest in the `_posts` directory.
+* Rename the file with starting with the date (`YYYY-MM-DD`)
+* Update the title:
+
+```yaml
+---
+layout: post
+title: "New Blog Post Title"
+permalink: /blog/:title/
+---
+```
+
 ## License
 
 [MIT](LICENSE) © 2018 Justin Dorfman and [Contributors](https://github.com/sustainers/website/graphs/contributors).

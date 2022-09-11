@@ -47,7 +47,7 @@ SustainOSS does not have any full-time paid staff, and our organising committee 
 
 Yes. We intentionally put this in here because we want to showcase how we hope our community - including organisers - responds to conflict. Specifically, we're using the word empathy to show that we want to be able to hold a space for others to share their viewpoints, and to foster a community where we take the other's view instead of immediately judging and blaming others. We're aware that 'empathy' is an emotion you can have, which means that it can only be noticed in others by their actions, and that asking another to feel an emotion is unrealistic. That is not the intent - the intent is that we make clear that in SustainOSS, our actions show that we are trying to understand the other person's viewpoint.
 
-We'll come back to this paragraph in our next Code of Conduct review (currently planned at three months out).
+We'll come back to this paragraph in our next Code of Conduct review, currently planned for January 12th, 2023 at noon ET.
 
 #### Where is your ladder of consequence? How will I know what actions require what response?
 
