@@ -36,7 +36,7 @@
     "postcss": "^8.4.12",
     "postcss-cli": "^9.1.0",
     "postcss-scss": "^4.0.3",
-    "stylelint": "^14.6.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-twbs-bootstrap": "^3.0.1",
     "svgo": "^2.8.0",
     "vnu-jar": "21.10.12"
