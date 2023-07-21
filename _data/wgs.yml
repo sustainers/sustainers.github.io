@@ -43,11 +43,12 @@
   ranking: 1
   description: "It was great, everyone loved it, but - what happened at the 2020 Sustai Summit for those of us who weren't there, or who were busy thinking about a couple of hard problems in open source? How can we further Sustain's goals, going forward?"
 
-- title: Academic and Specialized Projects
-  bottomliner: Yo Yehudi
+- title: Academic Working Group
+  bottomliner: Richard Littauer
   slug: academic-projects
   status: Active
   ranking: 1
+  url: true
   description: "Open source doesn't just mean web development. How does sustainability relate to academic and specialized projects that have different needs and users?"
 
 - title: Design and UX
