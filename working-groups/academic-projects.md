@@ -8,24 +8,24 @@ slug: academic-projects
 **Bottom liner**: Richard Littauer<br>
 **How to get involved**:
 
-- Email Richard at richard at sustainoss.org
+* Email Richard at richard at sustainoss.org
 
 ## Purpose
 
-- To connect universities and other academic research institutions to collaborate on how to approach and work on open source together.
+* To connect universities and other academic research institutions to collaborate on how to approach and work on open source together.
 
 ## Goals
 
-- To build an ecosystem map of the space so that we know who is doing relevant work and how to get involved
-- To connect people working in universities, both in and outside of OSPOs
-- To enable collaboration around shared effort in academia
+* To build an ecosystem map of the space so that we know who is doing relevant work and how to get involved
+* To connect people working in universities, both in and outside of OSPOs
+* To enable collaboration around shared effort in academia
 
 ## Guiding questions
 
-- What does it mean for open source to be part of academia? 
-- What is the role of OSPOs in academia? What does a post-OSPO world look like?
-- How do students, researchers, civil society members, and institutions work together effectively for open source?
-- What is the wider role around research software engineers, and how can we support them as part of the open source ecosystem?
+* What does it mean for open source to be part of academia?
+* What is the role of OSPOs in academia? What does a post-OSPO world look like?
+* How do students, researchers, civil society members, and institutions work together effectively for open source?
+* What is the wider role around research software engineers, and how can we support them as part of the open source ecosystem?
 
 ## Reports and documents
 
