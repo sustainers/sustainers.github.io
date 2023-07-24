@@ -1,6 +1,6 @@
 ---
 layout: text-page
-title: Academic Workig Group
+title: Academic Working Group
 slug: academic-projects
 ---
 
