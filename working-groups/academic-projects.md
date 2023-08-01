@@ -29,7 +29,7 @@ slug: academic-projects
 
 ## Reports, documents, and resources
 
-An Ecosystem map will be announced 
+An Ecosystem map will be announced in our September meeting.
 
 ## How to get involved
 
