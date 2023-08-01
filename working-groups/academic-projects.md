@@ -8,7 +8,7 @@ slug: academic-projects
 **Bottom liner**: Richard Littauer<br>
 **How to get involved**:
 
-* Email Richard at richard at sustainoss.org
+* Email Richard at richard at sustainoss.org, or join the #sustainoss-academia channel on the [Open Collective Slack](https://slack.opencollective.com/).
 
 ## Purpose
 
@@ -27,14 +27,12 @@ slug: academic-projects
 * How do students, researchers, civil society members, and institutions work together effectively for open source?
 * What is the wider role around research software engineers, and how can we support them as part of the open source ecosystem?
 
-## Reports and documents
+## Reports, documents, and resources
 
-TBD.
-
-## Resources
-
-TBD.
+An Ecosystem map will be announced 
 
 ## How to get involved
 
-We'll be meeting again after a long hiatus in September, 2023. If you are interested in attending, email richard@sustainoss.org.
+We'll be meeting again after a long hiatus in September, 2023. If you are interested in attending, email richard@sustainoss.org or register your interest in the [Open Collective Slack](https://slack.opencollective.com/) in the #sustainoss-academia channel.
+
+We'll plan on meeting the Third Thursday of September. An announcement will go out beforehand in late August.
