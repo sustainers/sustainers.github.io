@@ -33,7 +33,6 @@ slug: about
         <div class="col-md-4">
           <ul>
             <li><a href="https://www.piamancini.com/">Pia Mancini</a> of Open Collective - pia at sustainoss.org</li>
-            <li><a href="https://www.justindorfman.com/">Justin Dorfman</a> - jd at sustainoss.org</li>
             <li><a href="https://aspirationtech.org/about/people">Allen "Gunner" Gunn</a> of <a href="https://aspirationtech.org/">Aspiration</a></li>
             <li><a href="https://twitter.com/BenJam">Ben Nickolls</a> of <a href="https://www.oscollective.org/">Open Source Collective</a></li>
             <li><a href="https://erioldoesdesign.github.io/">Eriol Fox</a> of Simply Secure</li>
@@ -58,6 +57,7 @@ slug: about
       <li><a href="https://twitter.com/coderberry">Eric Berry</a></li>
       <li><a href="https://jwf.io/">Justin W. Flory</a></li>
       <li><a href="https://twitter.com/megansanicki">Megan Byrd-Sanicki</a></li>
+      <li><a href="https://www.justindorfman.com/">Justin Dorfman</a></li>
     </ul>
 
     <p>You may contact them if you have any questions or concerns.
