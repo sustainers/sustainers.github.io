@@ -21,7 +21,7 @@ slug: diversity-equity-inclusion
 
 * Supporting communities willing to implement diversity, equity, and inclusion efforts by connecting them with experts leading initiatives.
 * Organising events and programs that help open source communities and members understand DEI principles and best practices.
-* Collaborating with organizations championing DEI to create and curate resources and reference guides. 
+* Collaborating with organizations championing DEI to create and curate resources and reference guides.
 
 ## Guiding questions
 
