@@ -25,8 +25,7 @@ slug: diversity-equity-inclusion
 
 ## Guiding questions
 
-* What does DEI mean to you? How do you approach DEI within your Community?
-  * Do you focus only on users, contributors, or both?
+* What does DEI mean to you? How do you approach DEI within your Community? Do you focus only on users, contributors, or both?
 * How can we support DEI efforts in FOSS communities?
 * How can we sustain the DEI within the open source?
 
