@@ -8,8 +8,8 @@ slug: diversity-equity-inclusion
 **Bottom liner**: Anita Ihuman<br>
 **How to get involved**:
 
-* Send an email to the [sustain-dei-wg@googlegroups.com](sustain-dei-wg@googlegroups.com)
-* Join the the [Open Collective Slack](https://slack.opencollective.com/) and get in touch with Anita
+* Ask to join [sustain-dei-wg@googlegroups.com](https://groups.google.com/g/sustain-dei-wg/).
+* Join the the [Open Collective Slack](https://slack.opencollective.com/) and get in touch with [Anita](https://www.linkedin.com/in/anita-ihuman/)
 
 ## Purpose
 
@@ -40,5 +40,5 @@ We aim to collaborate with existing projects that are already championing DEI ef
 
 ## Get in touch
 
-* If you are interested in participating, email us at [sustain-dei-wg@googlegroups.com](sustain-dei-wg@googlegroups.com) to get an invite to the meetings
+* If you are interested in participating, ask to join [sustain-dei-wg@googlegroups.com](https://groups.google.com/g/sustain-dei-wg/) to get an invite to the meetings
 * Join our bi-weekly meetings on Fridays at 12:00 PM ET.
