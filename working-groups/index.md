@@ -58,7 +58,9 @@ slug: Sustain Working Groups
           <div class="wg-container">
             <h4>{{ wg.title }}</h4>
             <p class="details">{{ wg.description }}</p>
-            <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
+            {% if wg.bottomliner %}
+                <p class="details"><strong>Bottom liner:</strong> {{ wg.bottomliner }}</p>
+            {% endif %}
             {% if wg.url %}
               <p class="text-center">
                 <a class="btn learn-more" href="{{ wg.slug | append: '/' }}">Learn More</a>

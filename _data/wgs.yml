@@ -1,5 +1,5 @@
 - title: Leadership Development
-  bottomliner: Farbod Saraf
+  # bottomliner: Farbod Saraf
   slug: leadership
   status: Incubating
   ranking: 1
@@ -8,13 +8,13 @@
 - title: Open Source Funders
   bottomliner: Richard Littauer
   slug: open-source-funders
-  status: Active
+  status: Incubating
   ranking: 1
   url: true
   description: "There's no current database of how much money goes into open source: we want to build this. Follow the money - where does it come from, where does it go, and how useful are different avenues of funding for open source projects at scale."
 
 - title: Sustainability Readiness
-  bottomliner: Erin McKean
+  # bottomliner: Erin McKean
   slug: sustainability-readiness
   status: Incubating
   ranking: 1
@@ -23,25 +23,18 @@
 - title: Licensing
   bottomliner: Benjamin Nickolls
   slug: licensing
-  status: Active
+  status: Incubating
   url: true
   ranking: 2
   description: "What is licensing, anyway? What's the current state of the ecosystem, where are we going, and how can we talk about licenses without flipping over the proverbial dinner table?"
 
 - title: Personas on Sustainability
-  bottomliner: Jacob Redding
+  # bottomliner: Jacob Redding
   slug: personas
   status: Incubating
   url: true
   ranking: 1
   description: "Who are sustainers, anyway? What does it mean to sustain a project? How can we use persona development to learn more about the needs of all of the stakeholders in open source?"
-
-- title: 2020 Sustain Summit Report
-  bottomliner: Benjamin Nickolls
-  slug: 2020-summit-report
-  status: Incubating
-  ranking: 1
-  description: "It was great, everyone loved it, but - what happened at the 2020 Sustai Summit for those of us who weren't there, or who were busy thinking about a couple of hard problems in open source? How can we further Sustain's goals, going forward?"
 
 - title: Academic Working Group
   bottomliner: Richard Littauer
@@ -62,7 +55,7 @@
 - title: Docs
   bottomliner: Chris Chinchilla
   slug: docs
-  status: Active
+  status: Incubating
   ranking: 2
   url: true
   description: "Who writes, uses, and updates the docs? What do sustainable-first docs look like? How can we write better ones?"
@@ -70,13 +63,13 @@
 - title: Ethics
   bottomliner: Chris Chinchilla
   slug: ethics
-  status: Active
+  status: Incubating
   ranking: 1
   url: true
   description: "Is Open Source ethical? What are the ramifications of bad actors in open source, and how can we work together to move beyond ethical boulders on the path to sustainability?"
 
 - title: Business Models for Individual OS Devs
-  bottomliner: Agost Biro
+  # bottomliner: Agost Biro
   slug: business-models
   status: Incubating
   ranking: 2
@@ -84,14 +77,14 @@
   description: "For individual developers, what does sustainability look like? How can developers get money for their projects, taking them out of the abandon-ware and hobbyist stage?"
 
 - title: Membership models for OSS
-  bottomliner: Gabriela Rodríguez Berón
+  # bottomliner: Gabriela Rodríguez Berón
   slug: membership-models
   status: Incubating
   ranking: 1
   description: "What do models of membership look like, specifically for organisations developing FLOSS? How can we all be involved?"
 
 - title: Climate Emergency
-  bottomliner: Richard Littauer
+  # bottomliner: Richard Littauer
   slug: climate-emergency
   status: Incubating
   ranking: 2
@@ -117,7 +110,7 @@
 - title: Marketing
   bottomliner: Richard Littauer
   slug: marketing
-  status: Active
+  status: Concluded
   ranking: 1
   description: "What does an open source developer have to do to find new users, more sponsors, and better swag? What is sustainable marketing for open source?"
 
@@ -138,7 +131,7 @@
   description: "Good corp, bad corp: what does sustainability and ethical practices mean for corporations who run OSPOs or who use open source code?"
 
 - title: Motivating Contributors
-  bottomliner: Richard Littauer
+  # bottomliner: Richard Littauer
   slug: motivating-contributors
   status: Incubating
   url: true
@@ -148,7 +141,7 @@
 - title: Back Your Stack
   bottomliner: Alyssa Wright
   slug: back-your-stack
-  status: Active
+  status: Concluded
   url: true
   ranking: 2
   description: "How can we give back to OSS projects that we already use at our work? What does our stack look like, and who among our dependencies is looking for funding?"
@@ -162,7 +155,7 @@
   description: "How can the Open Source ecosystem respond to Covid-19? How can we help developers who are losing money, jobs, and conferences?"
 
 - title: Governance Guidance
-  bottomliner: Javier Cánovas, Greg Bloom
+  bottomliner: Javier Cánovas, Greg Bloom, Richard Littauer
   slug: governance-guidance
   status: Active
   ranking: 2
