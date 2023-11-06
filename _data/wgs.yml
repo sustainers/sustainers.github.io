@@ -162,3 +162,11 @@
   url: true
   description: "How can we guide developers to create efficient governance models?"
 
+- title: Diversity, Equity, and Inclusion (DEI)
+  bottomliner: Anita Ihuman
+  slug: diversity-equity-inclusion
+  status: Active
+  ranking: 1
+  url: true
+  description: "How can we best understand DEI within the open source ecosystem?"
+
