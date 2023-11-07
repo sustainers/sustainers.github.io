@@ -37,7 +37,7 @@ We plan to achieve this by:
 
 You can get involved and connect with like-minded individuals by:
 
-* Joining Our Community: Send an email to our [Google group](https://groups.google.com/g/sustain-dei-wg) to stay updated on our activities. Or join our discussions on the [Sustain OSS Discourse](https://discourse.sustainoss.org/t/dei-in-sustain-understanding-the-universal-perspectives/1310).
+* Joining Our Community: Join ongoing conversations on the [Sustain OSS Discourse](https://discourse.sustainoss.org/t/dei-in-sustain-understanding-the-universal-perspectives/1310).
 * Following up on our meetings: We hold Bi-weekly meetings on Friday at 12:00 pm ET. You can catch up on the [meeting minutes](https://docs.google.com/document/d/1CszmRZbkQjzzQr34n0X7-mhVsA0t4tfMh-bWtrlOVu4/edit).
 * Sharing  Your Expertise: If you have experience or expertise in DEI, consider becoming a speaker or panelist on our [podcast sessions](https://podcast.sustainoss.org).
 
