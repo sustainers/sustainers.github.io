@@ -1,32 +1,45 @@
+- title: Sustain Africa 2023
+  location: Lagos, Nigeria
+  date: June 15-17, 2023
+  logo: sustain-africa-2023.png
+  ranking: 1
+
+- title: Sustain Africa 2022
+  location: Lagos, Nigeria
+  date: Mar 24-26, 2022
+  logo: sustain-africa-2022.svg
+  url: https://blog.oscafrica.org/sustain-africa-2022-community-report
+  ranking: 2
+
 - title: Sustain Summit 2020
   location: Brussels, Belgium
   date: Jan 30, 2020
   logo: sustain-summit-2020.png
-  ranking: 1
+  ranking: 3
 
 - title: Sustain Web3 Summit
   location: Boulder, Colorado, USA
   date: Feb 13, 2020
   logo: sustain-web-3-logo.png
-  url: https://web3.sustainoss.org/
-  ranking: 2
+  url: https://web3.sustainoss.org
+  ranking: 4
 
 - title: Open Source Festival 2020
   location: Lagos, Nigeria
   date: Feb 20-22, 2020
   logo: sustain-lagos.png
-  url: https://festival.oscafrica.org/
-  ranking: 3
+  url: https://festival.oscafrica.org/2020
+  ranking: 5
 
 - title: Sustain Summit 2018
   location: London, England, UK
   date: Oct 25, 2018
   logo: sustain-summit-2018-logo.svg
-  ranking: 4
+  ranking: 6
 
 - title: Open Source Festival 2017
   location: San Francisco, California, USA
   date: Jun 19, 2017
   logo: sustain-summit-2017-logo-1.svg
   url: /assets/pdf/SustainOSS-west-2017-report.pdf
-  ranking: 5
+  ranking: 7
