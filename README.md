@@ -26,7 +26,7 @@ Alternatively, you can run the application locally:
 
 Please contribute! Open an issue, make a pull request, reach out for help. This organization is entirely volunteer run, and your contributions are important.
 
-We use Slack to discuss our changes and to talk about community issues, as well as GitHub. Join our community slack [here](https://changelog.com/community). Join the channel `#sustain` to talk to us.
+We use Slack to discuss our changes and to talk about community issues, as well as GitHub. Join our community slack [here](https://slack.opencollective.org). Join the channel `#sustainoss` to talk to us.
 
 If you need help with using GitHub in order to open an issue, sign up for an account, come back to this page, and open an issue by [clicking here](https://github.com/sustainers/website/issues/new). Ping one of us on Slack if you need help.
 
