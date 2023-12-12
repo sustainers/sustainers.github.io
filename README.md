@@ -40,13 +40,16 @@ We have a convenient script set up to help you create new blog posts for our Jek
 
 2. Run the Script: Use the following command to create a new post:
 
-```bash
-npm run create-blog "Your Post Title"
-```
+    ```bash
+    npm run create-blog "Your Post Title"
+    ```
 
-Replace "Your Post Title" with the actual title of your blog post.
+    Replace "Your Post Title" with the actual title of your blog post.
+
 3. Edit Your Post: The script will create a new Markdown file in the _posts directory. The file name is generated based on the current date and the title you provide. Open this file in your favorite text editor to add content to your blog post.
+
 4. Follow Jekyll Conventions: Ensure that you follow the standard Jekyll conventions for blog posts. This includes using Markdown for formatting and placing any images or additional resources in the appropriate directories.
+
 5. Run `npm run lint` before committing to your PR.
 
 ## License
