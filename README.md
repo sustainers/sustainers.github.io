@@ -34,7 +34,7 @@ If you need help with using GitHub in order to open an issue, sign up for an acc
 
 We have a convenient script set up to help you create new blog posts for our Jekyll site. This script will automatically generate a new post file with the necessary front matter based on the title you provide.
 
-Steps to Create a New Post:
+#### Steps to Create a New Post:
 
 1. Ensure Node.js is Installed: This script requires Node.js. If you don't have Node.js installed, please download and install it from [Node.js official website.](https://nodejs.org/)
 
@@ -45,11 +45,8 @@ npm run create-blog "Your Post Title"
 ```
 
 Replace "Your Post Title" with the actual title of your blog post.
-
 3. Edit Your Post: The script will create a new Markdown file in the _posts directory. The file name is generated based on the current date and the title you provide. Open this file in your favorite text editor to add content to your blog post.
-
 4. Follow Jekyll Conventions: Ensure that you follow the standard Jekyll conventions for blog posts. This includes using Markdown for formatting and placing any images or additional resources in the appropriate directories.
-
 5. Run `npm run lint` before committing to your PR.
 
 ## License
