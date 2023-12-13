@@ -3,12 +3,8 @@ layout: post
 title: "Community Report for Sustain Africa 2022"
 permalink: /blog/:title/
 ---
-
-<div align="center">
     
 ![image](/assets/img/events/sustain-africa-2022.svg)
-
-</div>
 
 ---
 
