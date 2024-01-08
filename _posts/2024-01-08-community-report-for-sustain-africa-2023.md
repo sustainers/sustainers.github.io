@@ -5,7 +5,7 @@ permalink: /blog/:title/
 ---
 
 <div style="text-align: center; margin: 60px auto; width: 50%;">
-  <img src="/assets/img/events/sustain-africa-2023.svg" alt="An image showing the logos of Sustain and OSCA together" />    
+  <img src="/assets/img/events/sustain-africa-2023.svg" alt="An image showing the logos of Sustain and OSCA together" />
 </div>
 
 ---
