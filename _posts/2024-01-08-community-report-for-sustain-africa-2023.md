@@ -4,7 +4,7 @@ title: "Community Report for Sustain Africa 2023"
 permalink: /blog/:title/
 ---
 
-<div style="text-align: center; margin: 60px auto; width: 50%;">
+<div style="text-align: center; margin: 60px auto;">
   <img src="/assets/img/events/sustain-africa-2023.jpg" alt="An image showing the participants of Sustain Africa 2023" />
 </div>
 
