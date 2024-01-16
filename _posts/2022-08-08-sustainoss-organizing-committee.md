@@ -2,6 +2,7 @@
 layout: post
 title: "SustainOSS Organizing Committee – Sustain Workshops and Funding Applications"
 permalink: /blog/:title/
+author: "Richard Littauer"
 ---
 
 ## Purpose:

@@ -2,6 +2,7 @@
 layout: post
 title: "Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source"
 permalink: /blog/:title/
+author: "Eriol"
 ---
 
 <p class="highlight">

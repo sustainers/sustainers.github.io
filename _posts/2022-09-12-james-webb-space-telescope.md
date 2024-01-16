@@ -2,6 +2,7 @@
 layout: post
 title: "Open Source Influencing Space Programs: James Webb Space Telescope"
 permalink: /blog/:title/
+author: "Anita Ihuman"
 ---
 
 <p class="highlight">

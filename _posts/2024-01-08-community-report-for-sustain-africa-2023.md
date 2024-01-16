@@ -2,6 +2,7 @@
 layout: post
 title: "Community Report for Sustain Africa 2023"
 permalink: /blog/:title/
+author: "Bolaji Ayodeji"
 ---
 
 <div style="text-align: center; margin: 60px auto;">
