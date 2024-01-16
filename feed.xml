@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://sustainoss.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sustainoss.org/" rel="alternate" type="text/html" /><updated>2024-01-16T20:32:00+00:00</updated><id>https://sustainoss.org/feed.xml</id><title type="html">A Space for Open Source Sustainers</title><subtitle>A Space for Open Source Sustainers</subtitle><entry><title type="html">Community Report for Sustain Africa 2023</title><link href="https://sustainoss.org/blog/community-report-for-sustain-africa-2023/" rel="alternate" type="text/html" title="Community Report for Sustain Africa 2023" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-01-08T00:00:00+00:00</updated><id>https://sustainoss.org/blog/community-report-for-sustain-africa-2023</id><content type="html" xml:base="https://sustainoss.org/blog/community-report-for-sustain-africa-2023/"><![CDATA[<div style="text-align: center; margin: 60px auto;">
+  <img src="/assets/img/events/sustain-africa-2023.jpg" alt="An image showing the participants of Sustain Africa 2023" />
+</div>
+
+<hr />
+
+<p>On 16th June 2023, the yearly <a href="https://festival.oscafrica.org/sustain-africa">Sustain Africa</a> event (a satellite event using the Sustain brand) happened in Lagos, Nigeria, bringing OSS contributors and maintainers from different countries in Africa. <a href="https://oscafrica.org">Open Source Community Africa</a>, a community of open-source enthusiasts, advocates, and experts within and across Africa, hosted the event. This year, they had seven (7) working groups, including:</p>
+
+<ul>
+  <li>Open Source Software Development</li>
+  <li>Open Source Documentation</li>
+  <li>Open Source Design</li>
+  <li>Open Source Data Science</li>
+  <li>Open Source Marketing and Funding</li>
+  <li>Open Source Programs and Specialized Projects</li>
+  <li>Open Source Burnout and Mental Health</li>
+</ul>
+
+<p>The conversation around the comprehensive overview of how FOSS is developed, maintained, utilized, and providing a roadmap for solving the cultural, financial, and institutional issues among open-source project maintainers continues to be the focus of Sustain. Kindly read the <a href="https://blog.oscafrica.org/sustain-africa-2023-community-report">community report</a> to learn more about the outputs of the summit.</p>
+
+<hr />
+
+<p class="highlight">
+Sustain looks forward to more events like this around the world. If you're interested in how Sustain has hosted events, want to host your event, or want to use the Sustain brand as part of your event, please get in touch and let us know.
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Community Report for Sustain Africa 2022</title><link href="https://sustainoss.org/blog/community-report-for-sustain-africa-2022/" rel="alternate" type="text/html" title="Community Report for Sustain Africa 2022" /><published>2023-12-13T00:00:00+00:00</published><updated>2023-12-13T00:00:00+00:00</updated><id>https://sustainoss.org/blog/community-report-for-sustain-africa-2022</id><content type="html" xml:base="https://sustainoss.org/blog/community-report-for-sustain-africa-2022/"><![CDATA[<p><img src="/assets/img/events/sustain-africa-2022.svg" alt="image" /></p>
+
+<hr />
+
+<p>On 24th March 2022, the yearly <a href="https://festival.oscafrica.org/2022/sustain-africa">Sustain Africa</a> event (a satellite event using the Sustain brand) happened in Lagos, Nigeria for the second time, bringing OSS contributors and maintainers from different countries in Africa. <a href="https://oscafrica.org">Open Source Community Africa</a>, a community of open-source enthusiasts, advocates, and experts within and across Africa, hosted the event. This year, they had six (6) working groups, including:</p>
+
+<ul>
+  <li>Open Source Documentation</li>
+  <li>Open Source Design</li>
+  <li>Open Source Data Science</li>
+  <li>Open Source Marketing and Funding</li>
+  <li>OSS Programs and Specialized Projects</li>
+  <li>Burnout and Mental Health</li>
+</ul>
+
+<p>The conversation around the comprehensive overview of how FOSS is developed, maintained, utilized, and providing a roadmap for solving the cultural, financial, and institutional issues among open-source project maintainers continues to be the focus of Sustain. Kindly read the <a href="https://blog.oscafrica.org/sustain-africa-2022-community-report">community report</a> to learn more about the outputs of the summit.</p>
+
+<hr />
+
+<p class="highlight">
+Sustain looks forward to more events like this around the world. If you're interested in how Sustain has hosted events, want to host your event, or want to use the Sustain brand as part of your event, please get in touch and let us know.
+</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dropping X</title><link href="https://sustainoss.org/blog/dropping-x/" rel="alternate" type="text/html" title="Dropping X" /><published>2023-12-12T00:00:00+00:00</published><updated>2023-12-12T00:00:00+00:00</updated><id>https://sustainoss.org/blog/dropping-x</id><content type="html" xml:base="https://sustainoss.org/blog/dropping-x/"><![CDATA[<p>After <a href="https://discourse.sustainoss.org/t/dropping-twitter/1417">some discussion</a> on the Discourse, we have decided to entirely stop using X, formerly called Twitter, as a social venue for Sustain. So, from now on, we have formally paused using it.</p>
+
+<p>You can still find Sustain here:</p>
+
+<ul>
+  <li><a href="https://hachyderm.io/@sustainoss">Mastodon</a></li>
+  <li><a href="https://bsky.app/profile/sustainoss.bsky.social">BlueSky</a></li>
+  <li><a href="https://www.linkedin.com/company/18941143/">LinkedIn</a></li>
+  <li><a href="https://discourse.sustainoss.org/">Discourse</a></li>
+</ul>
+
+<p>See you around!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[After some discussion on the Discourse, we have decided to entirely stop using X, formerly called Twitter, as a social venue for Sustain. So, from now on, we have formally paused using it.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rebooting the Diversity, Equity, and Inclusion Working Group in Sustain OSS</title><link href="https://sustainoss.org/blog/rebooting-the-diversity-equity-and-inclusion-working-group-in-sustain/" rel="alternate" type="text/html" title="Rebooting the Diversity, Equity, and Inclusion Working Group in Sustain OSS" /><published>2023-11-06T00:00:00+00:00</published><updated>2023-11-06T00:00:00+00:00</updated><id>https://sustainoss.org/blog/rebooting-the-diversity-equity-and-inclusion-working-group-in-sustain</id><content type="html" xml:base="https://sustainoss.org/blog/rebooting-the-diversity-equity-and-inclusion-working-group-in-sustain/"><![CDATA[<p>The Sustain OSS Diversity Equity and Inclusion working group was <a href="https://discourse.sustainoss.org/t/dei-in-sustain-understanding-the-universal-perspectives/1310">relaunched on the 27th of October, 2023</a>, and is calling for participation. <a href="https://sustainoss.org/working-groups/diversity-equity-inclusion/">Join us</a> to:</p>
+
+<ul>
+  <li>Learn and share insights on diversity, equity, and inclusion.</li>
+  <li>Collaborate to promote long-term diversity, equity, and inclusion in open source.</li>
+  <li>Bridge the awareness gap in existing DEI programs and initiatives.</li>
+</ul>
+
+<h2 id="the-why">The Why</h2>
+
+<p>The Sustain OSS Diversity, Equity, and Inclusion working group is open to individuals from diverse backgrounds with experience and interest in DEI within open source.
+The aim of the DEI Working Group at Sustain OSS is to promote and advance diversity, equity, and inclusion within open source communities. We strive to create a more inclusive and equitable open source ecosystem by:</p>
+
+<ul>
+  <li>Supporting communities in implementing DEI efforts and connecting them with experienced leaders in the open source.</li>
+  <li>Leading research initiatives to better understand how DEI impacts the community, contributors, users, and maintainers in open source.</li>
+  <li>Fostering ongoing discussions that promote the sustainability and adoption of field-tested DEI principles and best practices through events, meetups, and podcasts.</li>
+  <li>Collaborating with DEI champions to create and curate field-tested resources, reference guides, and industry benchmarks.</li>
+</ul>
+
+<p>Our efforts are dedicated to establishing DEI as an integral part of sustaining open source communities.</p>
+
+<h2 id="how-can-we-achieve-them">How can we achieve them?</h2>
+
+<p>Our approach is rooted in collaboration and shared insights. We understand that diversity, equity, and inclusion aren’t one-size-fits-all ideas. We intend to bring together enthusiasts, contributors, and leaders in open source by establishing a platform for meaningful conversations and problem-solving.
+We plan to achieve this by:</p>
+
+<ul>
+  <li>Hosting events, podcast, workshops, and meetups.</li>
+  <li>Creating and curating reference guides, articles, and resources.</li>
+  <li>Providing support to open source community leaders through DEI office hours.</li>
+</ul>
+
+<h2 id="how-to-participate">How to participate</h2>
+
+<p>You can get involved and connect with like-minded individuals by:</p>
+
+<ul>
+  <li>Joining Our Community: Join ongoing conversations on the <a href="https://discourse.sustainoss.org/t/dei-in-sustain-understanding-the-universal-perspectives/1310">Sustain OSS Discourse</a>.</li>
+  <li>Following up on our meetings: We hold biweekly meetings on Friday at 12:00 pm ET. You can catch up on the <a href="https://docs.google.com/document/d/1CszmRZbkQjzzQr34n0X7-mhVsA0t4tfMh-bWtrlOVu4/edit">meeting minutes</a>.</li>
+  <li>Sharing  Your Expertise: If you have experience or expertise in DEI, consider becoming a speaker or panelist on our <a href="https://podcast.sustainoss.org">podcast sessions</a>.</li>
+</ul>
+
+<p>Your participation and insights are instrumental in advancing goals and implementing them. Feel free to contact our team with any questions, ideas, or suggestions.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[The Sustain OSS Diversity Equity and Inclusion working group was relaunched on the 27th of October, 2023, and is calling for participation. Join us to:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Open Source Influencing Space Programs: James Webb Space Telescope</title><link href="https://sustainoss.org/blog/james-webb-space-telescope/" rel="alternate" type="text/html" title="Open Source Influencing Space Programs: James Webb Space Telescope" /><published>2022-09-12T00:00:00+00:00</published><updated>2022-09-12T00:00:00+00:00</updated><id>https://sustainoss.org/blog/james-webb-space-telescope</id><content type="html" xml:base="https://sustainoss.org/blog/james-webb-space-telescope/"><![CDATA[<p class="highlight">
+Open source has gradually become a key factor for exploring and advancing science and astronomy. Several images today convey information about the early universe, star birth and death, galaxy collisions, and exoplanet atmospheres. These images have become an internet sensation since they surfaced, and what’s intriguing about this is the role open source technologies play in this.
+
+This article will discuss open source involvement in space technologies. We’ll discuss the role of design and open source in space telescope archives. we’ll highlight open source tools incorporated into NASA’s [James Webb Space Telescope](https://www.space.com/21925-james-webb-space-telescope-jwst.html). Thirdly, we’ll look at the open-source projects and tools that were used in the JWST mission.
+</p>
+
+<hr />
+
+<h2 id="open-source-and-space">Open Source and Space</h2>
+
+<p>Although open source has been used in some of the most cutting-edge technologies in recent years and has doubled in benefits since then, open source is only the beginning.  Innumerable examples show how open source has globally resolved several technological problems. Including assisting in collecting, storing, and analysing <a href="https://education.nationalgeographic.org/resource/geographic-information-system-gis">geographic and location-based data</a>, <a href="https://hitinfrastructure.com/features/how-open-source-software-benefits-health-it-infrastructure">bringing digital transformation to healthcare</a>, <a href="https://www.jpl.nasa.gov/missions/lunar-flashlight">exploring the Moon’s craters</a> for surface ice, and <a href="https://mars.nasa.gov/technology/helicopter/#Overview">landing a helicopter on Mars</a>.</p>
+
+<p>Most space missions are now turning towards tools and technologies that are less expensive and more accessible and offer a reusable multi-mission flight architecture. Hence, this has cause the popularity of open source software in space exploration programs. Some notable instances of open source influencing astronomic activities are:</p>
+
+<h3 id="landing-helicopter-on-mars">Landing helicopter on Mars</h3>
+
+<p>The launch of NASA’s <a href="https://mars.nasa.gov/technology/helicopter/#Overview">Ingenuity Helicopter to Mars</a> in 2020 was a success, thanks to open-source software and contributors that made it possible. Ingenuity became the most powerful aircraft to fly all the way to mars, using JPL’s (<a href="https://www.jpl.nasa.gov/">Jet Propulsion Lab</a>) open-source flight control framework <a href="https://nasa.github.io/fprime/">F Prime (F’)</a>. Initially designed for small-scale spaceflight systems like CubeSats and SmallSats, F prime is now utilised for various projects.
+A large portion of Ingenuity Helicopter’s software is built in C++ open source implementation. It also runs an embedded Linux distribution and uses Python as the programming language for managing data processing, flight modelling, and ground control.
+<img src="/assets/img/ingenuity-Helicopter.gif" alt="image" /></p>
+
+<h3 id="jpl-open-source-rover">JPL Open Source Rover</h3>
+
+<p>In 2012,  <a href="https://mars.nasa.gov/msl/mission/overview/">NASA’s Curiosity rover</a> was a great success as it travelled the farthest distance on Mars of any craft. The Jet Propulsion Laboratory (JPL) soon after introduced the <a href="https://github.com/nasa-jpl/open-source-rover">Open Source Rover</a>, a scaled-down version of the six-wheel Curiosity rover JPL launched to examine Mars’ surface. This project was specifically designed to prompt and encourage science and robotics in classrooms.</p>
+
+<h3 id="space-telescope-archives">Space Telescope Archives</h3>
+
+<p><a href="https://archive.stsci.edu/">MAST</a> (Mikulski Archive for Space Telescopes), an educational non-profit at the <a href="https://www.stsci.edu/">Space Telescope Science Institute</a>, has made space data openly accessible and reusable for everyone with a focus on productivity and accessibility of astronomical data. The Mikulski Archive for Space Telescopes provides the scientific community free access to optical, ultraviolet, and near-infrared astronomical data. Data from more than 15 telescopes have been stored by the MAST; these resources are accessible to everyone. It houses data that has been preserved from more than a dozen missions, including Webb, Hubble, TESS, Kepler, and maybe Roman in the future.</p>
+
+<h3 id="open-source-in-spacexs-flight-software">Open source in SpaceX’s flight software</h3>
+
+<p>Software engineers from <a href="https://www.spacex.com/">SpaceX</a> have acknowledged that many flight components for SpaceX’s Falcon 9 rocket use <a href="https://www.reddit.com/r/spacex/comments/gxb7j1/comment/ft6cdro/">Linux and open source libraries</a> written in C++. Interestingly, the touchscreen UI of the <a href="https://www.spacex.com/vehicles/dragon/">Crew Dragon</a> is powered by <a href="https://www.google.com/chrome">Chromium</a>, an open-source project behind the Google Chrome OS and browser.</p>
+
+<p>Fascinating, right? In what ways can a developer’s singular contributions to a project change the world for the better? These are but a few examples that showcase the use of open source software in astronomical research and space programs.</p>
+
+<hr />
+
+<h2 id="space-images-from-the-james-webb-telescope">Space Images from the James Webb Telescope</h2>
+
+<p>Recently, NASA released mind-blowing space images of our galaxy and beyond using its next-generation <a href="https://www.space.com/21925-james-webb-space-telescope-jwst.html">James Webb Space Telescope</a> (nicknamed Webb or JWST). James Webb is an infrared space observatory launched on December 25, 2021. The JWST is the <a href="https://en.wikipedia.org/wiki/Hubble_Space_Telescope">Hubble Space Telescope’s</a> successor.</p>
+
+<p><img src="/assets/img/james-webb.png" alt="image" /></p>
+
+<p>It uses near-infrared light and will help to study and comprehend galaxy formation and evolution, star formation, and planet formation, as well as planetary systems and the origins of life. It is possible to use it to search for light emanating from the very first stars and galaxies that developed in the universe after the Big Bang. Using JWST, researchers are attempting to determine whether other exoplanet atmospheres contain methane for the possible significance of <a href="https://go.nasa.gov/3RAfidu">biosignatures</a>.</p>
+
+<p>JWST has captured a series of space images from multiple galaxies thousands of light years away from Earth. Some of these images include:</p>
+
+<ul>
+  <li><strong>The “Carina Nebula”</strong></li>
+</ul>
+
+<p>The image, taken in infrared by NASA’s new James Webb Space Telescope, reveals a region of star formation in the <a href="https://www.nasa.gov/webbfirstimages">Carina Nebul</a> that was previously hidden. NGC 3324 is a young, star-forming region located approximately 7,500 light-years from Earth.</p>
+
+<p><img src="/assets/img/carina-nebula.jpeg" alt="image" /></p>
+
+<ul>
+  <li><strong>Stephan’s Quintet</strong></li>
+</ul>
+
+<p>The James Webb Space Telescope revealed a visual grouping of five galaxies called the <a href="https://www.nasa.gov/webbfirstimages#tab1-2">Stephan’s Quintet</a> with more astonishing details. It is roughly 290 million light-years away and can be found in the constellation Pegasus. JWST also captures a giant shockwave as one of the galaxies, NGC 7318B, ruptures through the cluster.</p>
+
+<p><img src="/assets/img/stephans-quintet.jpeg" alt="image" /></p>
+
+<ul>
+  <li><strong>Southern Ring Nebula</strong></li>
+</ul>
+
+<p>NGC 3132 is a planetary nebula known as the “<a href="https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail">Southern Ring Nebula</a>”. It is a massive, expanding sphere of gas and dust illuminated in all directions for thousands of years by a dying star in the centre. It is about 2,500 light-years away.</p>
+
+<p><img src="/assets/img/southern-ring-nebula.jpeg" alt="image" /></p>
+
+<ul>
+  <li><strong>SMACS 0723</strong></li>
+</ul>
+
+<p>The galaxy cluster <a href="https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet">SMACS 0723</a> provides extensive details, including the faintest objects ever observed in the infrared. This cluster of thousands of galaxies was captured using the James Webb Space Telescope and contains the most profound and sharpest infrared image of the distant universe.</p>
+
+<p><img src="/assets/img/deep-field-smacs0723.jpeg" alt="image" /></p>
+
+<ul>
+  <li><strong>Cartwheel Galaxy</strong></li>
+</ul>
+
+<p>The <a href="https://www.nasa.gov/feature/goddard/2022/webb-captures-stellar-gymnastics-in-the-cartwheel-galaxy/">Cartwheel Galaxy</a> is 500 million light-years away in the Sculptor constellation. The JWST revealed new information about the Cartwheel galaxy and two companion galaxies. A violent collision between a massive spiral galaxy and a smaller galaxy is likely to cause the galaxy’s appearance. The image reveals more information about star formation and galaxy structures.</p>
+
+<p><img src="/assets/img/cartwheel-galaxy.png" alt="image" /></p>
+
+<h2 id="open-source-tools-used-in-james-webb-telescope">Open Source Tools Used in James Webb Telescope</h2>
+
+<p>Python’s popularity in astronomical sciences has skyrocketed in the last decade, and so has open-source software. Scientists, software engineers, and infrastructure specialists now rely on mathematical packages such as <a href="https://github.com/numpy">NumPy</a> and <a href="https://github.com/matplotlib/matplotlib">matplotlib</a> in creating <a href="https://github.com/search?q=topic%3Ajwst+org%3Aspacetelescope&amp;type=Repositories">JWST tools</a> like JWST core <a href="https://github.com/spacetelescope/jwst">data pipelines</a>, <a href="https://github.com/spacetelescope/webbpsf">simulation tools</a>, and <a href="https://jdaviz.readthedocs.io/en/latest/">data analysis visualisation tools</a>.</p>
+
+<p>Some notable open source projects used for JWST include:</p>
+
+<h3 id="astropy">AstroPy</h3>
+
+<p>The <a href="http://www.astropy.org/">Astropy</a> project is a community initiative to provide a single core package for astronomy in <a href="https://www.python.org/">Python</a>. It fosters the creation of open-source software tools that offer researchers need astronomy-specific functionality. This project encompasses the Astropy core package, all “affiliated packages”, and the community aimed at bringing resources together.</p>
+
+<p>The core packages are designed so that programming with Astropy will result in compact and legible code. It contains various classes, utilities, and a packaging framework that provides commonly-used astronomy tools. Astronomy-related python packages are not part of the astropy core source code but share the goals of Astropy and are often built from the core package’s code and infrastructure. AstroPy complements more generic scientific packages such as <a href="https://numfocus.org/project/numpy">NumPy</a> and <a href="https://scipy.org/">SciPy</a>.</p>
+
+<h3 id="numpy">NumPy</h3>
+
+<p><a href="https://numfocus.org/project/numpy">NumPy</a> is a Python module that stands for Numerical Python. It is an open-source library that contains multidimensional array objects and a set of array processing techniques. NumPy is frequently used in conjunction with SciPy (Scientific Python) and Matplotlib. It is to accomplish the following operations:</p>
+
+<ul>
+  <li>Array in mathematical and logical procedures</li>
+  <li>Operations involving linear algebra. NumPy contains</li>
+  <li>linear algebra functions and random number generating routines.</li>
+  <li>Fourier transformations and shape manipulation algorithms</li>
+</ul>
+
+<h3 id="matplotlib">Matplotlib</h3>
+
+<p><a href="https://github.com/matplotlib/matplotlib">Matplotlib</a> is a Python package that allows you to create static, animated, and interactive visualisations. Matplotlib makes simple things simple and difficult things possible. This library can be used in Python scripts, Python/IPython shells, web application servers, and various graphical user interface toolkits.</p>
+
+<h3 id="f-prime">F prime</h3>
+
+<p><a href="https://github.com/nasa/fprime">F’(F Prime)</a> is a component-driven open source framework that allows for quickly creating and deploying embedded systems and spacecraft applications. F prime is designed at JPL for small-scale systems such as CubeSats, SmallSats, and instrumentation.</p>
+
+<h3 id="webbpsf">WebbPSF</h3>
+
+<p><a href="https://github.com/spacetelescope/webbpsf">WebbPSF</a> is a Python library that generates simulated point spread functions (PSFs) for NASA’s James Webb and <a href="https://www.jpl.nasa.gov/missions/the-nancy-grace-roman-space-telescope">Nancy Grace Roman Space Telescopes</a>. It generates pictures for any of the <a href="https://webbtelescope.org/news/webb-science-writers-guide/webbs-scientific-instruments">four scientific instruments</a> and the exemplary guidance sensor in direct and coronagraphic modes.</p>
+
+<h3 id="jdaviz">jdaviz</h3>
+
+<p><a href="https://github.com/spacetelescope/jdaviz">jdaviz</a> is a set of visualisation tools for astronomical data analysis built on the Jupyter platform. It is one of the tools in STScI’s more comprehensive Data Analysis Tools Ecosystem.</p>
+
+<h3 id="jwst-calibration-pipeline">JWST Calibration Pipeline</h3>
+
+<p>The JWST <a href="https://github.com/spacetelescope/jwst">Calibration Pipeline</a> is a Python software package that handles data from JWST sensors such as NIRCam, NIRSpec, NIRISS, MIRI, and FGS. It conducts nominal processing of JWST data for the instruments and instrument modes, providing users with science-ready data outputs. It is a subsystem of the JWST operating pipeline utilised by the Mikulski Archive for Space Telescopes (MAST) to calibrate all JWST data.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The growth in open source use and best practices in space science is encouraging. We continue to see groundbreaking contributions of open source technologies to astronomical science programs. With the introduction of more open, collaborative initiatives,<strong>“NASA is designating 2023 as the Year of Open Science”</strong>. <a href="https://libre.space/about-us/#:~:text=Libre%20Space%20Foundation%20(LSF)%20is,in%20our%20founding%20statute%20here.">Libre Space Foundation Greece</a> is one example of an organisation that creates and promotes open-source technologies for space activities. Another is <a href="https://science.nasa.gov/open-science/transform-to-open-science">TOPS</a> (Transform to Open Science), an initiative dedicated to encouraging the scientific community’s participation in open source methods through activities and events encouraging adoption. With the speed at which open source tools and technologies are being adopted by space programs, a new era for open source software may be upon us.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Open source has gradually become a key factor for exploring and advancing science and astronomy. Several images today convey information about the early universe, star birth and death, galaxy collisions, and exoplanet atmospheres. These images have become an internet sensation since they surfaced, and what’s intriguing about this is the role open source technologies play in this.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SustainOSS Organizing Committee – Sustain Workshops and Funding Applications</title><link href="https://sustainoss.org/blog/sustainoss-organizing-committee/" rel="alternate" type="text/html" title="SustainOSS Organizing Committee – Sustain Workshops and Funding Applications" /><published>2022-08-08T00:00:00+00:00</published><updated>2022-08-08T00:00:00+00:00</updated><id>https://sustainoss.org/blog/sustainoss-organizing-committee</id><content type="html" xml:base="https://sustainoss.org/blog/sustainoss-organizing-committee/"><![CDATA[<h2 id="purpose">Purpose:</h2>
+
+<p>This document recognizes that current fund applications for workshops at Sustain are organized through exclusive, private networks connected to the Sustain organizer committee. By outlining, publicizing, and sharing this process, we hope to make a more inclusive community.</p>
+
+<h2 id="proposal">Proposal:</h2>
+
+<p>The <a href="https://sustainoss.org/about/">SustainOSS</a> (henceforth Sustain) organizing committee meets every couple of weeks to discuss organizational matters. Part of this involves planning for the next <strong>Sustain Summit - most likely, as of this writing, in March 2023.</strong></p>
+
+<p>The Sustain Summit is normally a one-day event which is held at a single venue, normally in a single room, with occasional breakout rooms as part of that process. Funds go towards photographers, catering, venue costs, comms, and travel expenses for bursaries. Funds can also go towards individual projects hosted at the session, and to their individual needs; they can also go towards ancillary events at Sustain, like workshops, which focus on some more specific aspect of software sustainability.</p>
+
+<h2 id="application-details">Application details:</h2>
+
+<p>In order to propose that SustainOSS funds are used for your workshop, we encourage you to use the following <a href="https://forms.gle/Q9LsQwwD7tuk1hz16">form</a>, which goes to the Sustain organizing committee. We promise to have a one-month response time for all submissions.</p>
+
+<p>The funds available have neither a lower nor an upper limit. All submissions are considered anonymously.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Purpose:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source</title><link href="https://sustainoss.org/blog/design-is-your-friend/" rel="alternate" type="text/html" title="Design is Your Friend: Harnessing the Power of Design (and designers) in Open Source" /><published>2021-05-24T00:00:00+00:00</published><updated>2021-05-24T00:00:00+00:00</updated><id>https://sustainoss.org/blog/design-is-your-friend</id><content type="html" xml:base="https://sustainoss.org/blog/design-is-your-friend/"><![CDATA[<p class="highlight">
+It feels like an age since we all met up in person. But instead of a conference this year, we’ve put together a report gathering up some of the issues and opportunities that the open source community faces today. It’ll feature knowledge, experience and discussion, some of which grew out of conversations that happened at the 2020 Sustain event held in Brussels, Belgium.
+</p>
+
+<p><strong>The full report is coming soon. If you want to be among the first to know when it arrives, and keep up with other news from the sustain community, sign up at <a href="https://sustainoss.org/">https://sustainoss.org/</a></strong></p>
+
+<hr />
+
+<p>How can we ensure our projects work better, make more sense to our users, and break through the noise?</p>
+
+<p>Better design.</p>
+
+<p>It’s one of the great opportunities we in  the open source community. There’s a growing community of designers desperate to learn, develop and to build a portfolio of work that has real impact.</p>
+
+<p>And they’re interested in joining  us too. Open source software provides an ideal platform for designers to develop their craft. And they’re motivated by the idea of contributing to the commons, and building and shaping things for the greater good.</p>
+
+<p>So what’s stopping both groups from leaping at that opportunity?</p>
+
+<p>At Sustain 2020, <a href="https://georgiabullen.com">Georgia Bullen</a> led a conversation about the challenges that stop developers and designers from meshing effectively in open source. So what’s standing in our way, and are there any approaches that have worked so far?</p>
+
+<h2 id="so-whats-stopping-us">So what’s Stopping Us?</h2>
+
+<h3 id="the-full-benefits---and-opportunities---of-design-may-not-be-apparent-to-some-developers">The full benefits - and opportunities - of design may not be apparent to some developers.</h3>
+
+<p>Design is illustration, design is copywriting, design is experience, design is look <em>and</em> feel.</p>
+
+<p>It’s not uncommon for developers to be unenthused about the idea of dedicating time and attention to design, because they see just a sliver of what design in a software project entails.</p>
+
+<p>When we talk about design together, we need to be clear about broad the scope - and impact - of design is, and how each of those facets of design can transform a project.</p>
+
+<h3 id="design-is-often-about-questioning-assumptions-and-building-empathy-with-users-which-can-introduce-tensions-within-a-project">Design is often about questioning assumptions and building empathy with users, which can introduce tensions within a project.</h3>
+
+<p>Designers often face an uphill struggle when working in open source.</p>
+
+<p>A developer creates a project to ‘scratch their own itch’. All of a sudden, they’re joined by contributor-users who are as invested in the solution as the process of building it.</p>
+
+<p>This pattern continues, and inevitably an idea becomes entrenched: that those with the time and skills to implement ideas as code are the <em>de facto</em> decision makers.</p>
+
+<p>Design is often at odds with other contributors in this situation. As a process, design seeks to understand users and to place their needs at the centre of the decision-making process.</p>
+
+<p>This can set the scene for conflict, but it needn’t be this way. Design can provide insights that can temper or complement views, bringing a diverse set of informed perspectives and frameworks that can accelerate development and empower other contributors.</p>
+
+<h3 id="open-source-has-a-diffuse-and-illusive-userbase">Open source has a diffuse and illusive userbase</h3>
+
+<p>User research is a key aspect of the design process, but open source’s distribution model is nebulous. While platforms might provide <em>some</em> insight into who is using a project, they often don’t consider all of the possible users for a project.</p>
+
+<p>As a result, designing for their needs can be incredibly difficult. Open source projects often speak the language of bugs and errors - the ubiquitous flyby GitHub issue - but they rarely speak about user needs, pains and ambition. Knowing how to harness the user base for user research is tough but a significant part of the designer’s toolbox is dedicated to doing just that.</p>
+
+<h3 id="open-source-platforms-are-developer-centric-and-asynchronous-communication-is-the-norm">Open source platforms are developer-centric and asynchronous communication is the norm.</h3>
+
+<p>There is also a constant battle: working against platforms that are not <em>built</em> for designers.</p>
+
+<p>Versioning systems are typically made for developers, and the platforms built around them understandably focus on that core group of users. As a result communication is almost always asynchronous and, dare we say, transactional — issues, comments and reviews drive collaboration.</p>
+
+<p>There are advantages to this approach of course, but a tendency to demote or defer synchronous communication considerably hinders and hampers aspects of the design process. Most designers will tell you they learn more from observing and prompting over surveying and interrogating.</p>
+
+<h3 id="open-source-projects-often-arent-conducive-to-design-contributions">Open source projects often aren’t conducive to design contributions</h3>
+
+<p>We’ve already established that developers and code are the de-facto deciding factor in the direction of open source projects. As a result when designers <em>are</em> invited into a project their efforts are often tacked on to existing initiatives.</p>
+
+<p>This severely limits both the creativity and energy that designers could bring to a project. No one wants to be asked to <em>hold the crayon</em> or <em>draw the rest of the owl</em>.</p>
+
+<p>This often happens in projects with a core maintainer or group, where power and decision-making is centralised. This can lead to a downward spiral into burnout for those who place themselves in the eye of the storm.</p>
+
+<p>Large projects, often with the support to actively complement their contributor base with designers, also see the same problem, but for different reasons. These projects have etched their roadmap in stone, resisting the urge to be inspected, questioned and judged.</p>
+
+<h2 id="how-can-we-improve-things">How can we improve things?</h2>
+
+<p>As we can see, there is <em>plenty</em> of room for improvement here.</p>
+
+<p>But how?</p>
+
+<p>Well, we’re happy to say that some very smart people are working to improve issues like this all over the world. So - if we keep our eyes and ears open - we’ll no doubt hear about new and exciting ways they’ve dealt with them.</p>
+
+<p>But what approaches have worked in the past for members of our community? Here’s a few we’ve come across, where subtle, powerful changes can give both groups of experts an opportunity to work better together:</p>
+
+<h3 id="start-with-the-user">Start with the user</h3>
+
+<p>Good designers stress the importance of making life easy for the user. And - let’s be honest - it’s something we should all focus on.</p>
+
+<p>Often users of open source software become disillusioned when they don’t see their contributions rewarded, or when they’re shut out of the decision-making process.</p>
+
+<p>Bringing everyone together on an early prototype is a sure-fire way to engage users, and inevitably leads to informed, considered and defensible design.</p>
+
+<h3 id="utilise-local-venues-or-core-interest-groups">Utilise local venues or core interest groups</h3>
+
+<p>When possible, using local communities in order to bootstrap design decisions works well — if it’s possible to scope project decisions to that community.</p>
+
+<p>In particular, this works well with localisation and internationalisation efforts, where working together with a small group of dedicated users drives development.</p>
+
+<p>Finding passionate people who will invest themselves is the key to making design work sail faster. In general, localisation communities are more invested in their domain than larger ones.</p>
+
+<h3 id="use-appropriate-communication-channels-to-reach-your-audience">Use appropriate communication channels to reach your audience</h3>
+
+<p>Why channel everything into issues and pull requests?</p>
+
+<p>Casual conversations, watching a demo video, playing with a prototype, discussing pain points in threaded comments and dissecting an approach in a ranging diatribe on your blog are all valid contributions to the design process.</p>
+
+<p>Make sure the conversation is properly scoped and focused. But meet users where they <em>are</em> - whether that’s Reddit, HackerNews or Twitter.</p>
+
+<h3 id="present-usability-and-design-as-a-technical-challenge">Present usability and design as a technical challenge</h3>
+
+<p>Sometimes the most effective way of getting buy-in for design is to explain why a core problem is also a technical problem.</p>
+
+<p>If the documentation project is poor, navigate the discussion by talking about different possible implementations that will lead to less confusion for users, resulting in fewer issues for the team to triage and prioritise.</p>
+
+<p>If the docs need to be overhauled, explain how the current system is technically flawed before explaining that it could be used more by new beginners if a new system is adopted.</p>
+
+<p>Reframing the language of design problems for developers can be difficult, but it also makes it easier for others to follow and interpret the design process. Again, meet people where they’re at.</p>
+
+<h3 id="enforce-coherence-in-design-across-a-project">Enforce coherence in design across a project</h3>
+
+<p>Large open source projects which have matured beyond the single maintainer stage are rarely a single artifact; they have a website, docs, maybe even marketing materials.</p>
+
+<p>A designer who has the ability to include all of these in their purview will find it easier to normalise a design philosophy, build engagement and respect from the team, and to build a process to support other designers to evolve an approach.</p>
+
+<p>Style-guides help both designers and developers share a common language around design, making it easier to communicate. But there’s another benefit that’s often overlooked: improved issue reporting. Style guides create consistency, and cConsistency breeds intuition and expectation. And when these expectations are not met, users will find it easier to communicate their disdain using the framework provided by good documentation, and guidance and a solid sense of the right way for a project to tackle a problem.</p>
+
+<h3 id="build-and-share-context">*Build and share context</h3>
+
+<p>Personas, stakeholder maps, user stories, ‘jobs to be done’.</p>
+
+<p>These are but a few of the frameworks that largely achieve the same goal: building a basis of shared understanding about <em>who</em> your users are, <em>what</em> pains they are experiencing, and <em>how</em> they are easing them today.</p>
+
+<p>Stepping away from generalisation, individual inspiration and insight, and instead jumping two-feet into the shoes of your user is a huge step toward building an appreciation of the thought and craft of design, supporting developers who wish to dabble, and encouraging new designers to join you.</p>
+
+<h3 id="find-your-tribe">Find your tribe</h3>
+
+<p>You are not alone. The design community is late to the party, but it is there.</p>
+
+<p>Organisations like Open Source Design and Simply Secure are taking on the work of creating spaces and publishing guidance for designers working in open source. Seek out designers working on similar projects, solving similar problems or voicing the same concerns. Attend or propose co-design sessions as part of developer events. Oh, and let’s talk about design in open source whenever the opportunity arises…</p>
+
+<h3 id="talk-about-design-in-open-source">Talk about design in open source</h3>
+
+<p>Finding collaborators can be useful - but it’s equally important to simply normalise the discussion about design as a valid and <em>valued</em> component of open source production, especially in nascent design communities.</p>
+
+<p>Sharing difficulties and blogging about the process of solving them teaches others about pitfalls they can avoid, and helps educate designers who may eventually come to be collaborators. Many designers get contracts by building networks through this sort of self-marketing as well, so it isn’t necessarily a loss leader strategically.</p>
+
+<h2 id="where-do-we-go-from-here">Where do we go from here?</h2>
+
+<p>In the last decade we have seen software developers rise from something akin to Internet carpenter to corporate kingmaker. Open Source Software has gifted a generation power by giving participants a means to practice, perfect and publish their work in public.</p>
+
+<p>By integrating the design community better, we have the opportunity not only to share those benefits, but also to take our work to the next level. Better design will enable us to build a new generation of publicly available tools and technologies; tools created with an understanding and empathy for users that will strengthen their reach, their impact, and their potential.</p>
+
+<p>With a little work, we can make it happen, together.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[It feels like an age since we all met up in person. But instead of a conference this year, we’ve put together a report gathering up some of the issues and opportunities that the open source community faces today. It’ll feature knowledge, experience and discussion, some of which grew out of conversations that happened at the 2020 Sustain event held in Brussels, Belgium.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sustainoss.org/assets/img/og-large.png" /><media:content medium="image" url="https://sustainoss.org/assets/img/og-large.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
