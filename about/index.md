@@ -79,7 +79,7 @@ slug: about
 
     <ul>
     <li><a href="https://jekyllrb.com/">Jekyll</a> and <a href="{{ site.params.github }}/website/blob/main/Gemfile">gems</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap v4</a> as our framework.</li>
+    <li><a href="https://getbootstrap.com/">Bootstrap v4</a> as our framework</li>
     <li><a href="https://pages.github.com/">GitHub Pages</a> for hosting the website</li>
     <li><a href="https://www.cloudflare.com/">Cloudflare</a> for security and optimizations</li>
     </ul>
