@@ -9,7 +9,9 @@ slug: academic-projects
 **How to get involved**:
 
 * Join the #sustainoss-academia channel on the [Open Collective Slack](https://slack.opencollective.com/).
-* Come to our next meeting, on September 28th at 12:00PM ET. For more, see [this thread](https://discourse.sustainoss.org/t/sustainoss-academic-wg-next-meeting/1350).
+* Join [the Google Group](https://groups.google.com/g/sustainoss-academic-wg/about).
+* Come to [our next meeting, on January 25th at 12:00PM ET](https://www.eventbrite.ie/e/sustainoss-academic-wg-the-sustainability-of-joss-tickets-800274491547?aff=oddtdtcreator).
+* Email richard@sustainoss.org with any questions.
 
 ## Purpose
 
@@ -30,10 +32,4 @@ slug: academic-projects
 
 ## Reports, documents, and resources
 
-An Ecosystem map will be announced in our September meeting.
-
-## How to get involved
-
-We'll be meeting again after a long hiatus in September, 2023. If you are interested in attending, email richard@sustainoss.org or register your interest in the [Open Collective Slack](https://slack.opencollective.com/) in the #sustainoss-academia channel.
-
-We'll plan on meeting the fourth Thursday of September, on the 28th, at 12:00PM ET.
+* An [ecosystem map](https://sustainers.github.io/academic-map/intro.html) is being made to outline the space as a whole.

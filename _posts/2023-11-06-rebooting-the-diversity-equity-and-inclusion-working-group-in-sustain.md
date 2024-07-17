@@ -2,6 +2,7 @@
 layout: post
 title: "Rebooting the Diversity, Equity, and Inclusion Working Group in Sustain OSS"
 permalink: /blog/:title/
+author: "Anita Ihuman"
 ---
 
 
