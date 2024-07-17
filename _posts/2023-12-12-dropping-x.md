@@ -2,6 +2,7 @@
 layout: post
 title: "Dropping X"
 permalink: /blog/:title/
+author: "Richard Littauer"
 ---
 
 

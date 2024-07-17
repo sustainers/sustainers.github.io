@@ -79,7 +79,7 @@ slug: about
 
     <ul>
     <li><a href="https://jekyllrb.com/">Jekyll</a> and <a href="{{ site.params.github }}/website/blob/main/Gemfile">gems</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap v4</a> as our framework.</li>
+    <li><a href="https://getbootstrap.com/">Bootstrap v4</a> as our framework</li>
     <li><a href="https://pages.github.com/">GitHub Pages</a> for hosting the website</li>
     <li><a href="https://www.cloudflare.com/">Cloudflare</a> for security and optimizations</li>
     </ul>
@@ -87,7 +87,7 @@ slug: about
     <p>Also, we are <a href="https://validator.w3.org/check/referer" data-proofer-ignore>HTML5</a> valid and try to be
     <a class="text-decoration-none" href="https://www.w3.org/WAI/WCAG2AA-Conformance">WCAG2AA</a> compliant.</p>
 
-    <p>As well, we keep <a href="/about/best-practices">a list of best practices</a> for organisation. Take a look!</p>
+    <p>As well, we keep <a href="/about/best-practices">a list of best practices</a> for the organisation. Take a look!</p>
 
   </div>
 </div>
