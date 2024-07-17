@@ -11,8 +11,8 @@ on:
 
 env:
   FORCE_COLOR: 2
-  NODE: 16
-  RUBY: 2.7
+  NODE: 20
+  RUBY: "3.2"
 
 jobs:
   test:
@@ -54,6 +54,7 @@ jobs:
         with:
           name: docs
           path: ./_site/
+          if-no-files-found: error
 
   deploy:
     runs-on: ubuntu-latest
