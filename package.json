@@ -25,7 +25,8 @@
     "test": "npm run lint",
     "serve": "bundle exec jekyll serve",
     "svgo:base": "svgo --config=_svgo.config.js --recursive",
-    "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\""
+    "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\"",
+    "create-blog": "node createBlogPost.js"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.4",
