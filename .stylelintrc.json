@@ -2,9 +2,11 @@
   "extends": [
     "stylelint-config-twbs-bootstrap"
   ],
+  "reportInvalidScopeDisables": true,
+  "reportNeedlessDisables": true,
   "rules": {
-    "indentation": 4,
-    "number-leading-zero": "always",
+    "@stylistic/indentation": 4,
+    "@stylistic/number-leading-zero": "always",
     "order/properties-order": null,
     "property-no-vendor-prefix": null,
     "selector-no-vendor-prefix": null,

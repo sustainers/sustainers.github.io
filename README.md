@@ -16,7 +16,7 @@ Alternatively, you can run the application locally:
 
 ### npm tasks
 
-* Install [Node.js](https://nodejs.org/en/), preferably version **16 LTS**
+* Install [Node.js](https://nodejs.org/en/), preferably version **20 LTS**
 * Run `npm i`
 * Run `npm run autoprefixer` to update the vendor prefixes in our Sass files; should be run frequently
 * Run `npm run svgo:base -- assets/img/foo.svg` to optimize specific file(s) or `npm run svgo`
