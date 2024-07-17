@@ -10,7 +10,7 @@ The easiest way to contribute to this project is via [GitPod](https://gitpod.io)
 
 Alternatively, you can run the application locally:
 
-* Install Ruby (preferably version **2.7.x**) make sure you select "Add Ruby to `PATH`"
+* Install Ruby (preferably version **3.2.x**) make sure you select "Add Ruby to `PATH`"
 * Run `bundle install`
 * Run `bundle exec jekyll s` to build and watch for changes (`http://localhost:8000/`)
 
