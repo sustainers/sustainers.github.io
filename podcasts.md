@@ -24,6 +24,15 @@ Sustain has several podcasts run by members of the community. Snuggle up by the 
 
 [Let's Talk Docs](https://ltd-podcast.sustainoss.org/)! On this podcast, we’ll be sharing with you a new concept around documentation and sustainability. We’re going to talk about how you can leverage documentation, how you can leverage content to bring more people, more attention, and more funding to your products. We’ll talk to experts who know how to write content engagingly, interview people who speak about the importance of content having goals, and talk to people who have successfully built projects, used excellent documentation, and used the content as the pillar of their success.
 
+<a href="https://ossforclimate.sustainoss.org/" rel="noopener" target="_blank">
+  <img src="/assets/img/podcast-logos/ossforclimate.jpg" class="podcast-banner" alt="OSS For Climate" />
+</a>
+
+[OSS for Climate](https://ossforclimate.sustainoss.org/). The climate crisis is the most important challenge facing humanity. We need better ways to help us diagnose and understand the problem, and to build technology in our struggle to preserve the natural stability and resources of this planet for future generations. The open source movement is one answer - it is the key to bringing trusted knowledge, technology and collective action together.
+
+We tell stories of open source coders and makers working on collective, community code projects as part of our struggle to preserve the livelihood of our planet. Listen in!
+
+
 <a href="https://podcast.chaoss.community/" rel="noopener" target="_blank">
   <img src="/assets/img/podcast-logos/chaoss.png" class="podcast-banner" alt="CHAOSSCast banner">
 </a>

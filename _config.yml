@@ -19,6 +19,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 sass:
   style:            compressed
@@ -47,12 +48,11 @@ exclude:
 params:
   github:           "https://github.com/sustainers"
   slack:            "https://slack.opencollective.org"
-  twitter:          "https://twitter.com/SustainOSS"
   discourse:        "https://discourse.sustainoss.org"
 
 # Social-related stuff
-author:
-  twitter:          "SustainOSS"
+#author:
+#  twitter:          "SustainOSS"
 
 twitter:
   card:             "summary_large_image"
