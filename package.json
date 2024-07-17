@@ -21,7 +21,7 @@
     "eslint": "eslint --report-unused-disable-directives .",
     "markdownlint": "markdownlint-cli2 \"**/*.md\" \"!**/node_modules/**\" \"!**/vendor/**\"",
     "lint": "npm-run-all --parallel --continue-on-error eslint stylelint fusv markdownlint vnu",
-    "vnu": "node ./scripts/vnu-jar.js",
+    "vnu": "node ./scripts/vnu-jar.mjs",
     "test": "npm run lint",
     "serve": "bundle exec jekyll serve",
     "svgo:base": "svgo --config=_svgo.config.js --recursive",
@@ -29,18 +29,18 @@
     "create-blog": "node createBlogPost.js"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.4",
-    "eslint": "^8.11.0",
-    "find-unused-sass-variables": "^4.0.3",
-    "markdownlint-cli2": "^0.4.0",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "find-unused-sass-variables": "^6.0.0",
+    "markdownlint-cli2": "^0.13.0",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.31",
-    "postcss-cli": "^9.1.0",
-    "postcss-scss": "^4.0.3",
-    "stylelint": "^14.6.0",
-    "stylelint-config-twbs-bootstrap": "^3.0.1",
+    "postcss": "^8.4.39",
+    "postcss-cli": "^11.0.0",
+    "postcss-scss": "^4.0.9",
+    "stylelint": "^16.7.0",
+    "stylelint-config-twbs-bootstrap": "^14.2.0",
     "svgo": "^2.8.0",
-    "vnu-jar": "21.10.12"
+    "vnu-jar": "23.4.11"
   },
   "engines": {
     "node": ">=12"

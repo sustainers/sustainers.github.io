@@ -11,7 +11,7 @@ slug: academic-projects
 * Join the #sustainoss-academia channel on the [Open Collective Slack](https://slack.opencollective.com/).
 * Join [the Google Group](https://groups.google.com/g/sustainoss-academic-wg/about).
 * Come to [our next meeting, on January 25th at 12:00PM ET](https://www.eventbrite.ie/e/sustainoss-academic-wg-the-sustainability-of-joss-tickets-800274491547?aff=oddtdtcreator).
-* Email richard@sustainoss.org with any questions.
+* Email <richard@sustainoss.org> with any questions.
 
 ## Purpose
 
