@@ -26,7 +26,7 @@
     "serve": "bundle exec jekyll serve",
     "svgo:base": "svgo --config=_svgo.config.js --recursive",
     "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\"",
-    "create-blog": "node createBlogPost.js"
+    "create-blog": "node scripts/create-blog-post.js"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
