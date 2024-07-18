@@ -18,7 +18,7 @@
     "build": "bundle exec jekyll build",
     "fusv": "fusv _sass",
     "stylelint": "stylelint \"**/*.{css,scss}\"",
-    "eslint": "eslint --report-unused-disable-directives .",
+    "eslint": "eslint --report-unused-disable-directives --ext js,.mjs .",
     "markdownlint": "markdownlint-cli2 \"**/*.md\" \"!**/node_modules/**\" \"!**/vendor/**\"",
     "lint": "npm-run-all --parallel --continue-on-error eslint stylelint fusv markdownlint vnu",
     "vnu": "node ./scripts/vnu-jar.mjs",
@@ -26,7 +26,7 @@
     "serve": "bundle exec jekyll serve",
     "svgo:base": "svgo --config=_svgo.config.js --recursive",
     "svgo": "npm-run-all --parallel \"svgo:base -- --folder=_includes\" \"svgo:base -- --folder=assets/img\"",
-    "create-blog": "node scripts/create-blog-post.js"
+    "create-blog": "node scripts/create-blog-post.mjs"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",

@@ -6,8 +6,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
-'use strict'
-
 import { execFile, spawn } from 'node:child_process'
 import vnu from 'vnu-jar'
 

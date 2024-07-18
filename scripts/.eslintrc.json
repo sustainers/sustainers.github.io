@@ -4,5 +4,9 @@
     "es6": true,
     "node": true
   },
-  "extends": "../.eslintrc.json"
+  "extends": "../.eslintrc.json",
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2020
+  }
 }
