@@ -26,7 +26,7 @@ const createBlogPost = (title) => {
     const date = new Date().toISOString().split('T')[0];
     const formattedTitle = title.replace(/\s+/g, '-').toLowerCase();
     const filename = `${date}-${formattedTitle}.md`;
-    const filePath = path.join(__dirname, '_posts', filename);
+    const filePath = path.join(__dirname, '../_posts', filename);
     const content = `---
 layout: post
 title: "${title}"
