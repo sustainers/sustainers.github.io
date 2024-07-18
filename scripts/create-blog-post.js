@@ -1,5 +1,4 @@
 /* eslint-env es6 */
-/* eslint-disable */
 
 /**
  * Script to Create a New Blog Post for a Jekyll Website
