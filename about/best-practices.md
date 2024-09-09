@@ -13,7 +13,7 @@ slug: best-practices
 
       <p>This list is not exhaustive! But it is an attempt at showing newcomers how they can best engage, and for showing how we, as the long-standing members of Sustain, have managed to work together easily.</p>
 
-      <p>Not seeing something on this list? Add it! You can open a Pull Request at <a href="https://github.com/sustainers/website">the website repo</a>.</p>
+      <p>Not seeing something on this list? Add it! You can open a Pull Request at <a href="https://github.com/sustainers/sustainers.github.io">the website repo</a>.</p>
 
       <ul>
         <li>We listen more than we speak. If we're talking a lot, we're probably missing something.</li>

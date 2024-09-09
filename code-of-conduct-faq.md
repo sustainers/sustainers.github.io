@@ -37,7 +37,7 @@ However, it's unclear if there would be any net benefit from this largely stylis
 
 #### How can I suggest changes to the Code of Conduct?
 
-You can suggest changes by editing [the original document](https://github.com/sustainers/website/blob/main/code-of-conduct.md) and opening a pull request on GitHub. If you need help doing this, contact the organizers. These PRs will be addressed at our next CoC review. Note that trivial PRs may be merged by the organising committee before the review.
+You can suggest changes by editing [the original document](https://github.com/sustainers/sustainers.github.io/blob/main/code-of-conduct.md) and opening a pull request on GitHub. If you need help doing this, contact the organizers. These PRs will be addressed at our next CoC review. Note that trivial PRs may be merged by the organising committee before the review.
 
 #### Why did it take so long to make this?
 

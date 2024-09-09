@@ -5,12 +5,12 @@
   "description": "The sustainoss.org source code",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sustainers/website.git"
+    "url": "git+https://github.com/sustainers/sustainers.github.io.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sustainers/website/issues"
+    "url": "https://github.com/sustainers/sustainers.github.io/issues"
   },
   "homepage": "https://sustainoss.org/",
   "scripts": {

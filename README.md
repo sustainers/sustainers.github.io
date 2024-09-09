@@ -1,12 +1,12 @@
 # SustainOSS.org Website
 
-[![Build Status](https://github.com/sustainers/website/workflows/Tests/badge.svg)](https://github.com/sustainers/website/actions?workflow=Tests)
+[![Build Status](https://github.com/sustainers/sustainers.github.io/workflows/Tests/badge.svg)](https://github.com/sustainers/sustainers.github.io/actions?workflow=Tests)
 
 ## Getting started
 
 The easiest way to contribute to this project is via [GitPod](https://gitpod.io). GitPod will set up your developer environment in the browser with your GitHub credentials.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sustainers/website)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sustainers/sustainers.github.io)
 
 Alternatively, you can run the application locally:
 
@@ -28,7 +28,7 @@ Please contribute! Open an issue, make a pull request, reach out for help. This 
 
 We use Slack to discuss our changes and to talk about community issues, as well as GitHub. Join our community slack [here](https://slack.opencollective.org). Join the channel `#sustainoss` to talk to us.
 
-If you need help with using GitHub in order to open an issue, sign up for an account, come back to this page, and open an issue by [clicking here](https://github.com/sustainers/website/issues/new). Ping one of us on Slack if you need help.
+If you need help with using GitHub in order to open an issue, sign up for an account, come back to this page, and open an issue by [clicking here](https://github.com/sustainers/sustainers.github.io/issues/new). Ping one of us on Slack if you need help.
 
 ### Blog posts
 
@@ -54,6 +54,6 @@ We have a convenient script set up to help you create new blog posts for our Jek
 
 ## License
 
-[MIT](LICENSE) © 2018 Justin Dorfman and [Contributors](https://github.com/sustainers/website/graphs/contributors).
+[MIT](LICENSE) © 2018 Justin Dorfman and [Contributors](https://github.com/sustainers/sustainers.github.io/graphs/contributors).
 
 If you contribute to this repository, you are agreeing to the License terms and agreeing that an MIT license is appropriate for your contributions.
