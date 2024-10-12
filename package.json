@@ -29,16 +29,16 @@
     "create-blog": "node scripts/create-blog-post.mjs"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",
-    "eslint": "^8.57.0",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
     "find-unused-sass-variables": "^6.0.0",
-    "markdownlint-cli2": "^0.13.0",
-    "npm-run-all2": "^6.2.2",
-    "postcss": "^8.4.39",
+    "markdownlint-cli2": "^0.14.0",
+    "npm-run-all2": "^6.2.3",
+    "postcss": "^8.4.47",
     "postcss-cli": "^11.0.0",
     "postcss-scss": "^4.0.9",
-    "stylelint": "^16.7.0",
-    "stylelint-config-twbs-bootstrap": "^14.2.0",
+    "stylelint": "^16.10.0",
+    "stylelint-config-twbs-bootstrap": "^15.1.0",
     "svgo": "^3.3.2",
     "vnu-jar": "23.4.11"
   },
