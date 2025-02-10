@@ -4,8 +4,17 @@
 
 ## Getting started
 
-The easiest way to contribute to this project is via [GitPod](https://gitpod.io). GitPod will set up your developer environment in the browser with your GitHub credentials.
+#### 🌏  Open in the Cloud 
 
+Click any of the buttons below to start a new development environment to contribute to this codebase without having to install anything on your machine:
+
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/sustainers/sustainers.github.io)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/sustainers/sustainers.github.io)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sustainers/sustainers.github.io)
+[![Edit in Codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/sustainers/sustainers.github.io)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sustainers/sustainers.github.io)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/sustainers/sustainers.github.io)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/sustainers/sustainers.github.io)
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sustainers/sustainers.github.io)
 
 Alternatively, you can run the application locally:
