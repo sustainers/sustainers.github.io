@@ -1,5 +1,7 @@
+@use "sass:color";
+
 .navbar {
-    border-bottom: 1px solid lighten($darkblue, 10%);
+    border-bottom: 1px solid color.adjust($darkblue, $lightness: 10%);
 }
 
 .navbar-light {

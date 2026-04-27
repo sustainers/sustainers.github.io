@@ -1,9 +1,11 @@
+@use "sass:color";
+
 .btn {
     &.bg-black.text-white:focus,
     &.bg-black.text-white:hover {
-        background-color: lighten($black, 20%);
+        background-color: color.adjust($black, $lightness: 20%);
         box-shadow: 0 0 0 0.2rem rgba($teal, 0.4);
-        color: darken($teal, 10%);
+        color: color.adjust($teal, $lightness: -10%);
     }
 
     &.bg-teal:focus,
