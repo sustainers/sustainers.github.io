@@ -1,3 +1,5 @@
+@use "sass:color";
+
 .bg-black {
     background-color: $black;
 }
@@ -16,7 +18,7 @@
     .text-teal {
         &:focus,
         &:hover {
-            color: darken($teal, 20%);
+            color: color.adjust($teal, $lightness: -20%);
         }
     }
 }
