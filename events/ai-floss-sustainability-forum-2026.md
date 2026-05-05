@@ -10,7 +10,7 @@ slug: ai-floss-sustainability-forum-2026
       <h2>SustainOSS - AI, FLOSS, and Sustainability Virtual Forum</h2>
 
       <div class="register-cta-wrap">
-        <a class="register-cta" href="#">tldr: register here</a>
+        <a class="register-cta" href="https://opencollective.com/sustainoss/events/ai-floss-and-sustainability-virtual-forum-2557f68b">tldr: register here</a>
       </div>
 
       <hr class="topics-end">
@@ -77,7 +77,7 @@ slug: ai-floss-sustainability-forum-2026
       <p>Join us on 11 June for this SustainOSS Virtual Forum:</p>
 
       <div class="register-cta-wrap">
-        <a class="register-cta" href="#">Register here</a>
+        <a class="register-cta" href="https://opencollective.com/sustainoss/events/ai-floss-and-sustainability-virtual-forum-2557f68b">Register here</a>
       </div>
 
       <p>For questions and inquiries, email <a href="mailto:aiforum@sustainoss.org">aiforum@sustainoss.org</a>.</p>
