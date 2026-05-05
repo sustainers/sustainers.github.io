@@ -47,7 +47,6 @@ exclude:
 
 params:
   github:           "https://github.com/sustainers"
-  slack:            "https://slack.opencollective.org"
   discourse:        "https://discourse.sustainoss.org"
 
 # Social-related stuff
