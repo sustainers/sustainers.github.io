@@ -21,7 +21,7 @@ slug: ai-floss-sustainability-forum-2026
 
       <p>At this SustainOSS Virtual Forum on AI, FLOSS, and Sustainability, we will survey the challenges, evolution, and opportunities emerging from the ever-expanding role of AI in software engineering, community management, project governance and, most importantly, the sustainability of our shared FLOSS universe. Specific topics to be addressed on the agenda will be identified in collaboration with confirmed participants.</p>
 
-      <p>We invite you to share your experiences, ideas, and concerns around the roles and impacts of AI in our rapidly changing ecosystems. across various scales, engage in respectful discussion, and envision goals and partnerships we can collectively embrace to sustain our open-source ecosystems.</p>
+      <p>We invite you to share your experiences, ideas, and concerns around the roles and impacts of AI in our rapidly changing ecosystems, across various scales, engage in respectful discussion, and envision goals and partnerships we can collectively embrace to sustain our open-source ecosystems.</p>
 
       <p class="topics-intro">Topics likely to be explored</p>
 
