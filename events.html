@@ -26,7 +26,7 @@ slug: events
     {% assign loopindex = forloop.index | modulo: 3 %}
       <div class="col-sm-6 col-md-4 event-container">
         {% if event.url %}<a href="{{ event.url }}">{% endif %}
-          <img src="/assets/img/events/{{ event.logo }}" alt="{{ event.title }}" class="card-image">
+        {% if event.logo %}  <img src="/assets/img/events/{{ event.logo }}" alt="{{ event.title }}" class="card-image">{% endif %}
         {% if event.url %}</a>{% endif %}
         <h4>{{ event.title }}</h4>
         <p class="details">
