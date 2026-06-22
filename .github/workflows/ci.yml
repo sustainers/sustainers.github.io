@@ -51,7 +51,7 @@ jobs:
         run: npm test
 
       - name: Upload docs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         if: github.repository == 'sustainers/sustainers.github.io' && github.ref == 'refs/heads/main'
         with:
           name: docs
