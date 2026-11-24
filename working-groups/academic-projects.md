@@ -32,4 +32,4 @@ slug: academic-projects
 
 ## Reports, documents, and resources
 
-* An [ecosystem map](https://sustainers.github.io/academic-map/intro.html) is being made to outline the space as a whole.
+* An [ecosystem map](https://curioss.org/academic-map/intro.html) is being made to outline the space as a whole.
